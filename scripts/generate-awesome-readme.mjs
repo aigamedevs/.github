@@ -256,7 +256,7 @@ const evidenceCount = (key) => evidenceCounts[key] ?? 0;
 
 let output = `<div align="center">\n\n`;
 output += `# 🎮 Awesome AI Games\n\n`;
-output += `<a href="https://omgithub.com/"><img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>\n\n`;
+output += `<a href="https://games.omgithub.com/"><img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>\n\n`;
 output += `### ${count} curated game units. ${repoCount} qualifying source repositories.\n\n`;
 output += `[![Games](https://img.shields.io/badge/GAMES-${count}-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) `;
 output += `[![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-${repoCount}-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) `;
