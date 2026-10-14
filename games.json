@@ -39070,5 +39070,186 @@
     "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
     "flops_estimate_confidence": "low",
     "prompt_evidence_url": null
+  },
+  {
+    "name": "Argon Games Showcase",
+    "github_url": "https://github.com/ammaarreshi/argon-games",
+    "repository_id": 1417470421,
+    "repository_created_at": "2026-10-13T16:24:08Z",
+    "added_to_repo_on": "2026-10-14",
+    "evidence_url": "https://github.com/ammaarreshi/argon-games/commit/7751fffc4cad78def8fe0bd22c3fe18776caabf3",
+    "game_links": [
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-tennis/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-airspace/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/grand-theft-argon/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-valley/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-towers/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/the-corridor/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Three.js",
+      "WebGL",
+      "GLSL",
+      "Web Audio API",
+      "Browser"
+    ],
+    "model_family": [
+      "Gemini 4 Argon"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 6,
+    "contained_games": [
+      "Argon Tennis",
+      "Argon Airspace",
+      "Grand Theft Argon",
+      "Argon Valley",
+      "Argon Towers",
+      "The Corridor"
+    ],
+    "contained_game_links": [
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-tennis/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-airspace/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/grand-theft-argon/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-valley/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/argon-towers/index.html",
+      "https://github.com/ammaarreshi/argon-games/blob/main/the-corridor/index.html"
+    ],
+    "counted_game_units": 6,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-14",
+    "discovery_sources": [
+      "GitHub repository search for gemini-4-argon",
+      "https://github.com/ammaarreshi/argon-games"
+    ],
+    "verification_notes": "Repository description states Gemini 4 Argon game showcase. Six folders each contain index.html plus src and assets with per-game READMEs documenting controls, objectives and run paths; root README links each game to ai.studio/build Argon creation. Tennis has gyro/webcam/multiplayer, Airspace has 3 airfields and TCAS, Grand Theft Argon has vehicles and 6-star pursuit, Valley has tools/crafting/villagers, Towers has 100 waves with A* mazing, Corridor has 5 loops and a photo-fragment objective. Source inspected only; no playtest. docs/screenshots holds 6 PNGs (argon-tennis/airspace/towers/valley, grand-theft-argon, the-corridor) left unrated pending screenshot-ratings pass.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 500000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate for browser Three.js 3D rendering with custom GLSL shaders and spatial audio; not measured.",
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Six scoped playable browser games with documented controls, objectives and progression; no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest."
+  },
+  {
+    "name": "Zeldo - Episode I: The Sunken Sanctum",
+    "github_url": "https://github.com/EBIKEBUILDER/zeldo-argon",
+    "repository_id": 1418101199,
+    "repository_created_at": "2026-10-13T22:46:56Z",
+    "added_to_repo_on": "2026-10-14",
+    "evidence_url": "https://github.com/EBIKEBUILDER/zeldo-argon",
+    "game_links": [
+      "https://github.com/EBIKEBUILDER/zeldo-argon/blob/main/src/app/page.tsx",
+      "https://github.com/EBIKEBUILDER/zeldo-argon/blob/main/src/game/worldData.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Babylon.js",
+      "Zustand",
+      "Web Audio API",
+      "Browser"
+    ],
+    "model_family": [
+      "Gemini 4 Argon"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Zeldo - Episode I: The Sunken Sanctum"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-14",
+    "discovery_sources": [
+      "GitHub repository search for gemini-4-argon",
+      "https://github.com/EBIKEBUILDER/zeldo-argon"
+    ],
+    "verification_notes": "Repository description states zelda clone with gemini 4 argon. README documents a playable overhead 3D action-adventure: movement, sword, shield, boomerang, bow, shop economy, overworld plus dungeon maps, locked gates, boss Malakor with stun mechanic and crest win state, plus a 3D map editor. src/game, src/components, src/store present. Model claim lives in the repository description; README body and commit trailers do not repeat it. Source inspected only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 500000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate for browser Babylon.js 3D action rendering; not measured.",
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Documented playable adventure with combat, economy, two maps, boss and win state plus editor; no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest."
+  },
+  {
+    "name": "Doodle-to-3D Marble Coaster Engine",
+    "github_url": "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster",
+    "repository_id": 1417425574,
+    "repository_created_at": "2026-10-13T16:03:33Z",
+    "added_to_repo_on": "2026-10-14",
+    "evidence_url": "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster/commit/5e7fe9e1575f9c2b1a312869ccf41f60ea4a67f7",
+    "game_links": [
+      "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster/blob/main/index.html",
+      "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster/blob/main/src/main.ts",
+      "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster/blob/main/src/splineEngine.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Web Audio API",
+      "Browser"
+    ],
+    "model_family": [
+      "Gemini 4 Argon"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Doodle-to-3D Marble Coaster Engine"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-14",
+    "discovery_sources": [
+      "GitHub repository search for Built with Gemini 4",
+      "https://github.com/Aqsa-K/doodle-to-3d-marble-coaster"
+    ],
+    "verification_notes": "README header states Built with Gemini 4 Argon and the initial commit message repeats it. Sketch-to-coaster builder converts 2D strokes into banked 3D tracks with loops/overpasses, multi-marble swarm races, 4 cameras and procedural audio; Space/R/1-4 controls documented. src/main.ts, splineEngine.ts, renderer3D.ts, audio.ts present. Source inspected only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 400000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate for browser Three.js track rendering with bloom post-processing and swarm physics; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Playable coaster builder plus marble races with documented controls and cameras; no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest."
   }
 ]
