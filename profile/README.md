@@ -10,7 +10,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)
 
-> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable.**<br />
+> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, Claude Opus, Claude Sonnet, or Claude Fable.**<br />
 > Every listed unit maps to a qualifying GitHub source repository. The model-evidence grade is visible on every entry.
 
 <a href="https://github.com/SubmitGame"><img src="https://github.com/SubmitGame/.github/raw/main/assets/submit-your-game.svg" alt="Submit your game" width="320" /></a>
@@ -163,7 +163,7 @@ _No verified entries match this period yet._
 
 ## What is this?
 
-Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.
+Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.
 
 The source of truth is [games.json](../games.json). It was last verified on **2026-10-14**.
 

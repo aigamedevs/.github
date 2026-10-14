@@ -263,7 +263,7 @@ output += `[![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSIT
 output += `[![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-${threeCount}-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)\n\n`;
 output += `[![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) `;
 output += `[![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)\n\n`;
-output += `> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable.**<br />\n`;
+output += `> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, Claude Opus, Claude Sonnet, or Claude Fable.**<br />\n`;
 output += `> Every listed unit maps to a qualifying GitHub source repository. The model-evidence grade is visible on every entry.\n\n`;
 output += `<a href="https://github.com/SubmitGame"><img src="https://github.com/SubmitGame/.github/raw/main/assets/submit-your-game.svg" alt="Submit your game" width="320" /></a>\n\n`;
 output += `</div>\n\n---\n\n`;
@@ -292,7 +292,7 @@ output += `| Game | Score | Built with | Evidence |\n| --- | ---: | --- | --- |\
 for (const row of topPicks) output += `| [**${esc(row.name)}**](${gameNoteUrl(row)}) | ⭐ **${Number(row.rating).toFixed(1)}** | ${esc(modelText(row.record, row))} | [${evidence(row.record, row).icon} ${esc(evidence(row.record, row).label)}](${row.evidenceUrl}) |\n`;
 output += `\n`;
 output += `## What is this?\n\n`;
-output += `Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.\n\n`;
+output += `Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.\n\n`;
 output += `The source of truth is [games.json](games.json). It was last verified on **${verifiedOn}**.\n\n`;
 output += `Browse [the awesome-list index](awesomelists.md) for verified game catalogs with their counted entry totals.\n\n`;
 output += `Browse [where to submit a game](game-submission-options.md) to compare publishing sites and GitHub lists by fit, route, and review rules.\n\n`;
