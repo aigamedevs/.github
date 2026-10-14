@@ -4,6 +4,19 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-10-14 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-10-14 | [Argon Airspace](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Tennis](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Towers](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Valley](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Doodle-to-3D Marble Coaster Engine](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | [Aqsa-K/doodle-to-3d-marble-coaster](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | 2026-10-13 16:03:33 UTC | Gemini 4 Argon | 7.8/10 |
+| 2026-10-14 | [Grand Theft Argon](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [The Corridor](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Zeldo - Episode I: The Sunken Sanctum](https://github.com/EBIKEBUILDER/zeldo-argon) | [EBIKEBUILDER/zeldo-argon](https://github.com/EBIKEBUILDER/zeldo-argon) | 2026-10-13 22:46:56 UTC | Gemini 4 Argon | 8.3/10 |
+
 ## Added 2026-10-07 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |

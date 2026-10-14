@@ -39153,8 +39153,10 @@
       "https://github.com/EBIKEBUILDER/zeldo-argon/blob/main/src/app/page.tsx",
       "https://github.com/EBIKEBUILDER/zeldo-argon/blob/main/src/game/worldData.ts"
     ],
-    "live_demo_url": null,
-    "live_demo_urls": [],
+    "live_demo_url": "https://zeldo-argon.vercel.app",
+    "live_demo_urls": [
+      "https://zeldo-argon.vercel.app"
+    ],
     "technology": [
       "Next.js",
       "React",
@@ -39196,7 +39198,7 @@
     "prompt_origin": "unknown",
     "prompt_evidence_url": null,
     "quality_category": "curated_games",
-    "runtime_test_status": "Source inspected; no live demo or runtime playtest."
+    "runtime_test_status": "Source inspected; live demo responds (HTTP 200, 2026-10-14); no runtime playtest."
   },
   {
     "name": "Doodle-to-3D Marble Coaster Engine",

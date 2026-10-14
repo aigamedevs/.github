@@ -4,9 +4,9 @@
 
 <a href="https://omgithub.com/"><img src="../assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
-### 945 curated game units. 644 qualifying source repositories.
+### 953 curated game units. 647 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-945-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-644-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-308-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-953-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-647-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-315-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)
 
@@ -92,6 +92,7 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 | [Claude Opus 4.8](../models/claude-opus-4-8.md) | **67** | 53 |
 | [Claude Opus 4.7](../models/claude-opus-4-7.md) | **25** | 25 |
 | [Claude Opus 4.5](../models/claude-opus-4-5.md) | **13** | 13 |
+| [Gemini 4 Argon](../models/gemini-4-argon.md) | **8** | 3 |
 | [Codex](../models/codex.md) | **7** | 7 |
 | [GPT-6.1 Sol](../models/gpt-6-1-sol.md) | **6** | 6 |
 | [Claude Opus](../models/claude-opus.md) | **4** | 4 |
@@ -104,86 +105,37 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 
 ## Top games today
 
-> Rank the highest-rated repositories verified in this curation run on **2026-10-07**.
+> Rank the highest-rated repositories verified in this curation run on **2026-10-14**.
 
 | Rank | Game | Score | Model | Verified date |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**DEAD AIR**](../games/dead-air/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-10-07 |
-| 2 | [**MUTE**](../games/mute/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-07 |
-| 3 | [**Turbo Kart Rally**](../games/turbo-kart-rally-exclusiveabhi-turbo-kart-rally-game/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-07 |
-| 4 | [**Catan**](../games/catan/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-07 |
-| 5 | [**Bomb Jack**](../games/bomb-jack/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-07 |
-| 6 | [**Tennis Go**](../games/tennis-go/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-07 |
-| 7 | [**Dawnmark**](../games/dawnmark/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-07 |
-| 8 | [**Real Tournament**](../games/real-tournament/readme.md) | ⭐ **8.1** | Claude Sonnet 5.5 | 2026-10-07 |
-| 9 | [**BoK16-9HD**](../games/bok16-9hd/readme.md) | ⭐ **8.0** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-07 |
-| 10 | [**Chessy**](../games/chessy/readme.md) | ⭐ **8.0** | Claude Sonnet 5.5 | 2026-10-07 |
+| 1 | [**Zeldo - Episode I: The Sunken Sanctum**](https://github.com/EBIKEBUILDER/zeldo-argon) | ⭐ **8.3** | Gemini 4 Argon | 2026-10-14 |
+| 2 | [**Argon Airspace**](https://github.com/ammaarreshi/argon-games) | ⭐ **8.2** | Gemini 4 Argon | 2026-10-14 |
+| 3 | [**Doodle-to-3D Marble Coaster Engine**](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | ⭐ **7.8** | Gemini 4 Argon | 2026-10-14 |
 
 ## New source repositories yesterday and today
 
-Filter repository creation to **2026-10-06–2026-10-07** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.
+Filter repository creation to **2026-10-13–2026-10-14** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.
 
 | Repository | Game units | Model | Created (UTC) |
 | --- | ---: | --- | --- |
-| [Slime Heist: Steal and Merge](../games/slime-heist-steal-and-merge/readme.md) ([source](https://github.com/Matthew-Uhlar/Roblox-Test)) | 1 | Claude Opus 5.5 | 2026-10-07 |
-| [Idle Skiller](../games/idle-skiller/readme.md) ([source](https://github.com/KingHempel/idle-skiller)) | 1 | Claude Opus 5.5 | 2026-10-07 |
-| [Pong](../games/pong/readme.md) ([source](https://github.com/nvalencio/teste)) | 1 | Claude Sonnet 5.5 | 2026-10-07 |
-| [Revolution Quest](../games/revolution-quest/readme.md) ([source](https://github.com/lydonb/clark-quizzes)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Road Fury](../games/road-fury/readme.md) ([source](https://github.com/ouattaraymichel/Gamescar)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Dice Bingo](../games/dice-bingo/readme.md) ([source](https://github.com/pradhanmantrielectionsgame/dice-bingo)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Chess](../games/chess-tg2032-chess/readme.md) ([source](https://github.com/tg2032/chess)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [VLAK](../games/vlak/readme.md) ([source](https://github.com/rostaklein/vlak)) | 1 | GPT-6.1 Sol | 2026-10-06 |
-| [NoCap Games](../games/cor/readme.md) ([source](https://github.com/olucasfl/nocap-app)) | 2 | Claude Sonnet 5.5 | 2026-10-06 |
-| [BoK16-9HD](../games/bok16-9hd/readme.md) ([source](https://github.com/rhamillnz/BoK16-9HD)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-06 |
-| [Trig Trainer](../games/trig-trainer/readme.md) ([source](https://github.com/olifeless/Trig-game)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Kingdom Strategy](../games/kingdom-strategy/readme.md) ([source](https://github.com/mojojo82/kingdom-strategy)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-06 |
-| [Chessy](../games/chessy/readme.md) ([source](https://github.com/garder500/chessy)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Shipped](../games/shipped/readme.md) ([source](https://github.com/madebynova/Shipped)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Real Tournament](../games/real-tournament/readme.md) ([source](https://github.com/nurullinm/real-tournament)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Astorids](../games/astorids/readme.md) ([source](https://github.com/Crunchy000/astorids)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [Motion Arcade](../games/flappy-raccoon/readme.md) ([source](https://github.com/mirrash7/Games)) | 3 | Claude Opus 5.5 | 2026-10-06 |
-| [Bomb Jack](../games/bomb-jack/readme.md) ([source](https://github.com/teedjay/go-bombjack)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [DEAD AIR](../games/dead-air/readme.md) ([source](https://github.com/PieterMey/theboys)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [ATC Game](../games/atc-game/readme.md) ([source](https://github.com/zubcodes/ATC_Game)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [Quillquest](../games/quillquest/readme.md) ([source](https://github.com/CptCliff/quillquest)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Idlyte](../games/idlyte/readme.md) ([source](https://github.com/Deepspace000/idlyte)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Samgukji RPG](../games/samgukji-rpg/readme.md) ([source](https://github.com/moonhyungjin/samgukji-rpg)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Pathfinder AI](../games/pathfinder-ai/readme.md) ([source](https://github.com/mzeeshanaltaf/pathfinder-ai)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-06 |
-| [Fish Running](../games/fish-running/readme.md) ([source](https://github.com/EDMOK/fishrunning)) | 1 | GPT-6.1 Sol | 2026-10-06 |
-| [Sushi Match](../games/sushi-match/readme.md) ([source](https://github.com/timpyorke/sushi-match)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [Turbo Kart Rally](../games/turbo-kart-rally-exclusiveabhi-turbo-kart-rally-game/readme.md) ([source](https://github.com/exclusiveabhi/turbo-kart-rally-game)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [Tennis Go](../games/tennis-go/readme.md) ([source](https://github.com/hartwigcam98-star/Tennis-go)) | 1 | Claude Opus 5.5 | 2026-10-06 |
-| [Sonnet 5.5 Chess](../games/sonnet-5-5-chess/readme.md) ([source](https://github.com/stevemaughan/sonnet-5.5-chess-24hrs)) | 1 | Claude Sonnet 5.5 | 2026-10-06 |
-| [MUTE](../games/mute/readme.md) ([source](https://github.com/dippy34/Ai-vr-game)) | 1 | Claude Opus 5.5 | 2026-10-05 |
-| [Dawnmark](../games/dawnmark/readme.md) ([source](https://github.com/Funashigiri/dawnmark)) | 1 | Claude Opus 5.5 | 2026-10-05 |
-| [Catan](../games/catan/readme.md) ([source](https://github.com/joelraj18/catan)) | 1 | Claude Opus 5.5 | 2026-10-05 |
-| [Latinha Retro](../games/latinha-retro/readme.md) ([source](https://github.com/Meduse64/latinha-retro-game)) | 1 | Claude Sonnet 5.5 | 2026-10-05 |
+| [Zeldo - Episode I: The Sunken Sanctum](https://github.com/EBIKEBUILDER/zeldo-argon) ([source](https://github.com/EBIKEBUILDER/zeldo-argon)) | 1 | Gemini 4 Argon | 2026-10-13 |
+| [Argon Games Showcase](https://github.com/ammaarreshi/argon-games) ([source](https://github.com/ammaarreshi/argon-games)) | 6 | Gemini 4 Argon | 2026-10-13 |
+| [Doodle-to-3D Marble Coaster Engine](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) ([source](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster)) | 1 | Gemini 4 Argon | 2026-10-13 |
 
 ## Top games this week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-01–2026-10-07** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-08–2026-10-14** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.
 
 | Rank | Game | Score | Model | Created date (basis) |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**DEAD AIR**](../games/dead-air/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 2 | [**Mana Wars**](../games/mana-wars/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-03 · repository creation proxy |
-| 3 | [**MUTE**](../games/mute/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 4 | [**Turbo Kart Rally**](../games/turbo-kart-rally-exclusiveabhi-turbo-kart-rally-game/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 5 | [**Catan**](../games/catan/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 6 | [**SELF PLAY**](../games/self-play/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-04 · repository creation proxy |
-| 7 | [**Bomb Jack**](../games/bomb-jack/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 8 | [**Tennis Go**](../games/tennis-go/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 9 | [**Auto Zork**](../games/auto-zork/readme.md) | ⭐ **8.1** | Claude Sonnet 5.5 | 2026-10-02 · repository creation proxy |
-| 10 | [**Dawnmark**](../games/dawnmark/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-06 · repository creation proxy |
-| 11 | [**Real Tournament**](../games/real-tournament/readme.md) | ⭐ **8.1** | Claude Sonnet 5.5 | 2026-10-06 · repository creation proxy |
-| 12 | [**BoK16-9HD**](../games/bok16-9hd/readme.md) | ⭐ **8.0** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-07 · repository creation proxy |
-| 13 | [**Chessy**](../games/chessy/readme.md) | ⭐ **8.0** | Claude Sonnet 5.5 | 2026-10-07 · repository creation proxy |
-| 14 | [**Odyssey of the Living Cap**](../games/odyssey-of-the-living-cap/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-10-03 · repository creation proxy |
-| 15 | [**Sanguine**](../games/sanguine/readme.md) | ⭐ **8.0** | Claude Sonnet 5.5 | 2026-10-01 · repository creation proxy |
+| 1 | [**Zeldo - Episode I: The Sunken Sanctum**](https://github.com/EBIKEBUILDER/zeldo-argon) | ⭐ **8.3** | Gemini 4 Argon | 2026-10-14 · repository creation proxy |
+| 2 | [**Argon Airspace**](https://github.com/ammaarreshi/argon-games) | ⭐ **8.2** | Gemini 4 Argon | 2026-10-13 · repository creation proxy |
+| 3 | [**Doodle-to-3D Marble Coaster Engine**](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | ⭐ **7.8** | Gemini 4 Argon | 2026-10-13 · repository creation proxy |
 
 ## Top games this month
 
-> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-10-01** through **2026-10-07**.
+> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-10-01** through **2026-10-14**.
 
 _No verified entries match this period yet._
 
@@ -213,7 +165,7 @@ _No verified entries match this period yet._
 
 Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.
 
-The source of truth is [games.json](../games.json). It was last verified on **2026-10-07**.
+The source of truth is [games.json](../games.json). It was last verified on **2026-10-14**.
 
 Browse [the awesome-list index](../awesomelists.md) for verified game catalogs with their counted entry totals.
 
@@ -227,6 +179,8 @@ Browse [Awesome Game Resources](../awesome-game-resources.md) to find game asset
 
 Browse [Claude Opus 5.5 release-week games](../opus-5.5-games.md) for direct source and model-evidence links.
 
+Browse [Gemini 4 Argon release-week games](../gemini-4-argon-games.md) for direct source, play, and model-evidence links.
+
 Browse [publication-date rankings](../rankings/README.md) for daily, weekly, and monthly reports. These reports exclude games without a reliable publication or qualifying evidence date. The audit keeps repository creation dates separate from publication dates.
 
 The dataset stores source-derived reconstruction prompts without presenting them as original transcripts. Newly expanded Opus 5.5 entries link to their per-game prompt notes.
@@ -235,27 +189,27 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **945** |
-| Qualifying source repositories | **644** |
-| Dataset records, including related or excluded records | **727** |
+| Counted game units | **953** |
+| Qualifying source repositories | **647** |
+| Dataset records, including related or excluded records | **730** |
 | Low-quality game units moved to bad-games.md | **31** (31 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **308** |
+| WebGL-family game units, across all categories | **315** |
 | Non-browser engine game units | **276** |
 | Game units with screenshot links | **201** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **945** |
+| Game units with source-derived prompt fields | **953** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **945** (644 repositories) |
+| Game units with repository creation dates | **953** (647 repositories) |
 
 ## Verification snapshot
 
-The list contains **945** game units from **644** qualifying repositories. The dataset also retains **83** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **953** game units from **647** qualifying repositories. The dataset also retains **83** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **633** |
-| ≈ Creator report | The creator attributes the listed model. | **268** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **634** |
+| ≈ Creator report | The creator attributes the listed model. | **275** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **42** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **2** |
 

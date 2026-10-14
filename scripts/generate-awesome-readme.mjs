@@ -300,6 +300,7 @@ output += `Browse [latest game additions by date](latest-games.md) to compare ea
 output += `Browse [AI game generators and engines](https://github.com/AgentsLoop/awesome-ai-game-maker) for tools that build or edit playable games from prompts, with verified example games.\n\n`;
 output += `Browse [Awesome Game Resources](awesome-game-resources.md) to find game assets, VFX, shaders, sound effects, music, and production tools.\n\n`;
 output += `Browse [Claude Opus 5.5 release-week games](opus-5.5-games.md) for direct source and model-evidence links.\n\n`;
+output += `Browse [Gemini 4 Argon release-week games](gemini-4-argon-games.md) for direct source, play, and model-evidence links.\n\n`;
 output += `Browse [publication-date rankings](rankings/README.md) for daily, weekly, and monthly reports. These reports exclude games without a reliable publication or qualifying evidence date. The audit keeps repository creation dates separate from publication dates.\n\n`;
 output += `The dataset stores source-derived reconstruction prompts without presenting them as original transcripts. Newly expanded Opus 5.5 entries link to their per-game prompt notes.\n\n`;
 output += `## Collection at a glance\n\n`;
