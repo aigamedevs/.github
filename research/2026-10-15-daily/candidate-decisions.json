@@ -1,0 +1,39 @@
+{
+  "held": {
+    "TheClockwyrks/tcab-*": "~100 automated benchmark runs (Carom paddle duel and siblings) for GPT-6.1 Sol, GPT-6 Astra and Claude Fable 5.1; collapse per named game in a later pass",
+    "turbo998/ai-gaming-lab": "portal; inspect turbo998/wanan-midnight source separately",
+    "ycgNem/ycgnem.github.io": "hub with only two source files; game sources not inspected",
+    "matheusvalenteleite-collab/The-Well-Tempered-Game": "dataset-first, loop not confirmed",
+    "YouhuaLi/ten-steps-ten-thousand-degrees": "recreation of another creator's puzzle plus math research",
+    "royalpig7878-ship-it/Postal-panic": "no README; single file not inspected",
+    "Marcsarno/yola-zombie": "no README or description"
+  },
+  "rejected": {
+    "kubok758/MinecraftRTX-GPT-6-Astra-Ultra": "README only",
+    "arronnight/fable-5.1-mario": "README only (OMGithub remix stub)",
+    "Torchwood4201/AstroHop": "README only",
+    "Torchwood4201/Wormhole": "README only",
+    "Gravitatest080/Cookie-Clicker-Deluxe-Apk": "APK only, no source",
+    "WilLz1912/f1-sim2d-j4f": "empty",
+    "thomas-sung/gemini4-2d-rpg": "no README; runtime Gemini narrative app",
+    "Crawfis-Software/IronCitadel-Showcase": "level-build benchmark",
+    "AG-0814/261014_LLM-Oneshot-Test": "non-game benchmark",
+    "google-gemini/gemini-4-demo-vanilla-3D": "renderer, not a game",
+    "0xabys/saigon-rush-hour": "traffic visual simulation, no objective",
+    "Leichtbier/living-greifswald": "walkable scene, no objective",
+    "The-Focus-AI/brutism-gemini-4-test": "freeform city builder sandbox",
+    "viktorkav/metal4-shooter": "game predates window (July 2026, Kimi K3); Astra only integrated a model",
+    "snakewizardd/snake-worms": "models appear as runtime arena players, not authors",
+    "qrilka/exploderous": "movement playground; no complete loop yet",
+    "exterkamp/kriegsspiel": "LLM umpire runtime game",
+    "RodReis/rrb-godot": "netcode spike M0",
+    "MDSHRIRAM/patchs-runner-playtest": "compiled build only, source private",
+    "pochtadantov-eng/Casino": "Telegram gambling app",
+    "orlando008/fanstasy-console": "fantasy console tool",
+    "goodwinconnor07-create/golfapp": "real-golf companion",
+    "thecastpatrol/castgames": "hub of pre-existing games",
+    "alaminahme456-hub/awesome-gpt-6-astra": "OMGithub stub list, no entries",
+    "l0rk59/awesome-gpt-6-astra": "copy of the same stub"
+  },
+  "ports_mods_tools_out_of_scope": "recompilations, decompilations, mods, launchers, emulators, dashboards and engine projects from the commit pool were excluded by keyword and spot checks"
+}

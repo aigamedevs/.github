@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **129 curated game units** from **61 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **137 curated game units** from **69 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -36,14 +36,14 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Game library
 
-- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **60 game units**
-- 💥 [Action and Shooters](#action-and-shooters) — **28 game units**
-- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **7 game units**
+- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **61 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **29 game units**
+- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **7 game units**
-- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **18 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **5 game units**
-- 🎮 [Other Browser Games](#other-browser-games) — **1 game units**
-- ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **3 game units**
+- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **19 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **6 game units**
+- 🎮 [Other Browser Games](#other-browser-games) — **3 game units**
+- ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **4 game units**
 
 ## Non-Browser Engines
 
@@ -70,6 +70,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Tic-Tac-Toe MCP Game**](../games/tic-tac-toe-mcp-game/readme.md) — ⭐ **8.6/10** · Claude Fable 5.1 · TypeScript, React, Vite, MCP Apps, Docker, +1 more · [✓ direct model evidence](https://github.com/worgho2/tic-tac-toe-mcp-game/commit/0f29b0b7f5bb68b17422bcdd3ea7130497f9312d) · [files](https://github.com/worgho2/tic-tac-toe-mcp-game/blob/main/README.md) · [play](https://tic-tac-toe-mcp-game.baziewi.cz/mcp) · 📸 **5.9/10** · [screenshot](https://github.com/worgho2/tic-tac-toe-mcp-game/blob/main/docs/media/game.png)
 - [**Branch Zero**](../games/branch-zero/readme.md) — ⭐ **8.3/10** · Claude Fable 5.1 · Godot 4.5.2, GDScript, Godot Web export, TypeScript, Vite · [✓ direct model evidence](https://github.com/JaCoderX/Branch-Zero#status) · [files](https://github.com/JaCoderX/Branch-Zero/tree/main/apps/game)
 - [**Arena Roguelike**](../games/arena-roguelike/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Godot 4, GDScript, Native desktop · [✓ direct model evidence](https://github.com/beben-games/2d-game/commit/398d7a117290f7bbebdd7608a1acda8198676427) · [files](https://github.com/beben-games/2d-game/blob/573f870fc440244f0a68be8cbebc119f2b528025/project.godot)
+- [**My World in a Box**](../games/my-world-in-a-box/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · Godot, GDScript, Android · [✓ direct model evidence](https://github.com/happihack/MyWorld/commit/517db20c277408ed231c74e8576ca9e909bd85ae) · [files](https://github.com/happihack/MyWorld/blob/main/scripts/audio/sound_synth.gd)
 - [**Party Chaos**](../games/party-chaos/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Roblox, Luau · [≈ creator-reported model evidence](https://github.com/lawrenceandrewlargo/roblox-extreme-minigames) · **37 documented units:** 37 original Roblox party minigames
 
 [Back to game library](#game-library)
@@ -103,6 +104,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Rocket Arena**](../games/rocket-arena/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Rocket-Arena-Rocket-League-Remake-Fable-5.1)
 - [**Voxelcraft**](../games/voxelcraft-alfredbrowser-voxelcraft-minecraft-remake-fable-5-1/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Voxelcraft-Minecraft-Remake-Fable-5.1)
 - [**Wind & Rain**](../games/wind-rain/readme.md) — ⭐ **8.0/10** · Claude Opus 5.5, Claude Fable 5.1 · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/README.md) · [files](https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/game/src/systems.js)
+- [**Plants vs. Zombies (fan remake)**](../games/plants-vs-zombies-fan-remake/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/dannishen60/plants-vs-zombies/commit/386be0c054e394206237445b0f0e69f4381e6fc6) · [files](https://github.com/dannishen60/plants-vs-zombies/blob/main/index.html) · [play](https://dannishen60.github.io/plants-vs-zombies/)
 - [**THRESHOLD**](../games/threshold/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · WebGL2, JavaScript, Web Audio API · [≈ creator-reported model evidence](https://github.com/CantankerousPotatomancer/threshold-fable-5-1)
 
 [Back to game library](#game-library)
@@ -116,6 +118,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Leonida**](../games/leonida/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Leonida-GTA-6-Remake-Fable-5.1)
 - [**Leonida Stories 3D**](../games/leonida-stories-3d/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, Cannon-es, Web Audio API · [✓ direct model evidence](https://github.com/marvijo-code/leonida-stories-3d)
 - [**VALORANT Ascent**](../games/valorant-ascent/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL, Canvas 2D · [≈ creator-reported model evidence](https://github.com/Time-dev-alt/Fable-5.1-Games/blob/main/PLAY%20FC%2027.html)
+- [**game-recreation**](../games/game-recreation/readme.md) — ⭐ **7.4/10** · Claude Fable 5.1, Claude Opus 5.5, GPT-6 Astra · JavaScript, Three.js, Browser · [△ directory-method model evidence](https://github.com/alisafakaya624-coder/game-recreation/commit/b52fd7cbf131344af466f5e497a4423466fa1122) · [files](https://github.com/alisafakaya624-coder/game-recreation/blob/main/games/fable-5.1/GTA6-Leonida.html)
 
 [Back to game library](#game-library)
 
@@ -151,6 +154,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Crossy Farm**](../games/crossy-farm/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/crossy-farm-car) · [play](https://sorrycc.github.io/fable-arcade/games/crossy-farm-car/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**Flappy Skies**](../games/flappy-skies/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · [play](https://sorrycc.github.io/fable-arcade/games/flappy-bird/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**Robo Tennis**](../games/robo-tennis/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/robot-tennis) · [play](https://sorrycc.github.io/fable-arcade/games/robot-tennis/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
+- [**Wick**](../games/wick/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1, Claude Opus 5.5 · Swift, iOS, Browser · [✓ direct model evidence](https://github.com/jasonepage/Wick/commit/d3391f7d6074f1798bb07d13cdcda797d92e2639) · [files](https://github.com/jasonepage/Wick/blob/main/Hunch/ContentView.swift) · [play](https://guesswick.com)
 
 [Back to game library](#game-library)
 
@@ -158,6 +162,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 - [**SPICE — a card game for couples**](../games/spice-a-card-game-for-couples/readme.md) — ⭐ **8.6/10** · Claude Fable 5.1 · HTML, CSS, JavaScript ES modules, PWA, Browser · [✓ direct model evidence](https://github.com/Hiberius/couples-card-game#how-it-plays) · [files](https://github.com/Hiberius/couples-card-game) · [play](https://couples-card-game.hiberius.workers.dev) · 📸 **6.4/10** · [screenshot](https://github.com/Hiberius/couples-card-game/blob/main/docs/media/phones.png) · +9 more screenshots in data
 - [**BLOCKS**](../games/blocks/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL, Blender · [✓ direct model evidence](https://github.com/Nipale-ai/blocks-openworld) · [play](https://nipale-ai.github.io/blocks-openworld/spiel/)
+- [**Cyberpunk Txt RPG**](../games/cyberpunk-txt-rpg/readme.md) — ⭐ **7.6/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/WH173-0U7/Cyberpunk-Txt-RPG/commit/056abb27fd837e8ec01bfeb51e978be9e6e94e11) · [files](https://github.com/WH173-0U7/Cyberpunk-Txt-RPG/blob/main/index.html) · [play](https://wh173-0u7.github.io/Cyberpunk-Txt-RPG/)
 - [**DEV QUEST**](../games/dev-quest/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Phaser, JavaScript, Canvas 2D · [≈ creator-reported model evidence](https://github.com/agutierrezclab/dev-quest) · [play](https://dev-quest-nu.vercel.app/) · 📸 **6.4/10** · [screenshot](https://github.com/agutierrezclab/dev-quest/blob/HEAD/docs/screens/wave4_deploy.png)
 - [**Ink Rogue**](../games/ink-rogue/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Canvas 2D, HTML, JavaScript · [≈ creator-reported model evidence](https://github.com/evan-thedev/ink-rogue) · [play](https://evan-thedev.github.io/ink-rogue/)
 - [**Jelajah Antariksa**](../games/jelajah-antariksa/readme.md) — ⭐ **7.0/10** · Claude Fable 5.1 · HTML, JavaScript, Three.js · [≈ creator-reported model evidence](https://github.com/RafiulM/3d-game-fable5.1/blob/main/README.md)
@@ -166,7 +171,9 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Other Browser Games
 
+- [**Miles Morales: Brooklyn Nights**](../games/miles-morales-brooklyn-nights/readme.md) — ⭐ **7.6/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/guichduh33-arch/Video-game/commit/88899989cf9f1e9a7337f789ab131c59d127acc5) · [files](https://github.com/guichduh33-arch/Video-game/blob/claude/miles-morales-game/3d.html)
 - [**Bomberman Clone**](../games/bomberman-clone/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · HTML5 Canvas, JavaScript, Web Audio API · [≈ creator-reported model evidence](https://github.com/lifeofnicolas/bomberman-clone) · [play](https://lifeofnicolas.github.io/bomberman-clone/)
+- [**Bleauweb games**](../games/bleauweb-games/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/bleauweb/games.bleauweb.org/commit/df3730f9c01359ceb4e6ebdd16e4765aa25666d8) · [files](https://github.com/bleauweb/games.bleauweb.org/blob/main/404.html)
 
 [Back to game library](#game-library)
 
@@ -175,5 +182,6 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**BuildYourTown**](../games/buildyourtown/readme.md) — ⭐ **9.0/10** · Claude Fable 5.1 · TypeScript, Vite, Canvas 2D, Docker, Browser · [✓ direct model evidence](https://github.com/Rapsody09/buildyourtown#jouer) · [files](https://github.com/Rapsody09/buildyourtown) · [play](https://buildyourtown.com) · 📸 **8.1/10** · [screenshot](https://github.com/Rapsody09/buildyourtown/blob/main/docs/screenshots/overview.png) · +4 more screenshots in data
 - [**PAC-CLONE**](../games/pac-clone/readme.md) — ⭐ **8.5/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas 2D, Web Audio API, PWA, +1 more · [✓ direct model evidence](https://github.com/boromisp/pacman-clone#pac-clone) · [files](https://github.com/boromisp/pacman-clone) · [play](https://boromisp.github.io/pacman-clone/) · [prompt](https://github.com/boromisp/pacman-clone#development)
 - [**GunBros**](../games/gunbros/readme.md) — ⭐ **8.0/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Canvas 2D, Vite, Node.js, WebSocket, +1 more · [≈ creator-reported model evidence](https://github.com/skelzer/gunbros-public#how-it-was-made) · [files](https://github.com/skelzer/gunbros-public/blob/main/packages/shared/src/rules/turn.ts) · [play](https://play.gunbros.luquematte.com/) · 📸 **7.6/10** · [screenshot](https://github.com/skelzer/gunbros-public/blob/main/docs/ui/maps/temple_desktop.png)
+- [**Hot Dog Dash**](../games/hot-dog-dash/readme.md) — ⭐ **7.6/10** · Claude Fable 5.1 · HTML, JavaScript, Browser · [✓ direct model evidence](https://github.com/ZaneyP/hot-dog-dash/commit/ffc1c8ad1a3344cdc0cc47ad1f504373bcad1736) · [files](https://github.com/ZaneyP/hot-dog-dash/blob/main/public/index.html)
 
 [Back to game library](#game-library)

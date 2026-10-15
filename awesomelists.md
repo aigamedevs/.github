@@ -25,6 +25,7 @@
 | 17 | [Awesome Opus 5.5 Games](https://github.com/VibeFin/awesome-opus-5.5-games) | **270** | Claude Opus 5.5, Claude Sonnet 5.5, and GPT-6 Astra games | Use the README total: 189 Opus, 11 Sonnet, 69 Astra, and 1 uncertain entry. Preserve the uncertain attribution; this is a curated gallery, not an independently tested benchmark. | 2026-10-04 |
 | 18 | [Awesome Opus 5.5 Video — Games](https://github.com/zhuyansen/awesome-opus-5.5-video) | **214 works** | Social video records classified as games | Count 214 data rows in the linked `cases/game.md` table; exclude the header and separator row and match the README total. Treat these as creator-attributed works, not source-verified game repositories. | 2026-10-04 |
 | 19 | [Mindblown gallery](https://mindblown.ai/explore) | **100 listings** | Message-built browser games | Count 100 `/games/<slug>` URLs in [sitemap.xml](https://mindblown.ai/sitemap.xml); each carries a title, lastmod date, and thumbnail. Treat as gallery listings, not source-verified repositories; no GitHub source or model attribution is published. | 2026-10-07 |
+| 20 | [Awesome Gemini 4 Argon — Games](https://github.com/sandbase-lab/awesome-gemini4-argon) | **48 works** | Gemini 4 Argon game videos collected from X | Count the 48 video cells in the README `## Games` table (2 shown plus “Show all 48”); exclude 3D scenes, motion graphics, UI and other sections. Treat these as creator-attributed videos, not source-verified repositories. | 2026-10-15 |
 
 ## Verified small collections — 2026-09-30
 

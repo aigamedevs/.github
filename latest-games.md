@@ -4,18 +4,91 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-10-15 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-10-15 | [4th and Pixels](games/4th-and-pixels/readme.md) | [singiadvik9-sudo/gridiron-draft](https://github.com/singiadvik9-sudo/gridiron-draft) | 2026-10-12 22:17:13 UTC | Claude Sonnet 5.5 | 7.5/10 |
+| 2026-10-15 | [Abyss Scavenger](games/abyss-scavenger/readme.md) | [Foremanytz/AbyssScavenger](https://github.com/Foremanytz/AbyssScavenger) | 2026-10-08 13:30:03 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [AI Minecraft Battle](games/ai-minecraft-battle/readme.md) | [randy-jin/ai-minecraft-battle](https://github.com/randy-jin/ai-minecraft-battle) | 2026-10-14 20:06:00 UTC | Gemini 4 Argon, GPT-6.1 Sol | 7.5/10 |
+| 2026-10-15 | [Apex Drive (Unity edition)](games/apex-drive-unity-edition/readme.md) | [kooooneth/apex-drive-unity](https://github.com/kooooneth/apex-drive-unity) | 2026-10-10 22:26:40 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-15 | [Arena Offline](games/arena-offline/readme.md) | [guibessa1109-sys/offline-games-with-AI](https://github.com/guibessa1109-sys/offline-games-with-AI) | 2026-10-12 22:06:18 UTC | Claude Sonnet 5.5 | 7.3/10 |
+| 2026-10-15 | [Bleauweb games](games/bleauweb-games/readme.md) | [bleauweb/games.bleauweb.org](https://github.com/bleauweb/games.bleauweb.org) | 2026-10-12 23:32:48 UTC | Claude Fable 5.1 | 7.3/10 |
+| 2026-10-15 | [Bloom Blocks](games/bloom-blocks/readme.md) | [ludin-lee/real-random-game](https://github.com/ludin-lee/real-random-game) | 2026-10-12 23:35:47 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-10-15 | [Butch Graves 3D](games/butch-graves-3d/readme.md) | [WollyMonjac/ButchGraves3D](https://github.com/WollyMonjac/ButchGraves3D) | 2026-10-08 21:21:23 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-10-15 | [Card Jigsaw World](games/card-jigsaw-world/readme.md) | [Meldiron/card-jigsaw-world](https://github.com/Meldiron/card-jigsaw-world) | 2026-10-11 14:44:19 UTC | Claude Opus 5.5 | 7.8/10 |
+| 2026-10-15 | [Chair Run × Mutual Mimu](games/chair-run-mutual-mimu/readme.md) | [bertbaccaratt/mimu-mutual-game](https://github.com/bertbaccaratt/mimu-mutual-game) | 2026-10-08 07:17:36 UTC | Claude Sonnet 5.5 | 7.2/10 |
+| 2026-10-15 | [Champion Daily](games/champion-daily/readme.md) | [benjaminxu251/pokemon_daily_champion](https://github.com/benjaminxu251/pokemon_daily_champion) | 2026-10-15 00:32:10 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-15 | [CHANNEL // SURF](games/channel-surf/readme.md) | [steling1/Channel-Surfer](https://github.com/steling1/Channel-Surfer) | 2026-10-12 19:45:53 UTC | GPT-6.1 Sol | 7.6/10 |
+| 2026-10-15 | [cool tower defense game.exe](games/cool-tower-defense-game-exe/readme.md) | [zsidiadi/Ball-Heckaton-ascii-game](https://github.com/zsidiadi/Ball-Heckaton-ascii-game) | 2026-10-12 08:17:06 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [Corner Mart](games/corner-mart/readme.md) | [ericyanpek/game-sample-corner-mart](https://github.com/ericyanpek/game-sample-corner-mart) | 2026-10-12 09:44:25 UTC | GPT-6 Astra | 8.2/10 |
+| 2026-10-15 | [Cyberpunk Txt RPG](games/cyberpunk-txt-rpg/readme.md) | [WH173-0U7/Cyberpunk-Txt-RPG](https://github.com/WH173-0U7/Cyberpunk-Txt-RPG) | 2026-10-11 19:06:37 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.6/10 |
+| 2026-10-15 | [Drone Invaders](games/drone-invaders/readme.md) | [charlitoss/dron-invaders](https://github.com/charlitoss/dron-invaders) | 2026-10-08 20:25:32 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-15 | [duckdrink](games/duckdrink/readme.md) | [oacdlr/duckdrink](https://github.com/oacdlr/duckdrink) | 2026-10-15 01:10:44 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-10-15 | [Dungeon Boss Raid](games/dungeon-boss-raid/readme.md) | [SSDHCMSH-26/Dungeon-Boss-raid-ssd](https://github.com/SSDHCMSH-26/Dungeon-Boss-raid-ssd) | 2026-10-11 09:01:42 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.5/10 |
+| 2026-10-15 | [Flying Train](games/flying-train/readme.md) | [Tetsuoryuu/ToddlerGames](https://github.com/Tetsuoryuu/ToddlerGames) | 2026-10-12 22:34:20 UTC | Gemini 4 Argon | 7.4/10 |
+| 2026-10-15 | [Futkrill](games/futkrill/readme.md) | [emrekapancibuilds/futbol-krillion](https://github.com/emrekapancibuilds/futbol-krillion) | 2026-10-12 16:48:49 UTC | Claude Sonnet 5.5, Claude Opus 5.5 | 7.3/10 |
+| 2026-10-15 | [Game Night](games/game-night/readme.md) | [tomaras/game-night](https://github.com/tomaras/game-night) | 2026-10-09 07:43:48 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 8.0/10 |
+| 2026-10-15 | [game-proto](games/game-proto/readme.md) | [Chriszly/game-proto](https://github.com/Chriszly/game-proto) | 2026-10-13 06:32:00 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [game-recreation](games/game-recreation/readme.md) | [alisafakaya624-coder/game-recreation](https://github.com/alisafakaya624-coder/game-recreation) | 2026-10-09 07:48:29 UTC | Claude Fable 5.1, Claude Opus 5.5, GPT-6 Astra | 7.4/10 |
+| 2026-10-15 | [game-test (WebGPU action RPG)](games/game-test-webgpu-action-rpg/readme.md) | [Kiikurage/game-test](https://github.com/Kiikurage/game-test) | 2026-10-09 16:47:44 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-15 | [Glacial Strikers (Puckbound)](games/glacial-strikers-puckbound/readme.md) | [sturlasnaer/glacial-strikers](https://github.com/sturlasnaer/glacial-strikers) | 2026-10-07 20:49:48 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-10-15 | [GLITCHBOX arcade](games/glitchbox-arcade/readme.md) | [glitchbox-games/glitchbox-games.github.io](https://github.com/glitchbox-games/glitchbox-games.github.io) | 2026-10-09 00:05:33 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [Glyphfall](games/glyphfall/readme.md) | [dimitriskaramalikis/glyphfall](https://github.com/dimitriskaramalikis/glyphfall) | 2026-10-09 06:57:20 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [Greeblis Town](games/greeblis-town/readme.md) | [GorboGreeblis/GreeblisTown](https://github.com/GorboGreeblis/GreeblisTown) | 2026-10-08 02:55:23 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-15 | [Hot Dog Dash](games/hot-dog-dash/readme.md) | [ZaneyP/hot-dog-dash](https://github.com/ZaneyP/hot-dog-dash) | 2026-10-09 20:52:22 UTC | Claude Fable 5.1 | 7.6/10 |
+| 2026-10-15 | [Idle Casino](games/idle-casino/readme.md) | [GIider/idle-casino](https://github.com/GIider/idle-casino) | 2026-10-13 23:06:19 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-15 | [Immortal Snail Chess](games/immortal-snail-chess/readme.md) | [sirsigmund79/snail-chess](https://github.com/sirsigmund79/snail-chess) | 2026-10-14 16:42:15 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-15 | [Inoa Games](games/inoa-games/readme.md) | [eduardoinoa18/inoa-games](https://github.com/eduardoinoa18/inoa-games) | 2026-10-14 16:42:43 UTC | Claude Opus 5.5 | 7.8/10 |
+| 2026-10-15 | [IRONLINE](games/ironline/readme.md) | [cktang88/3d-fps](https://github.com/cktang88/3d-fps) | 2026-10-08 13:33:41 UTC | Claude Opus 5.5 | 8.4/10 |
+| 2026-10-15 | [khovax](games/khovax/readme.md) | [Flixbox/khovax](https://github.com/Flixbox/khovax) | 2026-10-13 10:57:51 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-15 | [Kuro's Lakeside Stone Skipping](games/kuro-s-lakeside-stone-skipping/readme.md) | [ShreyashGawas777/kuros-lakeside-stone-skipping](https://github.com/ShreyashGawas777/kuros-lakeside-stone-skipping) | 2026-10-14 19:27:30 UTC | Gemini 4 Argon | 7.2/10 |
+| 2026-10-15 | [Lumencraft](games/lumencraft/readme.md) | [TESTYEE-09/opus5.5Minecraft](https://github.com/TESTYEE-09/opus5.5Minecraft) | 2026-10-15 00:21:38 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-10-15 | [Me RPG](games/me-rpg/readme.md) | [jbogaardt/me_rpg](https://github.com/jbogaardt/me_rpg) | 2026-10-10 22:56:23 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.4/10 |
+| 2026-10-15 | [Miles Morales: Brooklyn Nights](games/miles-morales-brooklyn-nights/readme.md) | [guichduh33-arch/Video-game](https://github.com/guichduh33-arch/Video-game) | 2026-10-08 10:03:16 UTC | Claude Fable 5.1 | 7.6/10 |
+| 2026-10-15 | [My World in a Box](games/my-world-in-a-box/readme.md) | [happihack/MyWorld](https://github.com/happihack/MyWorld) | 2026-10-07 22:52:39 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.5/10 |
+| 2026-10-15 | [Night Voyage (星筹夜航)](games/night-voyage/readme.md) | [Linwei-Chen/gpt-game-night-voyage](https://github.com/Linwei-Chen/gpt-game-night-voyage) | 2026-10-13 03:49:27 UTC | GPT-6.1 Sol | 8.0/10 |
+| 2026-10-15 | [Nina the Hippo platformer](games/nina-the-hippo-platformer/readme.md) | [hggruppi94/platformer-1](https://github.com/hggruppi94/platformer-1) | 2026-10-11 01:39:31 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-15 | [Opus FPS](games/opus-fps/readme.md) | [frankhale/opus-fps](https://github.com/frankhale/opus-fps) | 2026-10-13 00:29:22 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-10-15 | [Plants vs. Zombies (fan remake)](games/plants-vs-zombies-fan-remake/readme.md) | [dannishen60/plants-vs-zombies](https://github.com/dannishen60/plants-vs-zombies) | 2026-10-11 13:30:47 UTC | Claude Fable 5.1 | 7.8/10 |
+| 2026-10-15 | [Poker: Texas Hold'em learning lab](games/poker-texas-hold-em-learning-lab/readme.md) | [flakeer/poker-trainer](https://github.com/flakeer/poker-trainer) | 2026-10-09 03:55:37 UTC | Claude Sonnet 5.5 | 7.9/10 |
+| 2026-10-15 | [PotatoBrawl](games/potatobrawl/readme.md) | [guspliffy/potatobrawl](https://github.com/guspliffy/potatobrawl) | 2026-10-12 21:22:28 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-15 | [School Games](games/school-games/readme.md) | [kl534/SchoolGames](https://github.com/kl534/SchoolGames) | 2026-10-12 15:42:51 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.5/10 |
+| 2026-10-15 | [Silly Chef](games/silly-chef/readme.md) | [Tetsuoryuu/ToddlerGames](https://github.com/Tetsuoryuu/ToddlerGames) | 2026-10-12 22:34:20 UTC | Gemini 4 Argon | 7.4/10 |
+| 2026-10-15 | [Slipstream](games/slipstream-jaikaar15-flight-sim/readme.md) | [jaikaar15/Flight-sim](https://github.com/jaikaar15/Flight-sim) | 2026-10-10 04:02:32 UTC | Claude Opus 5.5 | 7.8/10 |
+| 2026-10-15 | [Smack](games/smack/readme.md) | [NIGHT-Official/Spider-Smack](https://github.com/NIGHT-Official/Spider-Smack) | 2026-10-14 23:42:13 UTC | Claude Sonnet 5.5 | 7.0/10 |
+| 2026-10-15 | [solitaire n' chill](games/solitaire-n-chill/readme.md) | [mjramos86/solitaire-n-chill](https://github.com/mjramos86/solitaire-n-chill) | 2026-10-14 21:57:17 UTC | Claude Sonnet 5.5 | 7.3/10 |
+| 2026-10-15 | [Soundlings](games/soundlings/readme.md) | [brendanreid-droid/phonics-game](https://github.com/brendanreid-droid/phonics-game) | 2026-10-14 04:38:31 UTC | Claude Sonnet 5.5 | 7.4/10 |
+| 2026-10-15 | [Starward](games/starward/readme.md) | [NiklasRenner/claude-browser-game](https://github.com/NiklasRenner/claude-browser-game) | 2026-10-14 23:23:28 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [Starwing](games/starwing/readme.md) | [RedRoosterMobile/BevyStarwing](https://github.com/RedRoosterMobile/BevyStarwing) | 2026-10-10 12:23:38 UTC | GPT-6.1 Sol | 7.7/10 |
+| 2026-10-15 | [State Your Case](games/state-your-case/readme.md) | [GiantMushy/StateYourCase](https://github.com/GiantMushy/StateYourCase) | 2026-10-14 21:55:04 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-15 | [Taoob Arcade](games/taoob-arcade/readme.md) | [2ENn/Arcade](https://github.com/2ENn/Arcade) | 2026-10-12 23:34:53 UTC | Claude Sonnet 5.5 | 7.2/10 |
+| 2026-10-15 | [Tetris](games/tetris-woojehyuk-tetris/readme.md) | [woojehyuk/tetris](https://github.com/woojehyuk/tetris) | 2026-10-12 09:03:04 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-10-15 | [The Den](games/the-den/readme.md) | [aboston678/the-den](https://github.com/aboston678/the-den) | 2026-10-11 19:40:30 UTC | Claude Opus 5.5 | 7.8/10 |
+| 2026-10-15 | [The Night Manager](games/the-night-manager/readme.md) | [poncema4/night-shift](https://github.com/poncema4/night-shift) | 2026-10-09 02:00:22 UTC | Claude Sonnet 5.5 | 7.5/10 |
+| 2026-10-15 | [The Vertical Lost & Found](games/the-vertical-lost-found/readme.md) | [Emily2040/vertical-lost-and-found](https://github.com/Emily2040/vertical-lost-and-found) | 2026-10-14 21:38:15 UTC | Gemini 4 Argon | 8.3/10 |
+| 2026-10-15 | [Tiny Wings v2 — Hat Edition](games/tiny-wings-v2-hat-edition/readme.md) | [felipegatoloko10/Tiny-Wings-v2](https://github.com/felipegatoloko10/Tiny-Wings-v2) | 2026-10-12 21:05:30 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-10-15 | [Trust Issues](games/trust-issues/readme.md) | [theoleuthardt/trust-issues](https://github.com/theoleuthardt/trust-issues) | 2026-10-14 21:20:22 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-10-15 | [Ultime Player](games/ultime-player/readme.md) | [Ben34110/football-career-sim](https://github.com/Ben34110/football-career-sim) | 2026-10-09 20:46:19 UTC | Claude Sonnet 5.5 | 7.4/10 |
+| 2026-10-15 | [Where the Streets Have No Game](games/where-the-streets-have-no-game/readme.md) | [joshuamcginley-lab/where-the-streets-have-no-game](https://github.com/joshuamcginley-lab/where-the-streets-have-no-game) | 2026-10-14 21:57:52 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-15 | [Wick](games/wick/readme.md) | [jasonepage/Wick](https://github.com/jasonepage/Wick) | 2026-10-08 21:23:10 UTC | Claude Fable 5.1, Claude Opus 5.5 | 7.8/10 |
+| 2026-10-15 | [Wild Fields 1648](games/wild-fields-1648/readme.md) | [0xInsiderhq/wild-fields-1648](https://github.com/0xInsiderhq/wild-fields-1648) | 2026-10-11 08:26:46 UTC | Claude Opus 5.5 | 8.5/10 |
+| 2026-10-15 | [Zombie Horde Survivors](games/zombie-horde-survivors/readme.md) | [agustindiazcano/zombie-horde-survivors](https://github.com/agustindiazcano/zombie-horde-survivors) | 2026-10-14 03:11:16 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-10-15 | [Zombie Survivor](games/zombie-survivor/readme.md) | [Donsteezlesgit/zombie-survivor](https://github.com/Donsteezlesgit/zombie-survivor) | 2026-10-14 16:45:36 UTC | Claude Sonnet 5.5 | 7.0/10 |
+| 2026-10-15 | [Zombie Zone](games/zombie-zone/readme.md) | [zees-games/game-zombie-zone](https://github.com/zees-games/game-zombie-zone) | 2026-10-11 08:45:32 UTC | Claude Opus 5.5 | 7.5/10 |
+
 ## Added 2026-10-14 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
 | --- | --- | --- | --- | --- | ---: |
-| 2026-10-14 | [Argon Airspace](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [Argon Tennis](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [Argon Towers](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [Argon Valley](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [Doodle-to-3D Marble Coaster Engine](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | [Aqsa-K/doodle-to-3d-marble-coaster](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | 2026-10-13 16:03:33 UTC | Gemini 4 Argon | 7.8/10 |
-| 2026-10-14 | [Grand Theft Argon](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [The Corridor](https://github.com/ammaarreshi/argon-games) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
-| 2026-10-14 | [Zeldo - Episode I: The Sunken Sanctum](https://github.com/EBIKEBUILDER/zeldo-argon) | [EBIKEBUILDER/zeldo-argon](https://github.com/EBIKEBUILDER/zeldo-argon) | 2026-10-13 22:46:56 UTC | Gemini 4 Argon | 8.3/10 |
+| 2026-10-14 | [Argon Airspace](games/argon-airspace/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Tennis](games/argon-tennis/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Towers](games/argon-towers/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Argon Valley](games/argon-valley/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Doodle-to-3D Marble Coaster Engine](games/doodle-to-3d-marble-coaster-engine/readme.md) | [Aqsa-K/doodle-to-3d-marble-coaster](https://github.com/Aqsa-K/doodle-to-3d-marble-coaster) | 2026-10-13 16:03:33 UTC | Gemini 4 Argon | 7.8/10 |
+| 2026-10-14 | [Grand Theft Argon](games/grand-theft-argon/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [The Corridor](games/the-corridor/readme.md) | [ammaarreshi/argon-games](https://github.com/ammaarreshi/argon-games) | 2026-10-13 16:24:08 UTC | Gemini 4 Argon | 8.2/10 |
+| 2026-10-14 | [Zeldo - Episode I: The Sunken Sanctum](games/zeldo-episode-i-the-sunken-sanctum/readme.md) | [EBIKEBUILDER/zeldo-argon](https://github.com/EBIKEBUILDER/zeldo-argon) | 2026-10-13 22:46:56 UTC | Gemini 4 Argon | 8.3/10 |
 
 ## Added 2026-10-07 (UTC)
 

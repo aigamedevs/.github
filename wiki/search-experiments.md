@@ -1,5 +1,24 @@
 # Search experiments
 
+## Daily exact-phrase and commit-pool pass — 2026-10-15
+
+- Search October 8–15 in `Asia/Phnom_Penh` (UTC+7, same offset as Asia/Ho_Chi_Minh); bound repository creation to `2026-10-07T17:00:00Z` or later. The last full pass was October 7, plus a Gemini-only pass on October 14.
+- Failed form: `"<model phrase>" game` with a `created:` qualifier returned **0** in all 33 partitions. GitHub metadata search needs the phrase alone. Retire the combined form; query the phrase by itself and filter for game terms afterwards.
+- Working form: phrase-only repository search in four two-day UTC partitions for `"Claude Opus 5.5"`, `"Opus 5.5"`, `"Claude Sonnet 5.5"`, `"Sonnet 5.5"`, `"GPT-6.1 Sol"`, `"GPT-6.1"`, `"GPT-6 Astra"`, `"Claude Fable"`, `"Gemini 4 Argon"`, and `"Gemini 4"`. No partition was capped (max 52). This yielded 393 new repositories, 109 game-keyword candidates, and 19 accepted repositories.
+- Commit pool: run `"<model>" game committer-date:<day>` per day for Opus 5.5, Sonnet 5.5, `gpt-6.1-sol`, GPT-6 Astra, Claude Fable, and Gemini 4 Argon (48 queries, every one capped at 100). Pool the 1,593 repositories, join them to creation timestamps with batched GraphQL (50 per call), and keep the 572 fresh non-forks. Filter the rest by game terms and drop mods, recompilations, launchers, tools, and dashboards. Read up to 100 commits per shortlisted repository for exact trailers. This yielded 48 more repositories.
+- Count 68 game units across 67 repositories. Count ToddlerGames as 2 (Silly Chef, Flying Train). Count hubs that advertise many games (Arena Offline 60, Game Night 52, Inoa Games 13, School Games, Taoob Arcade, GLITCHBOX, game-proto, Bleauweb, game-recreation) as one aggregate unit each until each mini-game loop is verified.
+- Separate authoring from runtime: reject SNAKES (frontier models play in its arena) and Kriegsspiel (an LLM umpires at runtime). Treat ToddlerGames' Gemini 3.x calls as runtime and its Gemini 4 Argon claim as creator-reported. Mark `inferred` when a creator writes only "GPT 6.1" (Night Voyage, Starwing) or "Gemini 4" (The Vertical Lost & Found).
+- Reject README-only OMGithub remix stubs (fable-5.1-mario, AstroHop, Wormhole, MinecraftRTX), APK-only uploads, benchmarks, scenes without objectives, and games that predate the window (Metal 4 Shooter, July 2026, Kimi K3). Hold about 100 TheClockwyrks benchmark repositories (Carom and siblings) for a per-name collapse.
+- Validate with `node scripts/validate-games.mjs` (797 records, 745 repos, 1052 units). Regenerate notes, rankings, README, model pages, latest games, and profile. Receipts: [search results](../research/2026-10-15-daily/search-results.json), [decisions](../research/2026-10-15-daily/candidate-decisions.json), [batch](../research/2026-10-15-daily/game-batch.json).
+
+### Critique
+
+Score this method 8.5/10 for yield (67 repositories in one daily pass) and 7.5/10 for depth. Phrase-only partitions are uncapped and precise. The commit pool adds 2.5 times as many games but is fuzzy and capped, so coverage is a sample. Aggregate hubs are undercounted on purpose. No screenshots were rated and no game was playtested. HTTP 200 checks show availability only.
+
+### Next experiment
+
+Collapse the TheClockwyrks runs to one record per named game, with each model variant counted once. Rate README screenshots for the new records. Trace X posts for the new Gemini 4 Argon games, preserving post URLs in `discovery_sources`.
+
 ## Two-day exact-phrase and commit-pool pass — 2026-10-07
 
 - Search October 6–7 in `Asia/Ho_Chi_Minh`; bound the UTC interval to `2026-10-05T17:00:00Z` through `2026-10-07T16:59:59Z`. Reject older repos with fresh commits (kids-english-reader, 2026-08-21) and out-of-window creations (IDFvHamas FPS, Oct 5 evening) even when their trailers are strong.

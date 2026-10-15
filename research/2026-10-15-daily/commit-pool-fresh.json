@@ -1,0 +1,4578 @@
+{
+ "stoatworks-labs/jackpot": {
+  "nameWithOwner": "stoatworks-labs/jackpot",
+  "createdAt": "2026-10-08T23:55:58Z",
+  "isFork": false,
+  "description": "A thoroughly rigged casino for Resolume (FFGL source and effect): slots, roulette, the money wheel, craps, the lottery drum and showers of chips, landing wherever you tell them to",
+  "homepageUrl": "https://stoatworks-labs.com/software/jackpot/",
+  "stargazerCount": 1
+ },
+ "myMartek/avp-play": {
+  "nameWithOwner": "myMartek/avp-play",
+  "createdAt": "2026-10-08T18:26:45Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 129
+ },
+ "nhat111/giaothongantoan": {
+  "nameWithOwner": "nhat111/giaothongantoan",
+  "createdAt": "2026-10-08T16:16:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://giaothongantoan.vercel.app",
+  "stargazerCount": 0
+ },
+ "CoryKleinjan/tera-dawn": {
+  "nameWithOwner": "CoryKleinjan/tera-dawn",
+  "createdAt": "2026-10-08T17:31:07Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pythonMaster2002/cs2-storage-manager": {
+  "nameWithOwner": "pythonMaster2002/cs2-storage-manager",
+  "createdAt": "2026-10-08T22:19:53Z",
+  "isFork": false,
+  "description": "Free open-source CS2 storage unit & inventory manager: fast transfers, trade-up odds & floats, stickers, store, market, Steam Guard, multi-account. Windows/macOS/Linux.",
+  "homepageUrl": "https://github.com/pythonMaster2002/cs2-storage-manager/releases/latest",
+  "stargazerCount": 2
+ },
+ "areyoublonde/project-blonde-guide": {
+  "nameWithOwner": "areyoublonde/project-blonde-guide",
+  "createdAt": "2026-10-08T16:29:21Z",
+  "isFork": false,
+  "description": "Official walkthrough and companion guide for Pok\u00e9mon Project Blonde",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "SCHSwork/GN-originals": {
+  "nameWithOwner": "SCHSwork/GN-originals",
+  "createdAt": "2026-10-08T23:03:15Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "BananaSplit101/BadNorthMastermind": {
+  "nameWithOwner": "BananaSplit101/BadNorthMastermind",
+  "createdAt": "2026-10-10T19:49:57Z",
+  "isFork": false,
+  "description": "Mastermind mod for Bad North",
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "happihack/MyWorld": {
+  "nameWithOwner": "happihack/MyWorld",
+  "createdAt": "2026-10-07T22:52:39Z",
+  "isFork": false,
+  "description": "Repo for World Simulation Game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "cobanov/pocketvibe": {
+  "nameWithOwner": "cobanov/pocketvibe",
+  "createdAt": "2026-10-08T03:04:59Z",
+  "isFork": false,
+  "description": "Play three.js games on your retro handheld, and make your own with AI. A launcher, game store and starter kit for ROCKNIX and Android handhelds.",
+  "homepageUrl": "https://pocketvibe.cobanov.dev",
+  "stargazerCount": 20
+ },
+ "charlitoss/dron-invaders": {
+  "nameWithOwner": "charlitoss/dron-invaders",
+  "createdAt": "2026-10-08T20:25:32Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://dron-invaders.vercel.app",
+  "stargazerCount": 0
+ },
+ "Jvansant122/Fantasy-hockey": {
+  "nameWithOwner": "Jvansant122/Fantasy-hockey",
+  "createdAt": "2026-10-08T18:31:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "vleeuwenmenno/mennovanleeuwen.nl": {
+  "nameWithOwner": "vleeuwenmenno/mennovanleeuwen.nl",
+  "createdAt": "2026-10-08T16:58:15Z",
+  "isFork": false,
+  "description": "My CV as a tiny OS: sticky note, a terminal that actually works, and a dock full of projects",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "glitchbox-games/glitchbox-games.github.io": {
+  "nameWithOwner": "glitchbox-games/glitchbox-games.github.io",
+  "createdAt": "2026-10-09T00:05:33Z",
+  "isFork": false,
+  "description": "GLITCHBOX arcade",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Wincasts/ffxi-addons": {
+  "nameWithOwner": "Wincasts/ffxi-addons",
+  "createdAt": "2026-10-08T16:43:15Z",
+  "isFork": false,
+  "description": "FFXI Ashita addons: working copies and deploy script",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "maciello/sundaria-modpack": {
+  "nameWithOwner": "maciello/sundaria-modpack",
+  "createdAt": "2026-10-08T14:13:32Z",
+  "isFork": false,
+  "description": "Dungeons of Sundaria modpack (damage numbers, camera) + auto-updating Steam launch option",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "brucestarlove/Starfall": {
+  "nameWithOwner": "brucestarlove/Starfall",
+  "createdAt": "2026-10-11T00:45:55Z",
+  "isFork": false,
+  "description": "AKA Shooting Stars, a UE4SS mod for Runescape Dragonwilds",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "groverburger/instance": {
+  "nameWithOwner": "groverburger/instance",
+  "createdAt": "2026-10-10T09:32:16Z",
+  "isFork": false,
+  "description": "Open source, clean room implementation of Game Maker 8.1 in pure Rust.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "erreib/sinking-star-mac": {
+  "nameWithOwner": "erreib/sinking-star-mac",
+  "createdAt": "2026-10-10T14:42:01Z",
+  "isFork": false,
+  "description": "Unofficial installer for playing the Windows version of Order of the Sinking Star on Apple Silicon Macs (Wine 11 + Apple's D3DMetal, through Steam)",
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "Bitwyrm91/bg3-fft-jobs": {
+  "nameWithOwner": "Bitwyrm91/bg3-fft-jobs",
+  "createdAt": "2026-10-09T17:48:05Z",
+  "isFork": false,
+  "description": "FFT jobs into BG3",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "czayas/jumpingjim": {
+  "nameWithOwner": "czayas/jumpingjim",
+  "createdAt": "2026-10-09T22:57:03Z",
+  "isFork": false,
+  "description": "Commodore 64 port of Jumping Jim (ZX Spectrum Next game by roman126) in 6502 assembly, structured for porting to other platforms.",
+  "homepageUrl": "https://roman126.itch.io/jumping-jim-zx-spectrum-next",
+  "stargazerCount": 0
+ },
+ "matthewfcarlson/thunderclap": {
+  "nameWithOwner": "matthewfcarlson/thunderclap",
+  "createdAt": "2026-10-08T19:54:31Z",
+  "isFork": false,
+  "description": "A native decompilation of hulk ultimate destruction",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "flossbud/WWHDRecomp": {
+  "nameWithOwner": "flossbud/WWHDRecomp",
+  "createdAt": "2026-10-08T00:02:14Z",
+  "isFork": false,
+  "description": "Static recompilation of The Legend of Zelda: The Wind Waker HD (Wii U), true 60 fps. No game data: bring your own dump.",
+  "homepageUrl": null,
+  "stargazerCount": 3
+ },
+ "oogwaymc/F1.2": {
+  "nameWithOwner": "oogwaymc/F1.2",
+  "createdAt": "2026-10-09T19:34:17Z",
+  "isFork": false,
+  "description": "W",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dynamiteswag81/webcompiled": {
+  "nameWithOwner": "dynamiteswag81/webcompiled",
+  "createdAt": "2026-10-09T23:59:25Z",
+  "isFork": false,
+  "description": "Browser (WebAssembly + WebGPU) port of WiiCompiled - Mario Kart Wii static recompilation. No game data.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "cktang88/experimental-game": {
+  "nameWithOwner": "cktang88/experimental-game",
+  "createdAt": "2026-10-09T19:49:58Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Romalaure/StellarDrive-demo-TF": {
+  "nameWithOwner": "Romalaure/StellarDrive-demo-TF",
+  "createdAt": "2026-10-09T11:08:24Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "theusrsilva/pocket-monster-saphire-decomp": {
+  "nameWithOwner": "theusrsilva/pocket-monster-saphire-decomp",
+  "createdAt": "2026-10-09T16:24:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "fabio-rovai/asset-passport": {
+  "nameWithOwner": "fabio-rovai/asset-passport",
+  "createdAt": "2026-10-09T21:20:09Z",
+  "isFork": false,
+  "description": "Two small games and an ontology border between them: drag an item across, and the receiving game checks a Lean-checked passport before it gets in.",
+  "homepageUrl": "https://fabio-rovai.github.io/asset-passport/",
+  "stargazerCount": 7
+ },
+ "Joshspeakman/rainbow-six-macos": {
+  "nameWithOwner": "Joshspeakman/rainbow-six-macos",
+  "createdAt": "2026-10-11T01:30:59Z",
+  "isFork": false,
+  "description": "Tom Clancy's Rainbow Six (GOG 1.04) statically recompiled from your own copy into native Apple Silicon macOS (Metal) and Linux apps, with cross-OS co-op (work in progress)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "gabegriffin16-commits/ygo-md-companion": {
+  "nameWithOwner": "gabegriffin16-commits/ygo-md-companion",
+  "createdAt": "2026-10-08T05:11:03Z",
+  "isFork": false,
+  "description": "Companion for Yu-Gi-Oh: Master Duel ",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dev-ben-c/sswrap": {
+  "nameWithOwner": "dev-ben-c/sswrap",
+  "createdAt": "2026-10-09T00:39:53Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Lowballing-coding/Optimiser": {
+  "nameWithOwner": "Lowballing-coding/Optimiser",
+  "createdAt": "2026-10-09T23:21:05Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "clay-mac-hub/clay-mac-hub.github.io": {
+  "nameWithOwner": "clay-mac-hub/clay-mac-hub.github.io",
+  "createdAt": "2026-10-10T02:18:44Z",
+  "isFork": false,
+  "description": "CMac Sports \u2014 my personal sports scores app",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "chatterchats/ZComOffDuty": {
+  "nameWithOwner": "chatterchats/ZComOffDuty",
+  "createdAt": "2026-10-08T11:34:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Gattic/PSPC": {
+  "nameWithOwner": "Gattic/PSPC",
+  "createdAt": "2026-10-10T07:28:27Z",
+  "isFork": false,
+  "description": "Native PSP Gaming and XMB for Windows. Linux and Android Coming Soon!",
+  "homepageUrl": "https://discord.gg/WzrHhjK4yh",
+  "stargazerCount": 2
+ },
+ "electrocrem/bizarre_gems": {
+  "nameWithOwner": "electrocrem/bizarre_gems",
+  "createdAt": "2026-10-09T20:23:11Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Thrasherop/lethalcraft": {
+  "nameWithOwner": "Thrasherop/lethalcraft",
+  "createdAt": "2026-10-08T03:38:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "discomystery/last-change": {
+  "nameWithOwner": "discomystery/last-change",
+  "createdAt": "2026-10-09T15:52:34Z",
+  "isFork": false,
+  "description": "Hockey matchup previews: how two teams play, before they play. Fan project.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ElvisBaggio/notproton": {
+  "nameWithOwner": "ElvisBaggio/notproton",
+  "createdAt": "2026-10-08T20:18:31Z",
+  "isFork": false,
+  "description": "Integra\u00e7\u00e3o pessoal do NotProton com Wine Sikarugir para Cities: Skylines II",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "deepak528/Alice": {
+  "nameWithOwner": "deepak528/Alice",
+  "createdAt": "2026-10-11T09:14:09Z",
+  "isFork": false,
+  "description": "Guide Alice through a hedge maze in 2D or 3D; find the tools that send each Wonderland creature on its way.",
+  "homepageUrl": "https://deepak528.github.io/Alice/",
+  "stargazerCount": 0
+ },
+ "youdedend/wwhd-xbox": {
+  "nameWithOwner": "youdedend/wwhd-xbox",
+  "createdAt": "2026-10-12T19:32:00Z",
+  "isFork": false,
+  "description": " wind waker hd port for xbox",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "dr-matt-smith/text-adventure-02-llm": {
+  "nameWithOwner": "dr-matt-smith/text-adventure-02-llm",
+  "createdAt": "2026-10-08T16:23:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "aguadossj/frieren": {
+  "nameWithOwner": "aguadossj/frieren",
+  "createdAt": "2026-10-09T13:34:30Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "delibremade/world-leaders": {
+  "nameWithOwner": "delibremade/world-leaders",
+  "createdAt": "2026-10-09T22:30:50Z",
+  "isFork": false,
+  "description": "Tropico-inspired grand-strategy nation simulator. Headless sim engine, graphical client.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "schivinski/schivinski.github.io": {
+  "nameWithOwner": "schivinski/schivinski.github.io",
+  "createdAt": "2026-10-09T04:34:43Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "matheusvalenteleite-collab/The-Well-Tempered-Game": {
+  "nameWithOwner": "matheusvalenteleite-collab/The-Well-Tempered-Game",
+  "createdAt": "2026-10-08T12:33:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Babon-Innovations-b-v/score": {
+  "nameWithOwner": "Babon-Innovations-b-v/score",
+  "createdAt": "2026-10-08T10:19:18Z",
+  "isFork": false,
+  "description": "SCORE: a framework for synthesizing complete, owned, responsive environments",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "treiber-88/Ultimate-Tanks": {
+  "nameWithOwner": "treiber-88/Ultimate-Tanks",
+  "createdAt": "2026-10-10T01:28:35Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AustonZ/EQL-Wiki-Editor-Assistant": {
+  "nameWithOwner": "AustonZ/EQL-Wiki-Editor-Assistant",
+  "createdAt": "2026-10-09T04:09:58Z",
+  "isFork": false,
+  "description": "Tool to aid editors in quickly updating the EverQuest Legends wiki",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "nowheremanx/lopda": {
+  "nameWithOwner": "nowheremanx/lopda",
+  "createdAt": "2026-10-08T02:07:12Z",
+  "isFork": false,
+  "description": "\u4e00\u53f0\u4f4f\u5728\u624b\u673a\u91cc\u7684\u56db\u8272\u638c\u673a \u00b7 A four-tone handheld from a 1986 that never was: film camera, reader, chip music and a store of tiny apps.",
+  "homepageUrl": "https://nowheremanx.github.io/lopda/",
+  "stargazerCount": 0
+ },
+ "Dyotson/ForzaHorizon1-ReImagined": {
+  "nameWithOwner": "Dyotson/ForzaHorizon1-ReImagined",
+  "createdAt": "2026-10-10T13:37:16Z",
+  "isFork": false,
+  "description": "Forza Horizon (Xbox 360) natively on PC, rebuilt around the modern Horizon experience: shared online free roam, leaderboards and rivals, 120/144 fps, and a self-hostable online server.",
+  "homepageUrl": "http://forza.dyotson.dev/",
+  "stargazerCount": 120
+ },
+ "argiedapatsda-tech/biology": {
+  "nameWithOwner": "argiedapatsda-tech/biology",
+  "createdAt": "2026-10-10T05:22:16Z",
+  "isFork": false,
+  "description": "Biology tests with live teacher view",
+  "homepageUrl": "https://argiedapatsda-tech.github.io/biology/",
+  "stargazerCount": 0
+ },
+ "andgu0704/runway": {
+  "nameWithOwner": "andgu0704/runway",
+  "createdAt": "2026-10-10T23:11:25Z",
+  "isFork": false,
+  "description": "Startup tycoon",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "vollmerm/tileset_gen": {
+  "nameWithOwner": "vollmerm/tileset_gen",
+  "createdAt": "2026-10-09T17:24:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "KBroneZ/tavern-ledger": {
+  "nameWithOwner": "KBroneZ/tavern-ledger",
+  "createdAt": "2026-10-08T20:16:13Z",
+  "isFork": false,
+  "description": "Free, open-source Hearthstone Battlegrounds tracker for Windows, with a website: review every game, replay combats, overlay and combat odds. Solo and Duos. Unofficial fan project.",
+  "homepageUrl": "https://tavernledger.net",
+  "stargazerCount": 0
+ },
+ "teamlovatoo-dotcom/Neandertalite": {
+  "nameWithOwner": "teamlovatoo-dotcom/Neandertalite",
+  "createdAt": "2026-10-10T23:17:06Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Peechiz/tico8": {
+  "nameWithOwner": "Peechiz/tico8",
+  "createdAt": "2026-10-11T20:18:29Z",
+  "isFork": false,
+  "description": "Toy TS Game Engine inspired by Pico8",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "votex09/retroshelf": {
+  "nameWithOwner": "votex09/retroshelf",
+  "createdAt": "2026-10-08T21:21:26Z",
+  "isFork": false,
+  "description": "Tidy an ES-DE / RetroDECK game library on Linux: prune ROMs, scrape LaunchBox metadata, rename to No-Intro names, install PS3/Vita/PSP games via NoPayStation",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Eamo5/sims-3-bevy": {
+  "nameWithOwner": "Eamo5/sims-3-bevy",
+  "createdAt": "2026-10-08T08:09:30Z",
+  "isFork": false,
+  "description": "A full reimplementation of The Sims 3 in the Bevy Game engine (WIP)",
+  "homepageUrl": "",
+  "stargazerCount": 11
+ },
+ "heidenreich/skyline-stack": {
+  "nameWithOwner": "heidenreich/skyline-stack",
+  "createdAt": "2026-10-10T22:01:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hggruppi94/platformer-1": {
+  "nameWithOwner": "hggruppi94/platformer-1",
+  "createdAt": "2026-10-11T01:39:31Z",
+  "isFork": false,
+  "description": "3D platformer in Godot 4.7 starring Nina the hippo (Blender art built from scripts)",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "thenail1995-create/sangame-video": {
+  "nameWithOwner": "thenail1995-create/sangame-video",
+  "createdAt": "2026-10-10T18:13:31Z",
+  "isFork": false,
+  "description": "May dung video Sang Game (khuon dung, khong chua am thanh/giong/trailer)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bouchacha/Darklands-plus": {
+  "nameWithOwner": "bouchacha/Darklands-plus",
+  "createdAt": "2026-10-14T21:10:28Z",
+  "isFork": false,
+  "description": "Darklands Source Port plus Improvements",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "markhibbos/floor-to-boardroom": {
+  "nameWithOwner": "markhibbos/floor-to-boardroom",
+  "createdAt": "2026-10-08T22:58:38Z",
+  "isFork": false,
+  "description": "Floor to Boardroom: a career and life simulator",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tb-masters-basketball/website": {
+  "nameWithOwner": "tb-masters-basketball/website",
+  "createdAt": "2026-10-08T14:38:57Z",
+  "isFork": false,
+  "description": "Thunder Bay Masters League Website",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "JohnZolton/euchre": {
+  "nameWithOwner": "JohnZolton/euchre",
+  "createdAt": "2026-10-10T23:23:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "JohnZolton/dadgames": {
+  "nameWithOwner": "JohnZolton/dadgames",
+  "createdAt": "2026-10-11T01:17:04Z",
+  "isFork": false,
+  "description": "Ad-free games for Dad: Euchre, Blocks, Solitaire, Blackjack, Sudoku",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "sturlasnaer/glacial-strikers": {
+  "nameWithOwner": "sturlasnaer/glacial-strikers",
+  "createdAt": "2026-10-07T20:49:48Z",
+  "isFork": false,
+  "description": "Glacial Strikers: a 3-on-3 arcade hockey RPG for phones and browsers",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "christiantva/An-nimos-y-sin-nimos": {
+  "nameWithOwner": "christiantva/An-nimos-y-sin-nimos",
+  "createdAt": "2026-10-10T22:08:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://antonimosyanonimos.vercel.app",
+  "stargazerCount": 0
+ },
+ "GaelQuinta/minecraft-metal-shaders": {
+  "nameWithOwner": "GaelQuinta/minecraft-metal-shaders",
+  "createdAt": "2026-10-12T02:38:33Z",
+  "isFork": false,
+  "description": "Native Metal shaders for Minecraft Java on Apple Silicon Macs: shadows, volumetric clouds, god rays, reflective water, HDR. A fork of mcopt.",
+  "homepageUrl": null,
+  "stargazerCount": 64
+ },
+ "bernardocaldas/habitacao": {
+  "nameWithOwner": "bernardocaldas/habitacao",
+  "createdAt": "2026-10-10T21:31:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "vBalakai/Australis": {
+  "nameWithOwner": "vBalakai/Australis",
+  "createdAt": "2026-10-10T23:33:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tsumilo/DisasterZone-dev": {
+  "nameWithOwner": "tsumilo/DisasterZone-dev",
+  "createdAt": "2026-10-12T08:32:09Z",
+  "isFork": false,
+  "description": "DisasterZone dev kit: addon source, specs, WoW-mock test harness, release tools, launcher",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "cumsauce/earshot": {
+  "nameWithOwner": "cumsauce/earshot",
+  "createdAt": "2026-10-11T23:41:26Z",
+  "isFork": false,
+  "description": "Physically based acoustics for Minecraft (Fabric 26.3, client only): occlusion, sound around corners, raytraced reverb, HRTF",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "amos-23/backyard": {
+  "nameWithOwner": "amos-23/backyard",
+  "createdAt": "2026-10-11T23:26:58Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Shexter/ancient-warrior-rpg": {
+  "nameWithOwner": "Shexter/ancient-warrior-rpg",
+  "createdAt": "2026-10-11T01:12:09Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "SSDHCMSH-26/Dungeon-Boss-raid-ssd": {
+  "nameWithOwner": "SSDHCMSH-26/Dungeon-Boss-raid-ssd",
+  "createdAt": "2026-10-11T09:01:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "friesevan/gbl-synapse": {
+  "nameWithOwner": "friesevan/gbl-synapse",
+  "createdAt": "2026-10-11T03:40:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Kiikurage/game-test": {
+  "nameWithOwner": "Kiikurage/game-test",
+  "createdAt": "2026-10-09T16:47:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://kiikurage.github.io/game-test/",
+  "stargazerCount": 0
+ },
+ "mansaalman01-maker/Marvel-Strike-Force-Planning": {
+  "nameWithOwner": "mansaalman01-maker/Marvel-Strike-Force-Planning",
+  "createdAt": "2026-10-11T14:54:45Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mijiye29-creator/winter-rush": {
+  "nameWithOwner": "mijiye29-creator/winter-rush",
+  "createdAt": "2026-10-08T23:46:08Z",
+  "isFork": false,
+  "description": "\ud55c\uaca8\uc6b8 \uc232\uc18d \ub9c8\uc744 \ubaa8\ubc14\uc77c \uac8c\uc784 \uac1c\ubc1c \ud504\ub85c\uc81d\ud2b8",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "ProClifo/NextUI-Pokemon-Manager": {
+  "nameWithOwner": "ProClifo/NextUI-Pokemon-Manager",
+  "createdAt": "2026-10-08T16:17:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "m0nnnna/ultimit": {
+  "nameWithOwner": "m0nnnna/ultimit",
+  "createdAt": "2026-10-09T17:37:15Z",
+  "isFork": false,
+  "description": "Gaming-first Linux desktop inspired by Altimit OS from .hack",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Bokter/Gyde": {
+  "nameWithOwner": "Bokter/Gyde",
+  "createdAt": "2026-10-08T21:14:36Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Bananalorian/macroshmup": {
+  "nameWithOwner": "Bananalorian/macroshmup",
+  "createdAt": "2026-10-09T23:10:28Z",
+  "isFork": false,
+  "description": "A shmup made with macroquad",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "wonhaeyou24-a11y/bodyaction": {
+  "nameWithOwner": "wonhaeyou24-a11y/bodyaction",
+  "createdAt": "2026-10-11T08:57:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "zees-games/game-zombie-zone": {
+  "nameWithOwner": "zees-games/game-zombie-zone",
+  "createdAt": "2026-10-11T08:45:32Z",
+  "isFork": false,
+  "description": "This is a game to demonstrate the capabilities of the Dot collection built on-top of Godot 4 and TMC's gaming platform.",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "TobiasMidtgard/Engine": {
+  "nameWithOwner": "TobiasMidtgard/Engine",
+  "createdAt": "2026-10-12T06:35:49Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alicin/notwindows": {
+  "nameWithOwner": "alicin/notwindows",
+  "createdAt": "2026-10-08T00:28:57Z",
+  "isFork": false,
+  "description": "Native macOS games launcher for Windows games \u2014 per-game toggles on the Sikarugir Wine stack, no wrappers.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mylife-as-miles/Palindrome-Three-Bedroom": {
+  "nameWithOwner": "mylife-as-miles/Palindrome-Three-Bedroom",
+  "createdAt": "2026-10-09T22:44:15Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "msucedo/AirportMania2Web": {
+  "nameWithOwner": "msucedo/AirportMania2Web",
+  "createdAt": "2026-10-09T19:44:54Z",
+  "isFork": false,
+  "description": "This is an unofficial, non-commercial fan game. No game content is hosted here; the server only runs the engine.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "aboston678/the-den": {
+  "nameWithOwner": "aboston678/the-den",
+  "createdAt": "2026-10-11T19:40:30Z",
+  "isFork": false,
+  "description": "The Den: private multiplayer 3D browser game",
+  "homepageUrl": "https://the-den-phi.vercel.app",
+  "stargazerCount": 0
+ },
+ "RVMA/ping-pong-league": {
+  "nameWithOwner": "RVMA/ping-pong-league",
+  "createdAt": "2026-10-13T06:53:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ggdrn/METEOR-VII-VITA": {
+  "nameWithOwner": "ggdrn/METEOR-VII-VITA",
+  "createdAt": "2026-10-13T21:31:12Z",
+  "isFork": false,
+  "description": "Port de Final Fantasy VII - Android Legacy para o VITA",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "colebrumley/new-world": {
+  "nameWithOwner": "colebrumley/new-world",
+  "createdAt": "2026-10-09T11:58:54Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://colebrumley.github.io/new-world/",
+  "stargazerCount": 0
+ },
+ "thedevcool/Bojubojugame": {
+  "nameWithOwner": "thedevcool/Bojubojugame",
+  "createdAt": "2026-10-11T08:10:56Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://bojubojugame.vercel.app",
+  "stargazerCount": 0
+ },
+ "Moment-Up/pitwall": {
+  "nameWithOwner": "Moment-Up/pitwall",
+  "createdAt": "2026-10-11T16:26:39Z",
+  "isFork": false,
+  "description": "Local-first AI sim racing coach and race engineer for the iPad next to your wheel (F1 25, Assetto Corsa, GT7)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "weedsniffer777/THEgame": {
+  "nameWithOwner": "weedsniffer777/THEgame",
+  "createdAt": "2026-10-11T18:14:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "shwailbmg-cyber/matchiko": {
+  "nameWithOwner": "shwailbmg-cyber/matchiko",
+  "createdAt": "2026-10-09T07:12:25Z",
+  "isFork": false,
+  "description": "football app",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "UnmarkedCat/sol-inc-site": {
+  "nameWithOwner": "UnmarkedCat/sol-inc-site",
+  "createdAt": "2026-10-11T23:56:26Z",
+  "isFork": false,
+  "description": "Support page and privacy policy for the Sol, Inc. app",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "xenobyte-dev/wandwars-online": {
+  "nameWithOwner": "xenobyte-dev/wandwars-online",
+  "createdAt": "2026-10-12T21:32:29Z",
+  "isFork": false,
+  "description": "Native online multiplayer mod for Wand Wars (Steam P2P, up to 8 players)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tbrought/hegemarch": {
+  "nameWithOwner": "tbrought/hegemarch",
+  "createdAt": "2026-10-10T05:21:14Z",
+  "isFork": false,
+  "description": "8-bit real-time space strategy roguelite",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "andrewnakas/skatecore-cpp": {
+  "nameWithOwner": "andrewnakas/skatecore-cpp",
+  "createdAt": "2026-10-11T16:15:51Z",
+  "isFork": false,
+  "description": "Skate 3 mechanics (flick-it tricks, grinds, manuals) as an engine-free C++17 library, playable in the browser",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "aquinas22/powerfactor": {
+  "nameWithOwner": "aquinas22/powerfactor",
+  "createdAt": "2026-10-12T01:17:52Z",
+  "isFork": false,
+  "description": "Open Source Minecraft Tech Mod with lots of real electrical engineering concepts!",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "wivi514/DR2-Studio": {
+  "nameWithOwner": "wivi514/DR2-Studio",
+  "createdAt": "2026-10-14T19:10:16Z",
+  "isFork": false,
+  "description": "Modding studio for Dead Rising 2: Case Zero and Case West",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jeffbcole/sub-coach": {
+  "nameWithOwner": "jeffbcole/sub-coach",
+  "createdAt": "2026-10-07T17:38:31Z",
+  "isFork": false,
+  "description": "Soccer lineups, substitutions & game timer for youth coaches (iPhone/iPad)",
+  "homepageUrl": "https://jeffbcole.github.io/sub-coach/",
+  "stargazerCount": 0
+ },
+ "Fjacquette/strategic-conquest": {
+  "nameWithOwner": "Fjacquette/strategic-conquest",
+  "createdAt": "2026-10-10T18:37:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Voyl123/Tl-stats": {
+  "nameWithOwner": "Voyl123/Tl-stats",
+  "createdAt": "2026-10-10T15:49:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "eloqwntdev/foresee": {
+  "nameWithOwner": "eloqwntdev/foresee",
+  "createdAt": "2026-10-12T23:05:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://foresee-inky.vercel.app",
+  "stargazerCount": 0
+ },
+ "opensims2/opensims2-public": {
+  "nameWithOwner": "opensims2/opensims2-public",
+  "createdAt": "2026-10-13T03:11:07Z",
+  "isFork": false,
+  "description": "Native macOS reimplementation of The Sims 2 (2004) engine in C++ and Metal. Code only, no game files.",
+  "homepageUrl": null,
+  "stargazerCount": 3
+ },
+ "shmauk/tlgffl": {
+  "nameWithOwner": "shmauk/tlgffl",
+  "createdAt": "2026-10-11T10:57:17Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "JamesMHanlon/draft-for-20": {
+  "nameWithOwner": "JamesMHanlon/draft-for-20",
+  "createdAt": "2026-10-11T23:29:35Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Abhishek222983101/pokestonksss": {
+  "nameWithOwner": "Abhishek222983101/pokestonksss",
+  "createdAt": "2026-10-12T20:41:45Z",
+  "isFork": false,
+  "description": "PokeStonksss \u2014 PokeStonks rebuilt on Solana + MagicBlock Ephemeral Rollups (VRF, oracle, commit)",
+  "homepageUrl": "https://pokestonksss.vercel.app/",
+  "stargazerCount": 0
+ },
+ "GoldenCarrotMLP/PokeModelExporter": {
+  "nameWithOwner": "GoldenCarrotMLP/PokeModelExporter",
+  "createdAt": "2026-10-12T23:57:33Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Nejadmasoom/haftkhan": {
+  "nameWithOwner": "Nejadmasoom/haftkhan",
+  "createdAt": "2026-10-12T13:25:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "largeweb/zelda-karts-mc": {
+  "nameWithOwner": "largeweb/zelda-karts-mc",
+  "createdAt": "2026-10-09T16:51:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "nolffan/nolfsrc": {
+  "nameWithOwner": "nolffan/nolfsrc",
+  "createdAt": "2026-10-10T00:12:25Z",
+  "isFork": false,
+  "description": "Source code lives forever.",
+  "homepageUrl": "",
+  "stargazerCount": 59
+ },
+ "ludin-lee/real-random-game": {
+  "nameWithOwner": "ludin-lee/real-random-game",
+  "createdAt": "2026-10-12T23:35:47Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "minpoop/gow": {
+  "nameWithOwner": "minpoop/gow",
+  "createdAt": "2026-10-10T05:08:49Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ZIn34/Phone-VR": {
+  "nameWithOwner": "ZIn34/Phone-VR",
+  "createdAt": "2026-10-12T23:33:07Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jedgarpark/crankyfruit": {
+  "nameWithOwner": "jedgarpark/crankyfruit",
+  "createdAt": "2026-10-10T19:50:01Z",
+  "isFork": false,
+  "description": "Crankfruit: standalone Playdate-style source-Lua game player for the Adafruit Fruit Jam (RP2350B), with HDMI video+audio, optional DS4 gamepad, and a Snake port",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jeremiah0/OverwatchDroid": {
+  "nameWithOwner": "jeremiah0/OverwatchDroid",
+  "createdAt": "2026-10-12T20:53:57Z",
+  "isFork": false,
+  "description": "An attempt to run Overwatch via DroidDeck (https://github.com/Droid-Deck/DroidDeck)",
+  "homepageUrl": null,
+  "stargazerCount": 7
+ },
+ "2042Third/GameEngine": {
+  "nameWithOwner": "2042Third/GameEngine",
+  "createdAt": "2026-10-09T02:56:07Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Cybershvdow/vstroz-alliance": {
+  "nameWithOwner": "Cybershvdow/vstroz-alliance",
+  "createdAt": "2026-10-08T02:48:12Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "wbp318/goin-postal-forsythe": {
+  "nameWithOwner": "wbp318/goin-postal-forsythe",
+  "createdAt": "2026-10-12T23:20:44Z",
+  "isFork": false,
+  "description": "Marketing kit for the Goin' Postal store at Forsythe Ave & N 18th St, Monroe, LA: sponsorship ads for Moccasins hockey and local high schools, billboard cost calculator, and flowcharts.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AdamNakamoto/courierworld": {
+  "nameWithOwner": "AdamNakamoto/courierworld",
+  "createdAt": "2026-10-08T12:07:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://courierworld-web.vercel.app",
+  "stargazerCount": 0
+ },
+ "inputloop/fourSwordsFromThePast": {
+  "nameWithOwner": "inputloop/fourSwordsFromThePast",
+  "createdAt": "2026-10-10T08:46:40Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mschoenm/nubo": {
+  "nameWithOwner": "mschoenm/nubo",
+  "createdAt": "2026-10-10T12:00:37Z",
+  "isFork": false,
+  "description": "A cycle-accurate Game Boy and Game Boy Color emulator written in Rust that runs on the desktop and in the browser.",
+  "homepageUrl": "https://mschoenm.github.io/nubo/",
+  "stargazerCount": 0
+ },
+ "zsidiadi/Ball-Heckaton-ascii-game": {
+  "nameWithOwner": "zsidiadi/Ball-Heckaton-ascii-game",
+  "createdAt": "2026-10-12T08:17:06Z",
+  "isFork": false,
+  "description": "This is an Ascii game made by \u00c1d\u00e1m Zsid\u00e1kovits and Cristian-Mihai Radu for the B.A.L.L.S heckaton",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "1994akh/Game-maker-v1--rom-edition-": {
+  "nameWithOwner": "1994akh/Game-maker-v1--rom-edition-",
+  "createdAt": "2026-10-12T21:21:32Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "asadk26/ChessTrainer": {
+  "nameWithOwner": "asadk26/ChessTrainer",
+  "createdAt": "2026-10-12T06:11:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://chess-trainer-khan-af53.vercel.app",
+  "stargazerCount": 0
+ },
+ "woojehyuk/tetris": {
+  "nameWithOwner": "woojehyuk/tetris",
+  "createdAt": "2026-10-12T09:03:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AjncSystem/ShadowOfTheColossus-PC": {
+  "nameWithOwner": "AjncSystem/ShadowOfTheColossus-PC",
+  "createdAt": "2026-10-12T13:11:53Z",
+  "isFork": false,
+  "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+  "homepageUrl": null,
+  "stargazerCount": 378
+ },
+ "sturmds/advance-wars-dual-strike-decomp": {
+  "nameWithOwner": "sturmds/advance-wars-dual-strike-decomp",
+  "createdAt": "2026-10-13T13:55:43Z",
+  "isFork": false,
+  "description": "A complete decompilation of Advance Wars: Dual Strike",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "funklunsford/mountweazel": {
+  "nameWithOwner": "funklunsford/mountweazel",
+  "createdAt": "2026-10-11T00:28:53Z",
+  "isFork": false,
+  "description": "Find the forged entries on a dictionary page, by deduction.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "codysantas-web/peloton-dynasty": {
+  "nameWithOwner": "codysantas-web/peloton-dynasty",
+  "createdAt": "2026-10-10T20:46:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "connerw1122-source/NightfirePort": {
+  "nameWithOwner": "connerw1122-source/NightfirePort",
+  "createdAt": "2026-10-09T20:37:24Z",
+  "isFork": false,
+  "description": "Native Rust port of 007: Nightfire (PS2), rebuilt from the game's own data and logic. Bring your own disc.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "vwarr/ww2-fleet-battle": {
+  "nameWithOwner": "vwarr/ww2-fleet-battle",
+  "createdAt": "2026-10-08T04:00:43Z",
+  "isFork": false,
+  "description": "A calm, cinematic WW2 naval battle that plays itself. Three.js.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Georgwav/Cosmetics-Mod": {
+  "nameWithOwner": "Georgwav/Cosmetics-Mod",
+  "createdAt": "2026-10-13T13:25:09Z",
+  "isFork": false,
+  "description": "cosmetics mod for new mc versions",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "flarialmc/macos": {
+  "nameWithOwner": "flarialmc/macos",
+  "createdAt": "2026-10-13T23:36:38Z",
+  "isFork": false,
+  "description": "Flarial Client launcher for macOS (port of flarialmc/linux)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Meldiron/card-jigsaw-world": {
+  "nameWithOwner": "Meldiron/card-jigsaw-world",
+  "createdAt": "2026-10-11T14:44:19Z",
+  "isFork": false,
+  "description": "Card Jigsaw World: a cozy card-swapping picture puzzle game (Flutter + Appwrite)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Tristan2828/gamekit": {
+  "nameWithOwner": "Tristan2828/gamekit",
+  "createdAt": "2026-10-11T02:03:13Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hajiheidari/mafia": {
+  "nameWithOwner": "hajiheidari/mafia",
+  "createdAt": "2026-10-10T20:55:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tqphan/uca": {
+  "nameWithOwner": "tqphan/uca",
+  "createdAt": "2026-10-12T19:22:06Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "colleenelyse/asl-study-hall": {
+  "nameWithOwner": "colleenelyse/asl-study-hall",
+  "createdAt": "2026-10-13T19:10:03Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Shark-vil/gmod-mlp-g5-web": {
+  "nameWithOwner": "Shark-vil/gmod-mlp-g5-web",
+  "createdAt": "2026-10-13T15:58:09Z",
+  "isFork": false,
+  "description": "Stats and unlocks web service for the MLP G5 Garry's Mod addon",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Jreese702/DS-Forever": {
+  "nameWithOwner": "Jreese702/DS-Forever",
+  "createdAt": "2026-10-13T16:32:44Z",
+  "isFork": false,
+  "description": "DS Forever: a two-screen, controller-first companion for WoW Forever on the AYN Thor",
+  "homepageUrl": null,
+  "stargazerCount": 4
+ },
+ "ByeByeSyrena/phantompay": {
+  "nameWithOwner": "ByeByeSyrena/phantompay",
+  "createdAt": "2026-10-13T23:37:02Z",
+  "isFork": false,
+  "description": "spooky game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "elionaimelo/sofa": {
+  "nameWithOwner": "elionaimelo/sofa",
+  "createdAt": "2026-10-13T00:46:42Z",
+  "isFork": false,
+  "description": "Controller-first game library for Windows handhelds (Tauri + React)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Chriszly/game-proto": {
+  "nameWithOwner": "Chriszly/game-proto",
+  "createdAt": "2026-10-13T06:32:00Z",
+  "isFork": false,
+  "description": "a small collection of game prototypes",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "masalikovic/mxm-gameboy": {
+  "nameWithOwner": "masalikovic/mxm-gameboy",
+  "createdAt": "2026-10-13T10:21:02Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "gabryelvs/kestrel": {
+  "nameWithOwner": "gabryelvs/kestrel",
+  "createdAt": "2026-10-09T16:41:35Z",
+  "isFork": false,
+  "description": "Kestrel: a free, honest FPS optimiser for VALORANT on Windows",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "unowness/shuttle-blues-play": {
+  "nameWithOwner": "unowness/shuttle-blues-play",
+  "createdAt": "2026-10-11T17:14:58Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bowser575/cbb-scores": {
+  "nameWithOwner": "bowser575/cbb-scores",
+  "createdAt": "2026-10-13T23:56:25Z",
+  "isFork": false,
+  "description": "Men's college basketball scores, rankings, and teams \u2014 an iOS-style React web app",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "byescaleira/naruto-uzumaki-chronicles-2": {
+  "nameWithOwner": "byescaleira/naruto-uzumaki-chronicles-2",
+  "createdAt": "2026-10-12T06:48:21Z",
+  "isFork": false,
+  "description": "Naruto: Uzumaki Chronicles 2 reimplementado em Swift e Metal para iPhone, iPad, Mac e Apple TV: engenharia reversa do PS2 com REA, 4K/HDR, 60 Hz, paisagem sem bordas.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "yum1ko1/Pax-RPG": {
+  "nameWithOwner": "yum1ko1/Pax-RPG",
+  "createdAt": "2026-10-09T23:35:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "salexanderj/Itera": {
+  "nameWithOwner": "salexanderj/Itera",
+  "createdAt": "2026-10-09T17:59:53Z",
+  "isFork": false,
+  "description": "A .NET 10 framework for 3D games: Vulkan rendering, voxel worlds, ECS, physics, sound, and peer-to-peer sessions. Clone it and build a game in src/Game. Specifically designed with Claude Code in mind.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "OmsiModsBR/depot": {
+  "nameWithOwner": "OmsiModsBR/depot",
+  "createdAt": "2026-10-09T23:54:17Z",
+  "isFork": false,
+  "description": "A stable, selectively maintained OMSI 2-compatible runtime based on openOMSI, developed by OmsiModsBR Team.",
+  "homepageUrl": "https://omsimods.com.br",
+  "stargazerCount": 2
+ },
+ "tomaras/game-night": {
+  "nameWithOwner": "tomaras/game-night",
+  "createdAt": "2026-10-09T07:43:48Z",
+  "isFork": false,
+  "description": "Multiplayer party games in the browser: 52 games, numbered rooms, chat, voice/video, no server",
+  "homepageUrl": "https://squattersnights.fun/",
+  "stargazerCount": 0
+ },
+ "insightful-uno/insightful-uno.github.io": {
+  "nameWithOwner": "insightful-uno/insightful-uno.github.io",
+  "createdAt": "2026-10-07T23:24:14Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "the-owen-programmer/recroom-archive-server": {
+  "nameWithOwner": "the-owen-programmer/recroom-archive-server",
+  "createdAt": "2026-10-13T22:41:01Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "itechify/maple-survivors": {
+  "nameWithOwner": "itechify/maple-survivors",
+  "createdAt": "2026-10-13T22:27:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "SoloLeveling-2/Petsim99": {
+  "nameWithOwner": "SoloLeveling-2/Petsim99",
+  "createdAt": "2026-10-09T16:56:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pkreusser-hub/settlers": {
+  "nameWithOwner": "pkreusser-hub/settlers",
+  "createdAt": "2026-10-13T02:17:35Z",
+  "isFork": false,
+  "description": "The Settlers (1993) in the browser: a TypeScript port of Freeserf with online two-player. Bring your own SPAE.PA.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ycgNem/ycgnem.github.io": {
+  "nameWithOwner": "ycgNem/ycgnem.github.io",
+  "createdAt": "2026-10-13T21:20:53Z",
+  "isFork": false,
+  "description": "Free browser games, built with AI, shown in the open.",
+  "homepageUrl": "https://ycgnem.github.io",
+  "stargazerCount": 0
+ },
+ "SandroMaglione/inkline-town": {
+  "nameWithOwner": "SandroMaglione/inkline-town",
+  "createdAt": "2026-10-12T06:59:33Z",
+  "isFork": false,
+  "description": "A town simulation in pale isometric line art, on the bevy-ts ECS and Pixi",
+  "homepageUrl": "https://inkline.typeonce.dev",
+  "stargazerCount": 59
+ },
+ "velhomarinheiro/oas-maritimesecurity": {
+  "nameWithOwner": "velhomarinheiro/oas-maritimesecurity",
+  "createdAt": "2026-10-13T23:39:12Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "svineet15685/Chronokid_Era-Hopper": {
+  "nameWithOwner": "svineet15685/Chronokid_Era-Hopper",
+  "createdAt": "2026-10-11T14:10:39Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "funklunsford/playlist": {
+  "nameWithOwner": "funklunsford/playlist",
+  "createdAt": "2026-10-13T23:54:38Z",
+  "isFork": false,
+  "description": "Today's puzzles as a playlist: press play, come back, tap Next.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tessie1993/wacky-towers": {
+  "nameWithOwner": "tessie1993/wacky-towers",
+  "createdAt": "2026-10-08T18:56:54Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AdamFull/ff7ccrecomp": {
+  "nameWithOwner": "AdamFull/ff7ccrecomp",
+  "createdAt": "2026-10-14T19:27:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "anomieko/fangs-community-edition": {
+  "nameWithOwner": "anomieko/fangs-community-edition",
+  "createdAt": "2026-10-13T15:40:29Z",
+  "isFork": false,
+  "description": "Fangs: Community Edition \u2014 unofficial, non-commercial fan project to keep FANGS playable (replacement backend + self-hosted custom lobbies). Not affiliated with the game's owners; no game content included.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "lazar-milin/birdcard-ripoff": {
+  "nameWithOwner": "lazar-milin/birdcard-ripoff",
+  "createdAt": "2026-10-14T21:33:51Z",
+  "isFork": false,
+  "description": "A vibecoded \"CuBirds\" clone done as a test of vibecoding of webapps and Discord activities in late 2026.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "diogorms88/localdrive": {
+  "nameWithOwner": "diogorms88/localdrive",
+  "createdAt": "2026-10-12T15:09:14Z",
+  "isFork": false,
+  "description": "LocalDrive de Diogo",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "saliltimalsina/bootcards": {
+  "nameWithOwner": "saliltimalsina/bootcards",
+  "createdAt": "2026-10-14T23:58:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hhavynn/fantasy": {
+  "nameWithOwner": "hhavynn/fantasy",
+  "createdAt": "2026-10-14T05:30:35Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "marquiselee/the-scratch-sheet": {
+  "nameWithOwner": "marquiselee/the-scratch-sheet",
+  "createdAt": "2026-10-14T22:17:08Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "justin-rh/gtgdle": {
+  "nameWithOwner": "justin-rh/gtgdle",
+  "createdAt": "2026-10-14T19:24:10Z",
+  "isFork": false,
+  "description": "GTGdle",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Drakey83/retropane-os": {
+  "nameWithOwner": "Drakey83/retropane-os",
+  "createdAt": "2026-10-11T00:01:55Z",
+  "isFork": false,
+  "description": "RetroPane OS: a modern, clean-room take on Windows Mobile for the Dell Axim X51v. Native drivers for all hardware (incl. 2700G 3D), WM5/6.x app compatibility, modern internet.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "david-andrew/sloppy-lang": {
+  "nameWithOwner": "david-andrew/sloppy-lang",
+  "createdAt": "2026-10-08T10:00:17Z",
+  "isFork": false,
+  "description": "A programming language developed by AI",
+  "homepageUrl": "https://david-andrew.github.io/sloppy-lang/",
+  "stargazerCount": 0
+ },
+ "x-ror/netstorm-web": {
+  "nameWithOwner": "x-ror/netstorm-web",
+  "createdAt": "2026-10-11T00:45:13Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "netoramos910-gif/neto-claude": {
+  "nameWithOwner": "netoramos910-gif/neto-claude",
+  "createdAt": "2026-10-14T04:16:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "michelledong200/brass-rail-poker": {
+  "nameWithOwner": "michelledong200/brass-rail-poker",
+  "createdAt": "2026-10-14T23:58:17Z",
+  "isFork": false,
+  "description": "Texas Hold'em that teaches you as you play: coach, lessons, AI opponents and friend tables",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "johnhkchen/enterprise": {
+  "nameWithOwner": "johnhkchen/enterprise",
+  "createdAt": "2026-10-13T14:29:28Z",
+  "isFork": false,
+  "description": "minecraft agricultural-industrial complex mod",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ehsanhaque/brickdrift": {
+  "nameWithOwner": "ehsanhaque/brickdrift",
+  "createdAt": "2026-10-14T23:44:12Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "NyteRyzer/MySuperLife": {
+  "nameWithOwner": "NyteRyzer/MySuperLife",
+  "createdAt": "2026-10-14T02:16:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Slycat555/shale-linux": {
+  "nameWithOwner": "Slycat555/shale-linux",
+  "createdAt": "2026-10-11T23:29:24Z",
+  "isFork": false,
+  "description": "A friendly Arch-based Linux distro: KDE Plasma, AMD, PipeWire, Flatpak, Bazaar, and an easy installer",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "joshuamcginley-lab/where-the-streets-have-no-game": {
+  "nameWithOwner": "joshuamcginley-lab/where-the-streets-have-no-game",
+  "createdAt": "2026-10-14T21:57:52Z",
+  "isFork": false,
+  "description": "Deep-cut U2 trivia, built from sourced setlist and dscography data",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Eamo5/dishonored-bevy": {
+  "nameWithOwner": "Eamo5/dishonored-bevy",
+  "createdAt": "2026-10-08T08:05:43Z",
+  "isFork": false,
+  "description": "A full reimplementation of Dishonored (2012) in the Bevy Game engine (WIP)",
+  "homepageUrl": "",
+  "stargazerCount": 2
+ },
+ "GiantMushy/StateYourCase": {
+  "nameWithOwner": "GiantMushy/StateYourCase",
+  "createdAt": "2026-10-14T21:55:04Z",
+  "isFork": false,
+  "description": "State Your Case - by Angry Puffin Games",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tomtombombadil/CYD-Classic-Arcade": {
+  "nameWithOwner": "tomtombombadil/CYD-Classic-Arcade",
+  "createdAt": "2026-10-14T19:19:48Z",
+  "isFork": false,
+  "description": "This is a Classic Arcade emulator for the Cheap Yellow Display. Adding a speaker, a bluetooth controller, and the game ROMs to your SD card, and you'll be playing classics like Space Invaders, Galaga, Pac-Man, and Donkey Kong! (Game support is limited. See readme for more info.)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "eduardoinoa18/inoa-games": {
+  "nameWithOwner": "eduardoinoa18/inoa-games",
+  "createdAt": "2026-10-14T16:42:43Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "GeoffWilson/reroll": {
+  "nameWithOwner": "GeoffWilson/reroll",
+  "createdAt": "2026-10-11T22:08:04Z",
+  "isFork": false,
+  "description": "Rollcage (1999) reimplemented as a native Linux program: original physics, Vulkan renderer, ultrawide, longer draw distance. Bring your own copy of the game.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "klutzydrummer/VI-Assistant": {
+  "nameWithOwner": "klutzydrummer/VI-Assistant",
+  "createdAt": "2026-10-12T13:26:17Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "singularity098/fretbored": {
+  "nameWithOwner": "singularity098/fretbored",
+  "createdAt": "2026-10-14T14:36:43Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://singularity098.github.io/fretbored/",
+  "stargazerCount": 0
+ },
+ "dwfennell/woodrail": {
+  "nameWithOwner": "dwfennell/woodrail",
+  "createdAt": "2026-10-10T15:25:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Edgemodders/EDGEmat": {
+  "nameWithOwner": "Edgemodders/EDGEmat",
+  "createdAt": "2026-10-14T11:14:30Z",
+  "isFork": false,
+  "description": "Material editor for EDGE",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "conner-mcvay/fh2-mods": {
+  "nameWithOwner": "conner-mcvay/fh2-mods",
+  "createdAt": "2026-10-12T22:12:18Z",
+  "isFork": false,
+  "description": "Monorepo for fh2 mods.",
+  "homepageUrl": null,
+  "stargazerCount": 6
+ },
+ "hugecrankhank/ALTTPR-Snes9x-Beta": {
+  "nameWithOwner": "hugecrankhank/ALTTPR-Snes9x-Beta",
+  "createdAt": "2026-10-11T05:36:01Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "lowlevelmetal/OpenBRC": {
+  "nameWithOwner": "lowlevelmetal/OpenBRC",
+  "createdAt": "2026-10-14T22:05:40Z",
+  "isFork": false,
+  "description": "Open source barbie riding club... dont ask...",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "crizCraig/ai-safety-sim": {
+  "nameWithOwner": "crizCraig/ai-safety-sim",
+  "createdAt": "2026-10-08T23:13:25Z",
+  "isFork": false,
+  "description": "Game of AGI: a 3D strategy simulator for AI safety decisions, calibrated to AI 2040",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "rebenitez1802/satisfactory-tools": {
+  "nameWithOwner": "rebenitez1802/satisfactory-tools",
+  "createdAt": "2026-10-13T17:35:18Z",
+  "isFork": false,
+  "description": "A repository for satisfactory-tools",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alejandruxxug/ClaudeWD40": {
+  "nameWithOwner": "alejandruxxug/ClaudeWD40",
+  "createdAt": "2026-10-11T01:15:29Z",
+  "isFork": false,
+  "description": "Claude Web Development 40: Claude Code skills for everyday web development",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "missingno7/sam_recon": {
+  "nameWithOwner": "missingno7/sam_recon",
+  "createdAt": "2026-10-14T17:52:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "chrislg212/stuy-assassin": {
+  "nameWithOwner": "chrislg212/stuy-assassin",
+  "createdAt": "2026-10-14T22:55:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Anveio/isaac-rebirth-browser": {
+  "nameWithOwner": "Anveio/isaac-rebirth-browser",
+  "createdAt": "2026-10-12T17:45:22Z",
+  "isFork": false,
+  "description": "Private Isaac Rebirth browser-port workspace and ChatGPT cloud environment setup",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ryangirard11/bbol-scrimmage": {
+  "nameWithOwner": "ryangirard11/bbol-scrimmage",
+  "createdAt": "2026-10-14T20:17:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "snappyyeti/newgame": {
+  "nameWithOwner": "snappyyeti/newgame",
+  "createdAt": "2026-10-14T23:38:25Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "misomiplo10/fomocity": {
+  "nameWithOwner": "misomiplo10/fomocity",
+  "createdAt": "2026-10-10T23:21:55Z",
+  "isFork": false,
+  "description": "Last-buyer-wins game in a procedural three.js city, with a token launched on Meteora DBC and on-chain fee buybacks",
+  "homepageUrl": "https://fomocity.vercel.app",
+  "stargazerCount": 0
+ },
+ "agiacalone/zelda-remuxed": {
+  "nameWithOwner": "agiacalone/zelda-remuxed",
+  "createdAt": "2026-10-14T07:08:04Z",
+  "isFork": false,
+  "description": "Run the Legend of Zelda [reloaded] NES randomizer headless on Linux (Wine + .NET 4.8 in Docker)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "skitzellez/xbox-game-vault": {
+  "nameWithOwner": "skitzellez/xbox-game-vault",
+  "createdAt": "2026-10-13T14:51:25Z",
+  "isFork": false,
+  "description": "Game Vault by Skitzelles: USB game launcher for Xbox Series X/S Dev Mode with a one-download setup, plus an xemu (original Xbox) port. No games or BIOS files.",
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "officialNicholas/rollmodel": {
+  "nameWithOwner": "officialNicholas/rollmodel",
+  "createdAt": "2026-10-08T22:52:22Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ashkanvg/HogwartsHouse": {
+  "nameWithOwner": "ashkanvg/HogwartsHouse",
+  "createdAt": "2026-10-14T22:48:05Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "t0dida00/PwL": {
+  "nameWithOwner": "t0dida00/PwL",
+  "createdAt": "2026-10-14T20:59:25Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Mola-Bola/prata-raja-app": {
+  "nameWithOwner": "Mola-Bola/prata-raja-app",
+  "createdAt": "2026-10-12T06:42:45Z",
+  "isFork": false,
+  "description": "Prata Raja app source (Expo + Supabase)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "PlasticCog/720Degrees_7800": {
+  "nameWithOwner": "PlasticCog/720Degrees_7800",
+  "createdAt": "2026-10-12T23:52:09Z",
+  "isFork": false,
+  "description": "A really stupid idea that I must try.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hammerill/libfpv": {
+  "nameWithOwner": "hammerill/libfpv",
+  "createdAt": "2026-10-12T18:59:51Z",
+  "isFork": false,
+  "description": "Turn any game into an FPV sim.",
+  "homepageUrl": "",
+  "stargazerCount": 20
+ },
+ "appshalamov/gta-cheats-demo": {
+  "nameWithOwner": "appshalamov/gta-cheats-demo",
+  "createdAt": "2026-10-14T01:23:11Z",
+  "isFork": false,
+  "description": "\u0414\u0435\u043c\u043e PWA: \u0447\u0438\u0442-\u043a\u043e\u0434\u044b GTA 5 \u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437 GTA 6",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Kasix-K/mod-unbound": {
+  "nameWithOwner": "Kasix-K/mod-unbound",
+  "createdAt": "2026-10-14T02:59:08Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Flixbox/khovax": {
+  "nameWithOwner": "Flixbox/khovax",
+  "createdAt": "2026-10-13T10:57:51Z",
+  "isFork": false,
+  "description": "Codename khovax: hex-grid monster-catching ARPG (Godot 4, GDScript)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mr-mochi808/stickman-hit": {
+  "nameWithOwner": "mr-mochi808/stickman-hit",
+  "createdAt": "2026-10-11T19:13:00Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "oacdlr/duckdrink": {
+  "nameWithOwner": "oacdlr/duckdrink",
+  "createdAt": "2026-10-15T01:10:44Z",
+  "isFork": false,
+  "description": "quick easy game where a duck find water and pills",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "books4jy-art/BCU-Android-Update": {
+  "nameWithOwner": "books4jy-art/BCU-Android-Update",
+  "createdAt": "2026-10-14T23:09:39Z",
+  "isFork": false,
+  "description": "Not made by me! All credits go to BCU\u2019s original creators ",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "sirsigmund79/snail-chess": {
+  "nameWithOwner": "sirsigmund79/snail-chess",
+  "createdAt": "2026-10-14T16:42:15Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dudwns0921/gamedev-kit-board": {
+  "nameWithOwner": "dudwns0921/gamedev-kit-board",
+  "createdAt": "2026-10-15T00:41:09Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://gamedev-kit-board.vercel.app",
+  "stargazerCount": 0
+ },
+ "automateeaseai-arch/9ja-rescue": {
+  "nameWithOwner": "automateeaseai-arch/9ja-rescue",
+  "createdAt": "2026-10-12T16:27:02Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Guinnessstache/tunaria-reborn": {
+  "nameWithOwner": "Guinnessstache/tunaria-reborn",
+  "createdAt": "2026-10-14T19:01:21Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hammerill/gtaiv-fpv": {
+  "nameWithOwner": "hammerill/gtaiv-fpv",
+  "createdAt": "2026-10-14T00:09:28Z",
+  "isFork": false,
+  "description": "FPV in Grand Theft Auto IV.",
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "AkbarMaliki/age-ai": {
+  "nameWithOwner": "AkbarMaliki/age-ai",
+  "createdAt": "2026-10-12T01:36:56Z",
+  "isFork": false,
+  "description": "A web game project named age-ai",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Dislordy/neon-arena-blackout": {
+  "nameWithOwner": "Dislordy/neon-arena-blackout",
+  "createdAt": "2026-10-14T01:55:36Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "benjaminxu251/pokemon_daily_champion": {
+  "nameWithOwner": "benjaminxu251/pokemon_daily_champion",
+  "createdAt": "2026-10-15T00:32:10Z",
+  "isFork": false,
+  "description": "daily pokemon battles",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alfredoptarigan/pockie-ninja-rework": {
+  "nameWithOwner": "alfredoptarigan/pockie-ninja-rework",
+  "createdAt": "2026-10-11T13:09:13Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "marcusvilete/couch-coapp": {
+  "nameWithOwner": "marcusvilete/couch-coapp",
+  "createdAt": "2026-10-13T19:26:21Z",
+  "isFork": false,
+  "description": "Couch co-op over the internet: stream your game to friends and hand them the controller",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "litojace/2D-POKEMON": {
+  "nameWithOwner": "litojace/2D-POKEMON",
+  "createdAt": "2026-10-12T17:06:53Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "FallGameDev/frae": {
+  "nameWithOwner": "FallGameDev/frae",
+  "createdAt": "2026-10-14T22:18:39Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://fallgamedev.github.io/frae/",
+  "stargazerCount": 0
+ },
+ "aurabotproject-ctrl/chickensvsturkeys": {
+  "nameWithOwner": "aurabotproject-ctrl/chickensvsturkeys",
+  "createdAt": "2026-10-07T21:19:39Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "baysidejr/vanguard-soh-server-emulator": {
+  "nameWithOwner": "baysidejr/vanguard-soh-server-emulator",
+  "createdAt": "2026-10-12T01:04:03Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "Caviloso/matchnight-site": {
+  "nameWithOwner": "Caviloso/matchnight-site",
+  "createdAt": "2026-10-14T20:21:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "nickpstone/omarchy-nba-scores": {
+  "nameWithOwner": "nickpstone/omarchy-nba-scores",
+  "createdAt": "2026-10-15T01:13:53Z",
+  "isFork": false,
+  "description": "NBA live scores, upcoming schedule, and standings bar widget for Omarchy, powered by ESPN",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Blackthornes/Blackthornes_Butler": {
+  "nameWithOwner": "Blackthornes/Blackthornes_Butler",
+  "createdAt": "2026-10-10T21:06:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "mochicatsongs/mochicatsongs.github.io": {
+  "nameWithOwner": "mochicatsongs/mochicatsongs.github.io",
+  "createdAt": "2026-10-14T07:17:33Z",
+  "isFork": false,
+  "description": "Official site of Mochi Cat - the chubbiest pop star",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jroes/experiments": {
+  "nameWithOwner": "jroes/experiments",
+  "createdAt": "2026-10-11T21:07:41Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "goodwinconnor07-create/golfapp": {
+  "nameWithOwner": "goodwinconnor07-create/golfapp",
+  "createdAt": "2026-10-13T03:08:05Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Old-Goat-Studio/Midgard": {
+  "nameWithOwner": "Old-Goat-Studio/Midgard",
+  "createdAt": "2026-10-14T21:58:33Z",
+  "isFork": false,
+  "description": "A 3D game engine with an action-focused editor, for RPG-style action games",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kaungmyatkyawhhhhh-hub/ProjectOne": {
+  "nameWithOwner": "kaungmyatkyawhhhhh-hub/ProjectOne",
+  "createdAt": "2026-10-09T10:46:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "thecastpatrol/castgames": {
+  "nameWithOwner": "thecastpatrol/castgames",
+  "createdAt": "2026-10-14T20:36:52Z",
+  "isFork": false,
+  "description": "CAST Games: every CAST game under one address (castgmes.com.au)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "NiklasRenner/claude-browser-game": {
+  "nameWithOwner": "NiklasRenner/claude-browser-game",
+  "createdAt": "2026-10-14T23:23:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ericvaladas/azragon": {
+  "nameWithOwner": "ericvaladas/azragon",
+  "createdAt": "2026-10-14T23:47:59Z",
+  "isFork": false,
+  "description": "RUN.world 2026 October Jam: Monster Mash",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "magjangin/rea-tool-mods": {
+  "nameWithOwner": "magjangin/rea-tool-mods",
+  "createdAt": "2026-10-13T11:04:54Z",
+  "isFork": false,
+  "description": "rea\uc774\ub77c\ub294 \uc624\ud508\uc18c\uc2a4 \ub2e4\uc6b4\ub85c\ub4dc \ub3c4\uc640\uc8fc\ub294 \ud234\uc785\ub2c8\ub2e4.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "vtvcab17-max/Beta": {
+  "nameWithOwner": "vtvcab17-max/Beta",
+  "createdAt": "2026-10-14T16:21:11Z",
+  "isFork": false,
+  "description": "This is AGI company ",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "evanrobinson1985/Fruit-Fly": {
+  "nameWithOwner": "evanrobinson1985/Fruit-Fly",
+  "createdAt": "2026-10-14T22:48:59Z",
+  "isFork": false,
+  "description": "A simulation of a fruit fly",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jwpark1234/retron": {
+  "nameWithOwner": "jwpark1234/retron",
+  "createdAt": "2026-10-14T05:40:11Z",
+  "isFork": false,
+  "description": "\uc6f9 \uc5d0\ubbac\ub808\uc774\ud130. DOS, SFC \uc9c0\uc6d0",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "interronator/EveOverlay": {
+  "nameWithOwner": "interronator/EveOverlay",
+  "createdAt": "2026-10-08T17:18:40Z",
+  "isFork": false,
+  "description": "C++ ported and updated version of Eve-O-Preview",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "pochtadantov-eng/Casino": {
+  "nameWithOwner": "pochtadantov-eng/Casino",
+  "createdAt": "2026-10-08T14:09:51Z",
+  "isFork": false,
+  "description": "Casino fake",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Tomethyy/AI-RPG": {
+  "nameWithOwner": "Tomethyy/AI-RPG",
+  "createdAt": "2026-10-08T21:30:54Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "polynux/platypus-launcher": {
+  "nameWithOwner": "polynux/platypus-launcher",
+  "createdAt": "2026-10-10T13:08:07Z",
+  "isFork": false,
+  "description": "Platypus \u2014 a Linux game launcher with store plugins (Steam, Epic, GOG, Amazon) and a modular capability system",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "nahalewski/PlayCover-A": {
+  "nameWithOwner": "nahalewski/PlayCover-A",
+  "createdAt": "2026-10-08T04:43:20Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "47PADO47/nfs-mw": {
+  "nameWithOwner": "47PADO47/nfs-mw",
+  "createdAt": "2026-10-08T12:08:31Z",
+  "isFork": false,
+  "description": "\ud83e\udd80 Rust rewrite of Need for Speed: Most Wanted (2005, PC v1.3 / Black Edition) with bevy engine",
+  "homepageUrl": "",
+  "stargazerCount": 12
+ },
+ "DwainiumB/kinoko-wasm": {
+  "nameWithOwner": "DwainiumB/kinoko-wasm",
+  "createdAt": "2026-10-08T09:15:24Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "econDS/wildland": {
+  "nameWithOwner": "econDS/wildland",
+  "createdAt": "2026-10-07T21:17:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Cinibonswirl26/Pac-Man-Vs": {
+  "nameWithOwner": "Cinibonswirl26/Pac-Man-Vs",
+  "createdAt": "2026-10-14T00:29:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "leehj825/Nightfall-Settlement": {
+  "nameWithOwner": "leehj825/Nightfall-Settlement",
+  "createdAt": "2026-10-08T05:22:46Z",
+  "isFork": false,
+  "description": "Nightfall Settlement",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mbwamkali/pencil-army-base": {
+  "nameWithOwner": "mbwamkali/pencil-army-base",
+  "createdAt": "2026-10-09T22:00:38Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "JonathanDC64/FFCCEOT-Recomp": {
+  "nameWithOwner": "JonathanDC64/FFCCEOT-Recomp",
+  "createdAt": "2026-10-10T01:04:00Z",
+  "isFork": false,
+  "description": "Native PC port of Final Fantasy Crystal Chronicles: Echoes of Time (DS) by static recompilation. Bring your own ROM: the game is built on your PC, nothing of the game is included. Windows and Linux. Alpha.",
+  "homepageUrl": "https://jonathandc64.github.io/FFCCEOT-Recomp/",
+  "stargazerCount": 8
+ },
+ "dashroyy/NoMoreSpace": {
+  "nameWithOwner": "dashroyy/NoMoreSpace",
+  "createdAt": "2026-10-08T17:34:31Z",
+  "isFork": false,
+  "description": "Online party game inspired by blood on the clocktower and among us.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "chilladept/lbp2-asset-explorer": {
+  "nameWithOwner": "chilladept/lbp2-asset-explorer",
+  "createdAt": "2026-10-12T13:58:15Z",
+  "isFork": false,
+  "description": "Independent, experimental LittleBigPlanet 2 asset explorer and runtime in Rust/Bevy. Reads your own game copy: resource browser, level viewer, playable Sackboy, RScript VM.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "emilyspringerton/HRIP": {
+  "nameWithOwner": "emilyspringerton/HRIP",
+  "createdAt": "2026-10-09T17:34:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "thejunkman9000/Turok-Rage-Wars-Decomp": {
+  "nameWithOwner": "thejunkman9000/Turok-Rage-Wars-Decomp",
+  "createdAt": "2026-10-10T03:35:28Z",
+  "isFork": false,
+  "description": "Matching decompilation of Turok: Rage Wars (N64) covering every release (US v1.1, US v1.0, Europe, Germany), plus a native Windows port. No game files included.",
+  "homepageUrl": "",
+  "stargazerCount": 3
+ },
+ "jhseoeo/turing-city": {
+  "nameWithOwner": "jhseoeo/turing-city",
+  "createdAt": "2026-10-08T15:46:55Z",
+  "isFork": false,
+  "description": "Automation and town-management game: you build the boards, your own AI agent writes their firmware over MCP, and the noise the machines leak brings the Luddites",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AnimatrixEX/RShop": {
+  "nameWithOwner": "AnimatrixEX/RShop",
+  "createdAt": "2026-10-08T15:38:30Z",
+  "isFork": false,
+  "description": "A game store for Android handhelds: catalogue, downloads, installation, controller support. Jetpack Compose + scraper module.",
+  "homepageUrl": "https://animatrixex.github.io/RShop/",
+  "stargazerCount": 3
+ },
+ "anikethchittiprolu/CTF-DOOMSDAY": {
+  "nameWithOwner": "anikethchittiprolu/CTF-DOOMSDAY",
+  "createdAt": "2026-10-09T12:48:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "DatWins/epubcollection": {
+  "nameWithOwner": "DatWins/epubcollection",
+  "createdAt": "2026-10-09T22:13:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "yaqzan/harbinger": {
+  "nameWithOwner": "yaqzan/harbinger",
+  "createdAt": "2026-10-09T08:34:15Z",
+  "isFork": false,
+  "description": "Game Pass exit radar: what's leaving, how long it takes, when to start",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "poncema4/night-shift": {
+  "nameWithOwner": "poncema4/night-shift",
+  "createdAt": "2026-10-09T02:00:22Z",
+  "isFork": false,
+  "description": "Roblox game by Nexus Hollow Studios (Rojo + Luau, tested with Lune)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Ben34110/football-career-sim": {
+  "nameWithOwner": "Ben34110/football-career-sim",
+  "createdAt": "2026-10-09T20:46:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://football-career-sim-beryl.vercel.app",
+  "stargazerCount": 0
+ },
+ "Kxko4b/KXKOS": {
+  "nameWithOwner": "Kxko4b/KXKOS",
+  "createdAt": "2026-10-07T20:20:53Z",
+  "isFork": false,
+  "description": "KXKOOS is a website runned OS",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bertbaccaratt/mimu-mutual-game": {
+  "nameWithOwner": "bertbaccaratt/mimu-mutual-game",
+  "createdAt": "2026-10-08T07:17:36Z",
+  "isFork": false,
+  "description": "Chair Run x Mutual Mimu: a MIMU ON APE x THEMUTUAL.FUN collab game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "creactive00/creactive-studio": {
+  "nameWithOwner": "creactive00/creactive-studio",
+  "createdAt": "2026-10-07T20:41:48Z",
+  "isFork": false,
+  "description": "Website Creactive Studio - 3D Signage, Print, Graphic Design (Tetovo)",
+  "homepageUrl": "https://creactive00.github.io/creactive-studio/",
+  "stargazerCount": 0
+ },
+ "ldg224/vLeague-preview": {
+  "nameWithOwner": "ldg224/vLeague-preview",
+  "createdAt": "2026-10-10T23:52:43Z",
+  "isFork": false,
+  "description": "Preview version of upcoming vLeague changes.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "manavkohli/pokemon-madden": {
+  "nameWithOwner": "manavkohli/pokemon-madden",
+  "createdAt": "2026-10-09T15:46:29Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://pokemon-madden.vercel.app",
+  "stargazerCount": 1
+ },
+ "cambacodes/wotr-mod": {
+  "nameWithOwner": "cambacodes/wotr-mod",
+  "createdAt": "2026-10-08T02:29:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "emmanuel1860-es/wired": {
+  "nameWithOwner": "emmanuel1860-es/wired",
+  "createdAt": "2026-10-09T21:28:03Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AZalshehri7/FeverLink3": {
+  "nameWithOwner": "AZalshehri7/FeverLink3",
+  "createdAt": "2026-10-09T12:33:42Z",
+  "isFork": false,
+  "description": "FeverLink3: cooperative multiplayer for Transport Fever 3. Lockstep command replay, sealed transport, host-authoritative resync. Fresh implementation; design informed by MPFever and TpF2 Multiplayer (both MIT).",
+  "homepageUrl": "https://azalshehri7.github.io/FeverLink3/",
+  "stargazerCount": 1
+ },
+ "poooooby/gen3-hd-sprites": {
+  "nameWithOwner": "poooooby/gen3-hd-sprites",
+  "createdAt": "2026-10-09T23:07:23Z",
+  "isFork": false,
+  "description": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "gmeyer301/Chad": {
+  "nameWithOwner": "gmeyer301/Chad",
+  "createdAt": "2026-10-09T00:06:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Kuret/framepace": {
+  "nameWithOwner": "Kuret/framepace",
+  "createdAt": "2026-10-10T22:47:28Z",
+  "isFork": false,
+  "description": "Vulkan layer frame limiter for Linux gaming: evenly paced frames on VRR, a live adjustable and adaptive cap, and a minimal in-game overlay. Works with Proton/Wine/DXVK/vkd3d-proton.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "stibe881/Polizeieinsaetze-Schweiz": {
+  "nameWithOwner": "stibe881/Polizeieinsaetze-Schweiz",
+  "createdAt": "2026-10-10T22:18:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "imranZERO/omarchy-2048": {
+  "nameWithOwner": "imranZERO/omarchy-2048",
+  "createdAt": "2026-10-11T00:22:29Z",
+  "isFork": false,
+  "description": "Play 2048 in your Omarchy shell, with smooth animations and your theme's colors.",
+  "homepageUrl": "https://plugins.omarchy.org/plugin.html?id=imranzero.2048",
+  "stargazerCount": 0
+ },
+ "kooooneth/apex-drive-unity": {
+  "nameWithOwner": "kooooneth/apex-drive-unity",
+  "createdAt": "2026-10-10T22:26:40Z",
+  "isFork": false,
+  "description": "Apex Drive: procedural first-person F1 racing game for Unity 6",
+  "homepageUrl": "https://kooooneth.github.io/apex-drive-unity/",
+  "stargazerCount": 0
+ },
+ "eylulyerl2/polip-avi-": {
+  "nameWithOwner": "eylulyerl2/polip-avi-",
+  "createdAt": "2026-10-10T22:21:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://polip-avi.vercel.app",
+  "stargazerCount": 0
+ },
+ "suhaasps3-rgb/megathon": {
+  "nameWithOwner": "suhaasps3-rgb/megathon",
+  "createdAt": "2026-10-10T15:22:46Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "yuvalkolodkingal/Enhanced": {
+  "nameWithOwner": "yuvalkolodkingal/Enhanced",
+  "createdAt": "2026-10-09T06:22:00Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "strsongtianrui-dotcom/kkbirthdaycartoon": {
+  "nameWithOwner": "strsongtianrui-dotcom/kkbirthdaycartoon",
+  "createdAt": "2026-10-10T22:58:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pauluk/infagame": {
+  "nameWithOwner": "pauluk/infagame",
+  "createdAt": "2026-10-10T20:09:50Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://ledgerlock-secure-ops.vercel.app",
+  "stargazerCount": 0
+ },
+ "GarrettGruss/manor-lords-mod": {
+  "nameWithOwner": "GarrettGruss/manor-lords-mod",
+  "createdAt": "2026-10-10T02:54:22Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "urbad150-hub/ant-colonies-mod": {
+  "nameWithOwner": "urbad150-hub/ant-colonies-mod",
+  "createdAt": "2026-10-14T04:10:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "exterkamp/kriegsspiel": {
+  "nameWithOwner": "exterkamp/kriegsspiel",
+  "createdAt": "2026-10-10T04:16:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "saddi-a/OmniSportsSwitch": {
+  "nameWithOwner": "saddi-a/OmniSportsSwitch",
+  "createdAt": "2026-10-10T16:40:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "yuossif355-bit/LAMMA-PARTY": {
+  "nameWithOwner": "yuossif355-bit/LAMMA-PARTY",
+  "createdAt": "2026-10-09T21:59:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "SethJonesIntern/societysim": {
+  "nameWithOwner": "SethJonesIntern/societysim",
+  "createdAt": "2026-10-12T15:33:28Z",
+  "isFork": false,
+  "description": "SocietySim: LLMs from different providers play Werewolf; who lies, who gets fooled, and by whom. Continued from polter-dev/societysim.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "polter-dev/societysim": {
+  "nameWithOwner": "polter-dev/societysim",
+  "createdAt": "2026-10-10T04:20:15Z",
+  "isFork": false,
+  "description": "Multi-model LLM Werewolf: engine, metrics and replay viewer for measuring deception, trust and persuasion",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "jr31415/RecompHeaven": {
+  "nameWithOwner": "jr31415/RecompHeaven",
+  "createdAt": "2026-10-10T17:34:08Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "PeteSuperfast/medieval-knight": {
+  "nameWithOwner": "PeteSuperfast/medieval-knight",
+  "createdAt": "2026-10-10T13:45:12Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Palehour/londinium": {
+  "nameWithOwner": "Palehour/londinium",
+  "createdAt": "2026-10-08T03:08:17Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bryanbr0thesigma-droid/Questcraft-neoforge": {
+  "nameWithOwner": "bryanbr0thesigma-droid/Questcraft-neoforge",
+  "createdAt": "2026-10-10T23:55:39Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "peter-t-wang315/dbayauctiongame": {
+  "nameWithOwner": "peter-t-wang315/dbayauctiongame",
+  "createdAt": "2026-10-11T06:02:17Z",
+  "isFork": false,
+  "description": "dBay \u2014 a web remake of the electronic auction board game my brothers and I played as youngins",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "abduzeedo/mapc-site": {
+  "nameWithOwner": "abduzeedo/mapc-site",
+  "createdAt": "2026-10-12T04:19:58Z",
+  "isFork": false,
+  "description": "MaPC website and downloads",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "TheCoder47-noob/eusa-website": {
+  "nameWithOwner": "TheCoder47-noob/eusa-website",
+  "createdAt": "2026-10-09T17:07:15Z",
+  "isFork": false,
+  "description": "Demo website for EUSA (Endocrinology Undergraduate Students Association, UWaterloo)",
+  "homepageUrl": "https://thecoder47-noob.github.io/eusa-website/",
+  "stargazerCount": 0
+ },
+ "shumanogami/workworkpark": {
+  "nameWithOwner": "shumanogami/workworkpark",
+  "createdAt": "2026-10-10T06:42:18Z",
+  "isFork": false,
+  "description": "\u77f3\u5dfb\u30cf\u30c3\u30ab\u30bd\u30f3",
+  "homepageUrl": "https://workworkpark.vercel.app",
+  "stargazerCount": 2
+ },
+ "DrEnoun/drnam-chemquest-world": {
+  "nameWithOwner": "DrEnoun/drnam-chemquest-world",
+  "createdAt": "2026-10-11T16:41:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pandc19/poke-train": {
+  "nameWithOwner": "pandc19/poke-train",
+  "createdAt": "2026-10-11T15:37:08Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "BeardedInfoSec/azeroth-ops": {
+  "nameWithOwner": "BeardedInfoSec/azeroth-ops",
+  "createdAt": "2026-10-11T23:10:26Z",
+  "isFork": false,
+  "description": "Parody FPS: Call of Duty-style combat, zombies and battle royale set in Azeroth. Three.js + Node, LAN multiplayer. Unofficial; no game assets included.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "MDSHRIRAM/patchs-runner-playtest": {
+  "nameWithOwner": "MDSHRIRAM/patchs-runner-playtest",
+  "createdAt": "2026-10-10T08:08:46Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "DonGoyo20/dragonball": {
+  "nameWithOwner": "DonGoyo20/dragonball",
+  "createdAt": "2026-10-11T18:39:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bpupadhyaya/world-heritage-games-site": {
+  "nameWithOwner": "bpupadhyaya/world-heritage-games-site",
+  "createdAt": "2026-10-10T18:40:58Z",
+  "isFork": false,
+  "description": "Encyclopedia of World Heritage Games",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "WuphonsReach/tf3-save-format": {
+  "nameWithOwner": "WuphonsReach/tf3-save-format",
+  "createdAt": "2026-10-08T23:35:45Z",
+  "isFork": false,
+  "description": "Notes on the Transport Fever 3 .sav file format (unofficial, not affiliated with Urban Games or Paradox Interactive).",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "juchheim/basepinball": {
+  "nameWithOwner": "juchheim/basepinball",
+  "createdAt": "2026-10-10T17:03:32Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://basepinball.vercel.app",
+  "stargazerCount": 0
+ },
+ "barsmin/barsmin.github.io": {
+  "nameWithOwner": "barsmin/barsmin.github.io",
+  "createdAt": "2026-10-10T23:50:14Z",
+  "isFork": false,
+  "description": "UX/UI Designer",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Sidthesciencekid7/Sidthesciencekid7.github.io": {
+  "nameWithOwner": "Sidthesciencekid7/Sidthesciencekid7.github.io",
+  "createdAt": "2026-10-11T23:00:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jtmcbride/football": {
+  "nameWithOwner": "jtmcbride/football",
+  "createdAt": "2026-10-11T20:54:34Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Ragnahhhhrock/lanparty1998": {
+  "nameWithOwner": "Ragnahhhhrock/lanparty1998",
+  "createdAt": "2026-10-10T13:09:10Z",
+  "isFork": false,
+  "description": "A LAN Party in 1998",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "cristiancarnevale/temple-escape": {
+  "nameWithOwner": "cristiancarnevale/temple-escape",
+  "createdAt": "2026-10-10T20:21:53Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jomafergacreations/la-mesa-larga": {
+  "nameWithOwner": "jomafergacreations/la-mesa-larga",
+  "createdAt": "2026-10-11T20:33:12Z",
+  "isFork": false,
+  "description": "App de juegos de mesa",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "SusiShushii/Object_Detection_v1": {
+  "nameWithOwner": "SusiShushii/Object_Detection_v1",
+  "createdAt": "2026-10-07T18:16:41Z",
+  "isFork": false,
+  "description": "For Personal Only",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ptitty12/mvp2005-decomp": {
+  "nameWithOwner": "ptitty12/mvp2005-decomp",
+  "createdAt": "2026-10-11T02:54:09Z",
+  "isFork": false,
+  "description": "Matching decompilation of MVP Baseball 2005 (GameCube, GV4E69)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "GunterMagno/first-game": {
+  "nameWithOwner": "GunterMagno/first-game",
+  "createdAt": "2026-10-12T17:16:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "PatricioOsorio/claude-code-devtalles": {
+  "nameWithOwner": "PatricioOsorio/claude-code-devtalles",
+  "createdAt": "2026-10-12T15:53:36Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Nin-Min2231/nhanh-tay-tinh-mat": {
+  "nameWithOwner": "Nin-Min2231/nhanh-tay-tinh-mat",
+  "createdAt": "2026-10-10T10:53:02Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "LucidPaths/overgrown": {
+  "nameWithOwner": "LucidPaths/overgrown",
+  "createdAt": "2026-10-11T19:52:39Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "2ENn/Arcade": {
+  "nameWithOwner": "2ENn/Arcade",
+  "createdAt": "2026-10-12T23:34:53Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "BlissVibes/Burnout3Decomp": {
+  "nameWithOwner": "BlissVibes/Burnout3Decomp",
+  "createdAt": "2026-10-11T05:01:10Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "connorriepma/CBK-Power-Ratings": {
+  "nameWithOwner": "connorriepma/CBK-Power-Ratings",
+  "createdAt": "2026-10-12T00:05:49Z",
+  "isFork": false,
+  "description": "College Basketball Power Ratings for the 2026-2027 season",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Cairn-client/launcher": {
+  "nameWithOwner": "Cairn-client/launcher",
+  "createdAt": "2026-10-12T00:04:50Z",
+  "isFork": false,
+  "description": "Cairn launcher: turns single-player games into shared ones (Windows)",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "ajbogh/StratospherePatch": {
+  "nameWithOwner": "ajbogh/StratospherePatch",
+  "createdAt": "2026-10-12T10:35:35Z",
+  "isFork": false,
+  "description": "A patch for Statosphere: Conquest of the Skies to make it work with Proton 10+/Wine 10.0.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alexkramer2/die-up": {
+  "nameWithOwner": "alexkramer2/die-up",
+  "createdAt": "2026-10-12T23:40:36Z",
+  "isFork": false,
+  "description": "Die Up \u2014 a mobile beer-die game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dkolln/RRSOS-PCC-Mods": {
+  "nameWithOwner": "dkolln/RRSOS-PCC-Mods",
+  "createdAt": "2026-10-12T13:21:26Z",
+  "isFork": false,
+  "description": "Live-write BepInEx mods for The Planet Crafter: base placement, chat commands, stacked crate. Separate from the read-only dashboard.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "luketorti/dawiz-ui": {
+  "nameWithOwner": "luketorti/dawiz-ui",
+  "createdAt": "2026-10-12T15:36:58Z",
+  "isFork": false,
+  "description": "DaWiz Hockey Pool UI",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "qmftm/QuantuMobileLauncher": {
+  "nameWithOwner": "qmftm/QuantuMobileLauncher",
+  "createdAt": "2026-10-12T07:49:13Z",
+  "isFork": false,
+  "description": "minecraft je android launcher",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kantemiir/RoR2-HighCommand": {
+  "nameWithOwner": "kantemiir/RoR2-HighCommand",
+  "createdAt": "2026-10-13T10:37:20Z",
+  "isFork": false,
+  "description": "An RTS mode for Risk of Rain 2: command an AI army of real survivors from a strategy camera. BepInEx mod.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "louisgoodnews/opts": {
+  "nameWithOwner": "louisgoodnews/opts",
+  "createdAt": "2026-10-13T02:24:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "juventudeilhacompridasp-cmyk/overlays-v2": {
+  "nameWithOwner": "juventudeilhacompridasp-cmyk/overlays-v2",
+  "createdAt": "2026-10-12T11:51:24Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Atrium9718/ilcgamer": {
+  "nameWithOwner": "Atrium9718/ilcgamer",
+  "createdAt": "2026-10-12T15:59:34Z",
+  "isFork": false,
+  "description": "ilc gamer app",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "glabseller/loja-g.lab": {
+  "nameWithOwner": "glabseller/loja-g.lab",
+  "createdAt": "2026-10-10T02:23:30Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "unrealshape/KeyLootDataMiner": {
+  "nameWithOwner": "unrealshape/KeyLootDataMiner",
+  "createdAt": "2026-10-13T08:38:37Z",
+  "isFork": false,
+  "description": "KeyLootDataMiner: builds the data for the KeyLootMaster addon from the Blizzard API and Warcraft Logs",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "choivoo/-07": {
+  "nameWithOwner": "choivoo/-07",
+  "createdAt": "2026-10-12T06:16:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "calebwilsonit-tech/The_Last_Storytender": {
+  "nameWithOwner": "calebwilsonit-tech/The_Last_Storytender",
+  "createdAt": "2026-10-11T23:50:21Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "burmar14/lizpop-site": {
+  "nameWithOwner": "burmar14/lizpop-site",
+  "createdAt": "2026-10-13T00:16:25Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "emrekapancibuilds/futbol-krillion": {
+  "nameWithOwner": "emrekapancibuilds/futbol-krillion",
+  "createdAt": "2026-10-12T16:48:49Z",
+  "isFork": false,
+  "description": "Football trivia game with daily challenges, Unlimited play, Stripe billing and Supabase email verification.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ApocryphaCipher/mompy": {
+  "nameWithOwner": "ApocryphaCipher/mompy",
+  "createdAt": "2026-10-13T17:04:26Z",
+  "isFork": false,
+  "description": "Read and change a running Master of Magic through DOSBox Staging's memory API",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "satranckahvesi/satranckahvesi.github.io": {
+  "nameWithOwner": "satranckahvesi/satranckahvesi.github.io",
+  "createdAt": "2026-10-13T11:02:13Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://satranckahvesi.github.io/",
+  "stargazerCount": 0
+ },
+ "mentanicarli/chofix-game": {
+  "nameWithOwner": "mentanicarli/chofix-game",
+  "createdAt": "2026-10-13T18:43:57Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://mentanicarli.github.io/chofix-game/",
+  "stargazerCount": 0
+ },
+ "pedrohenrique505/Recomp-Domination": {
+  "nameWithOwner": "pedrohenrique505/Recomp-Domination",
+  "createdAt": "2026-10-12T22:31:13Z",
+  "isFork": false,
+  "description": "Static recompilation of Downhill Domination (PS2) to native Linux x86, built on PS2Recomp. Work in progress.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "Lacosst0/bevsidian": {
+  "nameWithOwner": "Lacosst0/bevsidian",
+  "createdAt": "2026-10-11T19:54:28Z",
+  "isFork": false,
+  "description": "Bevy Obisidian-like docs to learn all topics and do research",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "underlines/reforger-clausewitz": {
+  "nameWithOwner": "underlines/reforger-clausewitz",
+  "createdAt": "2026-10-14T18:04:08Z",
+  "isFork": false,
+  "description": "Clausewitz: AI High Command for Arma Reforger - AI vs AI wars with fog of war, logistics and SITREPs; optional LLM commander via a Node.js sidecar",
+  "homepageUrl": "https://reforger.armaplatform.com/workshop/C1A05E7B3D9F4A28",
+  "stargazerCount": 0
+ },
+ "Trigger-EX/space-engineers-drones": {
+  "nameWithOwner": "Trigger-EX/space-engineers-drones",
+  "createdAt": "2026-10-11T14:57:01Z",
+  "isFork": false,
+  "description": "robots... by robots!",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "guspliffy/potatobrawl": {
+  "nameWithOwner": "guspliffy/potatobrawl",
+  "createdAt": "2026-10-12T21:22:28Z",
+  "isFork": false,
+  "description": "game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "carlhako/xonotic-webui": {
+  "nameWithOwner": "carlhako/xonotic-webui",
+  "createdAt": "2026-10-13T09:58:48Z",
+  "isFork": false,
+  "description": "Web control panel for a Xonotic dedicated server: start, stop, console and live status from a browser",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pilotso11/ed-mcp": {
+  "nameWithOwner": "pilotso11/ed-mcp",
+  "createdAt": "2026-10-11T21:07:49Z",
+  "isFork": false,
+  "description": "MCP server for Elite Dangerous build planning: Inara, EDSM, Frontier CAPI and Spansh tools for Claude",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ryrykeith/fantasy-pressbox": {
+  "nameWithOwner": "ryrykeith/fantasy-pressbox",
+  "createdAt": "2026-10-10T19:35:13Z",
+  "isFork": false,
+  "description": "A configurable AI-powered fantasy football newsroom that turns Sleeper league data into power rankings, previews, recaps, awards, and weekly league content.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "agustindiazcano/zombie-horde-survivors": {
+  "nameWithOwner": "agustindiazcano/zombie-horde-survivors",
+  "createdAt": "2026-10-14T03:11:16Z",
+  "isFork": false,
+  "description": "zombie-horde-survivors",
+  "homepageUrl": "https://agustindiazcano.github.io/zombie-horde-survivors/",
+  "stargazerCount": 0
+ },
+ "thomasbruninx/simcity2000-port": {
+  "nameWithOwner": "thomasbruninx/simcity2000-port",
+  "createdAt": "2026-10-14T20:53:31Z",
+  "isFork": false,
+  "description": "SDL3 port of Simcity 2000, currently only for MacOS (Windows and Linux coming soon)",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "nguyenvanhoanglong478-source/Deliver-Simulator": {
+  "nameWithOwner": "nguyenvanhoanglong478-source/Deliver-Simulator",
+  "createdAt": "2026-10-13T00:12:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "junoyooooo/ai-tarot-app": {
+  "nameWithOwner": "junoyooooo/ai-tarot-app",
+  "createdAt": "2026-10-12T04:49:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://ai-tarot-app-tau.vercel.app",
+  "stargazerCount": 0
+ },
+ "yvessterckx/yvessterckx.github.io": {
+  "nameWithOwner": "yvessterckx/yvessterckx.github.io",
+  "createdAt": "2026-10-10T01:49:17Z",
+  "isFork": false,
+  "description": "Side Quests: small browser games made with AI (Curtain Climber, Hollowed)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "GIider/idle-casino": {
+  "nameWithOwner": "GIider/idle-casino",
+  "createdAt": "2026-10-13T23:06:19Z",
+  "isFork": false,
+  "description": "Single-player browser idle casino game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "TheAverageAirsofter/viper-sortie": {
+  "nameWithOwner": "TheAverageAirsofter/viper-sortie",
+  "createdAt": "2026-10-14T23:47:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "theoleuthardt/trust-issues": {
+  "nameWithOwner": "theoleuthardt/trust-issues",
+  "createdAt": "2026-10-14T21:20:22Z",
+  "isFork": false,
+  "description": "A 2D trap platformer for the browser where nothing is what it seems. Phaser, deterministic replays, verified leaderboards.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "NAMAN-VERMA-02/bronze": {
+  "nameWithOwner": "NAMAN-VERMA-02/bronze",
+  "createdAt": "2026-10-14T22:51:07Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pauloadriano2014-afk/Meufps": {
+  "nameWithOwner": "pauloadriano2014-afk/Meufps",
+  "createdAt": "2026-10-14T22:53:32Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "NassB/mhp3rd-translation-toolkit": {
+  "nameWithOwner": "NassB/mhp3rd-translation-toolkit",
+  "createdAt": "2026-10-14T21:45:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "OlegYaro/game_mmor": {
+  "nameWithOwner": "OlegYaro/game_mmor",
+  "createdAt": "2026-10-14T23:26:26Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "brendanreid-droid/phonics-game": {
+  "nameWithOwner": "brendanreid-droid/phonics-game",
+  "createdAt": "2026-10-14T04:38:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "parajulimanish07/advML": {
+  "nameWithOwner": "parajulimanish07/advML",
+  "createdAt": "2026-10-14T23:10:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "iniGlowee/AE1": {
+  "nameWithOwner": "iniGlowee/AE1",
+  "createdAt": "2026-10-12T15:07:22Z",
+  "isFork": false,
+  "description": "Game Development Engine and research tool ",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Heutlett/easy-tools": {
+  "nameWithOwner": "Heutlett/easy-tools",
+  "createdAt": "2026-10-09T16:26:01Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AffanNamu/Online-African-Road": {
+  "nameWithOwner": "AffanNamu/Online-African-Road",
+  "createdAt": "2026-10-09T14:13:49Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Lazlo25/roblox-tracker": {
+  "nameWithOwner": "Lazlo25/roblox-tracker",
+  "createdAt": "2026-10-09T19:56:30Z",
+  "isFork": false,
+  "description": "Daily snapshot and Deep Analysis pipeline for the Roblox Monetization Tracker",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "orlando008/fanstasy-console": {
+  "nameWithOwner": "orlando008/fanstasy-console",
+  "createdAt": "2026-10-11T00:59:58Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "EyalRo/NtBA": {
+  "nameWithOwner": "EyalRo/NtBA",
+  "createdAt": "2026-10-14T23:06:18Z",
+  "isFork": false,
+  "description": "Not the Basketball Association",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "zrsavage/Text-quest-": {
+  "nameWithOwner": "zrsavage/Text-quest-",
+  "createdAt": "2026-10-14T23:10:32Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Gazake1/AkazeClicker": {
+  "nameWithOwner": "Gazake1/AkazeClicker",
+  "createdAt": "2026-10-14T21:30:21Z",
+  "isFork": false,
+  "description": "Autoclicker for Minecraft on Windows: small, fast and transparent. Made in Brazil. C++ / Dear ImGui / Direct3D 11.",
+  "homepageUrl": "https://gazake1.github.io/gnclicker-site/",
+  "stargazerCount": 0
+ },
+ "tiberius-claudius-drusus/1-5731N": {
+  "nameWithOwner": "tiberius-claudius-drusus/1-5731N",
+  "createdAt": "2026-10-14T14:26:24Z",
+  "isFork": false,
+  "description": "1-5+31IV - Lift the stone... A PWA port of the free logic game Einstein Puzzle (GPL v2+)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "singiadvik9-sudo/gridiron-draft": {
+  "nameWithOwner": "singiadvik9-sudo/gridiron-draft",
+  "createdAt": "2026-10-12T22:17:13Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://gridiron-draft-nu.vercel.app",
+  "stargazerCount": 0
+ },
+ "Donsteezlesgit/zombie-survivor": {
+  "nameWithOwner": "Donsteezlesgit/zombie-survivor",
+  "createdAt": "2026-10-14T16:45:36Z",
+  "isFork": false,
+  "description": "Making a fun lil game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "KaKebe-Technologies-Limited/faithfellowapp-sedu": {
+  "nameWithOwner": "KaKebe-Technologies-Limited/faithfellowapp-sedu",
+  "createdAt": "2026-10-12T14:43:59Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "royalpig7878-ship-it/Postal-panic": {
+  "nameWithOwner": "royalpig7878-ship-it/Postal-panic",
+  "createdAt": "2026-10-10T00:59:24Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kl534/SchoolGames": {
+  "nameWithOwner": "kl534/SchoolGames",
+  "createdAt": "2026-10-12T15:42:51Z",
+  "isFork": false,
+  "description": "Some educational games",
+  "homepageUrl": "https://kl534.github.io/SchoolGames/",
+  "stargazerCount": 0
+ },
+ "dwolfmeyer/npl-baseball-sim": {
+  "nameWithOwner": "dwolfmeyer/npl-baseball-sim",
+  "createdAt": "2026-10-12T16:37:29Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ducampcarlos/beast-tourney": {
+  "nameWithOwner": "ducampcarlos/beast-tourney",
+  "createdAt": "2026-10-14T19:05:24Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "NIGHT-Official/Spider-Smack": {
+  "nameWithOwner": "NIGHT-Official/Spider-Smack",
+  "createdAt": "2026-10-14T23:42:13Z",
+  "isFork": false,
+  "description": "Smack: a spider is in your car while you drive. Don't crash. A Godot 4 game.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mrbraendt/dm8-0und1-oer": {
+  "nameWithOwner": "mrbraendt/dm8-0und1-oer",
+  "createdAt": "2026-10-14T20:51:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "magalz/Borealis": {
+  "nameWithOwner": "magalz/Borealis",
+  "createdAt": "2026-10-13T22:25:24Z",
+  "isFork": false,
+  "description": "Moonlight-based game streaming client tailored to the LuminalShine host (Android first).",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "MrPitPot/shabpa": {
+  "nameWithOwner": "MrPitPot/shabpa",
+  "createdAt": "2026-10-14T11:06:08Z",
+  "isFork": false,
+  "description": "\u0634\u0628\u200c\u067e\u0627 \u00b7 Windows night watch: scheduled shutdown, wake timers, power use, ping stability with per-app speed limits, RAM cleanup, Telegram control. Persian & English.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mjramos86/solitaire-n-chill": {
+  "nameWithOwner": "mjramos86/solitaire-n-chill",
+  "createdAt": "2026-10-14T21:57:17Z",
+  "isFork": false,
+  "description": "cozy solitaire game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "shadowtor/BrandDesign": {
+  "nameWithOwner": "shadowtor/BrandDesign",
+  "createdAt": "2026-10-15T00:54:31Z",
+  "isFork": false,
+  "description": "Brand identity and logo design skill for AI coding agents (Claude Code, Codex, Gemini). From a business brief to three greyscale sketches, an independent review, then a full kit: logos, tested favicons, social, stationery, merch mockups and a guidelines PDF.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "choihs-ai/beybladegame": {
+  "nameWithOwner": "choihs-ai/beybladegame",
+  "createdAt": "2026-10-15T01:07:09Z",
+  "isFork": false,
+  "description": "\ubca0\uc774\ube14\ub808\uc774\ub4dc\uac8c\uc784",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alifestone/Awesome_AI_list": {
+  "nameWithOwner": "alifestone/Awesome_AI_list",
+  "createdAt": "2026-10-12T16:03:06Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "TrevCapAlot/playpick": {
+  "nameWithOwner": "TrevCapAlot/playpick",
+  "createdAt": "2026-10-13T15:02:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://playpick-ashy.vercel.app",
+  "stargazerCount": 0
+ },
+ "jbogaardt/me_rpg": {
+  "nameWithOwner": "jbogaardt/me_rpg",
+  "createdAt": "2026-10-10T22:56:23Z",
+  "isFork": false,
+  "description": "A static site RPG-style game on github pages",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "cafe1231/faille": {
+  "nameWithOwner": "cafe1231/faille",
+  "createdAt": "2026-10-13T12:13:42Z",
+  "isFork": false,
+  "description": "Faille \u2014 suivre les matchs LoL esport en direct sur l'\u00e9cran verrouill\u00e9 (appli iOS perso)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mfrafael/xenia-dashboard": {
+  "nameWithOwner": "mfrafael/xenia-dashboard",
+  "createdAt": "2026-10-13T03:56:16Z",
+  "isFork": false,
+  "description": "Xenia Dashboard: a controller-first, Xbox 360-style dashboard that also configures the Xenia emulator (unofficial)",
+  "homepageUrl": null,
+  "stargazerCount": 2
+ },
+ "Ezomic/seedforge": {
+  "nameWithOwner": "Ezomic/seedforge",
+  "createdAt": "2026-10-12T11:37:29Z",
+  "isFork": false,
+  "description": "Ichor: seeded ancient-Greek open-world RPG on its own C++ engine",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kevinmbeahm/firt": {
+  "nameWithOwner": "kevinmbeahm/firt",
+  "createdAt": "2026-10-15T00:16:59Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Temporary-user-kmc/icecream": {
+  "nameWithOwner": "Temporary-user-kmc/icecream",
+  "createdAt": "2026-10-15T00:46:21Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Sashimee/aquarium": {
+  "nameWithOwner": "Sashimee/aquarium",
+  "createdAt": "2026-10-12T20:39:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "n8daniels/OdinsHand": {
+  "nameWithOwner": "n8daniels/OdinsHand",
+  "createdAt": "2026-10-10T11:19:18Z",
+  "isFork": false,
+  "description": "In-game test harness for Valheim (BepInEx) mods: auto-loads a test world, runs cases against the live game, screenshots, reports.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dazsel/omuzaki": {
+  "nameWithOwner": "dazsel/omuzaki",
+  "createdAt": "2026-10-14T07:47:03Z",
+  "isFork": false,
+  "description": "A free, open-source studio to build, perform and stream your VTuber.",
+  "homepageUrl": "https://dazsel.com/omuzaki/",
+  "stargazerCount": 0
+ },
+ "trihards/unplugged": {
+  "nameWithOwner": "trihards/unplugged",
+  "createdAt": "2026-10-09T23:03:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "EGthegr8est/AIwastelandColony": {
+  "nameWithOwner": "EGthegr8est/AIwastelandColony",
+  "createdAt": "2026-10-12T03:03:54Z",
+  "isFork": false,
+  "description": "Wasteland Colony: a Godot 4 colony sim with d20 scavenging, points of interest and an endgame",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "lPuffyy/reforged": {
+  "nameWithOwner": "lPuffyy/reforged",
+  "createdAt": "2026-10-14T20:56:21Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Marcsarno/yola-zombie": {
+  "nameWithOwner": "Marcsarno/yola-zombie",
+  "createdAt": "2026-10-15T00:27:47Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kevinwilkie92/Pennant-Race": {
+  "nameWithOwner": "kevinwilkie92/Pennant-Race",
+  "createdAt": "2026-10-13T23:56:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "aGamingGod1234/crewkit-kitchen": {
+  "nameWithOwner": "aGamingGod1234/crewkit-kitchen",
+  "createdAt": "2026-10-09T08:15:42Z",
+  "isFork": false,
+  "description": "CrewKit Kitchen: an agent chef buys event supplies through Reap's Agentic API, within budget, live in a Minecraft kitchen. Reap x 65labs Agentic Buildathon.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "JeffreyVdb/herdr-3d": {
+  "nameWithOwner": "JeffreyVdb/herdr-3d",
+  "createdAt": "2026-10-12T16:53:16Z",
+  "isFork": false,
+  "description": "Cute 3D management game front-end for herdr sessions, workspaces and agents",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tamayaren/hamtaro-hamham-modding": {
+  "nameWithOwner": "tamayaren/hamtaro-hamham-modding",
+  "createdAt": "2026-10-07T21:01:34Z",
+  "isFork": false,
+  "description": "Hamtaro: Ham Ham Heartbreak! is a GBA game by Pax Softnica/AlphaDream. This is a hobby project of mine experimenting the capabilities of AI agents and creating my own personal mod for my childhood game, and also as a tool for future modders wanting to decompile and mod GBA roms.",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "wbniv/browser-game-player": {
+  "nameWithOwner": "wbniv/browser-game-player",
+  "createdAt": "2026-10-10T12:16:07Z",
+  "isFork": false,
+  "description": "Shared browser game player with World Foundry and SNES adapters, immutable assets and Astro/vanilla embeds",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Trettbob/beequation.com": {
+  "nameWithOwner": "Trettbob/beequation.com",
+  "createdAt": "2026-10-08T14:02:03Z",
+  "isFork": false,
+  "description": "Website for Beequation and Beequation Kids (beequation.com)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kaifaty/GothicAI": {
+  "nameWithOwner": "kaifaty/GothicAI",
+  "createdAt": "2026-10-11T14:05:10Z",
+  "isFork": false,
+  "description": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 NPC \u0432 Gothic 2 NotR \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e LLM: \u0418\u0418-\u0441\u0435\u0440\u0432\u0435\u0440, ASR, TTS \u0438 \u043c\u043e\u0441\u0442 \u043a \u0444\u043e\u0440\u043a\u0443 OpenGothic",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "MaxDac/Repentance": {
+  "nameWithOwner": "MaxDac/Repentance",
+  "createdAt": "2026-10-09T10:00:34Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "CosmicScribe64/tokimemo-ps1-decomp": {
+  "nameWithOwner": "CosmicScribe64/tokimemo-ps1-decomp",
+  "createdAt": "2026-10-09T20:48:05Z",
+  "isFork": false,
+  "description": "Matching decompilation of Tokimeki Memorial: Forever with You (PS1, Japan). Bring your own disc.",
+  "homepageUrl": "",
+  "stargazerCount": 3
+ },
+ "NamasteJasutin/PSXBootInspectionTool": {
+  "nameWithOwner": "NamasteJasutin/PSXBootInspectionTool",
+  "createdAt": "2026-10-08T12:39:31Z",
+  "isFork": false,
+  "description": "PSX Boot Inspection Tool: replays PlayStation and PlayStation 2 boots from your own BIOS, memory card and disc (Windows, Linux, macOS), inspects every hand-over, and makes music with the BIOS's and your games' own instruments",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Ethan86-zhou/Android": {
+  "nameWithOwner": "Ethan86-zhou/Android",
+  "createdAt": "2026-10-08T16:40:28Z",
+  "isFork": false,
+  "description": "\u591a\u4e2a\u72ec\u7acb Android APP \u9879\u76ee\uff0c\u6309\u5b9e\u9645 AI \u6a21\u578b\u540d\u8bb0\u5f55\u63d0\u4ea4\uff0c\u652f\u6301\u4eba\u5de5\u5f00\u53d1\u3002",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "nrdgrrrl/unicornhunt": {
+  "nameWithOwner": "nrdgrrrl/unicornhunt",
+  "createdAt": "2026-10-11T02:57:56Z",
+  "isFork": false,
+  "description": "unicornhunt",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "grzebla/gta2.0": {
+  "nameWithOwner": "grzebla/gta2.0",
+  "createdAt": "2026-10-12T18:03:19Z",
+  "isFork": false,
+  "description": "Native cross-platform reimplementation of GTA 2 (reference: GTA2_RE) - dev infrastructure",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "PeterHartwieg/hart-self-driving": {
+  "nameWithOwner": "PeterHartwieg/hart-self-driving",
+  "createdAt": "2026-10-14T19:12:27Z",
+  "isFork": false,
+  "description": "Taxis, the private driver and your own car drive you through the city in Big Ambitions (Workshop mod)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Lenovo-SM8850/android_device_lenovo_wuji": {
+  "nameWithOwner": "Lenovo-SM8850/android_device_lenovo_wuji",
+  "createdAt": "2026-10-14T14:57:26Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "qrilka/exploderous": {
+  "nameWithOwner": "qrilka/exploderous",
+  "createdAt": "2026-10-11T12:05:41Z",
+  "isFork": false,
+  "description": "Test project",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kyalyal/YAL_IDE": {
+  "nameWithOwner": "kyalyal/YAL_IDE",
+  "createdAt": "2026-10-12T03:33:41Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "loafykitten/dw1-silicon": {
+  "nameWithOwner": "loafykitten/dw1-silicon",
+  "createdAt": "2026-10-13T10:04:15Z",
+  "isFork": false,
+  "description": "Digimon World (PS1) as a native Apple Silicon app, built from the dw_decomp decompilation",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "hesamsheikh/CrusaderArena": {
+  "nameWithOwner": "hesamsheikh/CrusaderArena",
+  "createdAt": "2026-10-08T09:47:49Z",
+  "isFork": false,
+  "description": "A real-time strategy benchmark for AI agents, played in Stronghold Crusader: Definitive Edition",
+  "homepageUrl": "https://crusbench.com",
+  "stargazerCount": 2
+ },
+ "loafykitten/pf-wotr-rs": {
+  "nameWithOwner": "loafykitten/pf-wotr-rs",
+  "createdAt": "2026-10-11T00:05:12Z",
+  "isFork": false,
+  "description": "A new engine for Pathfinder: Wrath of the Righteous, written in Rust for Apple Silicon Macs. Runs the game from your own installed copy; ships none of it.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "croahs/csclipper": {
+  "nameWithOwner": "croahs/csclipper",
+  "createdAt": "2026-10-14T20:02:40Z",
+  "isFork": false,
+  "description": "Makes clips automatically from your best CS2 moments",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "yiling-123456/sts_agent": {
+  "nameWithOwner": "yiling-123456/sts_agent",
+  "createdAt": "2026-10-14T04:20:06Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "emberian/delvetalk": {
+  "nameWithOwner": "emberian/delvetalk",
+  "createdAt": "2026-10-08T13:22:43Z",
+  "isFork": false,
+  "description": "Compact Objective Bend semantics and executable protocols for shared agent worlds",
+  "homepageUrl": "",
+  "stargazerCount": 4
+ },
+ "neko782/tickless-server": {
+  "nameWithOwner": "neko782/tickless-server",
+  "createdAt": "2026-10-14T01:24:54Z",
+  "isFork": false,
+  "description": "Parallel, tickless Minecraft 26.3 server, built as paperweight patches on vanilla. Public domain (Unlicense).",
+  "homepageUrl": null,
+  "stargazerCount": 3
+ },
+ "the-programming-club-at-hfc/The-Programming-Club": {
+  "nameWithOwner": "the-programming-club-at-hfc/The-Programming-Club",
+  "createdAt": "2026-10-10T13:02:30Z",
+  "isFork": false,
+  "description": "The Programming Club",
+  "homepageUrl": "https://programmingclub.dev",
+  "stargazerCount": 0
+ },
+ "BrandonGarate177/Crafting-with-Agents": {
+  "nameWithOwner": "BrandonGarate177/Crafting-with-Agents",
+  "createdAt": "2026-10-12T05:28:46Z",
+  "isFork": false,
+  "description": "How cool would it be if we could teach youth students how to build anything (even huge Minecraft mega bases) with agentic frameworks and ideas. Teaching agentic engineering young. To create strong well adapted future proof students. ",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Rafaoramas1/agentcraft": {
+  "nameWithOwner": "Rafaoramas1/agentcraft",
+  "createdAt": "2026-10-10T02:23:13Z",
+  "isFork": false,
+  "description": "AgentCraft sandbox: drive the agent team from a local web UI with open models on Ollama, no Minecraft. Fork of blendi-remade/agentcraft (MIT).",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pythagorakase/skyrim-hold-music": {
+  "nameWithOwner": "pythagorakase/skyrim-hold-music",
+  "createdAt": "2026-10-08T16:47:34Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "alisafakaya624-coder/game-recreation": {
+  "nameWithOwner": "alisafakaya624-coder/game-recreation",
+  "createdAt": "2026-10-09T07:48:29Z",
+  "isFork": false,
+  "description": "AI-assisted browser game recreations + the one-shot prompts they were built from",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "michidk/cyrus": {
+  "nameWithOwner": "michidk/cyrus",
+  "createdAt": "2026-10-09T17:54:16Z",
+  "isFork": false,
+  "description": "The Elder Scrolls Adventures: Redguard (1998), rebuilt in Rust and Bevy.",
+  "homepageUrl": "https://michidk.github.io/cyrus/",
+  "stargazerCount": 2
+ },
+ "snakewizardd/snake-worms": {
+  "nameWithOwner": "snakewizardd/snake-worms",
+  "createdAt": "2026-10-11T01:27:45Z",
+  "isFork": false,
+  "description": "Turn-based snake artillery. Sheep rain. Holy eggs. A CPU that trolls you.",
+  "homepageUrl": "https://snakewizardd.github.io/snake-worms/",
+  "stargazerCount": 0
+ },
+ "ArclightInnovation/arcade-forge": {
+  "nameWithOwner": "ArclightInnovation/arcade-forge",
+  "createdAt": "2026-10-11T10:20:41Z",
+  "isFork": false,
+  "description": "ArcadeForge AI \u2014 Design, Compile, and Play Retro Arcade Games with GPT-6 Astra",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "manxzo/chess-mcp": {
+  "nameWithOwner": "manxzo/chess-mcp",
+  "createdAt": "2026-10-11T09:40:15Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "NMAIResearch/vibe-vault": {
+  "nameWithOwner": "NMAIResearch/vibe-vault",
+  "createdAt": "2026-10-09T22:57:01Z",
+  "isFork": false,
+  "description": "Games made with AI, playable in your browser. Hosted by NM AI Research.",
+  "homepageUrl": "https://nmairesearch.com/vibe-vault/",
+  "stargazerCount": 0
+ },
+ "Spotnick2/GlassMiniMap": {
+  "nameWithOwner": "Spotnick2/GlassMiniMap",
+  "createdAt": "2026-10-14T02:43:06Z",
+  "isFork": false,
+  "description": "A liquid-glass minimap for World of Warcraft: Forever",
+  "homepageUrl": "https://www.curseforge.com/wow/addons/glassminimap",
+  "stargazerCount": 0
+ },
+ "nickthelegend/mempire-arc": {
+  "nameWithOwner": "nickthelegend/mempire-arc",
+  "createdAt": "2026-10-07T20:27:47Z",
+  "isFork": false,
+  "description": "Mempire on Arc: real-time 1v1 card battler with USDC stakes. Fighters priced by Chainlink Data Feeds; enter from Base/Ethereum via CCIP + CCTP.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ms0683436/sbar-2026-competition": {
+  "nameWithOwner": "ms0683436/sbar-2026-competition",
+  "createdAt": "2026-10-13T03:10:45Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "RodReis/rrb-godot": {
+  "nameWithOwner": "RodReis/rrb-godot",
+  "createdAt": "2026-10-08T14:00:18Z",
+  "isFork": false,
+  "description": "Games",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "macassvic-cmd/arc-lab": {
+  "nameWithOwner": "macassvic-cmd/arc-lab",
+  "createdAt": "2026-10-08T22:38:45Z",
+  "isFork": false,
+  "description": "NBA prop research: projections, defense vs position, injury news",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "CalebEaston/bl2-and-tps-enemy-and-item-scaling-sdk": {
+  "nameWithOwner": "CalebEaston/bl2-and-tps-enemy-and-item-scaling-sdk",
+  "createdAt": "2026-10-08T21:35:48Z",
+  "isFork": false,
+  "description": "Borderlands 2 PythonSDK mod: keeps enemies and loot within a band around your level",
+  "homepageUrl": "https://github.com/CalebEaston/bl2-enemy-and-item-scaling-sdk/releases/latest",
+  "stargazerCount": 0
+ },
+ "isochronous/just-fall-already": {
+  "nameWithOwner": "isochronous/just-fall-already",
+  "createdAt": "2026-10-08T22:58:37Z",
+  "isFork": false,
+  "description": "Oxygen Not Included mod: critters whose footing a door just took away fall at once",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "godoriii/Stage_empire": {
+  "nameWithOwner": "godoriii/Stage_empire",
+  "createdAt": "2026-10-08T22:55:33Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "realTeddy/dael-phone": {
+  "nameWithOwner": "realTeddy/dael-phone",
+  "createdAt": "2026-10-08T10:14:48Z",
+  "isFork": false,
+  "description": "A pretend phone and games app for toddlers: safe dialing, video calls that play parent-recorded clips, kiosk mode.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Nisiix/ConstellationTCG": {
+  "nameWithOwner": "Nisiix/ConstellationTCG",
+  "createdAt": "2026-10-08T20:26:46Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "colin499/MAC_GAMING": {
+  "nameWithOwner": "colin499/MAC_GAMING",
+  "createdAt": "2026-10-08T16:40:28Z",
+  "isFork": false,
+  "description": "Crossover type thing so I can play PC game on my mac",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "escojoncio/VPKEngine": {
+  "nameWithOwner": "escojoncio/VPKEngine",
+  "createdAt": "2026-10-08T21:39:20Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Metta-AI/coworld-marketing": {
+  "nameWithOwner": "Metta-AI/coworld-marketing",
+  "createdAt": "2026-10-08T23:03:04Z",
+  "isFork": false,
+  "description": "Softmax Video Marketing: a daily Coworld where players submit a marketing video and a judge scores it against the Softmax bar",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "trevorkeithsherman-crypto/EDHCLUB": {
+  "nameWithOwner": "trevorkeithsherman-crypto/EDHCLUB",
+  "createdAt": "2026-10-08T20:06:42Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bertrandgroulx-droid/puzzling-collection": {
+  "nameWithOwner": "bertrandgroulx-droid/puzzling-collection",
+  "createdAt": "2026-10-08T00:54:45Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Divine-Adeyemi/rust_tetris": {
+  "nameWithOwner": "Divine-Adeyemi/rust_tetris",
+  "createdAt": "2026-10-08T22:26:09Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "guichduh33-arch/Video-game": {
+  "nameWithOwner": "guichduh33-arch/Video-game",
+  "createdAt": "2026-10-08T10:03:16Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Arziburst/arx-fatalis-vr": {
+  "nameWithOwner": "Arziburst/arx-fatalis-vr",
+  "createdAt": "2026-10-07T22:50:58Z",
+  "isFork": false,
+  "description": "Arx Fatalis VR \u2014 VR port of Arx Fatalis based on the Arx Libertatis engine (OpenXR via SteamVR). Requires the original game.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "josephwroot/apps": {
+  "nameWithOwner": "josephwroot/apps",
+  "createdAt": "2026-10-09T23:35:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "evilcomputer12/xodus-launcher": {
+  "nameWithOwner": "evilcomputer12/xodus-launcher",
+  "createdAt": "2026-10-09T21:41:41Z",
+  "isFork": false,
+  "description": "PC Game Pass launcher for Linux built on xodus and WineGDK (GPL-3.0)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jackgary86-dev/CastleCapture": {
+  "nameWithOwner": "jackgary86-dev/CastleCapture",
+  "createdAt": "2026-10-09T13:51:29Z",
+  "isFork": false,
+  "description": "Castle Camputre game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bro2jo/leyenda": {
+  "nameWithOwner": "bro2jo/leyenda",
+  "createdAt": "2026-10-08T22:16:51Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AudreyYUAN0825/strategy-lab": {
+  "nameWithOwner": "AudreyYUAN0825/strategy-lab",
+  "createdAt": "2026-10-13T06:27:53Z",
+  "isFork": false,
+  "description": "strategy-lab \u2014 extracted from ZechenBian.github.io; original author: Zechen Bian",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "sirpravnp/corosim": {
+  "nameWithOwner": "sirpravnp/corosim",
+  "createdAt": "2026-10-07T20:20:39Z",
+  "isFork": false,
+  "description": "CoroSim: a 3D coronary vasculature simulator (education only)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "GetLostIn/CTR-NitroFueled-PC": {
+  "nameWithOwner": "GetLostIn/CTR-NitroFueled-PC",
+  "createdAt": "2026-10-12T15:24:23Z",
+  "isFork": false,
+  "description": "Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files included.",
+  "homepageUrl": null,
+  "stargazerCount": 272
+ },
+ "GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS": {
+  "nameWithOwner": "GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS",
+  "createdAt": "2026-10-14T16:44:50Z",
+  "isFork": false,
+  "description": "EA SPORTS UFC 3 (PS4) native port for Linux and Windows \u2014 SacredFire/bbport runtime + shadPS4-derived Vulkan renderer",
+  "homepageUrl": null,
+  "stargazerCount": 4
+ },
+ "LinksTech/ReFueled": {
+  "nameWithOwner": "LinksTech/ReFueled",
+  "createdAt": "2026-10-12T20:14:53Z",
+  "isFork": false,
+  "description": "ReFueled \u2013 Windows-Port of SacredFire ( CTR PS4)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "grantdoepel/rep": {
+  "nameWithOwner": "grantdoepel/rep",
+  "createdAt": "2026-10-09T14:37:38Z",
+  "isFork": false,
+  "description": "rep fitness app",
+  "homepageUrl": "https://rep-xi-five.vercel.app",
+  "stargazerCount": 0
+ },
+ "donpimponnousacondom-afk/whiteboard-chaos": {
+  "nameWithOwner": "donpimponnousacondom-afk/whiteboard-chaos",
+  "createdAt": "2026-10-09T16:30:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://chaos-whiteboard.vercel.app",
+  "stargazerCount": 0
+ },
+ "seanbalz/guess-the-lines-repo": {
+  "nameWithOwner": "seanbalz/guess-the-lines-repo",
+  "createdAt": "2026-10-08T07:28:03Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ZaneyP/hot-dog-dash": {
+  "nameWithOwner": "ZaneyP/hot-dog-dash",
+  "createdAt": "2026-10-09T20:52:22Z",
+  "isFork": false,
+  "description": "Hot Dog Dash: first-person boardwalk parkour where time only moves when you move, and the hot dog vendors want you gone. HTML5 game for Cloudflare Pages.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "DanLeonti/velocidrone-racegow6-track2": {
+  "nameWithOwner": "DanLeonti/velocidrone-racegow6-track2",
+  "createdAt": "2026-10-09T20:41:43Z",
+  "isFork": false,
+  "description": "Unofficial Velocidrone .trk of RaceGOW6 Track2 (BetaFPV / Sabj), rebuilt from the IGOW video",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jalalhussein1982/coin-wargame-mcp": {
+  "nameWithOwner": "jalalhussein1982/coin-wargame-mcp",
+  "createdAt": "2026-10-10T23:02:18Z",
+  "isFork": false,
+  "description": "MCP server over a COIN wargame engine: any host model plays Government or Red Team through tools; seeded replayable games; model benchmark harness. Protocol 2026-07-28.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "erreib/pure-recomp": {
+  "nameWithOwner": "erreib/pure-recomp",
+  "createdAt": "2026-10-13T18:43:21Z",
+  "isFork": false,
+  "description": "Wipeout Pure (PSP, 2005) as a native program for Apple Silicon Macs and Windows, by static recompilation. No game data included: you play it from your own disc image.",
+  "homepageUrl": "https://github.com/erreib/pure-recomp/releases",
+  "stargazerCount": 2
+ },
+ "Riztofu/quantum-foundry": {
+  "nameWithOwner": "Riztofu/quantum-foundry",
+  "createdAt": "2026-10-10T23:37:44Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "joggolmais/joggol": {
+  "nameWithOwner": "joggolmais/joggol",
+  "createdAt": "2026-10-10T17:12:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://joggol.vercel.app/",
+  "stargazerCount": 0
+ },
+ "mykolasmarkauskas/takeout-fox": {
+  "nameWithOwner": "mykolasmarkauskas/takeout-fox",
+  "createdAt": "2026-10-10T18:45:43Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "pix3dev/pix3-e2e": {
+  "nameWithOwner": "pix3dev/pix3-e2e",
+  "createdAt": "2026-10-12T11:51:06Z",
+  "isFork": false,
+  "description": "Browser end-to-end checks for pix3-core: editor, agent bridge, playable build, debug mode, Remote SSH",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "n8an-c/CloroxMaelstromBot": {
+  "nameWithOwner": "n8an-c/CloroxMaelstromBot",
+  "createdAt": "2026-10-10T09:39:03Z",
+  "isFork": false,
+  "description": "Lichess bot that emulates me, CloroxMaelstrom. At least I hope so.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "aztmm1/aztmm1.github.io": {
+  "nameWithOwner": "aztmm1/aztmm1.github.io",
+  "createdAt": "2026-10-09T19:47:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Rance9/Classic-Cart-Studio": {
+  "nameWithOwner": "Rance9/Classic-Cart-Studio",
+  "createdAt": "2026-10-10T18:21:09Z",
+  "isFork": false,
+  "description": "The ultimate NES Classic collection builder. Explore a massive game catalog, discover editions, and curate your perfect library online. Continue seamlessly in the Windows app to match your own ROMs and prepare for Hakchi. Free, open source, and built for retro gaming enthusiasts.",
+  "homepageUrl": "https://ClassicCartStudio.com",
+  "stargazerCount": 1
+ },
+ "17ronith/PaisaPath": {
+  "nameWithOwner": "17ronith/PaisaPath",
+  "createdAt": "2026-10-13T09:32:47Z",
+  "isFork": false,
+  "description": "Learning Money by Living It \u2014 Team 97, Megathon X. Copy of IIIT-ECell/megathon26-mars for hosting.",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "xinhuagu/my-microduck-journal": {
+  "nameWithOwner": "xinhuagu/my-microduck-journal",
+  "createdAt": "2026-10-10T21:33:23Z",
+  "isFork": false,
+  "description": "A public, verifiable, continuable route to the Microduck's skills: policies trained from scratch on one consumer GPU without the official private teachers, an open benchmark against the official policies, and every script, patch, number and dead end",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "dseif0x/games-operator": {
+  "nameWithOwner": "dseif0x/games-operator",
+  "createdAt": "2026-10-08T20:16:26Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ethannicholas/gcn-recomp": {
+  "nameWithOwner": "ethannicholas/gcn-recomp",
+  "createdAt": "2026-10-08T04:09:03Z",
+  "isFork": false,
+  "description": "Shared code for GameCube recompilation projects",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "leonelh06-lgtm/Knight-Hacks-IX": {
+  "nameWithOwner": "leonelh06-lgtm/Knight-Hacks-IX",
+  "createdAt": "2026-10-10T03:43:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "BigZ509/guiding-hands": {
+  "nameWithOwner": "BigZ509/guiding-hands",
+  "createdAt": "2026-10-11T14:06:54Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "Arouid/Context": {
+  "nameWithOwner": "Arouid/Context",
+  "createdAt": "2026-10-10T14:52:40Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jsclark89/cmsa-schedule": {
+  "nameWithOwner": "jsclark89/cmsa-schedule",
+  "createdAt": "2026-10-10T20:58:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "huntergdavis/poolrad-decomp": {
+  "nameWithOwner": "huntergdavis/poolrad-decomp",
+  "createdAt": "2026-10-11T00:13:45Z",
+  "isFork": false,
+  "description": "Source reconstruction of the DOS Pool of Radiance engine in portable C; original game media not distributed",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "aimran6775/Maka": {
+  "nameWithOwner": "aimran6775/Maka",
+  "createdAt": "2026-10-10T15:21:18Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "amaraa87/toddlertown-site": {
+  "nameWithOwner": "amaraa87/toddlertown-site",
+  "createdAt": "2026-10-11T23:42:05Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Timbo-Jimbo/UI-Next": {
+  "nameWithOwner": "Timbo-Jimbo/UI-Next",
+  "createdAt": "2026-10-12T04:40:35Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "YouhuaLi/ten-steps-ten-thousand-degrees": {
+  "nameWithOwner": "YouhuaLi/ten-steps-ten-thousand-degrees",
+  "createdAt": "2026-10-11T23:01:32Z",
+  "isFork": false,
+  "description": "10\u6b65\u4e07\u5ea6\u6e38\u620f\u7684\u7814\u7a76/ research of en-steps-ten-thousand-degrees game",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Gbollysearch7/london-tube": {
+  "nameWithOwner": "Gbollysearch7/london-tube",
+  "createdAt": "2026-10-10T18:55:23Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "dannishen60/hold-the-keep": {
+  "nameWithOwner": "dannishen60/hold-the-keep",
+  "createdAt": "2026-10-11T13:30:56Z",
+  "isFork": false,
+  "description": "Hold the Keep",
+  "homepageUrl": "https://dannishen60.github.io/hold-the-keep/",
+  "stargazerCount": 0
+ },
+ "dannishen60/plants-vs-zombies": {
+  "nameWithOwner": "dannishen60/plants-vs-zombies",
+  "createdAt": "2026-10-11T13:30:47Z",
+  "isFork": false,
+  "description": "Plants vs. Zombies (fan remake)",
+  "homepageUrl": "https://dannishen60.github.io/plants-vs-zombies/",
+  "stargazerCount": 0
+ },
+ "dannishen60/plague-world": {
+  "nameWithOwner": "dannishen60/plague-world",
+  "createdAt": "2026-10-11T13:22:53Z",
+  "isFork": false,
+  "description": "Plague World: infect the whole world before the cure arrives",
+  "homepageUrl": "https://dannishen60.github.io/plague-world/",
+  "stargazerCount": 0
+ },
+ "dannishen60/wobble-war": {
+  "nameWithOwner": "dannishen60/wobble-war",
+  "createdAt": "2026-10-11T13:14:51Z",
+  "isFork": false,
+  "description": "Wobble War: wobbly armies battle on a floating island",
+  "homepageUrl": "https://dannishen60.github.io/wobble-war/",
+  "stargazerCount": 0
+ },
+ "dannishen60/toybox-island": {
+  "nameWithOwner": "dannishen60/toybox-island",
+  "createdAt": "2026-10-11T13:09:19Z",
+  "isFork": false,
+  "description": "Toybox Island: a 3D sandbox playground with endless toys",
+  "homepageUrl": "https://dannishen60.github.io/toybox-island/",
+  "stargazerCount": 0
+ },
+ "Vater-v/kalay-v6": {
+  "nameWithOwner": "Vater-v/kalay-v6",
+  "createdAt": "2026-10-11T22:25:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "iminlikewithyou/cupid": {
+  "nameWithOwner": "iminlikewithyou/cupid",
+  "createdAt": "2026-10-12T18:59:03Z",
+  "isFork": false,
+  "description": "A simple and easy way to launch Heartopia on your Apple silicon Mac",
+  "homepageUrl": "https://github.com/iminlikewithyou/cupid/releases/latest",
+  "stargazerCount": 0
+ },
+ "abtreece/cfbr": {
+  "nameWithOwner": "abtreece/cfbr",
+  "createdAt": "2026-10-11T16:41:00Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "khjtony/wave_front": {
+  "nameWithOwner": "khjtony/wave_front",
+  "createdAt": "2026-10-11T19:04:40Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Raz0r1337/WoW-lights-patch-shader": {
+  "nameWithOwner": "Raz0r1337/WoW-lights-patch-shader",
+  "createdAt": "2026-10-11T20:15:50Z",
+  "isFork": false,
+  "description": "Working repo for tinkering",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "cokobah16-creator/Compound-Days": {
+  "nameWithOwner": "cokobah16-creator/Compound-Days",
+  "createdAt": "2026-10-11T20:47:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "StormAtronach/nirender-plugin": {
+  "nameWithOwner": "StormAtronach/nirender-plugin",
+  "createdAt": "2026-10-10T12:22:27Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Erie-Extrones/Mute-Wanderers": {
+  "nameWithOwner": "Erie-Extrones/Mute-Wanderers",
+  "createdAt": "2026-10-11T21:47:37Z",
+  "isFork": false,
+  "description": "A light client side mod that is made for removing messages from certain ranks so you don't see their messages. Specifically intended for muting wanderers in blossom craft",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "sol-singula/ra1": {
+  "nameWithOwner": "sol-singula/ra1",
+  "createdAt": "2026-10-10T23:23:08Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "treadcore/treadcore": {
+  "nameWithOwner": "treadcore/treadcore",
+  "createdAt": "2026-10-12T22:37:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "JeffreyEpsteel/Hyptile-Island": {
+  "nameWithOwner": "JeffreyEpsteel/Hyptile-Island",
+  "createdAt": "2026-10-12T23:40:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "bleauweb/games.bleauweb.org": {
+  "nameWithOwner": "bleauweb/games.bleauweb.org",
+  "createdAt": "2026-10-12T23:32:48Z",
+  "isFork": false,
+  "description": "Small browser games by Bleauweb",
+  "homepageUrl": "https://games.bleauweb.org",
+  "stargazerCount": 0
+ },
+ "jeisenback/gooselamp-poc": {
+  "nameWithOwner": "jeisenback/gooselamp-poc",
+  "createdAt": "2026-10-12T18:09:09Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "codingncaffeine/WadSmith": {
+  "nameWithOwner": "codingncaffeine/WadSmith",
+  "createdAt": "2026-10-12T00:30:07Z",
+  "isFork": false,
+  "description": "A Modern Doom Level Editor",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "tmldude/BlockSouls": {
+  "nameWithOwner": "tmldude/BlockSouls",
+  "createdAt": "2026-10-10T20:33:56Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "garrettjlamb-collab/GARRASSIST": {
+  "nameWithOwner": "garrettjlamb-collab/GARRASSIST",
+  "createdAt": "2026-10-12T18:12:49Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ticerapps/minesweeperstraitofhormuz.com": {
+  "nameWithOwner": "ticerapps/minesweeperstraitofhormuz.com",
+  "createdAt": "2026-10-12T22:18:09Z",
+  "isFork": false,
+  "description": "Landing page and browser demo for Minesweeper: Strait of Hormuz",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "MiteTython/playbook": {
+  "nameWithOwner": "MiteTython/playbook",
+  "createdAt": "2026-10-12T03:35:11Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "GorboGreeblis/GreeblisTown": {
+  "nameWithOwner": "GorboGreeblis/GreeblisTown",
+  "createdAt": "2026-10-08T02:55:23Z",
+  "isFork": false,
+  "description": "'Greeblis Town' is an RPG designed for Meta Quest Browser.",
+  "homepageUrl": "",
+  "stargazerCount": 1
+ },
+ "Edgemodders/REDcode": {
+  "nameWithOwner": "Edgemodders/REDcode",
+  "createdAt": "2026-10-11T14:26:00Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://edgemodders.github.io/REDcode/",
+  "stargazerCount": 0
+ },
+ "shannonhecker/shannonhecker-protofolio-review": {
+  "nameWithOwner": "shannonhecker/shannonhecker-protofolio-review",
+  "createdAt": "2026-10-10T08:36:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://shannonhecker-work.vercel.app",
+  "stargazerCount": 0
+ },
+ "scottyfncodes/DOWNTOWN-DERBY": {
+  "nameWithOwner": "scottyfncodes/DOWNTOWN-DERBY",
+  "createdAt": "2026-10-12T20:23:07Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://downtown-derby.vercel.app",
+  "stargazerCount": 0
+ },
+ "silentanarchist/warpforge-nx": {
+  "nameWithOwner": "silentanarchist/warpforge-nx",
+  "createdAt": "2026-10-12T00:13:19Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jasonepage/Wick": {
+  "nameWithOwner": "jasonepage/Wick",
+  "createdAt": "2026-10-08T21:23:10Z",
+  "isFork": false,
+  "description": "Daily word game where you guess by meaning, not spelling. iOS app, web client, and the scoring server.",
+  "homepageUrl": "https://guesswick.com",
+  "stargazerCount": 1
+ },
+ "arifbilgin2026/casper": {
+  "nameWithOwner": "arifbilgin2026/casper",
+  "createdAt": "2026-10-13T22:37:08Z",
+  "isFork": false,
+  "description": "Demo Project For Casper Interview",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "lukegrady1/nfl-model": {
+  "nameWithOwner": "lukegrady1/nfl-model",
+  "createdAt": "2026-10-13T22:30:31Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "WH173-0U7/Cyberpunk-Txt-RPG": {
+  "nameWithOwner": "WH173-0U7/Cyberpunk-Txt-RPG",
+  "createdAt": "2026-10-11T19:06:37Z",
+  "isFork": false,
+  "description": "Game designed to be within the universe of cyberpunk 2077, text based RPG, with in depth mechanics.",
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "reecen9696/galaxslop": {
+  "nameWithOwner": "reecen9696/galaxslop",
+  "createdAt": "2026-10-12T04:50:53Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Edgemodders/REDbridge": {
+  "nameWithOwner": "Edgemodders/REDbridge",
+  "createdAt": "2026-10-11T16:08:37Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://edgemodders.github.io/REDbridge/",
+  "stargazerCount": 0
+ },
+ "seasonstheday/labs": {
+  "nameWithOwner": "seasonstheday/labs",
+  "createdAt": "2026-10-09T12:50:17Z",
+  "isFork": false,
+  "description": "Why, Dad? labs from The Backyard Library: a small game or model for every episode",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Knitresletta/UlDungeonCompanion": {
+  "nameWithOwner": "Knitresletta/UlDungeonCompanion",
+  "createdAt": "2026-10-13T17:39:46Z",
+  "isFork": false,
+  "description": "WoW: Forever companion that finds the dungeons, dungeon quests and elite quests that fit your level, on the world map and in a browser window.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Guillaumeds/41Bots": {
+  "nameWithOwner": "Guillaumeds/41Bots",
+  "createdAt": "2026-10-13T14:26:28Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "oldbear24/odyle-windows": {
+  "nameWithOwner": "oldbear24/odyle-windows",
+  "createdAt": "2026-10-12T21:13:12Z",
+  "isFork": false,
+  "description": "Windows WPF tray companion for publishing consented AION 2 Odyle readings to private PocketBase rooms",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "trevorld/pnp.dominoes": {
+  "nameWithOwner": "trevorld/pnp.dominoes",
+  "createdAt": "2026-10-13T19:19:16Z",
+  "isFork": false,
+  "description": "Print-and-play domino layouts",
+  "homepageUrl": "https://trevorldavis.com/R/pnp.dominoes/dev/",
+  "stargazerCount": 0
+ },
+ "NPI01/the-department": {
+  "nameWithOwner": "NPI01/the-department",
+  "createdAt": "2026-10-10T22:32:16Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": "https://weird-delivery.vercel.app",
+  "stargazerCount": 0
+ },
+ "simonthomasanimation/rocket-sim": {
+  "nameWithOwner": "simonthomasanimation/rocket-sim",
+  "createdAt": "2026-10-13T20:19:25Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "snuffish/hallucinate": {
+  "nameWithOwner": "snuffish/hallucinate",
+  "createdAt": "2026-10-13T19:53:13Z",
+  "isFork": false,
+  "description": "Psychedelic, audio-reactive WebGL2 visuals for your music \u2014 40 beat-synced shader scenes, live GLSL editor, node-based visual maker, OBS-style projector studio and an AI scene assistant.",
+  "homepageUrl": "https://snuffish.github.io/hallucinate/",
+  "stargazerCount": 0
+ },
+ "swissmarley/NightCat": {
+  "nameWithOwner": "swissmarley/NightCat",
+  "createdAt": "2026-10-13T20:31:04Z",
+  "isFork": false,
+  "description": "NightCat s a stylish 3D side-scrolling action game in which a graceful cat runs through a moody nighttime street that scrolls automatically.",
+  "homepageUrl": "https://swissmarley.github.io/NightCat/",
+  "stargazerCount": 0
+ },
+ "JoseValencia125/agents-pixel-dungeon": {
+  "nameWithOwner": "JoseValencia125/agents-pixel-dungeon",
+  "createdAt": "2026-10-09T02:33:06Z",
+  "isFork": false,
+  "description": "A native pixel-art dungeon for your live Herdr coding agents, for macOS and Linux (Rust, egui).",
+  "homepageUrl": null,
+  "stargazerCount": 17
+ },
+ "cormacrw/futsali": {
+  "nameWithOwner": "cormacrw/futsali",
+  "createdAt": "2026-10-11T17:48:15Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "matter418/HighSpellPlus-Plugin-Hub": {
+  "nameWithOwner": "matter418/HighSpellPlus-Plugin-Hub",
+  "createdAt": "2026-10-12T20:30:41Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 1
+ },
+ "gabmaybelle/beyond-the-dragon": {
+  "nameWithOwner": "gabmaybelle/beyond-the-dragon",
+  "createdAt": "2026-10-14T11:37:11Z",
+  "isFork": false,
+  "description": "A Fabric and NeoForge mod for Minecraft 26.3: a reason to keep playing after the Ender Dragon. Ruins in the far End, a dragon that comes back harder, and a metal that only exists far from home.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "ahmet4kadir/lol-helper": {
+  "nameWithOwner": "ahmet4kadir/lol-helper",
+  "createdAt": "2026-10-14T23:12:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "matter418/BankPlus": {
+  "nameWithOwner": "matter418/BankPlus",
+  "createdAt": "2026-10-14T23:47:26Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "AiAgent256/Misc": {
+  "nameWithOwner": "AiAgent256/Misc",
+  "createdAt": "2026-10-14T17:03:54Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mfoster58/fantasy-dash": {
+  "nameWithOwner": "mfoster58/fantasy-dash",
+  "createdAt": "2026-10-14T06:37:40Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "9je/hollow-knight-melee": {
+  "nameWithOwner": "9je/hollow-knight-melee",
+  "createdAt": "2026-10-12T23:26:11Z",
+  "isFork": false,
+  "description": "Play Hollow Knight as Super Smash Bros. Melee characters, running Melee's own recompiled code",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "slappyfish167/Vocana-Compat": {
+  "nameWithOwner": "slappyfish167/Vocana-Compat",
+  "createdAt": "2026-10-14T20:23:12Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jfbobier/vision-alvr": {
+  "nameWithOwner": "jfbobier/vision-alvr",
+  "createdAt": "2026-10-09T15:07:40Z",
+  "isFork": false,
+  "description": "Stream PC OpenXR games to Apple Vision Pro with the stock ALVR app, without SteamVR, on NVIDIA GPUs (alpha). Other ALVR headsets expected to work, not actively supported.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "matter418/HighSpellPlus": {
+  "nameWithOwner": "matter418/HighSpellPlus",
+  "createdAt": "2026-10-12T20:22:04Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "gpnevill/pandemic": {
+  "nameWithOwner": "gpnevill/pandemic",
+  "createdAt": "2026-10-14T22:15:09Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Devrongray/sports-method": {
+  "nameWithOwner": "Devrongray/sports-method",
+  "createdAt": "2026-10-14T19:08:11Z",
+  "isFork": false,
+  "description": "Test stuff",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "kirbycope/sword-of-harkinian": {
+  "nameWithOwner": "kirbycope/sword-of-harkinian",
+  "createdAt": "2026-10-13T21:27:06Z",
+  "isFork": false,
+  "description": "Sword Kirby as the player character in Ocarina of Time, running on Ship of Harkinian. Scripts only; no Nintendo material.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "guelowrd/gq-thegamenotthemagazine": {
+  "nameWithOwner": "guelowrd/gq-thegamenotthemagazine",
+  "createdAt": "2026-10-09T15:15:05Z",
+  "isFork": false,
+  "description": "GQ stands for GeoQuizz",
+  "homepageUrl": "https://gq-thegamenotthemagazine.vercel.app",
+  "stargazerCount": 0
+ },
+ "jyrkialakuijala/keimli": {
+  "nameWithOwner": "jyrkialakuijala/keimli",
+  "createdAt": "2026-10-14T21:56:40Z",
+  "isFork": false,
+  "description": "Little germs of life: entropy-centric artificial life project with 128-bit entities that swap (increase entropy) and smooth (reduce entropy) with neighbors and locally morph themselves through decompression, math, and/or code execution. Interactive browser demo with wasm and 16 emulated CPUs.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "wonbyte/hop-lanes-arcade": {
+  "nameWithOwner": "wonbyte/hop-lanes-arcade",
+  "createdAt": "2026-10-11T17:11:52Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "BRANDAY/AcousticsLab": {
+  "nameWithOwner": "BRANDAY/AcousticsLab",
+  "createdAt": "2026-10-14T20:39:10Z",
+  "isFork": false,
+  "description": "Geometric acoustics simulation in Unreal Engine 5: M. Sikora's ray, image-source and beam tracing methods compared with Steam Audio and Audio Tracing",
+  "homepageUrl": "",
+  "stargazerCount": 0
+ },
+ "HajDEO/nhl24pc": {
+  "nameWithOwner": "HajDEO/nhl24pc",
+  "createdAt": "2026-10-12T12:38:48Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 20
+ },
+ "juncoflockleader/good-day-commander": {
+  "nameWithOwner": "juncoflockleader/good-day-commander",
+  "createdAt": "2026-10-14T17:16:55Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "taveston/ssg": {
+  "nameWithOwner": "taveston/ssg",
+  "createdAt": "2026-10-10T12:47:06Z",
+  "isFork": false,
+  "description": null,
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Kwixa/hotshot": {
+  "nameWithOwner": "Kwixa/hotshot",
+  "createdAt": "2026-10-14T14:07:37Z",
+  "isFork": false,
+  "description": "HotShot: Fireball Pool \u2014 public site (privacy, support)",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "jasonuithol/Ultima5Revolutions": {
+  "nameWithOwner": "jasonuithol/Ultima5Revolutions",
+  "createdAt": "2026-10-15T00:43:22Z",
+  "isFork": false,
+  "description": "Ultima V (DOS, 1988) decompiled to Rust \u2014 engine reimplementation, requires the original game files",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "tikituna/samsugarman.com": {
+  "nameWithOwner": "tikituna/samsugarman.com",
+  "createdAt": "2026-10-14T07:11:36Z",
+  "isFork": false,
+  "description": "Official Home Page",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "Tyalor/bloodborne-runtime-eval": {
+  "nameWithOwner": "Tyalor/bloodborne-runtime-eval",
+  "createdAt": "2026-10-14T14:05:38Z",
+  "isFork": false,
+  "description": "Unofficial fork of bloodborne-native/bloodborne-runtime (GPL v2) with Apple Silicon test fixes. Source only, no game content.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "gabmaybelle/forgemark": {
+  "nameWithOwner": "gabmaybelle/forgemark",
+  "createdAt": "2026-10-14T23:24:10Z",
+  "isFork": false,
+  "description": "Temper the tools, weapons and armour you already have, from any mod, for a small capped quality bonus. Minecraft 26.3, Fabric and NeoForge.",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ },
+ "mcscope/Alignment-Incident-Database": {
+  "nameWithOwner": "mcscope/Alignment-Incident-Database",
+  "createdAt": "2026-10-09T22:36:14Z",
+  "isFork": false,
+  "description": "Automatic tracker of alignment incidents, provided as an open-source data source",
+  "homepageUrl": null,
+  "stargazerCount": 0
+ }
+}

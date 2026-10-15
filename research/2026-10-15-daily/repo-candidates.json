@@ -1,0 +1,1666 @@
+[
+ {
+  "full_name": "cktang88/3d-fps",
+  "html_url": "https://github.com/cktang88/3d-fps",
+  "created_at": "2026-10-08T13:33:41Z",
+  "description": "photorealistic 3d FPS, built by claude opus 5.5",
+  "stargazers_count": 1,
+  "homepage": "",
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "dimitriskaramalikis/glyphfall",
+  "html_url": "https://github.com/dimitriskaramalikis/glyphfall",
+  "created_at": "2026-10-09T06:57:20Z",
+  "description": "Typing shooter game, inspired by ztype created by Claude Opus 5.5",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "Foremanytz/AbyssScavenger",
+  "html_url": "https://github.com/Foremanytz/AbyssScavenger",
+  "created_at": "2026-10-08T13:30:03Z",
+  "description": "A rogue-like game made by Claude Opus 5.5. Traditional Chinese only.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "0xabys/saigon-rush-hour",
+  "html_url": "https://github.com/0xabys/saigon-rush-hour",
+  "created_at": "2026-10-08T04:40:55Z",
+  "description": "Saigon Rush Hour \u2014 isometric 3D traffic simulator of real District 1, Ho Chi Minh City (built with Claude Opus 5.5). Map \u00a9 OpenStreetMap contributors, Google Open Buildings (ODbL).",
+  "stargazers_count": 0,
+  "homepage": "https://0xabys.github.io/saigon-rush-hour/",
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "pedrohasf/equilibrium-poker",
+  "html_url": "https://github.com/pedrohasf/equilibrium-poker",
+  "created_at": "2026-10-09T21:19:24Z",
+  "description": "Can decision models play poker? A Rust GTO solver + SwiftUI Mac app benchmarking OpenRouter decision models vs a solver and bots. 100% vibe-coded by Claude Opus 5.5.",
+  "stargazers_count": 0,
+  "homepage": "https://equilibrium-poker.pages.dev",
+  "topics": [
+   "benchmark",
+   "gto",
+   "openrouter",
+   "poker",
+   "rust",
+   "solver",
+   "swiftui"
+  ],
+  "language": "Swift",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "Crawfis-Software/IronCitadel-Showcase",
+  "html_url": "https://github.com/Crawfis-Software/IronCitadel-Showcase",
+  "created_at": "2026-10-08T23:21:55Z",
+  "description": "One dungeon level brief built three ways in Unity: through our framework, by Claude Opus 5.5 and by Claude Fable 5.1, cold. Web builds, films, prompts, scores.",
+  "stargazers_count": 0,
+  "homepage": "https://crawfis-software.github.io/IronCitadel-Showcase/",
+  "topics": [],
+  "language": "C#",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Claude Fable\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "PHY041/claude-motion-playbook",
+  "html_url": "https://github.com/PHY041/claude-motion-playbook",
+  "created_at": "2026-10-08T20:29:04Z",
+  "description": "What 233 Claude Opus 5.5 motion videos teach about prompting motion design \u2014 top picks, prompt stats, 137 techniques, skill reviews, a map of 100 similar projects, and a HyperFrames launch-film template.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [
+   "ai-video",
+   "awesome-list",
+   "claude",
+   "claude-opus",
+   "gsap",
+   "hyperframes",
+   "motion-design",
+   "motion-graphics",
+   "prompt-engineering",
+   "remotion"
+  ],
+  "language": null,
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "0xInsiderhq/wild-fields-1648",
+  "html_url": "https://github.com/0xInsiderhq/wild-fields-1648",
+  "created_at": "2026-10-11T08:26:46Z",
+  "description": "RTS on the 1648 Ukrainian steppe, written by Claude Opus 5.5. three.js, 25 Poly Haven scans, every frame is code.",
+  "stargazers_count": 0,
+  "homepage": "https://0xinsiderhq.github.io/wild-fields-1648/",
+  "topics": [
+   "browser-game",
+   "claude",
+   "poly-haven",
+   "procedural-generation",
+   "rts",
+   "strategy-game",
+   "threejs",
+   "webgl"
+  ],
+  "language": "JavaScript",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-10..2026-10-11",
+   "\"Opus 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "ToukoUrsin/instant-machinist-speedhacks-2026",
+  "html_url": "https://github.com/ToukoUrsin/instant-machinist-speedhacks-2026",
+  "created_at": "2026-10-11T23:22:25Z",
+  "description": "Customer STEP + drawing in, verified CNC program, cycle time and simulation video out in minutes. Claude Opus 5.5 + Autodesk Fusion + our own G-code verifier.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [
+   "autodesk-fusion",
+   "cam",
+   "claude",
+   "cnc",
+   "cnc-simulation",
+   "gcode",
+   "machining",
+   "manufacturing",
+   "mcp"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-10..2026-10-11",
+   "\"Opus 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "WhiteTortoise/transportfever3-dlss-framegen",
+  "html_url": "https://github.com/WhiteTortoise/transportfever3-dlss-framegen",
+  "created_at": "2026-10-12T02:38:43Z",
+  "description": "An exe file that integrates DLSS Frame Generation into the game. Note: this mod was made by Claude Opus 5.5.",
+  "stargazers_count": 3,
+  "homepage": null,
+  "topics": [],
+  "language": "C++",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-12..2026-10-13",
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "SparshKesari/skypilot-aria",
+  "html_url": "https://github.com/SparshKesari/skypilot-aria",
+  "created_at": "2026-10-13T12:57:13Z",
+  "description": "SkyPilot Aria: airline customer-support agent benchmark on Claude Opus 5.5 (Vercel-hosted, TestMu endpoints)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-12..2026-10-13",
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "AlanECE/jev-arena",
+  "html_url": "https://github.com/AlanECE/jev-arena",
+  "created_at": "2026-10-12T11:52:28Z",
+  "description": "Jev (TypeSafe) contre Claude Opus 5.5, en direct : trading \u00e0 la seconde, Tetris, course aux leads, tri d'avis. Docker + ta cl\u00e9 OpenRouter.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-12..2026-10-13",
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "StefanRohringer/binaer-experiment",
+  "html_url": "https://github.com/StefanRohringer/binaer-experiment",
+  "created_at": "2026-10-12T22:08:14Z",
+  "description": "Can an LLM write programs directly as machine code? Test bench and results, compared with C (Claude Opus 5.5 and 4.8, Bonsai 27B). Documentation in German.",
+  "stargazers_count": 0,
+  "homepage": "",
+  "topics": [
+   "assembly",
+   "benchmark",
+   "code-generation",
+   "elf",
+   "llm",
+   "llm-evaluation",
+   "machine-code",
+   "python",
+   "ternary-quantization",
+   "x86-64"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-12..2026-10-13",
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "aimegabase/ai-megabase-log",
+  "html_url": "https://github.com/aimegabase/ai-megabase-log",
+  "created_at": "2026-10-14T09:02:30Z",
+  "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
+  "stargazers_count": 0,
+  "homepage": "https://www.youtube.com/channel/UChCq3HpUdkAoOvltyEwG3-g",
+  "topics": [
+   "ai",
+   "claude",
+   "factorio",
+   "llm-agent"
+  ],
+  "language": null,
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-14..2026-10-15",
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "ajensenwaud/dgx-colgrep",
+  "html_url": "https://github.com/ajensenwaud/dgx-colgrep",
+  "created_at": "2026-10-14T23:38:04Z",
+  "description": "ColGrep-Agent-2B on an NVIDIA DGX Spark, a Hermes Agent plugin for colgrep, and reproducible token-consumption benchmarks (Hermes + Claude Opus 5.5).",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-14..2026-10-15",
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Leichtbier/living-greifswald",
+  "html_url": "https://github.com/Leichtbier/living-greifswald",
+  "created_at": "2026-10-14T16:28:25Z",
+  "description": "Cozy three.js top-down stroll through Greifswald \u2013 the Fischmarkt with its fountain and cheeky herring gulls. Play: https://leichtbier.github.io/living-greifswald/ \u2013 vibe-coded with Claude Opus 5.5.",
+  "stargazers_count": 0,
+  "homepage": "https://leichtbier.github.io/living-greifswald/",
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-14..2026-10-15",
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "sandbase-lab/awesome-gemini4-argon",
+  "html_url": "https://github.com/sandbase-lab/awesome-gemini4-argon",
+  "created_at": "2026-10-14T17:32:12Z",
+  "description": "Awesome Gemini 4 Argon: curated videos, prompts and examples made with Google Gemini 4 Argon (Three.js, WebGL, SVG, games), plus a prompt guide, tutorial and comparison vs Claude Opus 5.5 and GPT-6. Synced daily from SandBase Lab.",
+  "stargazers_count": 1,
+  "homepage": "https://www.sandbase.ai/lab/ai-videos/gemini-4-argon",
+  "topics": [
+   "ai-generated-video",
+   "ai-video",
+   "awesome",
+   "awesome-list",
+   "creative-coding",
+   "examples",
+   "gemini",
+   "gemini-4",
+   "gemini-4-argon",
+   "generative-art",
+   "google-gemini",
+   "llm",
+   "prompt-engineering",
+   "prompt-library",
+   "prompts",
+   "sandbase",
+   "svg-animation",
+   "threejs",
+   "webgl"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Claude Opus 5.5\" created:2026-10-14..2026-10-15",
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "WollyMonjac/ButchGraves3D",
+  "html_url": "https://github.com/WollyMonjac/ButchGraves3D",
+  "created_at": "2026-10-08T21:21:23Z",
+  "description": "Halloween raycaster shooter made with Opus 5.5",
+  "stargazers_count": 20,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "ArthurMonteiro08586/notion-agent-gateway",
+  "html_url": "https://github.com/ArthurMonteiro08586/notion-agent-gateway",
+  "created_at": "2026-10-08T17:20:48Z",
+  "description": "Free OpenAI-compatible gateway over Notion AI agent protocol \u2014 Opus 5.5, GPT-6.1 Sol + 34 models, no card. TLS-fingerprint reverse (curl_cffi).",
+  "stargazers_count": 8,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "cocodedk/agent-benchmark",
+  "html_url": "https://github.com/cocodedk/agent-benchmark",
+  "created_at": "2026-10-09T10:06:20Z",
+  "description": "Claude Code, prime-agent and pi each build one three.js Brick Breaker on Opus 5.5: time, tokens, cost and hidden checks",
+  "stargazers_count": 0,
+  "homepage": "https://agents.cocode.dk",
+  "topics": [
+   "ai-agents",
+   "benchmark",
+   "claude",
+   "threejs"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "per-simmons/opus-premiere-editing",
+  "html_url": "https://github.com/per-simmons/opus-premiere-editing",
+  "created_at": "2026-10-09T18:10:31Z",
+  "description": "Have Claude Code (Opus 5.5) do the rough cut of your videos inside Adobe Premiere Pro: editing skill + Premiere Pro bridge (MCP)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "mosaicss/archivist-benchmark",
+  "html_url": "https://github.com/mosaicss/archivist-benchmark",
+  "created_at": "2026-10-09T04:19:05Z",
+  "description": "Pre registered benchmark: Sol 6.1 and Opus 5.5 with native AI web tools versus the Archivist MCP server on company filings research",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "alireza-hariri/ghoori",
+  "html_url": "https://github.com/alireza-hariri/ghoori",
+  "created_at": "2026-10-10T16:46:36Z",
+  "description": "A raylib+mpvlib based media player - vibe coded with opus 5.5",
+  "stargazers_count": 0,
+  "homepage": "",
+  "topics": [],
+  "language": "Rust",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "jaikaar15/Flight-sim",
+  "html_url": "https://github.com/jaikaar15/Flight-sim",
+  "created_at": "2026-10-10T04:02:32Z",
+  "description": "This is a flight simulator I made to test Opus 5.5. I hope you like it!",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "cr1707/claude-chrome-speed",
+  "html_url": "https://github.com/cr1707/claude-chrome-speed",
+  "created_at": "2026-10-10T07:09:36Z",
+  "description": "Claude Code plugin that cuts Claude in Chrome task time: 40% less on Sonnet 5.5, 28% on Opus 5.5 (240-run pre-registered benchmark)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [
+   "benchmark",
+   "browser-automation",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-in-chrome"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-10..2026-10-11",
+   "\"Sonnet 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "HTC-Leo-Revival-Project/qemu-hd2",
+  "html_url": "https://github.com/HTC-Leo-Revival-Project/qemu-hd2",
+  "created_at": "2026-10-12T19:47:27Z",
+  "description": "Qemu HD2 target clanked by opus 5.5 curtesy of davigamer987 ",
+  "stargazers_count": 20,
+  "homepage": null,
+  "topics": [],
+  "language": "C",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "frankhale/opus-fps",
+  "html_url": "https://github.com/frankhale/opus-fps",
+  "created_at": "2026-10-13T00:29:22Z",
+  "description": "An experiment in creating an Godot FPS with Opus 5.5",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "GDScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "stared/warsaw-vibe-voxel",
+  "html_url": "https://github.com/stared/warsaw-vibe-voxel",
+  "created_at": "2026-10-13T07:41:03Z",
+  "description": "Opus 5.5 asked to create Voxel art 1m of the center of Warsaw (a few prompts)",
+  "stargazers_count": 0,
+  "homepage": "http://p.migdal.pl/warsaw-vibe-voxel/",
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "Gravitatest080/Cookie-Clicker-Deluxe-Apk",
+  "html_url": "https://github.com/Gravitatest080/Cookie-Clicker-Deluxe-Apk",
+  "created_at": "2026-10-13T23:53:06Z",
+  "description": "Just a simple Cookie Clicker game. Used Local A.I, free tier Chatgpt and free tier Claude A.I Opus 5.5 Medium.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "benglyn/harbourline-maintenance-desk",
+  "html_url": "https://github.com/benglyn/harbourline-maintenance-desk",
+  "created_at": "2026-10-13T09:38:29Z",
+  "description": "AI maintenance desk for a property manager: Claude triages portal, voice and email requests against Airtable records. Built in one evening with Claude Code for the Brisbane Opus 5.5 Build Day.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "TESTYEE-09/opus5.5Minecraft",
+  "html_url": "https://github.com/TESTYEE-09/opus5.5Minecraft",
+  "created_at": "2026-10-15T00:21:38Z",
+  "description": "Lumencraft \u2014 a beautiful browser voxel sandbox with shaders, sky islands and P2P multiplayer",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "WilLz1912/f1-sim2d-j4f",
+  "html_url": "https://github.com/WilLz1912/f1-sim2d-j4f",
+  "created_at": "2026-10-14T11:02:12Z",
+  "description": "I made this project just to test how strong Agron 4, Opus 5.5 and Sol 6.1 work by my stupid promt",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"Opus 5.5\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "flakeer/poker-trainer",
+  "html_url": "https://github.com/flakeer/poker-trainer",
+  "created_at": "2026-10-09T03:55:37Z",
+  "description": "An offline Texas Hold\u2019em trainer with adaptive AI opponents, poker decision reviews, and a 12-level learning roadmap. Vibe-coded with Claude Sonnet 5.5.",
+  "stargazers_count": 0,
+  "homepage": "https://flakeer.github.io/poker-trainer/",
+  "topics": [
+   "javascript",
+   "offline",
+   "poker",
+   "texas-holdem",
+   "vanilla-js"
+  ],
+  "language": "HTML",
+  "queries": [
+   "\"Claude Sonnet 5.5\" created:2026-10-08..2026-10-09",
+   "\"Sonnet 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "guibessa1109-sys/offline-games-with-AI",
+  "html_url": "https://github.com/guibessa1109-sys/offline-games-with-AI",
+  "created_at": "2026-10-12T22:06:18Z",
+  "description": "Offline Games made with Claude Sonnet 5.5",
+  "stargazers_count": 0,
+  "homepage": "https://offline-games-with-ai.vercel.app",
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Sonnet 5.5\" created:2026-10-12..2026-10-13",
+   "\"Sonnet 5.5\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "9fw2pq8sgb-art/claude-playbook-delegation",
+  "html_url": "https://github.com/9fw2pq8sgb-art/claude-playbook-delegation",
+  "created_at": "2026-10-09T06:10:51Z",
+  "description": "Claude-Code-Skill: Opus schreibt Playbooks, Sonnet 5.5 und Haiku 5.5 arbeiten, Opus pr\u00fcft nach",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Sonnet 5.5\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "moriryota62/claude-haiku-terraform-benchmark",
+  "html_url": "https://github.com/moriryota62/claude-haiku-terraform-benchmark",
+  "created_at": "2026-10-10T03:11:03Z",
+  "description": "Claude Haiku 4.5 / Sonnet 5.5 / Haiku 5.5 \u306e Terraform\u30b3\u30fc\u30c9\u751f\u6210\u54c1\u8cea\u3092\u5ba2\u89b3\u7684\u6307\u6a19\u3067\u6bd4\u8f03\u3059\u308b\u30d9\u30f3\u30c1\u30de\u30fc\u30af",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HCL",
+  "queries": [
+   "\"Sonnet 5.5\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-dxlmrjtn",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-dxlmrjtn",
+  "created_at": "2026-10-09T02:50:47Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-uachzgr4",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-uachzgr4",
+  "created_at": "2026-10-09T02:50:26Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-ezt90oao",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-ezt90oao",
+  "created_at": "2026-10-09T02:50:27Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-cs9kjfbh",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-cs9kjfbh",
+  "created_at": "2026-10-09T02:51:05Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-xaa7ox58",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-xaa7ox58",
+  "created_at": "2026-10-09T02:50:26Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-trye4wk6",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-trye4wk6",
+  "created_at": "2026-10-09T02:39:28Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-bm5jjo3x",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-bm5jjo3x",
+  "created_at": "2026-10-09T02:39:33Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-f10a1pha",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-f10a1pha",
+  "created_at": "2026-10-09T02:50:49Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-ldp0rs9l",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-ldp0rs9l",
+  "created_at": "2026-10-09T02:39:07Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-bu3j8dxd",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-bu3j8dxd",
+  "created_at": "2026-10-09T02:51:10Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-08..2026-10-09",
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-z9yjbkuh",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-z9yjbkuh",
+  "created_at": "2026-10-11T07:41:03Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-10..2026-10-11",
+   "\"GPT-6.1\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-fdf2ga4t",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-fdf2ga4t",
+  "created_at": "2026-10-11T07:38:04Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-10..2026-10-11",
+   "\"GPT-6.1\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-g11ufl0z",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-g11ufl0z",
+  "created_at": "2026-10-11T07:40:24Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-10..2026-10-11",
+   "\"GPT-6.1\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-b2a7dwv4",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-b2a7dwv4",
+  "created_at": "2026-10-11T07:42:57Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-10..2026-10-11",
+   "\"GPT-6.1\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-n7d6t2td",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-1-sol-n7d6t2td",
+  "created_at": "2026-10-11T07:40:08Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-10..2026-10-11",
+   "\"GPT-6.1\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "steling1/Channel-Surfer",
+  "html_url": "https://github.com/steling1/Channel-Surfer",
+  "created_at": "2026-10-12T19:45:53Z",
+  "description": "GPT 6.1 Sol made Retro game",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-12..2026-10-13",
+   "\"GPT-6.1\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "freidtechnerd-hue/bds-os",
+  "html_url": "https://github.com/freidtechnerd-hue/bds-os",
+  "created_at": "2026-10-13T22:13:08Z",
+  "description": "Bootable x86 hobby OS created with GPT-6.1 Sol and GPT-6 Astra: desktop, native games, BIOS installer and post-video updates.",
+  "stargazers_count": 0,
+  "homepage": "https://www.youtube.com/watch?v=oUb6CiOTym4&t=10s",
+  "topics": [],
+  "language": "C",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-12..2026-10-13",
+   "\"GPT-6.1\" created:2026-10-12..2026-10-13",
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "NineNights195/clutch-lab",
+  "html_url": "https://github.com/NineNights195/clutch-lab",
+  "created_at": "2026-10-14T16:02:00Z",
+  "description": "An interactive motorcycle with hand clutch simulation website built with GPT 6.1 Sol",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-14..2026-10-15",
+   "\"GPT-6.1\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "randy-jin/ai-minecraft-battle",
+  "html_url": "https://github.com/randy-jin/ai-minecraft-battle",
+  "created_at": "2026-10-14T20:06:00Z",
+  "description": "\u540c\u4e00\u53e5\u63d0\u793a\u8bcd\uff0cGemini 4 Argon vs GPT-6.1-sol \u5199\u6d4f\u89c8\u5668\u7248 Minecraft \u7684\u5bf9\u6bd4\u8bc4\u6d4b",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"GPT-6.1 Sol\" created:2026-10-14..2026-10-15",
+   "\"GPT-6.1\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "D1G1TaL-GeeK/gardendless-russian-font-fix-extras",
+  "html_url": "https://github.com/D1G1TaL-GeeK/gardendless-russian-font-fix-extras",
+  "created_at": "2026-10-08T14:39:33Z",
+  "description": "GP-Next mod for PvZ2 Gardendless: Russian/Cyrillic font fixes, 15 font families, UI spacing, auto-collection and 1\u201310\u00d7 speed. \u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0448\u0440\u0438\u0444\u0442\u044b \u0438 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441; \u043d\u0443\u0436\u0435\u043d \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u0443\u0441\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440. MIT / SIL OFL fonts. Code/docs 100% AI-generated with OpenAI GPT 6.1; provided as-is.",
+  "stargazers_count": 1,
+  "homepage": "https://d1g1tal-geek.github.io/gardendless-russian-font-fix-extras/",
+  "topics": [
+   "ai-generated",
+   "cyrillic",
+   "font-fix",
+   "game-mod",
+   "gardendless",
+   "gp-next",
+   "javascript",
+   "localization",
+   "mit-license",
+   "modding",
+   "open-source",
+   "plants-vs-zombies",
+   "plants-vs-zombies-2",
+   "pvz",
+   "pvz2",
+   "pvz2-gardendless",
+   "quality-of-life",
+   "russian-language",
+   "text-rendering",
+   "ui-fix"
+  ],
+  "language": "JavaScript",
+  "queries": [
+   "\"GPT-6.1\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "ACHolding/gpt6.1-systemcard-10.12.26-",
+  "html_url": "https://github.com/ACHolding/gpt6.1-systemcard-10.12.26-",
+  "created_at": "2026-10-12T13:44:12Z",
+  "description": "$. > PR # ",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"GPT-6.1\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "Linwei-Chen/gpt-game-night-voyage",
+  "html_url": "https://github.com/Linwei-Chen/gpt-game-night-voyage",
+  "created_at": "2026-10-13T03:49:27Z",
+  "description": "\u661f\u7b79\u591c\u822a \u00b7 GPT 6.1 \u5236\u4f5c\u5c0f\u6e38\u620f\u6d4b\u8bd5\u3002\u514d\u8d39\u6d4f\u89c8\u5668\u7eb8\u724c\u7b56\u7565\u6e38\u620f\uff0c\u542b12\u7ae0\u4e92\u52a8\u6559\u7a0b\u3001150\u540d\u4f19\u4f34\u3001\u624b\u673a\u652f\u6301\u4e0e\u53ef\u8ffd\u6eaf\u9a8c\u8bc1\u3002",
+  "stargazers_count": 0,
+  "homepage": "",
+  "topics": [
+   "browser-game",
+   "card-game",
+   "chinese",
+   "codex",
+   "gpt-6-1",
+   "pixijs",
+   "typescript"
+  ],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6.1\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "Aixio-AI/aixio-layer-v2",
+  "html_url": "https://github.com/Aixio-AI/aixio-layer-v2",
+  "created_at": "2026-10-09T04:34:08Z",
+  "description": "Aixio Layer v2 recovers editable layers from flat designs where possible. 150-design benchmark vs Canva Magic Layers, Qwen-Image-Layer and GPT-6 Astra Ultra.",
+  "stargazers_count": 61,
+  "homepage": "https://aixio.app",
+  "topics": [
+   "ai-design",
+   "benchmark",
+   "image-to-layers",
+   "layer-decomposition",
+   "pptx"
+  ],
+  "language": null,
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "alaminahme456-hub/awesome-gpt-6-astra",
+  "html_url": "https://github.com/alaminahme456-hub/awesome-gpt-6-astra",
+  "created_at": "2026-10-08T21:14:11Z",
+  "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra \u6e38\u620f\u7cbe\u9009",
+  "stargazers_count": 0,
+  "homepage": "https://omgithub.com/alaminahme456-hub/awesome-gpt-6-astra",
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "kubok758/MinecraftRTX-GPT-6-Astra-Ultra",
+  "html_url": "https://github.com/kubok758/MinecraftRTX-GPT-6-Astra-Ultra",
+  "created_at": "2026-10-08T07:30:39Z",
+  "description": "MinecraftRTX GPT 6 Astra Ultra \u2014 browser voxel survival game for desktop and mobile, with three dimensions and dragon progression.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-lisoxs34",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-lisoxs34",
+  "created_at": "2026-10-09T02:51:25Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-otuprgo3",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-otuprgo3",
+  "created_at": "2026-10-09T02:50:27Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-rnp704gc",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-rnp704gc",
+  "created_at": "2026-10-09T02:50:26Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-n12zcdwc",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-n12zcdwc",
+  "created_at": "2026-10-09T02:50:48Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-o2ghsaiu",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-o2ghsaiu",
+  "created_at": "2026-10-09T02:51:07Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-l140miae",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-l140miae",
+  "created_at": "2026-10-09T02:50:26Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-cw55bcl8",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-cw55bcl8",
+  "created_at": "2026-10-09T02:51:05Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-q15udk99",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-q15udk99",
+  "created_at": "2026-10-09T02:50:47Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-s6l0ysnv",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-s6l0ysnv",
+  "created_at": "2026-10-09T02:50:46Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-z3j7r4pg",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-z3j7r4pg",
+  "created_at": "2026-10-09T02:50:47Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "ArclightInnovation/arcade-forge",
+  "html_url": "https://github.com/ArclightInnovation/arcade-forge",
+  "created_at": "2026-10-11T10:20:41Z",
+  "description": "ArcadeForge AI \u2014 Design, Compile, and Play Retro Arcade Games with GPT-6 Astra",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-ua6tsuhz",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-ua6tsuhz",
+  "created_at": "2026-10-11T07:54:08Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-x8mxzixo",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-x8mxzixo",
+  "created_at": "2026-10-11T07:54:42Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-v108j7ai",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-v108j7ai",
+  "created_at": "2026-10-11T07:52:19Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-c22qm1dg",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-c22qm1dg",
+  "created_at": "2026-10-11T08:00:29Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-codex-gpt-6-astra-mqo6tl8m",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-codex-gpt-6-astra-mqo6tl8m",
+  "created_at": "2026-10-11T07:42:29Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "l0rk59/awesome-gpt-6-astra",
+  "html_url": "https://github.com/l0rk59/awesome-gpt-6-astra",
+  "created_at": "2026-10-12T23:33:09Z",
+  "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra \u6e38\u620f\u7cbe\u9009",
+  "stargazers_count": 0,
+  "homepage": "https://omgithub.com/l0rk59/awesome-gpt-6-astra",
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "ericyanpek/game-sample-corner-mart",
+  "html_url": "https://github.com/ericyanpek/game-sample-corner-mart",
+  "created_at": "2026-10-12T09:44:25Z",
+  "description": "A browser-based 3D convenience store game built with GPT-6 Astra, Blender, and Three.js.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "viktorkav/metal4-shooter",
+  "html_url": "https://github.com/viktorkav/metal4-shooter",
+  "created_at": "2026-10-12T13:45:27Z",
+  "description": "Shooter de nave do ViktorKav em Swift e Metal 4 para macOS, com modelo 3D do Tripo e integra\u00e7\u00e3o com GPT-6 Astra.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Swift",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "BrunoRS17/Onda-Streaming-musica",
+  "html_url": "https://github.com/BrunoRS17/Onda-Streaming-musica",
+  "created_at": "2026-10-13T22:14:29Z",
+  "description": "Player de m\u00fasica open source para web, desktop e Android, com Audius, YouTube e biblioteca local. Projeto pessoal desenvolvido com assist\u00eancia de IA \u2014 GPT-6 Astra.",
+  "stargazers_count": 0,
+  "homepage": "",
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "kapakudl/riot-draft-planner",
+  "html_url": "https://github.com/kapakudl/riot-draft-planner",
+  "created_at": "2026-10-12T02:53:14Z",
+  "description": "A League of Legends desktop draft planner featuring tournament-style picks and bans, contextual champion recommendations, and professional match analysis. Built with Electron and JavaScript, using Riot Data Dragon and Oracle\u2019s Elixir data. Developed with assistance from GPT-6 Astra.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "Chesszyh/ComputerHistory-release",
+  "html_url": "https://github.com/Chesszyh/ComputerHistory-release",
+  "created_at": "2026-10-14T14:30:37Z",
+  "description": "ChatGPT macOS App Computer History RE by Deepseek V4.1 Flash(dsh), GPT-6-Astra(codex) and Gemini 3.8 Flash(agy)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Swift",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "vitoraugolis/safety-copilot",
+  "html_url": "https://github.com/vitoraugolis/safety-copilot",
+  "created_at": "2026-10-14T18:18:04Z",
+  "description": "Continuous barrier-integrity assessment: deterministic Phase A + one isolated LLM analyst (blind replay, RUN_A with Claude Opus 5 and GPT-6 Astra)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"GPT-6 Astra\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-claude-claude-fable-5-1-cy8zlqqh",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-claude-claude-fable-5-1-cy8zlqqh",
+  "created_at": "2026-10-09T02:51:09Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-claude-claude-fable-5-1-khg82b6k",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-claude-claude-fable-5-1-khg82b6k",
+  "created_at": "2026-10-09T02:51:07Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "mqingcs/WorldCup-Oracle",
+  "html_url": "https://github.com/mqingcs/WorldCup-Oracle",
+  "created_at": "2026-10-09T06:54:38Z",
+  "description": "\u26bd The Legendary 2026 FIFA World Cup Prediction Engine co-created with Claude Fable 5. Powered by Dixon-Coles Bivariate Poisson & Dual Shrinkage Regularization.",
+  "stargazers_count": 1,
+  "homepage": null,
+  "topics": [
+   "claude-fable-5",
+   "dixon-coles",
+   "football-analytics",
+   "monte-carlo",
+   "poisson-distribution",
+   "prediction-engine",
+   "sports-analytics",
+   "worldcup-2026"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-08..2026-10-09"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-claude-claude-fable-5-1-wtn8osol",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-claude-claude-fable-5-1-wtn8osol",
+  "created_at": "2026-10-11T00:51:31Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "TheClockwyrks/tcab-pong-claude-claude-fable-5-1-ng2sonjy",
+  "html_url": "https://github.com/TheClockwyrks/tcab-pong-claude-claude-fable-5-1-ng2sonjy",
+  "created_at": "2026-10-11T00:51:30Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-10..2026-10-11"
+  ]
+ },
+ {
+  "full_name": "Torchwood4201/AstroHop",
+  "html_url": "https://github.com/Torchwood4201/AstroHop",
+  "created_at": "2026-10-13T21:50:12Z",
+  "description": "Retro 2D platformer (Phaser 3 + Vite) built as a sandbox to learn game development and probe the capabilities of the Claude Fable 5 model.   Mario-style platformer made from scratch \u2014 equal parts game-dev learning project and an experiment in building software alongside Claude Fable 5.",
+  "stargazers_count": 0,
+  "homepage": "https://omgithub.com/Torchwood4201/AstroHop",
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"Claude Fable\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "arronnight/fable-5.1-mario",
+  "html_url": "https://github.com/arronnight/fable-5.1-mario",
+  "created_at": "2026-10-12T13:06:56Z",
+  "description": "Super Mario Bros. World 1-1 in ONE html file \u2014 zero deps, zero assets, synth audio. One-shotted by Claude Fable 5.1.",
+  "stargazers_count": 0,
+  "homepage": "https://omgithub.com/arronnight/fable-5.1-mario",
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"Claude Fable\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "jmiyazaki27446/awesome-claude-fable-5-prompt-vault",
+  "html_url": "https://github.com/jmiyazaki27446/awesome-claude-fable-5-prompt-vault",
+  "created_at": "2026-10-14T15:56:41Z",
+  "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [
+   "agentic-coding",
+   "ai-agents",
+   "anthropic",
+   "anthropic-api",
+   "anthropic-claude",
+   "awesome-list",
+   "benchmarks",
+   "claude",
+   "claude-api",
+   "claude-fable-5",
+   "claude-opus",
+   "claude-sonnet",
+   "coding-assistant",
+   "developer-tools",
+   "generative-ai",
+   "large-language-models",
+   "llm",
+   "muapi",
+   "prompt-engineering",
+   "use-cases"
+  ],
+  "language": "HTML",
+  "queries": [
+   "\"Claude Fable\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Torchwood4201/Wormhole",
+  "html_url": "https://github.com/Torchwood4201/Wormhole",
+  "created_at": "2026-10-14T17:05:59Z",
+  "description": "A first-person horror portal-puzzle game. Built in one prompt with Claude Fable 5",
+  "stargazers_count": 0,
+  "homepage": "https://omgithub.com/Torchwood4201/Wormhole",
+  "topics": [],
+  "language": null,
+  "queries": [
+   "\"Claude Fable\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "RobinaMirbahar/gemini-4-argon-cookbook",
+  "html_url": "https://github.com/RobinaMirbahar/gemini-4-argon-cookbook",
+  "created_at": "2026-10-13T17:19:10Z",
+  "description": "Gemini 4 Argon Cookbook & Starter Kit - 1M Unified Token Long-Decode Continuation, Deep Reasoning Thought Signatures, Autonomous Cyber/Code Auditor, and Pure-Python 3D Raytracer @google-deepmind",
+  "stargazers_count": 3,
+  "homepage": "https://robinamirbahar.github.io/gemini-4-argon-cookbook/",
+  "topics": [
+   "ai-agents",
+   "gemini",
+   "gemini-4-argon",
+   "google-antigravity",
+   "google-deepmind",
+   "interactions-api",
+   "raytracer"
+  ],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-12..2026-10-13",
+   "\"Gemini 4\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "higekibaka/dsh-vertex-argon",
+  "html_url": "https://github.com/higekibaka/dsh-vertex-argon",
+  "created_at": "2026-10-13T17:19:43Z",
+  "description": "Vertex Argon \u2014 Google Vertex AI & Gemini API dual-route Gemini 4 Argon plugin for DeepSeek Harness (DSH): native Low/Medium/High thinking levels, thought summaries, signed tool-call replay, and dedicated Settings UI.",
+  "stargazers_count": 3,
+  "homepage": "https://www.npmjs.com/package/dsh-vertex-argon",
+  "topics": [
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "gemini",
+   "llm",
+   "plugin",
+   "vertex-ai"
+  ],
+  "language": "JavaScript",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-12..2026-10-13",
+   "\"Gemini 4\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "arungk27/fetch-tax-argon-benchmark",
+  "html_url": "https://github.com/arungk27/fetch-tax-argon-benchmark",
+  "created_at": "2026-10-13T07:56:26Z",
+  "description": "The Fetch Tax: how many tokens each retrieval path puts into an agent's context. Gemini 4 Argon answers 20 factual questions across eight paths: raw fetch, Gemini URL context, Google Search grounding, Grounding with Exa, Exa full text and highlights, and ref.tools docs search. Companion to the blog post.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Python",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-12..2026-10-13",
+   "\"Gemini 4\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "danpez/gemini-4-argon-vs-3.8-flash-benchmark",
+  "html_url": "https://github.com/danpez/gemini-4-argon-vs-3.8-flash-benchmark",
+  "created_at": "2026-10-14T03:04:46Z",
+  "description": "Benchmark Zero-Shot: Gemini 4 Argon (High) vs Gemini 3.8 Flash (High) \u2014 10 retos extremos de WebGL, Shaders GLSL, F\u00edsica, Raycasting y CSS Puro (Prompts + C\u00f3digo + Videos)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Recursive-Self-Improving/qingdao-badaguan-threejs-gemini-4-argon-high-gemini-web",
+  "html_url": "https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-gemini-4-argon-high-gemini-web",
+  "created_at": "2026-10-14T04:58:21Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": "https://recursive-self-improving.github.io/qingdao-badaguan-threejs-gemini-4-argon-high-gemini-web/",
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "ShreyashGawas777/kuros-lakeside-stone-skipping",
+  "html_url": "https://github.com/ShreyashGawas777/kuros-lakeside-stone-skipping",
+  "created_at": "2026-10-14T19:27:30Z",
+  "description": "Game made by the latest Gemini 4 argon using my game details",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Aqsa-K/argon-cyber-defense-war-room",
+  "html_url": "https://github.com/Aqsa-K/argon-cyber-defense-war-room",
+  "created_at": "2026-10-14T14:27:17Z",
+  "description": "3D Cyber-Defense & Live Auto-Patch War Room built with Gemini 4 Argon, TypeScript, Three.js, and Web Audio API",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "inematds/robotica-real2sim",
+  "html_url": "https://github.com/inematds/robotica-real2sim",
+  "created_at": "2026-10-14T05:34:01Z",
+  "description": "Foto da mesa \u2192 g\u00eameo MuJoCo \u2192 dados de treino rotulados \u2192 plano provado na simula\u00e7\u00e3o (r\u00e9plica aberta do Real2Sim do Gemini 4 Argon)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "oscarqht/resin-island-diorama",
+  "html_url": "https://github.com/oscarqht/resin-island-diorama",
+  "created_at": "2026-10-14T06:29:30Z",
+  "description": "Interactive 3D Resin Island Diorama built with R3F, Three.js & custom GLSL shaders (Demo by Gemini 4 Argon, prompt by @Saccc_c)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Emily2040/chrono-analogue-1974-synth-studio",
+  "html_url": "https://github.com/Emily2040/chrono-analogue-1974-synth-studio",
+  "created_at": "2026-10-14T22:42:58Z",
+  "description": "Playable 3D 1974 modular analogue synthesiser, direct-drive vinyl turntable studio & 1080p60 four-symphony performance engine built with Gemini 4 Argon (EN / \u4e2d\u6587 / \u65e5\u672c\u8a9e / \ud55c\uad6d\uc5b4)",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [
+   "blender",
+   "gemini-4-argon",
+   "modular-synthesizer",
+   "threejs",
+   "turntable",
+   "webaudio",
+   "webgl2"
+  ],
+  "language": "Python",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "mrmohammadalamin/AutiCompanion-3D-AI",
+  "html_url": "https://github.com/mrmohammadalamin/AutiCompanion-3D-AI",
+  "created_at": "2026-10-14T00:37:35Z",
+  "description": "AutiCompanion AI: 3D Cartoon Toy Co-Play Studio & Neuro-Affirming Multimodal Agentic Companion for Autistic Children (Ages 2-11), architected with Gemini 4 Argon, React 19, Three.js WebGL & FastAPI",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Gemini 4 Argon\" created:2026-10-14..2026-10-15",
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Tetsuoryuu/ToddlerGames",
+  "html_url": "https://github.com/Tetsuoryuu/ToddlerGames",
+  "created_at": "2026-10-12T22:34:20Z",
+  "description": "A few example of Toddler Games created testing the capabilities of Gemini 4 and the latest Gemini family multimodality models",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "TypeScript",
+  "queries": [
+   "\"Gemini 4\" created:2026-10-12..2026-10-13"
+  ]
+ },
+ {
+  "full_name": "thomas-sung/gemini4-2d-rpg",
+  "html_url": "https://github.com/thomas-sung/gemini4-2d-rpg",
+  "created_at": "2026-10-14T09:16:12Z",
+  "description": null,
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "Java",
+  "queries": [
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "The-Focus-AI/brutism-gemini-4-test",
+  "html_url": "https://github.com/The-Focus-AI/brutism-gemini-4-test",
+  "created_at": "2026-10-14T20:33:04Z",
+  "description": "Parametric brutalist city builder from TheFocus.AI: sculpt iconic b\u00e9ton brut buildings and run solar, circulation, wind, and structural simulations. https://artifacts.thefocus.ai/a/d8CcEPLzwbY/",
+  "stargazers_count": 0,
+  "homepage": "https://artifacts.thefocus.ai/a/d8CcEPLzwbY/",
+  "topics": [
+   "architecture",
+   "brutalism",
+   "city-builder",
+   "parametric-design",
+   "threejs",
+   "typescript",
+   "vite",
+   "webgl"
+  ],
+  "language": "TypeScript",
+  "queries": [
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "Emily2040/vertical-lost-and-found",
+  "html_url": "https://github.com/Emily2040/vertical-lost-and-found",
+  "created_at": "2026-10-14T21:38:15Z",
+  "description": "A three-stage mechanical climbing puzzle built with Gemini 4 in Google Antigravity, Blender and Three.js.",
+  "stargazers_count": 0,
+  "homepage": null,
+  "topics": [],
+  "language": "JavaScript",
+  "queries": [
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ },
+ {
+  "full_name": "turbo998/ai-gaming-lab",
+  "html_url": "https://github.com/turbo998/ai-gaming-lab",
+  "created_at": "2026-10-14T16:09:06Z",
+  "description": "AI Gaming & Procedural Animation Lab: Gemini 4 Procedural 3D/2D Animation, Deterministic Simulation & Playable Demos (Wanan Midnight & Scrap Swarm)",
+  "stargazers_count": 0,
+  "homepage": "https://turbo998.github.io/ai-gaming-lab/",
+  "topics": [],
+  "language": "HTML",
+  "queries": [
+   "\"Gemini 4\" created:2026-10-14..2026-10-15"
+  ]
+ }
+]
