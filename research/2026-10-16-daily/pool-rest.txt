@@ -1,0 +1,268 @@
+AiAgent256/Misc | 10-14T17:03 | Java |  |  | Master Builder: repair siege damage, fortify in three stages
+EncryptedCatGames/website | 10-14T17:11 | Astro | Encrypted Cat Games public website |  | Add filterable catalogue and shared game data
+zatswads/SFMODVR | 10-14T17:12 | C# |  |  | SF Body Morphs 0.8.8: a switch for the lines' game dirty-talk path ([Reactions] 
+bdoggk/zupermarket-zimulator | 10-14T17:17 | GDScript |  |  | Zupermarket Zimulator v0.8.6: brutes growl, Sound slider
+roeeshachar/hebrew-reading-app | 10-14T17:24 | JavaScript |  |  | Add the remaining games: letter bubbles, build a word, syllable monster, boss ba
+sharprosie/nhl-scanner | 10-14T17:35 | Python |  |  | In-game near-lock bot: $2/trade, $4/game, $10/night, stop rules
+ehoffman66/breakaway-checkers | 10-14T17:48 | HTML |  |  | v50: full league standings on the Season page
+CICOZZO/retro-sailing | 10-14T18:02 | JavaScript |  |  | feat(v1): rewrite to match the original Wind Productions 1982 game
+alonohana627/WonderKingdomWiki | 10-14T18:05 | Python | WonderKingdomWiki |  | Game pages from GameLib dee2faef
+ericfode/swu_bot | 10-14T18:09 | JavaScript |  |  | Play page: keep the leave-page warning on until the game is saved
+remco59/peloton-panic | 10-14T18:20 | TypeScript | Bankhangspel: de tv is het speelbord, telefoons zijn je hand. Manage een wielerploeg. |  | Merge main into visuals branch: shop avatars, resolve conflicts
+bleedingrobot/school-games-hub | 10-14T18:34 | TypeScript | School Games Hub — chess and checkers for primary students |  | Save marble game plan for later
+overlijden1995-jpg/College-13 | 10-14T18:38 | Ren'Py | A dark edit of College traits 13.0 |  | Replace archive.rpa with decompiled scripts, GUI, fonts and translations
+Necero71/Mavro.Kinetic.com | 10-14T18:46 | HTML |  |  | Add Business <-> Gaming view switch
+thealextd1337-spec/racketone | 10-14T19:03 | Kotlin |  |  | W2-A: Engine Bedienung & Statistik (Punkt abziehen, Aufschläger, Aufschlag-Info,
+mderdzak/ultimate-triple-t | 10-14T19:14 | JavaScript | Ultimate Tic Tac Toe |  | Remove extra bottom padding in wide game layout
+AdamFull/ff7ccrecomp | 10-14T19:27 | C++ |  |  | Smooth motion (frame interpolation)
+DaveLMyers/audaxtech-workflow | 10-14T19:39 | Shell | Claude Code plugin: a project workflow built for game development (bootstrap, pinned toolchains, PR  |  | feat(bootstrap): add an upgrade mode for existing repos (#14)
+khangkhangg/miujs | 10-14T19:47 | TypeScript | MiuJS is an open-source TypeScript web framework for Bun, Node and Cloudflare Workers, built for app | vietnamcos.com | build: kits (admin, game, tour, migrate) in the release set; game DO types; Work
+briannarimm/ai-pix-explorer | 10-14T19:48 | HTML | A little KidPix-inspired app for learning about LLMs. |  | Prepare for public release: Pages deploy, README disclosure, notes cleanup
+patconnollypbox/press-box | 10-14T19:53 | HTML |  |  | Next game: VDO 10-0 in Charlottetown Oct 14 — record, last game, leaders rolled 
+FateFirst/tax-the-fools | 10-14T19:55 | Lua |  |  | feat: learn trainer costs and pattern tooltips in game, read-only
+croahs/csclipper | 10-14T20:02 | TypeScript | Makes clips automatically from your best CS2 moments |  | M4a: FACEIT Downloads API scope, read-only folders source
+edrose001/smoked-stuff-academy | 10-14T20:12 | HTML |  |  | Add Name that wood game to Hole 3
+slappyfish167/Vocana-Compat | 10-14T20:23 | Java |  |  | Address the load-safety review
+Sporedd/orbital-concourse | 10-14T20:32 | TypeScript |  |  | Add in-game help screen (H) explaining the non-standard mechanics
+thomasbruninx/simcity2000-port | 10-14T20:53 | C++ | SDL3 port of Simcity 2000, currently only for MacOS (Windows and Linux coming soon) |  | Load Tile Set (File menu and title screen): SCURK object sets replace the game's
+lPuffyy/reforged | 10-14T20:56 | C++ |  |  | iOS input: game controllers and on-screen controls; disc image chosen in Files (
+szefo94/last-epoch-save-editor | 10-14T21:04 | Python | Editor for Last Epoch offline save files: items, stash, characters, Maxroll build import (Python, Tk |  | Graphical passive and skill trees
+NassB/mhp3rd-translation-toolkit | 10-14T21:45 | Dart |  |  | docs: record phase 2 validation in game
+nhl94dotcom/NHL94MatchViewer | 10-14T21:51 | Python |  |  | SNES sounds wired to the game's moments, as the user identified them; speeds set
+Notwacko/Grow-a-Syn | 10-14T22:06 | Lua |  |  | Friends income bonus, safer game remote, docs for the new systems and the rewrit
+CalenCyr/SlugfestRecompiled | 10-14T22:07 | C++ | Native PC port of Ken Griffey Jr.'s Slugfest (N64) via static recompilation |  | Widen the game's culling to the window in widescreen
+marquiselee/the-scratch-sheet | 10-14T22:17 | HTML |  |  | Rename Errors / game column to EPG
+feygon/SS2PsiAutocast | 10-14T22:20 | HTML | One-key psi casting (draw, select, cast or overload) for System Shock 2: 25th Anniversary Remaster |  | Record v1.1 in-game test results
+Heiphaistos/ForgeBar-App-Windows | 10-14T22:35 | Rust |  |  | Release 0.12.0: new widgets, custom widgets, FPS counted per swap chain, game gu
+NAMAN-VERMA-02/bronze | 10-14T22:51 | TypeScript |  |  | README: hero, screenshots, rules, controls and play link (#12)
+EyalRo/NtBA | 10-14T23:06 | Rust | Not the Basketball Association | https://eyalro.github.io/NtBA/ | Wiki: show box art, game screenshots and reference images on the pages
+ahmet4kadir/lol-helper | 10-14T23:12 | TypeScript |  |  | v0.2.0: home screen
+gabmaybelle/forgemark | 10-14T23:24 | Java | Temper the tools, weapons and armour you already have, from any mod, for a small capped quality bonu |  | Working notes: say what a game-test watcher should report
+oniani1/ironbound | 10-14T23:26 | TypeScript | Open a chest, keep the steel: a front-end mock of a gacha for real arms and armor. Demo only; every  | https://oniani1.github.io/ironbound/ | Let players edit their arms and name, with a bigger pattern book
+UtterChicken468/5ive-Labs | 10-14T23:32 | HTML |  | https://utterchicken468.github.io/5ive-Labs/ | Football: yardage margin factor and yards per game on game cards
+happy-dwarf-team/eu4-startup-boost | 10-14T23:37 | C++ | Anvil plugin: faster Europa Universalis IV start-up | https://anvil.happydwarf.dev/plugins/eu4-startup-boost/ | feat(ram_prefetch): configurable memory budget, default 1 GB (#9)
+negrelthomas/nrc-referee-hub | 10-14T23:43 | HTML | NRC Ref hub |  | Public referee list, contact form, Level 1 course and test, baseline assessment 
+TheAverageAirsofter/viper-sortie | 10-14T23:47 | JavaScript |  |  | Split game into src slices with build step; palette option, first-run hint, UI t
+lsandrade/simulador-batalhas-novo | 10-14T23:50 | JavaScript |  |  | docs: adiciona Game Design Document (GDD)
+joeymccarrick1/betsweep-site | 10-14T23:50 | HTML | BetSweep Matchup Model |  | Boards: tap script-bar slices to switch plays/slip per game script; Add to FanDu
+tommy-muckstack/yourappisdead | 10-15T00:08 | JavaScript | Root site for the IsDead series: free, open-source replacements for paid apps | https://yourappisdead.vercel.app | Share row: X primary + icon-only LinkedIn and Facebook; global leaderboards; dro
+namo-zoroki/treasure-hunt | 10-15T00:15 | TypeScript |  | https://treasure-hunt-lemon-nu.vercel.app | Phase 4: teaser, assign_questions, submit_answer (R2), /api/state and Round 2 sc
+yimingwang2025/Yiming-Wang- | 10-15T00:21 | HTML |  |  | Add All About Me website with Chip & Jump game
+T7SEN/ArcheLab | 10-15T00:27 | TypeScript |  |  | feat: add the sampled chat background to the registry
+Temporary-user-kmc/icecream | 10-15T00:46 | C++ |  |  | Game bar toki order app
+Veradictus/ByteMatch | 10-15T00:46 | TypeScript | Website responsible for keeping track of decompilation projects. | https://bytematch.dev | feat(db): game, franchise and release year on projects
+shadowtor/BrandDesign | 10-15T00:54 | Python | Brand identity and logo design skill for AI coding agents (Claude Code, Codex, Gemini). From a busin | https://shadowtor.github.io/BrandDesign/ | Add merch catalogue by business type, photo mockups, examples and install docs (
+loganagreen999-commits/hard-quiz | 10-15T01:05 | HTML | Hard collegiate-level general knowledge quiz |  | New look: game-show poster redesign (solo + live); game logic, protocol and ques
+GageSwann/the-swann-index | 10-15T01:11 | Python |  |  | feat(ingest): advanced game stats loader -> team_game_stats; add to daily job
+nickpstone/omarchy-nba-scores | 10-15T01:13 | QML | NBA live scores, upcoming schedule, and standings bar widget for Omarchy, powered by ESPN |  | Choose which live game the bar shows when several are on
+Jujeongmin/monster-bbq | 10-15T01:23 | TypeScript | Monster BBQ (몬스터 고깃집) — hunt monsters by day, run grandma's Korean BBQ for yokai customers by night. |  | art(wip): side weapon icons (Codex); not in the game until approved
+foxyv/DizzyClothesline | 10-15T01:29 | C# | Sailwind mod: tie a line between two lamp hooks and hang things from it. |  | Add Dizzy Clothesline 0.1.0
+mr-mochi808/fishmania | 10-15T01:29 | JavaScript |  |  | Add initial game plan for Fishmania
+jameshschuler/squire | 10-15T01:34 | TypeScript |  |  | Favorite recipes (#19)
+soceji/crosshistory | 10-15T01:47 | HTML | 대체역사 시뮬레이션 |  | Show real photos and detailed explanations for history
+wantharry/typing-dojo | 10-15T02:17 | JavaScript |  |  | Typing Dojo: a browser game for learning touch typing
+vladimirbrusov83-hub/analogclock | 10-15T02:20 | HTML |  | https://analogclock-ochre.vercel.app | Add Mission tab: Operation Zarya bunker quiz game
+PeterGrace/tf3_rail_doctor | 10-15T02:21 | Teal | Transport Fever 3 mod: Rail Doctor - finds why a rail line has no path: wrong terminals, wrong-way o |  | fix: no math.tointeger in the game's Lua
+TrueMystic/mindreader | 10-15T02:32 | HTML |  |  | MindReader AI web game
+Mattpage52/SoDCoop | 10-15T02:46 | None |  |  | Co-op 0.5.10
+ianmcgo/xwing | 10-15T03:14 | HTML |  |  | Add HotAC 2.07 rules, mission tracker and XWA game tracker
+quinnyhacker/scoreit | 10-15T03:25 | JavaScript |  |  | Party-game redesign: lobby, scene reveal, live song search, listening pager, win
+deanoamor/3D-asset-poly | 10-15T03:47 | HTML |  |  | Export dialog: Game engine / 3D software tabs
+dvspring/heartgold | 10-15T04:00 | JavaScript |  | https://heartgold.vercel.app | Let users pick their own ROM when game.nds is absent
+kach4n/keyglow | 10-15T04:23 | Python | Lighting app for the HyperX Mars Gaming Keyboard (0951:16C6): effects, per-key painting, patterns, p |  | KeyGlow 1.0.0: lighting app for the HyperX Mars Gaming Keyboard
+roweboat25/projectcrypto | 10-15T04:25 | GDScript |  |  | Milestone 2: 2D pixel-art Main Street with speech checks, evidence and interiors
+jcummins100/WatchHub | 10-15T04:33 | Python |  |  | WatchHub 0.5.2: Game Shows tab, Plex and Roku channels by genre
+taylormcgraham-bit/marvel-8-bit | 10-15T04:48 | TypeScript |  |  | Game clock with grace-then-taper absences; death and multiverse policy
+gaeun404/once-upon-a-time | 10-15T04:49 | HTML | Once upon a time - 2인 협동 동화책 3D 게임 |  | Once upon a time: storybook co-op game
+oh-ashen-one/bully-remake | 10-15T04:53 | Python | One-to-one AI port of Bully: Scholarship Edition to Unreal Engine 5.8. Bring your own copy; this rep |  | importers: IPB placements, IDE model definitions, coordinate conventions
+odehamer/bussign | 10-15T04:55 | Python |  |  | Pause the ticker for a second on each game
+GavaL-Unique/uzeebnulanding | 10-15T05:14 | HTML | uzeebnulanding | https://uzeebnulanding.vercel.app | Add UzeeBnu landing page with links to game subdomains
+kkam616/hookedsmith | 10-15T05:15 | C++ |  |  | 일시정지 메뉴, 세이브 3슬롯과 시작 화면(NEW GAME/불러오기), 타이틀 시간대 변경, 매뉴얼 갱신
+ShahzodCode/Lethe-Protocol | 10-15T05:21 | TypeScript |  | https://letheprotocol.vercel.app | Rename game to Lethe Protocol
+jellodev/online-budda-beading | 10-15T05:27 | JavaScript |  |  | GA4(gtag) 접속·플레이 지표 수집 추가
+harshabiyyapu-web/nh-solutions-website | 10-15T05:29 | HTML | NH Solutions — product & growth studio website |  | Add generated images: lead-capture math-game post-mvp
+asdfz00061-stack/project_buyeo | 10-15T05:35 | HTML | 부여 유적지 소개 게임 | https://projectbuyeo.vercel.app | Add Buyeo Time Detective game
+harrison-w-k/proximity-lobby | 10-15T05:42 | TypeScript |  |  | Add branded Supabase email templates
+MichaelJohann1/YargAccessLauncher | 10-15T05:44 | Python | WORK IN PROGRESS, not in a release state yet. Keyboard and screen-reader friendly launcher that inst |  | Choose Stable or Nightly on the Game tab
+quinnyhacker/songsense.io | 10-15T05:45 | JavaScript |  |  | Song Sense: multiplayer song-hint word-guessing game
+SingerLeo/wuxia_strategy | 10-15T05:58 | GDScript |  |  | Add UI framework: theme, shell, sect and roster pages, Game autoload
+mfaisal-ms24igis/mw2-match-reports | 10-15T06:01 | HTML | MW2 TDM match reports: Axis vs Allies series |  | Add Axis vs Allies three-game series report
+mateuszcopik7/dziad-promptowanie-hacktoberfest | 10-15T06:37 | JavaScript | Gliwice Raid: raycaster w stylu Doom w HTML/JS + bot w Pythonie. Hacktoberfest Hack Day Gliwice 2026 |  | docs: README for the multi-floor ZSTI game
+Nekuzaky/unity-game-spelunker | 10-15T06:46 | C# | Unity Editor window to see how Unity games are built and prepare mods: build report, AssetRipper ext | https://nekuzaky.com/docs/unity-game-spelunker | Point every link to the renamed repository, remove emojis from the README
+higogo1/ghost-rooftop | 10-15T06:51 | HTML | 혼자 있고 싶은 밤 - 옥상 정원 유령 쫓기 웹 미니게임 |  | Add 혼자 있고 싶은 밤 web game
+johanso-au/Woofdoku | 10-15T07:05 | HTML |  |  | Add Woofdoku: dachshund logic puzzle game
+NeerajNero/TinCan | 10-15T07:06 | TypeScript |  | https://tin-can.vercel.app | play: resign confirm, opponent push + live toast on finish, finished games liste
+NeoGio73/sustained | 10-15T07:08 | HTML |  |  | Add Sustained! courtroom objection game
+mrbarnaclebot-ux/gta6-before-gta6 | 10-15T07:13 | TypeScript |  |  | Add free-licensed game assets with credits
+wann1919/negative-mart | 10-15T07:14 | HTML |  |  | Add Negative Mart game (Thai + English versions)
+piradev-py/SQLearning | 10-15T07:22 | JavaScript | Aprende SQL de cero a Data Analyst resolviendo un misterio en una ciudad de neón (PostgreSQL en el n | https://piradev-py.github.io/SQLearning/ | README: hacking-game layout
+Tolar-dio/NHL-Analytics | 10-15T07:37 | Python |  |  | Add game catalogue, same-day previews, Claude-written stories, and game detail d
+Bipbop11/my-project | 10-15T07:40 | HTML |  |  | Add Ridgeline snowboarding game prototype
+brunder3/sternenschleuder | 10-15T07:42 | JavaScript |  |  | feat: Sternenschleuder 3D browser game
+LaurensDo/Laurens-Road-to-GM | 10-15T07:46 | TypeScript |  |  | Add outlook on post-game review and Claude commentary to the app spec
+h8000572003/write-abc | 10-15T07:56 | HTML |  |  | Add game selection home page and ABC quiz game
+sohaiconnhai-web/sohaiconnhai-web.github.io | 10-15T07:56 | HTML | Portfolio Ngô Trung Đức · AI & Automation |  | Mini game: ảnh bản mới có design, mô tả theo tiến độ thật
+jmougeot/Testyourskills | 10-15T08:10 | TypeScript | Ta carte de dev façon FIFA, jugée sur ton GitHub ou ton CV (Azerit) |  | Accueil : la promesse, le champ, la vraie carte de Jacques, rien d'autre
+tuantrunglc/chong-nguyen-mong | 10-15T08:11 | Python |  |  | Add game brief for Trần–Nguyên tactics roguelite
+catoncat/d2r-port-radar | 10-15T08:16 | HTML | 移植雷达：追踪基于 d2r-mobile 的 Switch 游戏衍生移植（BotW、Hades、P5R、马里奥奥德赛、Android、鸿蒙…） | https://catoncat.github.io/d2r-port-radar/ | Port knowledge base: SPEC v0.1, atlas.py (validate/build), agent API + llms.txt 
+OverseerAlbedo/deadlock-mod-builder | 10-15T08:21 | Rust | Windows desktop app (Tauri, Rust, React) that turns a rigged character into a Deadlock hero replacem |  | Themes with a customizer, calmer movement preview, build and guide fixes
+machachu56/acnl-builder | 10-15T08:23 | Python | Modding tool for a certain Animal Crossing: New Leaf Welcome Amiibo Port |  | Isabelle = AcNpcSpSecretaryIn, confirmed in game
+lohweichoon/one-last-shot | 10-15T08:23 | HTML |  |  | One Last Shot: farewell basketball game for JinKang
+xamonxx/GOW-ANDRO | 10-15T08:28 | C++ |  |  | fix(android): show the game log's last lines when the game stops
+Malackathon/betsson | 10-15T08:36 | Python | repo para la hackathon | https://betsson-two.vercel.app | fix: read the Betsson balance from a lobby tab, the in-game header hides the amo
+sopw686/integrity-hackathon | 10-15T08:46 | TypeScript |  |  | Read the Room: daily belief-vs-room game, first complete build
+Pappydapimp69/Demo-disc | 10-15T08:57 | JavaScript |  |  | Swipeable game tiles that play each ad, tap to play, and the ZANEPAUL STUDIO spl
+samhoon000/Nexus | 10-15T09:22 | TypeScript |  |  | NEXUS: five-stage Three.js platformer prototype with GitHub Pages deployment
+marktester1/Match-Day | 10-15T09:23 | HTML |  |  | v0.9.1: pitch straight under the game buttons
+avitalk09/lab1.2 | 10-15T09:23 | JavaScript |  |  | Build Ocean Evolution browser game
+ForgeCreativeCo/ground-zero | 10-15T09:36 | TypeScript |  |  | Deploy the built game to GitHub Pages via Actions
+SzureX/autocrawler | 10-15T09:49 | TypeScript |  |  | feat(game): add 3D models (hero, skeleton, weapons, environment)
+AviadPorat/Lab1 | 10-15T10:01 | HTML |  |  | Add Bricks Strike Back game
+EnricW/rl-stats | 10-15T10:07 | Python | Estadísticas e informes IA (Claude) del equipo de Rocket League — web autogenerada con GitHub Action |  | Visor: fases del juego inferidas por replay (vuelven 3-2-1, GO!, GOAL)
+hamnnnyy/quill | 10-15T10:19 | TypeScript | 모드 jar를 넣으면 FTB 퀘스트 챕터가 나오는 웹 앱 | https://quill-gray.vercel.app | feat: in-game style quest preview with Minecraft formatting codes
+balfag/dnd-vtt | 10-15T10:26 | Go |  |  | feat(game): add campaigns, game sessions and players (#30)
+yulialimuddin/main-bersama-bilal | 10-15T10:33 | HTML |  |  | Game Main Bersama Bilal: 6 mode permainan dan 70 klip suara
+JohnblStar/Handleblast | 10-15T10:41 | JavaScript |  |  | feature/game-core 병합
+skink52/freedm-cs2 | 10-15T10:42 | JavaScript |  |  | FreeDM for CS2: source, build tools and docs
+tarun-figmaboy-838/fishing-frenzy | 10-15T10:48 | JavaScript |  | https://fishing-frenzy-beta.vercel.app | The lesson plays inside fishing 2's seashell card, in the lake
+ebenupton/lander | 10-15T10:50 | Assembly | Lander (David Braben's Archimedes demo) ported to the BBC Micro Model B |  | Assembly: every comment in land.s, game.s, shipb.s and shipspan.s rewritten from
+marvelmaster/JFG-Recomp | 10-15T10:56 | C |  |  | Docs: first controllable frame after the 0x5C load (43 ms), game flags inside th
+TokyoFlexin/switch-tracker | 10-15T11:41 | HTML | Switch OLED delivery tracker, game card case and accessories list (Claude artifact) |  | Home row: one cartridge tile per game plus a game card case tile, replacing the 
+tomdriver123/shadow-dashboard | 10-15T11:43 | TypeScript | Personal dashboard that reads a Markdown vault: Angular and Ionic front end, zero-dependency Node AP |  | feat(dashboard): game scout honors priority: top pipeline lanes, with test
+lesumein/1in8b-life-reform | 10-15T11:45 | JavaScript |  |  | Add 80억 panel: in-game overlay bookmarklet for viewing, editing and saju
+nico1509/apple-kicker | 10-15T11:47 | TypeScript |  |  | Add Apple Kicker: 3D first-person apple kicking game
+kajisho5/crosspoint | 10-15T11:50 | TypeScript |  |  | docs(HIG-ja): Game controls の欠落行を補完
+Torbjorn-Zhang/STS2-bot | 10-15T11:54 | Python |  |  | Add validation harness, STS2MCP patch, README
+t04glovern/over-the-hill-unlimited | 10-15T11:54 | C# |  |  | Show the expected game folder in the install steps
+Ars3nalToby/jasonfishing | 10-15T12:03 | HTML |  | https://jasonfishing.vercel.app | Saltline SEQ: 3D fishing game on four SEQ piers
+tomdriver123/poke-prep | 10-15T12:08 | JavaScript | Interview prep mapped onto Gen 1 Pokemon mechanics: towns are topics, wild encounters are quiz quest |  | chore: scaffold the Ionic and Angular app shell
+jstudiotech/boredomrush-site | 10-15T12:10 | HTML |  |  | Redesign site in game style; add Responsible Play to Terms
+CanuckAussieKev/thug2-decomp | 10-15T12:18 | C++ | thug2-decomp |  | Record chat commands as tested in a network game
+ericjunger3-cmd/VAR_is_Watching | 10-15T12:22 | Python |  |  | Step 8: add start menu, restart and new game after an ending
+Felipe-Gomes-Amorim/kirby-amazing-mirror-recomp | 10-15T12:25 | C | Static recompilation of Kirby & The Amazing Mirror (GBA): ARM7TDMI/Thumb → C, with a hardware runtim |  | tools: build_all.py (ROM to game in one command), pointer-table completion, fast
+nojiroh/pocket-billies | 10-15T12:31 | JavaScript |  |  | Pocket Billies alpha 0.4.1: game in game/, the Studio in studio/, Google account
+sannikhris-bot/Electionverse | 10-15T12:34 | TypeScript |  |  | The Ladder: playable prototype of the political snakes-and-ladders launch game
+Abdalla03/Projects-on-Programming-Fundamentals | 10-15T12:36 | C++ | My Programming Fundamentals course projects |  | Add Number Guessing Game project
+AmfiLogos/ds_modloader | 10-15T12:42 | C |  |  | Pass the pinned game build to the game as DSML_BUILD (and "build" in the session
+thordaff/Wardens-of-the-Last-Light | 10-15T12:44 | GDScript |  |  | UI inti: title screen, jeda, game over, pengaturan (#5)
+termark/tournament-companion | 10-15T12:54 | JavaScript |  |  | Share a game to WhatsApp from every game row
+rafafields/pokemon-oracle | 10-15T13:07 | HTML | what says your fav kanto pokemons about you | https://rafafields.github.io/pokemon-oracle/ | docs: atribuciones a Nintendo, Game Freak y PokeAPI en la página y el README
+nicoapaz/manual-pc | 10-15T13:09 | HTML |  |  | Manual: publica la edición interactiva de julio 2026
+josebanega26/keys-for-linear | 10-15T13:13 | JavaScript |  |  | Keys for Linear: shortcut training game
+dcwhung/gohk | 10-15T13:25 | TypeScript |  |  | docs(design): add consolidated element checklist to game design doc
+Thomasg3103/LastHit | 10-15T13:40 | HTML |  |  | Last Hit: static horror game for Render
+dorcohen1one-rgb/fairy-cats | 10-15T13:51 | HTML |  |  | Fairy cats game
+picknicken/brawl-stars-concept | 10-15T13:53 | HTML |  |  | Render game in 3D with three.js (toon shading, outlines, tilted follow camera)
+r4lix/fh-nx | 10-15T13:57 | JavaScript | Fear & Hunger for Nintendo Switch |  | Play the New Game intro video (.fhv: JPEG frames + Vorbis)
+realFinDev/realfin-site | 10-15T13:57 | Astro |  |  | Initial site: Astro blog with homelab, game server and Roblox posts
+Elias966/cool-games-launcher | 10-15T13:59 | TypeScript | very cool games launcher that uses websites to get games from them and play them in an organized way |  | Cool Games Launcher 0.2.8
+BigSub0/jarvis-social-assets | 10-15T14:03 | HTML |  |  | Add 2026-10-15 game cards
+CastilloA27/Voltage-Plugins | 10-15T14:16 | JavaScript | Official plugins for Voltage, the YouTube Music client for Windows |  | Legcord live theme 1.3.1: game mode keeps the cover, only stops the drift and fa
+ono-work/selection-networks-artifact-202610 | 10-15T14:22 | Answer Set Programming |  |  | Correct V-type weight-game coverage statement for n=17
+FIZL0/ps2-float | 10-15T14:34 | Rust | PS2 Emotion Engine arithmetic in Rust, bit-exact to PCSX2: EE FPU (chop, short adder), VU0, the SDK' |  | libm: a denormal argument reaches the tiny-argument path as itself (sinf/tanf/at
+aftermoonest/disco-elysium-ua-translation | 10-15T14:39 | Python | Інсталятор і інструменти українського перекладу Disco Elysium / Installer & tools for the Ukrainian  |  | Add game path and tooling notes
+afrocoder16/Turn_Order | 10-15T14:41 | HTML |  |  | Add weekly promo strip, event details, add-all calendar, game requests
+cendekia/nyawit | 10-15T14:41 | TypeScript |  |  | feat: precache the game for offline play
+cev64/kaggle2027 | 10-15T14:47 | Python |  |  | EDA: in-game movement metrics and drill-to-game bridge
+LuraHold/raot-titans | 10-15T14:48 | C# |  |  | Jogo completo no repo (game/raot_2.086_windows com MelonLoader + mod + assets), 
+CappyTech/bramble | 10-15T14:53 | GDScript |  |  | Add a player who walks to tiles and performs each tool
+CarlQLange/kasane | 10-15T15:02 | HTML |  |  | Note where the game is published
+bparlette/hoa-warfare | 10-15T15:07 | JavaScript |  |  | Demo multiplayer: Quick Match, private rooms, invite links, match flow, deployab
+egsvi2508-debug/visual-memory | 10-15T15:09 | HTML | Visual memory test (memorize the squares) with a selectable start level |  | Keep level 1 clear of the picker fade; save only after game over
+tahiktim-coder/underfoot | 10-15T15:19 | JavaScript |  |  | fix: only a real key counts as 'any key'
+maxxthunder/soldiersoffortune | 10-15T15:42 | Assembly |  |  | Generator: title under the logo, no gap under the decoder
+sadiqpats/unsorted_mafia | 10-15T16:00 | TypeScript |  | https://unsortedmafia.vercel.app | Keep roles secret until game over
+Lunatic2339/anseong-steel-v2 | 10-15T16:04 | C# |  |  | M0-03: 로봇 모델 임포트와 65m 스케일 (#5)
+AlfieRadcliffe/AlfieRadcliffe.github.io | 10-15T16:06 | JavaScript |  | https://alfieradcliffe.github.io/ | Name the party game project: Pen Golf
+eseto9/eseto9.github.io | 10-15T16:12 | CSS |  |  | Game portfolio site
+mellemnick-del/never-late | 10-15T16:25 | Swift |  |  | Never Late: initial SwiftUI game
+danielappel12-dot/SportsSoftware | 10-15T16:37 | TypeScript |  |  | Add dashboard, game day, asset library, reports/PDF, notifications, settings, RE
+thesnwmn/familiar-ground | 10-15T16:43 | TypeScript |  |  | Style lab: ~140 styles incl. plans with walls, turnable camera, ratings, any spo
+happeprogrammer/metacritic-games-tracker | 10-15T17:06 | JavaScript |  |  | Add project skeleton: schema, settings registry, daily game selection
+sashaukylik-a11y/heavyair-relay | 10-15T17:11 | JavaScript | HEAVY AIR co-op relay (invite codes, NAT punch signalling, WebSocket tunnel) |  | Relay: store the game version on /host and return it on /join (version check)
+elpapimango/retroclawd | 10-15T17:14 | Rust | A multi-machine retro-computer emulator: ZX81/Spectrum, Amstrad CPC, Commodore 64/128 |  | headless: --frames N runs whole frames like the window
+seresss2626/mod-gta | 10-15T17:27 | Java |  |  | Add client game test with screenshots, debug commands
+aislazerpro/squid-hide | 10-15T17:31 | HTML |  |  | Squid hide game
+Elisihno/Elisihno.github.io | 10-15T17:42 | HTML | GitHub Pages site for Elisihno |  | Add Dracula's Haunted House game
+vimuston/haamujahti | 10-15T17:43 | JavaScript | HAAMUJAHTI - haamujahtipeli lapsille |  | HAAMUJAHTI: Ghostbusters-style kids' game for GitHub Pages
+afm351800/tavli | 10-15T17:50 | JavaScript |  |  | Playable app: game controller, screens, sheets, PWA shell
+mind-bo/pick-7-with-vengenace | 10-15T17:54 | TypeScript |  |  | Add product documents and UI prototype
+rufusm0001-stack/break-the-walls | 10-15T17:57 | Lua |  |  | Settle design decisions, zone plan, adopt stud-game kit
+XAElSx/MyDex | 10-15T18:05 | JavaScript | MyDex - Dex Tracker | https://xaelsx.github.io/MyDex/ | Add per-game dex picker with DB v2 migration
+lehmann1020/Code-Platoon-Chinese-App | 10-15T18:45 | JavaScript |  |  | Supabase database: schema, seed, user stories
+JanSmolinski/personal-website | 10-15T18:52 | JavaScript | Personal website of Jan Smolinski: a naturalist's field notebook where hand-inked AI agents wander t | https://jansmolinski.github.io/personal-website/ | Add Aarhus right-now card, Fig. 2 runner game, Like a Prayer LP, Co-founder & CE
+Yi-111-a/tianbao | 10-15T18:53 | TypeScript | 天宝：盛唐书案上的 LLM 帝王模拟（唐玄宗 751，阻止安史之乱） |  | test: GPT (gpt-6.1-sol via Codex MCP) completes a full game; harness fixes for a
+JinCoy/skybloom-prototype | 10-15T19:01 | HTML | Skybloom web prototype for phone testing (GitHub Pages) |  | v0.5 phase 10: Korean language, first-game tutorial
+nnenq/roblooo | 10-15T19:05 | None |  |  | Add market research and game plan for Greedy Slimes
+DmitryOverkin/cosmic-odyssey | 10-15T19:05 | TypeScript |  |  | Add Cosmic Odyssey game sources
+reeswrites/story-bits | 10-15T19:09 | JavaScript | Write with a grammar, word by word: tune stories and poems from plain to strange, fork and share gra | https://reeswrites.com/story-bits/ | Split app.js into modules by concern (ui-core, render, picker, controls, game, b
+agracie-art/Hazel-Roman-Project | 10-15T19:14 | HTML |  |  | Serve game from public/ with older compatibility date to fix Cloudflare build
+Scubasteve4488/guard-ian-xpr-guide | 10-15T19:27 | TypeScript | XPR NETWORK INFO/SOURCES |  | ECOSYSTEM §6: Aetherian Farm / Aetherian Seedrealm (two collections read on CYPH
+Shoot-and-Destroy/plugins | 10-15T19:29 | Lua | Lua plugins for Shoot and Destroy servers (pyspades / PySnip scripts ported) |  | API: game.http and allow_hosts
+n7306363-byte/shower-roulette | 10-15T19:31 | HTML | מי הולכת להתקלח ראשונה? רולטה להילי ואמי |  | Add shower roulette game
+nyaadesu/psvr2-gaze-bridge | 10-15T19:31 | C++ | Eye-tracked foveated rendering for PSVR2 on Linux: feeds PSVR2Toolkit gaze into a gaze-VRS DXVK patc |  | Document per-game Y flip for upside-down scene passes
+kimiyuch/gotaticket | 10-15T19:37 | PHP |  |  | Free seats: red/white game cards
+ScottMS100/xm-solitaire | 10-15T19:39 | JavaScript | Add Free Open Souce Solitare |  | Fix: undoing a completed Spider sequence no longer re-triggers autoplay
+Whocares66-Dev/DAOPhotoCam | 10-15T19:50 | C++ | Free-flying camera for Dragon Age: Origins | https://whocares66-dev.github.io/DAOPhotoCam/ | Merge photocam-daolib-030: DAOLib 0.3.0
+CalmStilton/alfiecodes | 10-15T19:51 | Python | code-server IDE for a young coder: Python, pygame-ce, pygbag, Pygame Zero |  | Projects page: sleek portfolio look with game screenshots
+Amaluin/InTheHunt | 10-15T19:52 | JavaScript |  |  | chore: add project files and .gitignore
+josh-silverman/nfl-ats-predictor | 10-15T19:54 | Python | NFL win-probability model (Elo) with walk-forward validation and a locked live 2026 ledger. Started  |  | Site: drop the numbered rank from game cards
+aileadpr/GAMING | 10-15T19:57 | HTML |  | https://gaming-sooty-theta.vercel.app | Gaming chair landing page
+seventy-two/forgle | 10-15T19:57 | JavaScript |  |  | Say when a real game's finished, for counting players
+binji/goose_gfx2d | 10-15T20:03 | GLSL |  |  | examples/breakout.goose: a small game, with the blocks sinking
+rbsteiner/dados | 10-15T20:12 | TypeScript |  |  | End turns with reinforcement and stock, detect game outcome
+askakalsky/kvach-runes | 10-15T20:12 | JavaScript |  |  | Kvach: rune tag pixel multiplayer game
+Juincy/Asgard | 10-15T20:22 | C# |  |  | Cleaner: scan game data folder for stale mod packs; research sweep 3
+hgrem4ke/SlormZoom-slorm | 10-15T20:23 | C++ |  |  | Zoom further out than the game allows
+robinson-97/solitaire-app | 10-15T20:26 | Dart |  |  | Add boards, difficulty levels, playable game screen, twilight theme and APK buil
+long1eu/stats.upcode.dev | 10-15T20:42 | JavaScript | Delivery numbers for the projects Upcode builds |  | Describe the duel game's streaming backend
+pattisonb/CFPCoachSimulator | 10-15T20:44 | Python |  |  | Season page: week-by-week play, AP and CFP polls fit to 2014-2025, bracket and p
+Yanek2/chessbot | 10-15T20:48 | JavaScript | Screen-vision auto-player overlay for my own ChessLocal game (Stockfish + Spark blend) |  | Desktop launcher: run.sh opens the game + overlay
+klostest/efa | 10-15T20:50 | Python | Evolutionary Frameworks for Agents |  | Add harness: PD prompts, model clients with cache, matrix runner, analysis
+post-atelier/item-stages | 10-15T20:52 | Java | Unofficial NeoForge 1.21.1 port of Darkhax's Item Stages (LGPL-2.1) |  | Own icon from an in-game screenshot
+giannigrespan/GravelRun | 10-15T20:53 | HTML |  | https://gravelrun.vercel.app | Add Daily Gravel Adventure game
+jakobbroager-lab/Teet | 10-15T21:09 | HTML | Test |  | Add Semester of the Tentacle point-and-click game
+HalKnight/mysticaldoor-productions | 10-15T21:10 | HTML |  |  | Start the studio hub: the P1.1 skeleton for productions.mysticaldoor.com
+dayvsonspacca/lorekeeper | 10-15T21:14 | PHP | A self-updating knowledge base and wiki for AdventureQuest Worlds, mined straight from the game |  | feat(miner): add game entry and listen routine
+az111000/CS85 | 10-15T21:15 | HTML |  |  | Add Clash Arena 2-player fighting game
+lucaskarsten/fs25-grounded-tractors | 10-15T21:30 | Lua |  |  | chore: sharper in-game icon; tractor is the Vestrum 130, not a Maxxum
+alber-a11y/Test-55 | 10-15T21:41 | TypeScript |  |  | Add README, lazy AudioContext, verified ad flows
+kaleb06-lab/hoops1v1 | 10-15T21:43 | HTML |  |  | Add Hoops 1v1 game
+dragona-tactica/unidad-7 | 10-15T21:48 | JavaScript |  |  | Add 'Seguir jugando' screens level: phones, gifts, shared family time
+okayline/dawn-baton | 10-15T21:49 | JavaScript |  |  | Use dawn.88x31.app as the game's home; redirect workers.dev to it
+codingncaffeine/Open-Rubi-Ka | 10-15T21:50 | Rust |  |  | Add licence text, upstream record, ignore rules and README for the fork
+josholiveros2003-svg/nfl-app | 10-15T21:52 | TypeScript | Personal NFL stats app (Expo web + nflverse data + Madden-based ratings) |  | Serve game and compare pages without a redirect
+StevenKauwe/crabscape | 10-15T21:54 | Rust | A heavy, lantern-carrying crab on the deep-sea floor. Rust + Bevy, in the browser. All rights reserv |  | Move the owner's oil painter into the repo (crates/painter, crabpaint) (#17)
+zriptic/roclicks-skills | 10-15T21:55 | Luau | Claude Code skills and the meshlab toolkit for making Roblox games: UI, VFX, stud builds, stud model | https://roclicks.gg/skills | RoClicks skills for Roblox development
+Test2Throwaway/endless-sky-outfits-optimizer-unofficial | 10-15T22:00 | Python | design optomised ship loadouts based on design peramiters |  | Add parser for Endless Sky game data
+chtouroudev-ui/english-speak | 10-15T22:03 | TypeScript |  |  | Course: a lesson before each game, and offline games with no AI
+Qwyeltend/Nova3k---Vita3k-fork-for-PSNova-only-public | 10-15T22:25 | C++ | for work need some speсial settings: GPU Vulkan, Vsync ON, Disable surface sync OFF, Async Pipeline  |  | README: required game settings
+nokitri/grn | 10-15T22:26 | JavaScript |  |  | fix: freeze game bars and enemy logic during level-up pick
+chrissabato/soccer-sub-tracker | 10-15T22:29 | JavaScript | Soccer substitution queue for the bench phone with a live press box viewer. |  | Keep a permanent game log at /games
+acwadtec-glitch/ACWAD | 10-15T22:32 | HTML |  | https://acwad-six.vercel.app | Add Code World PWA (offline installable game)
+isochronous/ONI-Mods | 10-15T22:36 | C# | isochronous's Oxygen Not Included mods, one folder each |  | Just Fall Already!: in-game tests
+ruam08/jogo-da-velha-delphi-sdd | 10-15T22:50 | PowerShell |  |  | feat(server): servidor HTTP Indy, serviço de jogo e API JSON
+facusantillo/DustPlanner | 10-15T23:02 | C# | Read-only dust planner for Hearthstone inside Hearthstone Deck Tracker: missing cards, the least pai | https://facusantillo.github.io/DustPlanner/ | Windows test run: SQLite pooling, overlay event storm, timezone test, temp folde
+aquaplatinumberlitz/boom-re | 10-15T23:11 | C |  |  | Dump runs in Wine with GPU: reaches game window and logs in to fake server
+advanceozeta-debug/- | 10-15T23:20 | HTML |  |  | Game: remove in-game settings and extra text; settings now only via admin page
+kociden/magi-judge | 10-15T23:23 | Python | ゲームジャム用の3AI審査システム。ChatGPT・Claude・Grokの公式CLIを各自のサブスクで使う |  | Add mock jam entries and stop flagging a game's own score talk
+Jaroslawczyk/TFcalculator | 10-15T23:24 | None |  |  | v0.6.0: game-accurate line rate model, line and recipe tools
+drewbrowntechloc/bike-poetry-fade-clu | 10-15T23:42 | HTML |  |  | Add Bike Poetry Fade Club game
+ondrejneruda/ondrejneruda.github.io | 10-15T23:43 | JavaScript | Ondřej Neruda's personal website |  | Move the adversarial example game to its own Game page
+Ishankasare/movie-hop | 10-15T23:46 | TypeScript |  | https://movie-hop.vercel.app | Initial commit: Movie Hop cast/director hop game
+xRopers/TargetHighlight | 10-15T23:51 | C# | Dalamud plugin: recolour or remove the flash when you target something in FFXIV |  | Find SetTint through ClientStructs instead of hardcoded offsets
+Chris-Beerman/gambling-research.com | 10-15T23:53 | Python | An independent index of new gambling studies and policy news, rebuilt nightly. Source for gambling-r |  | sources: fix Crossref ISSNs, medRxiv feed, JFT via Crossref; OpenAlex key; journ
+icantdo/CheckPleaseModKit | 10-16T00:01 | C# | CheckPlease ModKit bu kadar |  | Add CheckPlease ModKit 0.1.0 (BepInEx 5 mod library)
+uxpreview/let-it-rip | 10-16T00:03 | JavaScript |  | https://let-it-rip-one.vercel.app | After-work wheel: spin for tonight's spot near 31 State St
+viv-creates/pink-or-blue | 10-16T00:21 | HTML |  |  | Pink or Blue? gender reveal game
+nicholasgiudice/mmg-nich | 10-16T00:23 | C# |  |  | docs: add stack proposal, execution plan and agent instructions
+Jneyra6/volley | 10-16T00:25 | TypeScript |  |  | Add match details, Game and Season reports, and MaxPreps export
+aaronallgrin/spindown | 10-16T00:26 | TypeScript |  |  | Spindown v0.1: setup, play table, game history
+Anuttle/vigilant-tribble | 10-16T00:31 | HTML |  |  | Add Star Catcher game and Lesson 1 coding lab
+DeAnthonee/Risky-business | 10-16T00:33 | TypeScript |  |  | Build Risk: rules engine, multiplayer server, web client, and MCP server
+wangjunyu200708/n.e.k.o_plugin_maaend_bridge | 10-16T00:51 | Python | 参考 MaaEnd 实现的大模型接入验证（N.E.K.O. 插件）。非 MaaEnd 官方项目；含 AGPL-3.0 第三方资源层，见 NOTICE.md。 |  | fix(ui): 控制界面从教程 tab 挪到面板 tab，并补上被漏掉的 mode
+dylanfetch/openttd-mcp | 10-16T00:56 | Python | MCP server that lets an AI agent play OpenTTD: inspect the map, build roads and stations, and run bu |  | Initial public release of OpenTTD MCP
+VolcanicWorks/bidlock | 10-16T00:57 | HTML |  |  | Bidlock: sealed-bid strategy game for humans and AI agents
+VibeSlacker/simple-armor-passive-picker | 10-16T00:59 | Lua | Helldivers 2 mod: pick which owned armor passive goes on the armor you wear. Needs Bingus Shared Loa | https://www.nexusmods.com/helldivers2/mods/17393 | Simple Armor Passive Picker 1.0.1
+BryanRha/dessert-pop | 10-16T01:01 | JavaScript | Dessert Pop! — 디저트 매치3 H5 게임 |  | Dessert Pop! v1.0.8 — H5 match-3 game
+matguitarist/tadpole | 10-16T01:04 | Swift | A mod manager for Baldur's Gate 3 on macOS |  | Check against a real Patch 8 install

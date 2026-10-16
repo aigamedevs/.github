@@ -1,0 +1,73 @@
+Torchwood4201/Wormhole README-only OMGithub remix stub, no source
+danieldownes/AtomicBomberman decompilation-based browser port; route outside games.json
+aakashg/argon-five-builds app showcase; check below
+Emily2040/chrono-analogue-1974-synth-studio synthesiser studio, not a game
+antxiko/GameMaster2-disassembly disassembly of a cheat cartridge, not a game
+Radomir-Aksenenko/code_to_redstone compiler tool
+braxten509/arm32-bridge emulation/translation tool
+bas-dev-repo/game-on-tv TV guide tool
+cyber-arena-ai/octagon AI agents play CTF; model-as-player engine
+keanfreeman/shogun2-veteran-upgrades-patched game mod
+0214649/ogrimwar game guide
+dudwns0921/gamedev-kit-board dev tool
+SolbiatiAlessandro/parley-post-train model training on a party game
+DeprivedPeasant/ape-escape-decomp-port decompilation port
+wobbly-switch2-fps-bad/wobbly-switch2-fps-bad.github.io FPS measurement page
+LESANF/hero-lord-web APK-to-web port of an existing game
+milothorhager/kid-game-studio game-making plugin/tool
+PrinceKay145/skytec-metacritic crawler service
+NellasTerton/skytec-metacritic aggregator service
+korniychukg-sudo/metacritic-games-service aggregator service
+colakang/player-highlights video tool
+Xalcker/SMSRecomp static recompiler
+gamboozino/ngbrecomp static recompilation
+VuloB1/MegaManLegendsRecomp static recompilation
+TanookiStudios/SuperPunchOutRecomp static recompilation
+jasonuithol/Ultima5Revolutions decompilation/engine reimplementation
+DabDavis/eqoa-client-v1 client port of an existing game
+DoctorB/forever-one-button WoW addon
+Kmunoz2022/worlds-2026-forecast esports predictor
+ricande/RustyHusky framework
+darren-rawlings/renegade-core shared library
+suleman-Sthenos/bounce-buddies-health health check
+FreshOrangeSlices/BloomCraft Minecraft mod
+Raaxxaa/platformer docs only
+dudwns0921/gamedev-kit-site landing site
+Sentral-Hub/game-hub-releases launcher
+Kwoolford/wardogs-radio radio tool
+Leekin2/XSecurity Android module
+Mr-Bill1999/game_crowler_service crawler service
+natanielmartinsoliveira/guilda-ai agent orchestrator
+NicholasIzosimov/AzerothSurvivorUI UI addon
+aidantrabs/farm-merge-valley bot for an existing game
+Ketschbopp/EatingAnim RimWorld mod
+sork01/valhalla-android WebView client shell
+underlines/reforger-clausewitz Arma Reforger mod with AI commanders
+breeze92823/Shake-soda-escape-backend backend component
+madelinben/board-game-score score keeper
+dodai092/oche darts scoring app
+baconspaceman/yammel YAML editor
+BossevdK/gamegraph game discovery app
+fabbedabbe123/chess-analysis analysis tool
+Diass12/Peta-Perjalanan-Dinas not a game
+f4lcon09/chess-teacher analysis/teaching tool around Stockfish
+TraductorRenPy/TraductorRenPy translator
+iGridZ/morphe-tower-patches app patches
+bradley-benjamin26/GreatBoardgameGetaway event organizer
+rohit267/fpsm FPS overlay tool
+ColeRowellLove/sleeper-fantasy-assistant fantasy sports tool
+nano44/parity_games_challange math research
+tjlytle/techbash-snake BattleSnake bot server, not a standalone game
+tjlytle/techbash-snake-overnight BattleSnake bot server
+jayancey/Morrowind-ScavengerScramble TES3MP game mode mod
+SteffanPoulsen/hark audio tool
+TwentyOOO/emirati-arabizi-translator translator
+BRANDAY/AcousticsLab acoustics simulation
+moonloch/dcc-core-lib rules library
+NoobyGains/brawllive matchmaking service
+LeonWWImmo/game-pick voting site
+rlaalswo4942/self-intro personal intro page backup
+PrinceKay145/skytec-metacritic service
+post-atelier/starter-preview build only, source private
+OmarElhosseni/narrative-game-engine LLM game-master engine
+yaronavital/snakes-and-ladders check

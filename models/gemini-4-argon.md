@@ -1,6 +1,6 @@
 # Gemini 4 Argon games
 
-Browse **13 curated game units** from **7 source repositories** attributed to Gemini 4 Argon. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **15 curated game units** from **9 source repositories** attributed to Gemini 4 Argon. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -25,6 +25,8 @@ Browse **13 curated game units** from **7 source repositories** attributed to Ge
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **4 game units**
 - 💥 [Action and Shooters](#action-and-shooters) — **2 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **1 game units**
+- ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **1 game units**
+- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **1 game units**
 
 ## Adventure, RPG, and Exploration
 
@@ -56,5 +58,17 @@ Browse **13 curated game units** from **7 source repositories** attributed to Ge
 ## Other Browser Games
 
 - [**Kuro's Lakeside Stone Skipping**](../games/kuro-s-lakeside-stone-skipping/readme.md) — ⭐ **7.2/10** · Gemini 4 Argon · HTML, JavaScript, Canvas, Browser · [≈ creator-reported model evidence](https://github.com/ShreyashGawas777/kuros-lakeside-stone-skipping) · [files](https://github.com/ShreyashGawas777/kuros-lakeside-stone-skipping/blob/main/index.html) · [play](https://shreyashgawas777.github.io/kuros-lakeside-stone-skipping/)
+
+[Back to game library](#game-library)
+
+## Strategy, Simulation, and Sports
+
+- [**PNF-404 Rush**](../games/pnf-404-rush/readme.md) — ⭐ **7.1/10** · Gemini 4 Argon · HTML, JavaScript, Canvas, Browser · [? inferred model evidence](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/README.md) · [files](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/game.js)
+
+[Back to game library](#game-library)
+
+## Three.js and WebGL
+
+- [**Star Trek StarFleet Command 3D**](../games/star-trek-starfleet-command-3d/readme.md) — ⭐ **7.2/10** · Gemini 4 Argon · JavaScript, Three.js, Browser · [? inferred model evidence](https://github.com/testingyoubob/Star-Trek-StarFleet-Command-game-) · [files](https://github.com/testingyoubob/Star-Trek-StarFleet-Command-game-/blob/main/star_trek_starfleet_command_3d.html)
 
 [Back to game library](#game-library)

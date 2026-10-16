@@ -1,0 +1,3160 @@
+{
+ "ericvaladas/azragon": {
+  "branch": "main",
+  "nfiles": 334,
+  "code_bytes": 972470,
+  "top": [
+   [
+    "src/GameScene.ts",
+    79883
+   ],
+   [
+    "src/monsters/wendigo/WendigoBody.ts",
+    78244
+   ],
+   [
+    "src/world/City.ts",
+    47247
+   ],
+   [
+    "src/world/chunks.ts",
+    30305
+   ],
+   [
+    "src/config.ts",
+    30137
+   ],
+   [
+    "src/world/pixelTextures.ts",
+    23111
+   ]
+  ]
+ },
+ "g8r-b8/frontierLab": {
+  "branch": "main",
+  "nfiles": 82,
+  "code_bytes": 679646,
+  "top": [
+   [
+    "js/data/archive.js",
+    141618
+   ],
+   [
+    "js/ui.js",
+    116358
+   ],
+   [
+    "js/engine.js",
+    44275
+   ],
+   [
+    "js/bridge.js",
+    33306
+   ],
+   [
+    "js/data/pitfalls.js",
+    27404
+   ],
+   [
+    "js/rivals.js",
+    24161
+   ]
+  ]
+ },
+ "hardwaremack-prog/ember-valley": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 75789,
+  "top": [
+   [
+    "index.html",
+    75789
+   ]
+  ]
+ },
+ "fish-suika/games": {
+  "branch": "master",
+  "nfiles": 23,
+  "code_bytes": 20878,
+  "top": [
+   [
+    "games.js",
+    4872
+   ],
+   [
+    "index.html",
+    3837
+   ],
+   [
+    "privacy.html",
+    2787
+   ],
+   [
+    "license.html",
+    2592
+   ],
+   [
+    "terms.html",
+    2158
+   ],
+   [
+    "common.js",
+    1899
+   ]
+  ]
+ },
+ "jshutts/hard-sell": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 130513,
+  "top": [
+   [
+    "index.html",
+    130513
+   ]
+  ]
+ },
+ "ShinjiK1/Social-Deduction-Game-NLP-Project": {
+  "branch": "main",
+  "nfiles": 29,
+  "code_bytes": 61584,
+  "top": [
+   [
+    "server/src/rooms.js",
+    18503
+   ],
+   [
+    "server/src/words.js",
+    9978
+   ],
+   [
+    "client/src/screens/Game.jsx",
+    5548
+   ],
+   [
+    "client/src/screens/Lobby.jsx",
+    5370
+   ],
+   [
+    "server/src/index.js",
+    3883
+   ],
+   [
+    "client/src/App.jsx",
+    3233
+   ]
+  ]
+ },
+ "paatsinsuwan/neuro-reflex-game": {
+  "branch": "main",
+  "nfiles": 21,
+  "code_bytes": 25194,
+  "top": [
+   [
+    "js/hooks/useStroopGame.js",
+    4710
+   ],
+   [
+    "js/components/StimulusMonitor.js",
+    3811
+   ],
+   [
+    "js/components/ResponseChart.js",
+    3013
+   ],
+   [
+    "js/components/StroopGameWidget.js",
+    2783
+   ],
+   [
+    "index.html",
+    2557
+   ],
+   [
+    "js/components/stageLayout.js",
+    1646
+   ]
+  ]
+ },
+ "HeyItsDavis/catan-web": {
+  "branch": "main",
+  "nfiles": 188,
+  "code_bytes": 1132115,
+  "top": [
+   [
+    "src/editor/catalog.ts",
+    65203
+   ],
+   [
+    "src/ui/shared/gameIconData.ts",
+    62366
+   ],
+   [
+    "src/engine/interpreter.ts",
+    56187
+   ],
+   [
+    "src/ui/editor/blocks.tsx",
+    47224
+   ],
+   [
+    "src/engine/schema.ts",
+    44333
+   ],
+   [
+    "src/content/expansions/cities-knights/index.ts",
+    44163
+   ]
+  ]
+ },
+ "xzlstc415/ashen-crown": {
+  "branch": "main",
+  "nfiles": 39,
+  "code_bytes": 530615,
+  "top": [
+   [
+    "index.html",
+    168683
+   ],
+   [
+    "ios/AshenCrown/Web/index.html",
+    168683
+   ],
+   [
+    "src/game.html",
+    167159
+   ],
+   [
+    "ios/gen_pbxproj.py",
+    8810
+   ],
+   [
+    "privacy.html",
+    4061
+   ],
+   [
+    "ios/AshenCrown/GameViewController.swift",
+    3837
+   ]
+  ]
+ },
+ "dethialaw/pocket-imperium": {
+  "branch": "main",
+  "nfiles": 23,
+  "code_bytes": 139174,
+  "top": [
+   [
+    "src/pocketimperium/JeuGUI.java",
+    23743
+   ],
+   [
+    "src/pocketimperium/Jeu.java",
+    19805
+   ],
+   [
+    "src/pocketimperium/Exterminate.java",
+    13450
+   ],
+   [
+    "src/pocketimperium/Plateau.java",
+    11279
+   ],
+   [
+    "src/pocketimperium/JoueurVirtuel.java",
+    9720
+   ],
+   [
+    "src/pocketimperium/Joueur.java",
+    8880
+   ]
+  ]
+ },
+ "leokayehsu-bit/grimoire": {
+  "branch": "main",
+  "nfiles": 48,
+  "code_bytes": 277069,
+  "top": [
+   [
+    "js/main.js",
+    45485
+   ],
+   [
+    "js/audio.js",
+    38628
+   ],
+   [
+    "js/views.js",
+    19491
+   ],
+   [
+    "js/levels.js",
+    15745
+   ],
+   [
+    "index.html",
+    10424
+   ],
+   [
+    "js/relics/doll.js",
+    9989
+   ]
+  ]
+ },
+ "Bencepapa/chipgrove": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 129099,
+  "top": [
+   [
+    "prototype/index.html",
+    129099
+   ]
+  ]
+ },
+ "yaronavital/snakes-and-ladders": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 22881,
+  "top": [
+   [
+    "index.html",
+    22881
+   ]
+  ]
+ },
+ "michal-bre/sentence-guessing-game-Java": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 10373,
+  "top": [
+   [
+    "src/main/java/game/Main.java",
+    3088
+   ],
+   [
+    "src/main/java/game/SentenceRepository.java",
+    3052
+   ],
+   [
+    "src/main/java/game/Game.java",
+    2128
+   ],
+   [
+    "src/main/java/game/RecordManager.java",
+    2105
+   ]
+  ]
+ },
+ "ofir-ashkenazi/wedding-survivor": {
+  "branch": "master",
+  "nfiles": 3,
+  "code_bytes": 99531,
+  "top": [
+   [
+    "game.js",
+    91890
+   ],
+   [
+    "index.html",
+    7641
+   ]
+  ]
+ },
+ "SpikePy/Minesweeper": {
+  "branch": "main",
+  "nfiles": 16,
+  "code_bytes": 39240,
+  "top": [
+   [
+    "index.html",
+    37929
+   ],
+   [
+    "sw.js",
+    1311
+   ]
+  ]
+ },
+ "arosario28-ux/grammar-knight": {
+  "branch": "main",
+  "nfiles": 24,
+  "code_bytes": 37348,
+  "top": [
+   [
+    "index.html",
+    37348
+   ]
+  ]
+ },
+ "sagi-rokach1/waves_game": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 417,
+  "top": [
+   [
+    "index.html",
+    417
+   ]
+  ]
+ },
+ "basildiana/wedding-maze-game": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 73925,
+  "top": [
+   [
+    "game.js",
+    65885
+   ],
+   [
+    "index.html",
+    8040
+   ]
+  ]
+ },
+ "Harlock123/AVADKongJr": {
+  "branch": "main",
+  "nfiles": 80,
+  "code_bytes": 160318,
+  "top": [
+   [
+    "src/AVADKongJr/Views/GameCanvas.Draw.cs",
+    34815
+   ],
+   [
+    "src/AVADKongJr/Engine/GameEngine.Play.cs",
+    26314
+   ],
+   [
+    "src/AVADKongJr/Audio/OpenAlAudioEngine.cs",
+    13841
+   ],
+   [
+    "src/AVADKongJr/Engine/KidPilot.cs",
+    11564
+   ],
+   [
+    "tools/make_sounds.py",
+    9015
+   ],
+   [
+    "src/AVADKongJr/Views/GameCanvas.cs",
+    7234
+   ]
+  ]
+ },
+ "Prashanth2902/Terminal-snake-game": {
+  "branch": "main",
+  "nfiles": 6,
+  "code_bytes": 8845,
+  "top": [
+   [
+    "src/game.rs",
+    4541
+   ],
+   [
+    "src/main.rs",
+    4304
+   ]
+  ]
+ },
+ "georstar/DuckHuntGame": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 40265,
+  "top": [
+   [
+    "game.js",
+    36652
+   ],
+   [
+    "index.html",
+    3613
+   ]
+  ]
+ },
+ "mar-cat11/hotel209": {
+  "branch": "main",
+  "nfiles": 131,
+  "code_bytes": 175534,
+  "top": [
+   [
+    "viewer.js",
+    52334
+   ],
+   [
+    "game.js",
+    28035
+   ],
+   [
+    "zombie.js",
+    12292
+   ],
+   [
+    "presentation.js",
+    11670
+   ],
+   [
+    "liftprops.js",
+    11633
+   ],
+   [
+    "eventprops.js",
+    6808
+   ]
+  ]
+ },
+ "MundaPlus/Underneath": {
+  "branch": "master",
+  "nfiles": 55,
+  "code_bytes": 218440,
+  "top": [
+   [
+    "src/themes/clockwork/renderer.ts",
+    24863
+   ],
+   [
+    "src/themes/dream/renderer.ts",
+    23538
+   ],
+   [
+    "src/themes/fungal/renderer.ts",
+    20873
+   ],
+   [
+    "src/themes/dream/content.ts",
+    20344
+   ],
+   [
+    "src/themes/clockwork/content.ts",
+    19725
+   ],
+   [
+    "src/engine/game.ts",
+    19196
+   ]
+  ]
+ },
+ "arKharashi/mergeup": {
+  "branch": "main",
+  "nfiles": 80,
+  "code_bytes": 232840,
+  "top": [
+   [
+    "e2e/course.mjs",
+    18713
+   ],
+   [
+    "src/game/game.ts",
+    14938
+   ],
+   [
+    "src/engine/git/sync.ts",
+    14770
+   ],
+   [
+    "src/engine/shell.ts",
+    12555
+   ],
+   [
+    "src/levels/l03-tidy-commits.ts",
+    10539
+   ],
+   [
+    "src/ui/Modals.tsx",
+    9642
+   ]
+  ]
+ },
+ "mcmmiguel/claude-tetris": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 52390,
+  "top": [
+   [
+    "game.js",
+    45426
+   ],
+   [
+    "index.html",
+    6964
+   ]
+  ]
+ },
+ "yairbenmena/chicken-farm": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 28255,
+  "top": [
+   [
+    "index.html",
+    28255
+   ]
+  ]
+ },
+ "Lakshya-0601/Simon-Memory-Game": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 2836,
+  "top": [
+   [
+    "game.js",
+    1974
+   ],
+   [
+    "index.html",
+    862
+   ]
+  ]
+ },
+ "AhmedShela/firefly-run": {
+  "branch": "main",
+  "nfiles": 14,
+  "code_bytes": 34740,
+  "top": [
+   [
+    "www/game.js",
+    21897
+   ],
+   [
+    "www/drops-lab.js",
+    6431
+   ],
+   [
+    "www/index.html",
+    5823
+   ],
+   [
+    "www/drops-lab.html",
+    589
+   ]
+  ]
+ },
+ "johnohhh1/pepper-catch": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 1461,
+  "top": [
+   [
+    "index.html",
+    1461
+   ]
+  ]
+ },
+ "SpaseCases/ski-game": {
+  "branch": "main",
+  "nfiles": 76,
+  "code_bytes": 399966,
+  "top": [
+   [
+    "src/sim/skier.ts",
+    40079
+   ],
+   [
+    "src/render/skierRig.ts",
+    35926
+   ],
+   [
+    "tools/maps/park.ts",
+    22170
+   ],
+   [
+    "src/render/skierView.ts",
+    17426
+   ],
+   [
+    "src/maps/types.ts",
+    14579
+   ],
+   [
+    "src/maps/shapes.ts",
+    14277
+   ]
+  ]
+ },
+ "YujiIwasaki/Game_Copilot": {
+  "branch": "main",
+  "nfiles": 6,
+  "code_bytes": 20466,
+  "top": [
+   [
+    "Game/Github/app.js",
+    13083
+   ],
+   [
+    "Game/Github/index.html",
+    7383
+   ]
+  ]
+ },
+ "harjunatn/nadhira-find-it-game": {
+  "branch": "main",
+  "nfiles": 45,
+  "code_bytes": 259088,
+  "top": [
+   [
+    "src/scenes/street.jsx",
+    31152
+   ],
+   [
+    "src/scenes/livingRoom.jsx",
+    28773
+   ],
+   [
+    "src/scenes/kitchen.jsx",
+    25635
+   ],
+   [
+    "src/scenes/zoo.jsx",
+    25574
+   ],
+   [
+    "src/scenes/bathroom.jsx",
+    22376
+   ],
+   [
+    "src/screens/SceneEditor.jsx",
+    16641
+   ]
+  ]
+ },
+ "zhuqipaopao-maker/night-racer-public": {
+  "branch": "main",
+  "nfiles": 48,
+  "code_bytes": 667618,
+  "top": [
+   [
+    "src/main.js",
+    93576
+   ],
+   [
+    "src/deep.js",
+    89472
+   ],
+   [
+    "src/changan.js",
+    62500
+   ],
+   [
+    "src/track.js",
+    46637
+   ],
+   [
+    "src/metro.js",
+    33227
+   ],
+   [
+    "src/car.js",
+    33177
+   ]
+  ]
+ },
+ "johnohhh1/mortal-brainrot": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 134431,
+  "top": [
+   [
+    "public/index.html",
+    134431
+   ]
+  ]
+ },
+ "Suuwam/imposter-ko-ho": {
+  "branch": "main",
+  "nfiles": 11,
+  "code_bytes": 32059,
+  "top": [
+   [
+    "assets/index.html",
+    30961
+   ],
+   [
+    "src/np/imposter/MainActivity.java",
+    1098
+   ]
+  ]
+ },
+ "anq308/AVANTISgame": {
+  "branch": "main",
+  "nfiles": 24,
+  "code_bytes": 545225,
+  "top": [
+   [
+    "js/game/world.js",
+    91609
+   ],
+   [
+    "js/game/art.js",
+    73351
+   ],
+   [
+    "js/game/config.js",
+    68757
+   ],
+   [
+    "js/game/ui.js",
+    55768
+   ],
+   [
+    "js/game/render.js",
+    43713
+   ],
+   [
+    "js/game/hq.js",
+    40062
+   ]
+  ]
+ },
+ "NiceWorkLad/pool-game": {
+  "branch": "main",
+  "nfiles": 36,
+  "code_bytes": 542881,
+  "top": [
+   [
+    "index.html",
+    286972
+   ],
+   [
+    "game.js",
+    68431
+   ],
+   [
+    "template.html",
+    45127
+   ],
+   [
+    "genlessons.js",
+    20691
+   ],
+   [
+    "physics.js",
+    15682
+   ],
+   [
+    "learn.js",
+    15423
+   ]
+  ]
+ },
+ "georstar/GardenerSurvivor": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 89212,
+  "top": [
+   [
+    "src/weapons.js",
+    20398
+   ],
+   [
+    "src/enemies.js",
+    13768
+   ],
+   [
+    "src/game.js",
+    9283
+   ],
+   [
+    "src/icons.js",
+    6730
+   ],
+   [
+    "src/ui.js",
+    5770
+   ],
+   [
+    "src/main.js",
+    4661
+   ]
+  ]
+ },
+ "XFajk/Spongija2026": {
+  "branch": "main",
+  "nfiles": 29,
+  "code_bytes": 12796,
+  "top": [
+   [
+    "src/player/FpsController.cs",
+    8132
+   ],
+   [
+    "src/player/EyesBobing.cs",
+    2129
+   ],
+   [
+    "src/player/LookAround.cs",
+    1140
+   ],
+   [
+    "src/ui/custom_controls/PieBar.cs",
+    1060
+   ],
+   [
+    "src/ui/SplashScreen.cs",
+    335
+   ]
+  ]
+ },
+ "AndyWu/downhill-car-race": {
+  "branch": "claude/affectionate-noether-y2k7ec",
+  "nfiles": 300,
+  "code_bytes": 708810,
+  "top": [
+   [
+    "src/main.js",
+    43841
+   ],
+   [
+    "src/scene/ground.js",
+    31520
+   ],
+   [
+    "src/scene/scenery.js",
+    29402
+   ],
+   [
+    "src/graphics/textures.js",
+    24396
+   ],
+   [
+    "src/vehicles/models_b.js",
+    23927
+   ],
+   [
+    "src/ui/index.js",
+    23804
+   ]
+  ]
+ },
+ "scarlett-adams/spot-it": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 39883,
+  "top": [
+   [
+    "index.html",
+    39883
+   ]
+  ]
+ },
+ "alecoschwartz/gekko": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 66092,
+  "top": [
+   [
+    "js/game.js",
+    44377
+   ],
+   [
+    "js/words.js",
+    20210
+   ],
+   [
+    "index.html",
+    1505
+   ]
+  ]
+ },
+ "darren-rawlings/Mancala": {
+  "branch": "main",
+  "nfiles": 608,
+  "code_bytes": 914428,
+  "top": [
+   [
+    "addons/admob/csharp/src/mock/MockNativeOverlayAdPlugin.cs",
+    33064
+   ],
+   [
+    "addons/admob/csharp/src/mock/MockRewardedInterstitialAdPlugin.cs",
+    29427
+   ],
+   [
+    "addons/admob/csharp/src/mock/MockRewardedAdPlugin.cs",
+    29220
+   ],
+   [
+    "addons/admob/internal/mock/mock_native_overlay_ad_plugin.gd",
+    28990
+   ],
+   [
+    "addons/admob/internal/mock/mock_rewarded_interstitial_ad_plugin.gd",
+    26439
+   ],
+   [
+    "addons/admob/internal/mock/mock_rewarded_ad_plugin.gd",
+    26244
+   ]
+  ]
+ },
+ "rmehreteab/2048": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 10545,
+  "top": [
+   [
+    "index.html",
+    10545
+   ]
+  ]
+ },
+ "Oksem42/charmed-holdem": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 85234,
+  "top": [
+   [
+    "index.html",
+    85234
+   ]
+  ]
+ },
+ "breezegiga-dot/devils-lair": {
+  "branch": "main",
+  "nfiles": 27,
+  "code_bytes": 844691,
+  "top": [
+   [
+    "draco/draco_decoder.js",
+    754421
+   ],
+   [
+    "escapeRoom-2024.js",
+    87668
+   ],
+   [
+    "index.html",
+    2602
+   ]
+  ]
+ },
+ "ChainShiftGames/fighting-game": {
+  "branch": "main",
+  "nfiles": 536,
+  "code_bytes": 2338117,
+  "top": [
+   [
+    "game/addons/godot_ai/mcp_dock.gd",
+    121023
+   ],
+   [
+    "game/addons/godot_ai/client_configurator.gd",
+    97488
+   ],
+   [
+    "game/addons/godot_ai/debugger/mcp_debugger_plugin.gd",
+    86484
+   ],
+   [
+    "game/addons/godot_ai/plugin.gd",
+    85884
+   ],
+   [
+    "game/addons/godot_ai/utils/server_lifecycle.gd",
+    78262
+   ],
+   [
+    "game/addons/godot_ai/handlers/node_handler.gd",
+    58014
+   ]
+  ]
+ },
+ "ywf2661/Drpg": {
+  "branch": "main",
+  "nfiles": 159,
+  "code_bytes": 173663,
+  "top": [
+   [
+    "tools/sprites.py",
+    21122
+   ],
+   [
+    "src/hud.ts",
+    13943
+   ],
+   [
+    "src/sim/world.ts",
+    13384
+   ],
+   [
+    "index.html",
+    12363
+   ],
+   [
+    "src/sim/core.ts",
+    11042
+   ],
+   [
+    "src/render/props.ts",
+    10998
+   ]
+  ]
+ },
+ "eyal12345/Snakes-and-Ladders": {
+  "branch": "dev",
+  "nfiles": 18,
+  "code_bytes": 84309,
+  "top": [
+   [
+    "gui.py",
+    49965
+   ],
+   [
+    "game.py",
+    9595
+   ],
+   [
+    "board.py",
+    4831
+   ],
+   [
+    "match_history.py",
+    4458
+   ],
+   [
+    "start_toss.py",
+    4239
+   ],
+   [
+    "make_icon.py",
+    2773
+   ]
+  ]
+ },
+ "dtghgthf/BrowserGame": {
+  "branch": "claude/leuchtturmwaerter-game-sprqmg",
+  "nfiles": 190,
+  "code_bytes": 488721,
+  "top": [
+   [
+    "shared/src/simulation.ts",
+    59323
+   ],
+   [
+    "client/src/game/Game.ts",
+    28328
+   ],
+   [
+    "client/src/render/ShipView.ts",
+    19187
+   ],
+   [
+    "client/src/ui/TuningPanel.ts",
+    14840
+   ],
+   [
+    "scripts/verify-browser.mjs",
+    14039
+   ],
+   [
+    "shared/src/layout/parseLayout.ts",
+    13983
+   ]
+  ]
+ },
+ "maxvbuda/fight": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 93147,
+  "top": [
+   [
+    "game.js",
+    45976
+   ],
+   [
+    "watch.js",
+    37312
+   ],
+   [
+    "watch.html",
+    5130
+   ],
+   [
+    "index.html",
+    4729
+   ]
+  ]
+ },
+ "Wendystar0628/UESTC_RPG": {
+  "branch": "main",
+  "nfiles": 2793,
+  "code_bytes": 3922804,
+  "top": [
+   [
+    "docs/design/engineering/ENG-TEAM.html",
+    417928
+   ],
+   [
+    "pipeline/colorscript/colorscript.py",
+    42838
+   ],
+   [
+    "game/addons/gdUnit4/src/ui/parts/GdUnitInspectorTreeMainPanel.gd",
+    41015
+   ],
+   [
+    "game/gen/buildings/Build/BuildingMesher.cs",
+    34632
+   ],
+   [
+    "game/gen/ground/GroundMesher.cs",
+    33692
+   ],
+   [
+    "pipeline/colorscript/render_review.py",
+    33535
+   ]
+  ]
+ },
+ "Alucardjrr/jogo-estacoes": {
+  "branch": "main",
+  "nfiles": 309,
+  "code_bytes": 516640,
+  "top": [
+   [
+    "addons/gut/gut.gd",
+    44501
+   ],
+   [
+    "addons/gut/utils.gd",
+    25297
+   ],
+   [
+    "addons/gut/cli/optparse.gd",
+    23678
+   ],
+   [
+    "addons/gut/input_sender.gd",
+    20348
+   ],
+   [
+    "addons/gut/gui/GutBottomPanel.gd",
+    15670
+   ],
+   [
+    "addons/gut/cli/gut_cli.gd",
+    14211
+   ]
+  ]
+ },
+ "natemiller39/Snake-D": {
+  "branch": "main",
+  "nfiles": 64,
+  "code_bytes": 85617,
+  "top": [
+   [
+    "index.html",
+    60463
+   ],
+   [
+    "engine.js",
+    13092
+   ],
+   [
+    "server/server.js",
+    11268
+   ],
+   [
+    "tools/simulate.js",
+    794
+   ]
+  ]
+ },
+ "jjumparound-qc101/Shelley1": {
+  "branch": "claude/project-thread-c8eoh0",
+  "nfiles": 2078,
+  "code_bytes": 623275,
+  "top": [
+   [
+    "src/scenes/data/ch23.js",
+    35705
+   ],
+   [
+    "src/main.js",
+    34260
+   ],
+   [
+    "src/sets/library.js",
+    31060
+   ],
+   [
+    "src/scenes/data/ch01.js",
+    18525
+   ],
+   [
+    "tools/assets_master.mjs",
+    16165
+   ],
+   [
+    "src/sets/lodging.js",
+    15880
+   ]
+  ]
+ },
+ "eddiedonesit/ClownSquad": {
+  "branch": "master",
+  "nfiles": 1050,
+  "code_bytes": 1191394,
+  "top": [
+   [
+    "tools/gen_cast_hd.py",
+    58998
+   ],
+   [
+    "tools/gen_music.py",
+    55326
+   ],
+   [
+    "scripts/Actors/PlayerFighter.cs",
+    51029
+   ],
+   [
+    "scripts/Map/WorldMap3D.cs",
+    46342
+   ],
+   [
+    "scripts/World/Kit3D.cs",
+    41155
+   ],
+   [
+    "scripts/World/StageScenery.cs",
+    35608
+   ]
+  ]
+ },
+ "oneshoterick1S2R/way-of-the-blade": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 9852194,
+  "top": [
+   [
+    "index.html",
+    9851880
+   ],
+   [
+    "firebase-config.js",
+    314
+   ]
+  ]
+ },
+ "dompescamedia/separation-golf": {
+  "branch": "main",
+  "nfiles": 71,
+  "code_bytes": 101348,
+  "top": [
+   [
+    "index.html",
+    94085
+   ],
+   [
+    "scripts/build_stats.py",
+    2894
+   ],
+   [
+    "scripts/build.py",
+    2737
+   ],
+   [
+    "tools/mlbam_ids.py",
+    636
+   ],
+   [
+    "sw.js",
+    604
+   ],
+   [
+    "tools/add_mlbam.py",
+    392
+   ]
+  ]
+ },
+ "hlovestad/Dungeon-Degenerates": {
+  "branch": "main",
+  "nfiles": 142,
+  "code_bytes": 416285,
+  "top": [
+   [
+    "src/minigames/Stack.js",
+    39805
+   ],
+   [
+    "src/minigames/Showdown.js",
+    32491
+   ],
+   [
+    "src/scenes/Battle.js",
+    30153
+   ],
+   [
+    "src/art/characters.js",
+    23311
+   ],
+   [
+    "src/systems/combat.js",
+    20562
+   ],
+   [
+    "src/data/quips.js",
+    17568
+   ]
+  ]
+ },
+ "Palm-Health-Tech/tamers-gambit-play": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 268844,
+  "top": [
+   [
+    "index.html",
+    268844
+   ]
+  ]
+ },
+ "anthonypatryn/tech-no-bowl": {
+  "branch": "main",
+  "nfiles": 235,
+  "code_bytes": 554840,
+  "top": [
+   [
+    "src/game/GameView.jsx",
+    74241
+   ],
+   [
+    "src/engine/game.js",
+    71473
+   ],
+   [
+    "src/three/Board.jsx",
+    42628
+   ],
+   [
+    "src/game/MomentReview.jsx",
+    24151
+   ],
+   [
+    "src/engine/ai.js",
+    21734
+   ],
+   [
+    "src/net/room.js",
+    19247
+   ]
+  ]
+ },
+ "djg502-svg/puzzle-playroom": {
+  "branch": "main",
+  "nfiles": 12,
+  "code_bytes": 173285,
+  "top": [
+   [
+    "docs/index.html",
+    84052
+   ],
+   [
+    "index.html",
+    83239
+   ],
+   [
+    "build.py",
+    4681
+   ],
+   [
+    "docs/sw.js",
+    1313
+   ]
+  ]
+ },
+ "afaucher/Squirrel-Racer": {
+  "branch": "main",
+  "nfiles": 13,
+  "code_bytes": 329141,
+  "top": [
+   [
+    "index.html",
+    144683
+   ],
+   [
+    "data/birds.js",
+    32428
+   ],
+   [
+    "art/plants.js",
+    29682
+   ],
+   [
+    "data/flowers.js",
+    28544
+   ],
+   [
+    "data/trees.js",
+    23473
+   ],
+   [
+    "art/birds.js",
+    21999
+   ]
+  ]
+ },
+ "tzuchi-singapore/Singapore-Heritage-Games": {
+  "branch": "main",
+  "nfiles": 142,
+  "code_bytes": 616085,
+  "top": [
+   [
+    "index.html",
+    616085
+   ]
+  ]
+ },
+ "hooni9807/beamrpg": {
+  "branch": "main",
+  "nfiles": 23,
+  "code_bytes": 327530,
+  "top": [
+   [
+    "index.html",
+    207188
+   ],
+   [
+    "towns-renderer.js",
+    38674
+   ],
+   [
+    "towns.js",
+    36905
+   ],
+   [
+    "combat-ui.js",
+    14864
+   ],
+   [
+    "combat.js",
+    12795
+   ],
+   [
+    "story.js",
+    10034
+   ]
+  ]
+ },
+ "ramenoruth-dev/sleep-deceives": {
+  "branch": "main",
+  "nfiles": 40,
+  "code_bytes": 487321,
+  "top": [
+   [
+    "docs/game.js",
+    130285
+   ],
+   [
+    "vercel-site/game.js",
+    130285
+   ],
+   [
+    "src/main.js",
+    52908
+   ],
+   [
+    "src/world.js",
+    18723
+   ],
+   [
+    "src/shared/brain.js",
+    16485
+   ],
+   [
+    "src/demon.js",
+    15132
+   ]
+  ]
+ },
+ "KarlMcB/survive-the-tide": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 95845,
+  "top": [
+   [
+    "index.html",
+    95845
+   ]
+  ]
+ },
+ "mamamaki12/open-world": {
+  "branch": "main",
+  "nfiles": 172,
+  "code_bytes": 764018,
+  "top": [
+   [
+    "src/world/Player.tsx",
+    31970
+   ],
+   [
+    "src/ui/casino/three/Race3D.tsx",
+    29019
+   ],
+   [
+    "src/economy/race.ts",
+    25129
+   ],
+   [
+    "src/ui/App.tsx",
+    22398
+   ],
+   [
+    "src/world/PlacementController.tsx",
+    21546
+   ],
+   [
+    "src/ui/casino/TicketMachine.tsx",
+    21493
+   ]
+  ]
+ },
+ "choihs-ai/beybladegame": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 167156,
+  "top": [
+   [
+    "index.html",
+    167156
+   ]
+  ]
+ },
+ "aaronchongsl-del/switch-game": {
+  "branch": "main",
+  "nfiles": 20,
+  "code_bytes": 128348,
+  "top": [
+   [
+    "js/questions.js",
+    52445
+   ],
+   [
+    "js/game.js",
+    41345
+   ],
+   [
+    "js/juice.js",
+    17560
+   ],
+   [
+    "js/visuals.js",
+    8476
+   ],
+   [
+    "index.html",
+    7331
+   ],
+   [
+    "js/leaderboard.js",
+    925
+   ]
+  ]
+ },
+ "hatemalmasry74-coder/hatem-games-hub": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 52394,
+  "top": [
+   [
+    "sonic/index.html",
+    50522
+   ],
+   [
+    "index.html",
+    1872
+   ]
+  ]
+ },
+ "Marcsarno/yola-zombie": {
+  "branch": "opening-reveal",
+  "nfiles": 643,
+  "code_bytes": 2857863,
+  "top": [
+   [
+    "yolanda/src/game.js",
+    2070536
+   ],
+   [
+    "yolanda/zombie/src/opening/opening.js",
+    64520
+   ],
+   [
+    "yolanda/zombie/src/render/clipchars.js",
+    59720
+   ],
+   [
+    "yolanda/src/mods/35-modern-ui.js",
+    43005
+   ],
+   [
+    "yolanda/zombie/src/render/arena.js",
+    41454
+   ],
+   [
+    "yolanda/zombie/src/opening/stage.js",
+    38136
+   ]
+  ]
+ },
+ "zhixiang28/spacegame": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 113703,
+  "top": [
+   [
+    "index.html",
+    93165
+   ],
+   [
+    "controller.html",
+    19427
+   ],
+   [
+    "sw.js",
+    1111
+   ]
+  ]
+ },
+ "breeze92823/Shake-soda-escape": {
+  "branch": "main",
+  "nfiles": 67,
+  "code_bytes": 361916,
+  "top": [
+   [
+    "src/lobby.js",
+    46824
+   ],
+   [
+    "src/config.js",
+    30918
+   ],
+   [
+    "src/worldScenes.js",
+    28089
+   ],
+   [
+    "src/launchFx.js",
+    20038
+   ],
+   [
+    "src/sfx.js",
+    16473
+   ],
+   [
+    "src/main.js",
+    11681
+   ]
+  ]
+ },
+ "levikore/roeto-dice-game": {
+  "branch": "main",
+  "nfiles": 74,
+  "code_bytes": 65632,
+  "top": [
+   [
+    "server/src/game/service.ts",
+    12874
+   ],
+   [
+    "client/src/Board.tsx",
+    7871
+   ],
+   [
+    "client/src/App.tsx",
+    3963
+   ],
+   [
+    "client/src/api/client.ts",
+    3619
+   ],
+   [
+    "server/src/game/engine.ts",
+    3243
+   ],
+   [
+    "server/src/http/auth.ts",
+    2811
+   ]
+  ]
+ },
+ "gyuha/snake": {
+  "branch": "feature/snake-clone",
+  "nfiles": 101,
+  "code_bytes": 90171,
+  "top": [
+   [
+    "packages/shared/src/protocol.ts",
+    12577
+   ],
+   [
+    "packages/client/src/state/mirror.ts",
+    7770
+   ],
+   [
+    "packages/server/src/net/interest.ts",
+    6284
+   ],
+   [
+    "packages/server/src/server.ts",
+    6211
+   ],
+   [
+    "packages/client/src/render/renderer.ts",
+    5957
+   ],
+   [
+    "packages/client/src/render/animals.ts",
+    5894
+   ]
+  ]
+ },
+ "hfujikawa77/satisfying-breakout": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 33247,
+  "top": [
+   [
+    "index.html",
+    33247
+   ]
+  ]
+ },
+ "EnneBoh/Games": {
+  "branch": "ccr-3b5adaf3-n8ww11",
+  "nfiles": 17,
+  "code_bytes": 57740,
+  "top": [
+   [
+    "assets/js/app.js",
+    20436
+   ],
+   [
+    "games/2048/game.js",
+    11347
+   ],
+   [
+    "games/demo-tap/index.html",
+    7730
+   ],
+   [
+    "assets/js/sdk.js",
+    6644
+   ],
+   [
+    "games/_template/index.html",
+    4486
+   ],
+   [
+    "index.html",
+    2764
+   ]
+  ]
+ },
+ "aaron1612n-cmd/galaxica": {
+  "branch": "main",
+  "nfiles": 50,
+  "code_bytes": 480128,
+  "top": [
+   [
+    "public/games/galaxica/index.html",
+    41402
+   ],
+   [
+    "public/games/powder-lab/index.html",
+    41241
+   ],
+   [
+    "public/games/gravity-garden/gg-ui.js",
+    40998
+   ],
+   [
+    "public/games/moth-mail/index.html",
+    32366
+   ],
+   [
+    "public/games/tidewater/index.html",
+    27273
+   ],
+   [
+    "public/games/loom/index.html",
+    26133
+   ]
+  ]
+ },
+ "MaKyS0/races": {
+  "branch": "claude/kind-planck-rlbfhf",
+  "nfiles": 183,
+  "code_bytes": 528892,
+  "top": [
+   [
+    "src/race/RaceManager.js",
+    58490
+   ],
+   [
+    "src/ui/Menu.js",
+    28253
+   ],
+   [
+    "src/physics/VehiclePhysics.js",
+    27589
+   ],
+   [
+    "src/track/TrackSystem.js",
+    25291
+   ],
+   [
+    "src/ai/OpponentAI.js",
+    23354
+   ],
+   [
+    "src/Game.js",
+    22571
+   ]
+  ]
+ },
+ "MiyazakiSora1234/quiz-knights": {
+  "branch": "main",
+  "nfiles": 88,
+  "code_bytes": 296396,
+  "top": [
+   [
+    "app/src/lib/engine/battle.js",
+    25764
+   ],
+   [
+    "src/server/room.js",
+    23460
+   ],
+   [
+    "app/src/lib/host.svelte.js",
+    16296
+   ],
+   [
+    "app/src/lib/engine/context.js",
+    13356
+   ],
+   [
+    "app/src/lib/play.svelte.js",
+    12144
+   ],
+   [
+    "app/src/lib/engine/jobs.js",
+    11627
+   ]
+  ]
+ },
+ "cosq-in/bhaag-cockroach-bhaag": {
+  "branch": "main",
+  "nfiles": 74,
+  "code_bytes": 81202,
+  "top": [
+   [
+    "src/world-view.js",
+    10834
+   ],
+   [
+    "src/scene.js",
+    10176
+   ],
+   [
+    "src/models.js",
+    9376
+   ],
+   [
+    "src/game.js",
+    7342
+   ],
+   [
+    "src/delhi.js",
+    6714
+   ],
+   [
+    "src/main.js",
+    5650
+   ]
+  ]
+ },
+ "AnusitSrisawat/new-game-web-test-01": {
+  "branch": "main",
+  "nfiles": 205,
+  "code_bytes": 431917,
+  "top": [
+   [
+    "src/ui.js",
+    100259
+   ],
+   [
+    "src/game.js",
+    76558
+   ],
+   [
+    "server.js",
+    39428
+   ],
+   [
+    "studio/studio.js",
+    38364
+   ],
+   [
+    "src/data.js",
+    32017
+   ],
+   [
+    "src/player.js",
+    18703
+   ]
+  ]
+ },
+ "achallakiran/instant-chess": {
+  "branch": "main",
+  "nfiles": 20,
+  "code_bytes": 83261,
+  "top": [
+   [
+    "index.html",
+    27734
+   ],
+   [
+    "src/ui/main.ts",
+    10588
+   ],
+   [
+    "src/engine/board.ts",
+    9936
+   ],
+   [
+    "src/engine/game.ts",
+    7861
+   ],
+   [
+    "src/ui/template.html",
+    7746
+   ],
+   [
+    "src/ai/automove.ts",
+    7402
+   ]
+  ]
+ },
+ "alexander-uspenskiy/CarRace": {
+  "branch": "main",
+  "nfiles": 165,
+  "code_bytes": 441548,
+  "top": [
+   [
+    "src/render/geomUtil.js",
+    21496
+   ],
+   [
+    "src/render/trackMesh.js",
+    20975
+   ],
+   [
+    "src/sim/raceSim.js",
+    20726
+   ],
+   [
+    "src/render/carModel.js",
+    19583
+   ],
+   [
+    "src/game/game.js",
+    19040
+   ],
+   [
+    "src/sim/ai/aiDriver.js",
+    16395
+   ]
+  ]
+ },
+ "ffawazz/RiyadhCityGame": {
+  "branch": "claude/friendly-edison-qj5g67",
+  "nfiles": 102,
+  "code_bytes": 316822,
+  "top": [
+   [
+    "scripts/driving/car.gd",
+    26635
+   ],
+   [
+    "scripts/driving/drive_scene.gd",
+    19336
+   ],
+   [
+    "scripts/driving/riyadh_builder.gd",
+    18304
+   ],
+   [
+    "scripts/farm/farm_world.gd",
+    17247
+   ],
+   [
+    "scripts/driving/farm_highway_scene.gd",
+    14115
+   ],
+   [
+    "scripts/audio/music_synth.gd",
+    13054
+   ]
+  ]
+ },
+ "ffawazz/NinjagoGame": {
+  "branch": "claude/ninjago-ps1-runner-87gcma",
+  "nfiles": 32,
+  "code_bytes": 96829,
+  "top": [
+   [
+    "main.py",
+    31318
+   ],
+   [
+    "entities.py",
+    19054
+   ],
+   [
+    "powers.py",
+    10593
+   ],
+   [
+    "config.py",
+    9224
+   ],
+   [
+    "cutscene.py",
+    8329
+   ],
+   [
+    "tools/make_audio.py",
+    7787
+   ]
+  ]
+ },
+ "kperegrin/casinete-game": {
+  "branch": "claude/eloquent-goodall-39z724",
+  "nfiles": 710,
+  "code_bytes": 597572,
+  "top": [
+   [
+    "game/public/js/panels.js",
+    45506
+   ],
+   [
+    "game/art/bake/scene.js",
+    42630
+   ],
+   [
+    "game/public/js/casino-ui.js",
+    41088
+   ],
+   [
+    "game/public/js/world.js",
+    32428
+   ],
+   [
+    "game/public/js/build.js",
+    28609
+   ],
+   [
+    "game/server/housing.js",
+    28277
+   ]
+  ]
+ },
+ "KFTamang/sim_game": {
+  "branch": "main",
+  "nfiles": 14,
+  "code_bytes": 62998,
+  "top": [
+   [
+    "bridge_lab/js/game.js",
+    32451
+   ],
+   [
+    "bridge_lab/js/solver.js",
+    13862
+   ],
+   [
+    "bridge_lab/js/design.js",
+    6516
+   ],
+   [
+    "bridge_lab/index.html",
+    4098
+   ],
+   [
+    "index.html",
+    3126
+   ],
+   [
+    "bridge_lab/js/stages.js",
+    1581
+   ]
+  ]
+ },
+ "baratrion/gaffer": {
+  "branch": "main",
+  "nfiles": 95,
+  "code_bytes": 53832,
+  "top": [
+   [
+    "scripts/factory/preflight.mjs",
+    7239
+   ],
+   [
+    "scripts/guards/pr-guards.mjs",
+    4885
+   ],
+   [
+    "scripts/factory/nwave-check.mjs",
+    4368
+   ],
+   [
+    "scripts/factory/stories.mjs",
+    3067
+   ],
+   [
+    "scripts/factory/watchdog.mjs",
+    2569
+   ],
+   [
+    "scripts/factory/weekly-demo.mjs",
+    2415
+   ]
+  ]
+ },
+ "JohnDorsey/Voxunami": {
+  "branch": "main",
+  "nfiles": 159,
+  "code_bytes": 749241,
+  "top": [
+   [
+    "engine/world_storage/src/world.rs",
+    27879
+   ],
+   [
+    "engine/voxel_grid/src/channel_storage.rs",
+    27384
+   ],
+   [
+    "engine/renderer/src/voxel_renderer.rs",
+    23769
+   ],
+   [
+    "engine/region_octree/src/lib.rs",
+    22645
+   ],
+   [
+    "engine/game_shell/src/options.rs",
+    21951
+   ],
+   [
+    "engine/terrain/src/noise.rs",
+    20847
+   ]
+  ]
+ },
+ "creynia/holdumb": {
+  "branch": "main",
+  "nfiles": 195,
+  "code_bytes": 223619,
+  "top": [
+   [
+    "src/content/compile.ts",
+    13617
+   ],
+   [
+    "src/sim/engine/game.ts",
+    12583
+   ],
+   [
+    "src/app/storage.ts",
+    9954
+   ],
+   [
+    "src/sim/engine/types.ts",
+    8896
+   ],
+   [
+    "src/app/screens/Drill.tsx",
+    8812
+   ],
+   [
+    "src/app/screens/Settings.tsx",
+    8405
+   ]
+  ]
+ },
+ "GIider/ringbeat": {
+  "branch": "main",
+  "nfiles": 65,
+  "code_bytes": 345314,
+  "top": [
+   [
+    "src/main.js",
+    85528
+   ],
+   [
+    "src/songs.js",
+    46942
+   ],
+   [
+    "src/render.js",
+    27179
+   ],
+   [
+    "index.html",
+    18804
+   ],
+   [
+    "scripts/perf-bench.mjs",
+    15160
+   ],
+   [
+    "src/game.js",
+    12318
+   ]
+  ]
+ },
+ "alexander-uspenskiy/LastTrack": {
+  "branch": "main",
+  "nfiles": 224,
+  "code_bytes": 923726,
+  "top": [
+   [
+    "trailer/.hyperframes/preview/fe464580681eafb236ad0456bac103f7.html",
+    147388
+   ],
+   [
+    "trailer/index.html",
+    42027
+   ],
+   [
+    "src/render/pbr/heroCarPBR.js",
+    41498
+   ],
+   [
+    "src/render/heroTrack.js",
+    39188
+   ],
+   [
+    "src/render/effects.js",
+    37897
+   ],
+   [
+    "src/render/heroCar.js",
+    27759
+   ]
+  ]
+ },
+ "janroudaut/kaboom-arena": {
+  "branch": "main",
+  "nfiles": 103,
+  "code_bytes": 95248,
+  "top": [
+   [
+    "public/game/render3d.js",
+    21701
+   ],
+   [
+    "public/index.html",
+    17239
+   ],
+   [
+    "public/game/main.js",
+    14971
+   ],
+   [
+    "public/game/sim.js",
+    11422
+   ],
+   [
+    "public/game/render.js",
+    8266
+   ],
+   [
+    "public/game/netcode.js",
+    6482
+   ]
+  ]
+ },
+ "glacilaria/SFoEv1": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 192294,
+  "top": [
+   [
+    "index.html",
+    191724
+   ],
+   [
+    "firebase-config.js",
+    570
+   ]
+  ]
+ },
+ "swulis00-crypto/library-game": {
+  "branch": "main",
+  "nfiles": 35,
+  "code_bytes": 245421,
+  "top": [
+   [
+    "src/games/mazeGame.js",
+    23212
+   ],
+   [
+    "src/main.js",
+    19825
+   ],
+   [
+    "src/data/questionGenerator.js",
+    19684
+   ],
+   [
+    "src/components/adminPanelScreen.js",
+    19150
+   ],
+   [
+    "src/data/defaultQuestions.js",
+    15920
+   ],
+   [
+    "src/games/baseGame.js",
+    14681
+   ]
+  ]
+ },
+ "hazanaya/scipaper-puzzle": {
+  "branch": "main",
+  "nfiles": 52,
+  "code_bytes": 86884,
+  "top": [
+   [
+    "src/core/sections.ts",
+    11166
+   ],
+   [
+    "src/screens/PuzzleScreen.tsx",
+    10326
+   ],
+   [
+    "src/samples/demo-paper.ts",
+    10292
+   ],
+   [
+    "src/screens/ImportScreen.tsx",
+    8535
+   ],
+   [
+    "src/screens/RevealScreen.tsx",
+    8292
+   ],
+   [
+    "src/core/coverage.ts",
+    4840
+   ]
+  ]
+ },
+ "DanDanKM/remis-bubble-club": {
+  "branch": "main",
+  "nfiles": 710,
+  "code_bytes": 155667,
+  "top": [
+   [
+    "index.html",
+    127429
+   ],
+   [
+    "make_voices.py",
+    26280
+   ],
+   [
+    "build_artifact.py",
+    1958
+   ]
+  ]
+ },
+ "noamk15/the-last-exit": {
+  "branch": "main",
+  "nfiles": 17,
+  "code_bytes": 93863,
+  "top": [
+   [
+    "js/main.js",
+    39743
+   ],
+   [
+    "js/audio.js",
+    15412
+   ],
+   [
+    "scripts/e2e.mjs",
+    10239
+   ],
+   [
+    "js/maze.js",
+    7448
+   ],
+   [
+    "index.html",
+    6904
+   ],
+   [
+    "js/ui.js",
+    4667
+   ]
+  ]
+ },
+ "DeAnthonee/Liargame": {
+  "branch": "claude/mobile-web-game-nqcqgo",
+  "nfiles": 14,
+  "code_bytes": 68867,
+  "top": [
+   [
+    "public/js/client.js",
+    33476
+   ],
+   [
+    "server.js",
+    31051
+   ],
+   [
+    "public/js/topics.js",
+    3262
+   ],
+   [
+    "public/index.html",
+    1078
+   ]
+  ]
+ },
+ "leesyashin/Tycoon-": {
+  "branch": "main",
+  "nfiles": 372,
+  "code_bytes": 1038375,
+  "top": [
+   [
+    "scripts/art/equipment.ts",
+    103101
+   ],
+   [
+    "scripts/art/city.ts",
+    98230
+   ],
+   [
+    "src/scenes/CafeScene.ts",
+    74872
+   ],
+   [
+    "scripts/art/figures.ts",
+    59062
+   ],
+   [
+    "src/data/city.ts",
+    50191
+   ],
+   [
+    "scripts/art/decor.ts",
+    38281
+   ]
+  ]
+ },
+ "brotipss1-droid/tower-stacker": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 78408,
+  "top": [
+   [
+    "Assets/Scripts/BosphorusScenery.cs",
+    21056
+   ],
+   [
+    "Assets/Scripts/BosphorusArt.cs",
+    19451
+   ],
+   [
+    "Assets/Scripts/Block.cs",
+    9650
+   ],
+   [
+    "Assets/Scripts/PixelCanvas.cs",
+    7802
+   ],
+   [
+    "Assets/Scripts/StackManager.cs",
+    7359
+   ],
+   [
+    "Assets/Scripts/Effects.cs",
+    5860
+   ]
+  ]
+ },
+ "nikniq/nq-towers": {
+  "branch": "main",
+  "nfiles": 73,
+  "code_bytes": 149655,
+  "top": [
+   [
+    "public_html/game.js",
+    74695
+   ],
+   [
+    "resources/views/game.blade.php",
+    14943
+   ],
+   [
+    "config/session.php",
+    8423
+   ],
+   [
+    "config/database.php",
+    6876
+   ],
+   [
+    "config/logging.php",
+    4606
+   ],
+   [
+    "config/cache.php",
+    4370
+   ]
+  ]
+ },
+ "nikniq/nq-tetris": {
+  "branch": "main",
+  "nfiles": 74,
+  "code_bytes": 121344,
+  "top": [
+   [
+    "public_html/js/tetris.js",
+    42387
+   ],
+   [
+    "resources/views/tetris.blade.php",
+    12420
+   ],
+   [
+    "config/session.php",
+    8423
+   ],
+   [
+    "config/database.php",
+    6876
+   ],
+   [
+    "config/logging.php",
+    4606
+   ],
+   [
+    "config/cache.php",
+    4370
+   ]
+  ]
+ },
+ "LouisMareau/battle-frontier": {
+  "branch": "main",
+  "nfiles": 180,
+  "code_bytes": 1262664,
+  "top": [
+   [
+    "crates/core/src/battle.rs",
+    91500
+   ],
+   [
+    "crates/game/src/mapedit.rs",
+    90524
+   ],
+   [
+    "crates/render/src/scene.rs",
+    70865
+   ],
+   [
+    "crates/game/src/app.rs",
+    51574
+   ],
+   [
+    "crates/content/src/model.rs",
+    49705
+   ],
+   [
+    "tools/blender/battle_frontier.py",
+    48153
+   ]
+  ]
+ },
+ "gladimdim/super-desktop-tictactoe": {
+  "branch": "main",
+  "nfiles": 14,
+  "code_bytes": 19369,
+  "top": [
+   [
+    "Game.qml",
+    11862
+   ],
+   [
+    "ttt.js",
+    3775
+   ],
+   [
+    "Toolbar.qml",
+    2404
+   ],
+   [
+    "Mark.qml",
+    1328
+   ]
+  ]
+ },
+ "amalrajvinoth/loopy": {
+  "branch": "main",
+  "nfiles": 205,
+  "code_bytes": 742423,
+  "top": [
+   [
+    "geography/where-is-it/index.html",
+    93041
+   ],
+   [
+    "src/loopy.js",
+    71362
+   ],
+   [
+    "science/quick-facts/index.html",
+    60125
+   ],
+   [
+    "loopy.js",
+    50026
+   ],
+   [
+    "math/pizza-fractions/index.html",
+    44235
+   ],
+   [
+    "math/coins-change/index.html",
+    44038
+   ]
+  ]
+ },
+ "short-matthew-f/meta-boardgame": {
+  "branch": "claude/board-game-t2100y",
+  "nfiles": 86,
+  "code_bytes": 329836,
+  "top": [
+   [
+    "bots/profile.ts",
+    25862
+   ],
+   [
+    "sim/metrics.ts",
+    21884
+   ],
+   [
+    "engine/describe.ts",
+    17051
+   ],
+   [
+    "engine/engine.ts",
+    16974
+   ],
+   [
+    "engine/shared.ts",
+    15035
+   ],
+   [
+    "web/render/board.ts",
+    13801
+   ]
+  ]
+ },
+ "lucassingh/bizit-games": {
+  "branch": "main",
+  "nfiles": 201,
+  "code_bytes": 316753,
+  "top": [
+   [
+    "src/games/compania/index.ts",
+    37627
+   ],
+   [
+    "src/games/deploy/index.ts",
+    32334
+   ],
+   [
+    "src/games/deploy/art.ts",
+    27866
+   ],
+   [
+    "src/games/central/index.ts",
+    22576
+   ],
+   [
+    "src/games/compania/problemones.ts",
+    17519
+   ],
+   [
+    "src/games/compania/world.ts",
+    15341
+   ]
+  ]
+ },
+ "wai-lau/spire": {
+  "branch": "master",
+  "nfiles": 128,
+  "code_bytes": 978831,
+  "top": [
+   [
+    "web/aspira-defs.js",
+    39297
+   ],
+   [
+    "web/aspira-warp.js",
+    39239
+   ],
+   [
+    "web/aspira-game.js",
+    34950
+   ],
+   [
+    "web/aspira-skills.js",
+    34656
+   ],
+   [
+    "web/aspira-ui.js",
+    31782
+   ],
+   [
+    "web/aspira-acid.js",
+    31118
+   ]
+  ]
+ },
+ "parkerfellows/quidditch": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 74920,
+  "top": [
+   [
+    "quidditch.html",
+    74920
+   ]
+  ]
+ },
+ "suhdonghwi/invariant-frog": {
+  "branch": "main",
+  "nfiles": 130,
+  "code_bytes": 502452,
+  "top": [
+   [
+    "src/levels/catalog.ts",
+    27981
+   ],
+   [
+    "src/levels/catalog.ko.ts",
+    20807
+   ],
+   [
+    "src/i18n/ko.ts",
+    19468
+   ],
+   [
+    "src/tutorial/steps.ts",
+    17451
+   ],
+   [
+    "src/i18n/en.ts",
+    15492
+   ],
+   [
+    "src/tutorial/script.ts",
+    14827
+   ]
+  ]
+ },
+ "chvolk/PortalShifter": {
+  "branch": "main",
+  "nfiles": 1803,
+  "code_bytes": 616174,
+  "top": [
+   [
+    "unity/PortalShift/Assets/PortalShift/Editor/TrackGen.cs",
+    43907
+   ],
+   [
+    "unity/PortalShift/Assets/PortalShift/Editor/WorldGen.cs",
+    43680
+   ],
+   [
+    "unity/PortalShift/Assets/PortalShift/Editor/PrefabGen.cs",
+    42576
+   ],
+   [
+    "unity/PortalShift/Assets/PortalShift/Runtime/UI/MainMenu.cs",
+    28757
+   ],
+   [
+    "unity/PortalShift/Assets/PortalShift/Runtime/AI/AIDriver.cs",
+    26583
+   ],
+   [
+    "unity/PortalShift/Assets/PortalShift/Editor/Gen.cs",
+    26009
+   ]
+  ]
+ },
+ "claude-core/last-cans": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 131143,
+  "top": [
+   [
+    "game.js",
+    92392
+   ],
+   [
+    "map.js",
+    34812
+   ],
+   [
+    "index.html",
+    3939
+   ]
+  ]
+ },
+ "guelowrd/pub": {
+  "branch": "main",
+  "nfiles": 502,
+  "code_bytes": 231745,
+  "top": [
+   [
+    "web/src/game/render.ts",
+    25027
+   ],
+   [
+    "web/src/HeadUnit.tsx",
+    22882
+   ],
+   [
+    "web/src/App.tsx",
+    16766
+   ],
+   [
+    "web/src/chain/useChain.ts",
+    15706
+   ],
+   [
+    "web/src/game/sim.ts",
+    13626
+   ],
+   [
+    "web/src/chain/flow.ts",
+    12483
+   ]
+  ]
+ },
+ "NotRithik/edge-city-game-jam-promptcraft": {
+  "branch": "main",
+  "nfiles": 11,
+  "code_bytes": 176283,
+  "top": [
+   [
+    "public/index.html",
+    158036
+   ],
+   [
+    "server.js",
+    18247
+   ]
+  ]
+ },
+ "thecastpatrol/castgames": {
+  "branch": "main",
+  "nfiles": 520,
+  "code_bytes": 16388160,
+  "top": [
+   [
+    "1000tries/js/cast-account.js",
+    1084092
+   ],
+   [
+    "1000tries/shared/cast-account/cast-account.js",
+    1084092
+   ],
+   [
+    "25000runs/js/cast-account.js",
+    1084092
+   ],
+   [
+    "27-0/js/cast-account.js",
+    1084092
+   ],
+   [
+    "4000goals/js/cast-account.js",
+    1084092
+   ],
+   [
+    "500goals/js/cast-account.js",
+    1084092
+   ]
+  ]
+ },
+ "oscarqht/pikmin-rush-by-opus-5.5": {
+  "branch": "main",
+  "nfiles": 44,
+  "code_bytes": 316546,
+  "top": [
+   [
+    "src/engine/game.js",
+    51474
+   ],
+   [
+    "src/engine/art/art-world.js",
+    49449
+   ],
+   [
+    "src/engine/art/art-creatures.js",
+    35538
+   ],
+   [
+    "src/engine/hud.js",
+    27662
+   ],
+   [
+    "src/engine/render.js",
+    25376
+   ],
+   [
+    "src/engine/art/art-enemies.js",
+    24613
+   ]
+  ]
+ },
+ "oscarqht/pikmin-rush-by-gemini-4": {
+  "branch": "main",
+  "nfiles": 10,
+  "code_bytes": 152005,
+  "top": [
+   [
+    "game.js",
+    94671
+   ],
+   [
+    "assets.js",
+    34056
+   ],
+   [
+    "showcase.html",
+    9674
+   ],
+   [
+    "index.html",
+    9226
+   ],
+   [
+    "check.js",
+    4378
+   ]
+  ]
+ },
+ "testingyoubob/Star-Trek-StarFleet-Command-game-": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 205028,
+  "top": [
+   [
+    "star_trek_starfleet_command_3d.html",
+    205028
+   ]
+  ]
+ },
+ "Patcher786/GPT-6-Astra": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 99778,
+  "top": [
+   [
+    "index.html",
+    49889
+   ],
+   [
+    "index1.html",
+    49889
+   ]
+  ]
+ },
+ "hashbrownprime/Gemini-4-": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 30001,
+  "top": [
+   [
+    "claude.luau",
+    30001
+   ]
+  ]
+ },
+ "chillqoder/Gemini-4-Argon": {
+  "branch": "main",
+  "nfiles": 1573,
+  "code_bytes": 551650,
+  "top": [
+   [
+    "aqua/index.html",
+    239618
+   ],
+   [
+    "ork/index.html",
+    42115
+   ],
+   [
+    "design/index.html",
+    35745
+   ],
+   [
+    "game/src/simulation.js",
+    29960
+   ],
+   [
+    "design/src/main.js",
+    28108
+   ],
+   [
+    "game/src/renderer.js",
+    23067
+   ]
+  ]
+ },
+ "aakashg/argon-five-builds": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 120504,
+  "top": [
+   [
+    "apps/03-rice-board.html",
+    28654
+   ],
+   [
+    "apps/01-solar-system.html",
+    25464
+   ],
+   [
+    "apps/02-juicy-game.html",
+    21193
+   ],
+   [
+    "apps/04-token-cost-calculator.html",
+    20232
+   ],
+   [
+    "apps/05-terrain-flythrough.html",
+    15121
+   ],
+   [
+    "index.html",
+    9840
+   ]
+  ]
+ }
+}

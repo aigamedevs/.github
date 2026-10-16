@@ -1,5 +1,23 @@
 # Search experiments
 
+## Daily phrase and six-hour commit-pool pass — 2026-10-16
+
+- Search October 15–16 in `Asia/Phnom_Penh`; bound repository creation to `2026-10-14T17:00:00Z` through `2026-10-16T02:00:00Z`. The October 15 pass ran at 08:36 local, so this window overlaps its tail and relies on `games.json` deduplication.
+- Repository search: 12 phrases (adding `"Fable 5"` and `"Opus-5.5"`) in two UTC partitions. None capped (max 110, inflated by TheClockwyrks GPT-6.1 Sol runs). 187 unique repositories yielded 3 accepted games; this form is now mostly benchmark and tool noise.
+- Commit pool, changed dimension: 6-hour UTC partitions instead of whole days, fetching up to 300 hits each. Opus 5.5 still matches 4,800–6,100 per window and Sonnet 5.5 about 500, so both stay sampled; Sol, Astra and Argon are uncapped. Pool 1,974 repositories, join creation timestamps in GraphQL batches of 50, keep 478 fresh non-forks, shortlist 210 by name and description, then batch-read README, root tree and 100 commits (8 repositories per GraphQL call).
+- Require an exact `Co-Authored-By:` trailer for `confirmed`. 101 of the 104 accepted repositories have one; Bulborb Rush is creator-reported through its repository name, and PNF-404 Rush and the Star Trek game are `inferred` from a bare "Gemini 4".
+- Count 104 game units across 104 repositories. Count hubs (Singapore Heritage Games, Galaxica, Chaekgil Explorers, Loopy, Bizit Game Center) as one aggregate unit each.
+- Reject template scaffolds (nine darren-rawlings Renegade titles), recompilations and decomp ports, reverse-engineered rewrites (Dungeon Raid), engine reimplementations (doom-js), mods, bots, trainers for other games, build-only exports and pages under 3 KB. Separate runtime AI from authoring (PromptCraft uses Gemini 4 Argon at runtime; its authoring evidence is Opus 5.5).
+- Validate with `node scripts/validate-games.mjs` (901 records, 849 repos, 1156 units). Receipts: [search results](../research/2026-10-16-daily/search-results.json), [decisions](../research/2026-10-16-daily/candidate-decisions.json), [batch](../research/2026-10-16-daily/game-batch.json).
+
+### Critique
+
+Score this method 9/10 for yield (104 repositories) and 7/10 for depth. The 6-hour commit partitions and trailer-based classification scale well, but notes come from READMEs and file trees, quality scores are a size heuristic, and no game was playtested or screenshot-rated. HTTP 200 checks show availability only.
+
+### Next experiment
+
+Split Opus 5.5 commit partitions to 1-hour windows to escape the 300-hit sample. Inspect the 14 held repositories. Rate README screenshots for the new records.
+
 ## Daily exact-phrase and commit-pool pass — 2026-10-15
 
 - Search October 8–15 in `Asia/Phnom_Penh` (UTC+7, same offset as Asia/Ho_Chi_Minh); bound repository creation to `2026-10-07T17:00:00Z` or later. The last full pass was October 7, plus a Gemini-only pass on October 14.

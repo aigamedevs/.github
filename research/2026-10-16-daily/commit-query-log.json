@@ -1,0 +1,182 @@
+[
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 5486,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 4821,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 6094,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 5376,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 702,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 495,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 476,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 610,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 528,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 97,
+  "fetched": 97,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 5,
+  "fetched": 5,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 17,
+  "fetched": 17,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 13,
+  "fetched": 13,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 28,
+  "fetched": 28,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 4,
+  "fetched": 4,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 8,
+  "fetched": 8,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 227,
+  "fetched": 227,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 164,
+  "fetched": 164,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 266,
+  "fetched": 266,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 288,
+  "fetched": 287,
+  "capped": true
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 36,
+  "fetched": 36,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-15T00:00:00Z..2026-10-15T05:59:59Z",
+  "hits": 5,
+  "fetched": 5,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-15T06:00:00Z..2026-10-15T11:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-15T12:00:00Z..2026-10-15T17:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-15T18:00:00Z..2026-10-15T23:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-16T00:00:00Z..2026-10-16T05:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ }
+]
