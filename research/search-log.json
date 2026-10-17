@@ -1,7 +1,7 @@
 {
   "target": 900,
   "started_with": 30,
-  "updated_on": "2026-10-16",
+  "updated_on": "2026-10-17",
   "constraints": {
     "product": "Actual game or playable game prototype",
     "development_method": "Require explicit source or creator evidence for GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet or Claude Fable; distinguish authoring, evaluation and runtime use.",
@@ -9103,6 +9103,23 @@
       "date_basis": "repository creation proxy only",
       "source_limits": "Opus 5.5, Sonnet 5.5 and Claude Fable commit partitions were capped at 300 fetched of up to 6,094 fuzzy matches even at 6-hour width; Sol, Astra and Argon commit partitions were uncapped. Repository phrase partitions were uncapped (max 110, inflated by ~110 TheClockwyrks runs).",
       "next_frontier": "Split Opus 5.5 commit partitions to 1-hour windows; collapse TheClockwyrks runs per named game; inspect held repositories; rate README screenshots for the 104 new records."
+    },
+    {
+      "source": "Daily pass: exact-phrase repository search (13 phrases x 2 UTC partitions) plus model+game commit pool in 1-hour Opus 5.5, 3-hour Sonnet 5.5 and 6-hour other UTC partitions for Opus 5.5, Sonnet 5.5, gpt-6.1-sol, GPT-6 Astra, Claude Fable, Gemini 4 Argon and Gemini 4, joined to repository creation",
+      "query_key": "2026-10-17:asia-phnom-penh:2026-10-16..2026-10-17:opus-sonnet-sol-astra-fable-argon:1h-opus-commit-partitions",
+      "status": "completed",
+      "queries": 86,
+      "results_inspected": 775,
+      "new_verified_repositories": 457,
+      "new_verified_game_units": 457,
+      "rejected": 318,
+      "pending": 0,
+      "screenshots_rated": 68,
+      "source_receipts": "research/2026-10-17-daily/search-results.json",
+      "batch": "research/2026-10-17-daily/game-batch.json",
+      "date_basis": "repository creation proxy only",
+      "source_limits": "Opus 5.5 one-hour commit windows matched 198-1,114 and 25 of 26 were capped at 300 fetched; one Sonnet 5.5 and one Claude Fable window were capped. Repository phrase partitions were uncapped (max 26).",
+      "next_frontier": "Split Opus 5.5 commit windows to 20 minutes or add a keyword dimension; rate screenshots for older records with media but no rating."
     }
   ],
   "frontier": [

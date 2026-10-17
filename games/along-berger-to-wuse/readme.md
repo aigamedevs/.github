@@ -1,0 +1,42 @@
+# Along! — Berger to Wuse
+
+> Verified game note.
+
+![Along! — Berger to Wuse screenshot placeholder](along-berger-to-wuse-placeholder.svg)
+
+## At a glance
+
+- **Score:** 7.7/10
+- **Model:** Claude Sonnet 5.5
+- **Technology:** JavaScript, Three.js, Browser
+- **Estimated FP32 operations/s at 60 FPS:** 1,000,000,000 (low confidence; static estimate, not measured).
+- **Rating basis:** Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.
+- **Verified:** 2026-10-17
+- **Repository:** [https://github.com/Yolanda-Amos/along-abuja-taxi](https://github.com/Yolanda-Amos/along-abuja-taxi)
+- **Evidence:** [direct model evidence](https://github.com/Yolanda-Amos/along-abuja-taxi/commit/545641a1d5810cdff99f0cc1f55ec57dcb7dfcc9)
+
+## Screenshots
+
+No screenshot source is recorded yet. Keep the placeholder until a repository, awesome list, or creator source provides an image.
+
+## Model attribution
+
+Open the evidence link above. Evidence grade: **direct model evidence**.
+
+## Source description
+
+Along! — a 3D Abuja shared-taxi game for start.ng (Three.js). Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.
+
+### Gameplay source
+
+- [https://github.com/Yolanda-Amos/along-abuja-taxi/blob/main/game.js](https://github.com/Yolanda-Amos/along-abuja-taxi/blob/main/game.js)
+- [https://github.com/Yolanda-Amos/along-abuja-taxi/commit/545641a1d5810cdff99f0cc1f55ec57dcb7dfcc9](https://github.com/Yolanda-Amos/along-abuja-taxi/commit/545641a1d5810cdff99f0cc1f55ec57dcb7dfcc9)
+
+## Verification notes
+
+- **Status:** verified_source
+- **Counted units in repository:** 1
+- **Units covered by this note:** 1
+- **Discovery:** GitHub commit pool: model+game commits 2026-10-16..2026-10-17 (1-hour Opus, 3-hour Sonnet, 6-hour other UTC partitions) joined to repositories created after 2026-10-16T00:00Z; https://github.com/Yolanda-Amos/along-abuja-taxi
+
+[Back to the awesome list](../../README.md)

@@ -1,0 +1,46 @@
+# City Squirrel: East End
+
+> Top-list entry: **today** (#4), **this week** (#6), **this month** (#7).
+
+![City Squirrel: East End screenshot](https://raw.githubusercontent.com/etothesmith/city-squirrel/main/assets/og.jpg)
+
+## At a glance
+
+- **Score:** 8.4/10
+- **Screenshot rating:** 6.4/10 ([manually reviewed image](https://github.com/etothesmith/city-squirrel/blob/main/assets/og.jpg)). Treat this as visual review only; do not infer a playtest.
+- **Model:** Claude Opus 5.5
+- **Technology:** JavaScript, Browser
+- **Estimated FP32 operations/s at 60 FPS:** 1,000,000,000 (low confidence; static estimate, not measured).
+- **Rating basis:** Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.
+- **Verified:** 2026-10-17
+- **Repository:** [https://github.com/etothesmith/city-squirrel](https://github.com/etothesmith/city-squirrel)
+- **Evidence:** [direct model evidence](https://github.com/etothesmith/city-squirrel/commit/eeac1816fc24e1cf152b2c9eea2d19141ddf5a10)
+- **Live demo:** [open demo](https://etothesmith.github.io/city-squirrel/)
+
+## Screenshots
+
+Use the source screenshot links below. The list records these assets from the game repository or a related source.
+
+- [screenshot 1](https://github.com/etothesmith/city-squirrel/blob/main/assets/og.jpg) — 📸 6.4/10 · manual visual review · Use this frame for the game-level score. Rainy noir rooftop key art with the City Squirrel logo; strong mood but a title image.
+
+## Model attribution
+
+Open the evidence link above. Evidence grade: **direct model evidence**.
+
+## Source description
+
+City Squirrel: East End, a noir 2.5D beat-'em-up you play in the browser. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.
+
+### Gameplay source
+
+- [https://github.com/etothesmith/city-squirrel/blob/main/play.html](https://github.com/etothesmith/city-squirrel/blob/main/play.html)
+- [https://github.com/etothesmith/city-squirrel/commit/eeac1816fc24e1cf152b2c9eea2d19141ddf5a10](https://github.com/etothesmith/city-squirrel/commit/eeac1816fc24e1cf152b2c9eea2d19141ddf5a10)
+
+## Verification notes
+
+- **Status:** verified_source
+- **Counted units in repository:** 1
+- **Units covered by this note:** 1
+- **Discovery:** GitHub commit pool: model+game commits 2026-10-16..2026-10-17 (1-hour Opus, 3-hour Sonnet, 6-hour other UTC partitions) joined to repositories created after 2026-10-16T00:00Z; https://github.com/etothesmith/city-squirrel
+
+[Back to the awesome list](../../README.md)

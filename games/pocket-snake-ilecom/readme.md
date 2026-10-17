@@ -1,0 +1,42 @@
+# Pocket Snake (ilecom)
+
+> Verified game note.
+
+![Pocket Snake (ilecom) screenshot placeholder](pocket-snake-ilecom-placeholder.svg)
+
+## At a glance
+
+- **Score:** 6.7/10
+- **Model:** Claude Opus 5.5
+- **Technology:** JavaScript, Browser
+- **Estimated FP32 operations/s at 60 FPS:** 10,000,000 (low confidence; static estimate, not measured).
+- **Rating basis:** Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.
+- **Verified:** 2026-10-17
+- **Repository:** [https://github.com/ilecom/playground](https://github.com/ilecom/playground)
+- **Evidence:** [direct model evidence](https://github.com/ilecom/playground/commit/f5d44f70b9ecf35c183855ee84b03bd26716ea21)
+
+## Screenshots
+
+No screenshot source is recorded yet. Keep the placeholder until a repository, awesome list, or creator source provides an image.
+
+## Model attribution
+
+Open the evidence link above. Evidence grade: **direct model evidence**.
+
+## Source description
+
+A classic Snake game in one HTML file (no build step, no dependencies). It works in Safari on Mac and iPhone. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.
+
+### Gameplay source
+
+- [https://github.com/ilecom/playground/blob/claude/awesome-planck-cmf5f0/index.html](https://github.com/ilecom/playground/blob/claude/awesome-planck-cmf5f0/index.html)
+- [https://github.com/ilecom/playground/commit/f5d44f70b9ecf35c183855ee84b03bd26716ea21](https://github.com/ilecom/playground/commit/f5d44f70b9ecf35c183855ee84b03bd26716ea21)
+
+## Verification notes
+
+- **Status:** verified_source
+- **Counted units in repository:** 1
+- **Units covered by this note:** 1
+- **Discovery:** GitHub commit pool: model+game commits 2026-10-16..2026-10-17 (1-hour Opus, 3-hour Sonnet, 6-hour other UTC partitions) joined to repositories created after 2026-10-16T00:00Z; https://github.com/ilecom/playground
+
+[Back to the awesome list](../../README.md)

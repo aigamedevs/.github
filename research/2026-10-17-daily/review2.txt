@@ -1,0 +1,717 @@
+SigmaKevinLai/sigma-main_GPT-6_1Sol [NONE] | GPT-6_1Sol | sigma main GPT 6 1Sol
+hy57in/neighborhood-quest [NONE] | Neighborhood Quest — Explore, Capture, Remember: AI-powered 3D neighborhood expl | 🏡 Neighborhood Quest (동네 퀘스트)  Capture Freely. Remember Vividly.     Turn your real world neighborhood experiences into 
+v2pilotpro/Thumbtack-Factory-ai [NONE] | Game made with claude | 
+WollyMonjac/Vahva-Reis [NONE] | Vahva Reis porditud brauserisse Opus 5.5 abil. | Vahva Reis veebibrauseris  Eksperimentaalne projekt  Käesolev projekt on eksperiment, mille eesmärk oli välja selgitada,
+AndyYan999/chess [Sol] | Afterhours Chess: online private rooms and same-device play. Built with AI (Herm | Afterhours Chess  Play: https://andyyan999.github.io/chess/  This public repository contains only the deployed website: 
+gretchenboria/jester-deadline [ANY:Argon] | A browser shooter where Gemini 4 Argon turns your to-do list into levels. Three. | Jester: Deadline A browser third person shooter that turns your to do list into levels. You play as a jester with a rifl
+minjun1177/gemini-4-argon-demo [NONE] | Testing argon | 
+MProffitt-RedGate/potato-throw [Sonnet 5.5] | Small CL game, made with Claude | Potato Throw A tiny asynchronous game of hot potato for the terminal. There is one Potato and one Holder at a time. Laun
+AhmetHuseyinDOK/istanbul-3-models [Opus 5.5] | Istanbul — 1 prompt, 3 models (Claude Opus 5.5 vs Gemini 4 Argon). Live Three.js | 
+Kimjh2003/Vulkan-Arena-Demo-Feat-GPT-6.1-Sol [NONE] | Vulkan Arena Demo Feat.GPT 6.1 Sol — Android Kotlin/C++ Vulkan rendering and sur | Vulkan Arena Demo Feat.GPT 6.1 Sol Android용  Kotlin + C++ Vulkan 3D 렌더링 데모 . 기존 GLES 생존 슈터의 게임·UI를 유지하고 그래픽 API를 Vulkan으
+ertuozdenli/kickflip [NONE] | Kickflip: thruster car stunts in your browser. Made with Claude. | Kickflip Thruster stunts in your browser: hop parked cars, kickflip over them, launch off a vert ramp and retro burn the
+shiningships/ika-claude-works [NONE] | Creative web experiences made with Claude Code. | ika claude works Creative web experiences made with Claude Code.
+novaki-ai/strike-twice [NONE] | Novaki: Strike Twice, a browser action roguelite built from one prompt by Claude | Novaki: Strike Twice  A 1930s rubber hose cartoon action roguelite starring Novaki, the burnt out matchstick who has to 
+novaki-ai/the-last-light [NONE] | Novaki: The Last Light, a browser action roguelite built from one prompt by GPT- | Novaki: The Last Light  A burnt match. A stolen sun. There is still a little fire in you.  A complete top down action ro
+novaki-ai/still-smoldering [NONE] | Novaki: Still Smoldering, a browser action roguelite built from one prompt by Ge | Novaki: Still Smoldering  The Last Ember of Matchbox City.  A complete top down action roguelite for the browser, built 
+billyhetech/awesome-gemini4-argon-videos [Opus 5.5] | Awesome list of viral videos made with Gemini 4 Argon: ~300 code-rendered games, | Awesome Gemini 4 Argon Videos   ·       Viral videos made with  Gemini 4 Argon  — animations, games, 3D scenes and long 
+migandhi/3dButterlyArgon [NONE] | 3d printing butterly argon gemini 4 , three.js | 3dButterlyArgon 3d printing butterly argon gemini 4 , three.js
+viv-creates/pink-or-blue [Opus 5.5] |  | 
+nicholasgiudice/mmg-nich [Opus 5.5,Sonnet 5.5] |  | MMO RPG Medieval Projeto de um MMO RPG 2D medieval com foco inicial em mapa, PvE, quatro classes e habilidades.   Estado
+aaronallgrin/spindown [Opus 5.5] |  | Spindown A Magic: The Gathering life counter for one shared phone, built for 4 player Commander and fine for 2–6 players
+Anuttle/vigilant-tribble [Opus 5.5] |  | 
+mfidder2026/commodore_keen [Opus 5.5] | Port of the PC Commander Keen to the Commodore 64 | Commodore Keen  Commodore Keen  is an unofficial, non commercial fan port of  Commander Keen 1: Marooned on Mars  (id So
+plwg/robot-steps [Opus 5.5] | A first coding game for young kids, written in Rust: program a robot with arrows | Robot Steps A first coding game for young children (made for a 5 year old). Tap arrows to build a program, press play, a
+FabianGQuintana/IberApp-Landing-Client [Opus 5.5] |  | IberAPP Landing narrativa del Gran Parque Iberá (Corrientes, Argentina): portales, ecosistema, estado de los caminos, mi
+VolcanicWorks/bidlock [Opus 5.5] |  | Bidlock A five minute sealed bid strategy game for 2 to 4 players. Humans play in the browser, AI agents play over a sma
+botbtcfun/kickflip [Opus 5.5] | Flick it, flip it, land it on its wheels. A one-swipe pixel-art browser game: 21 | Kickflip Flick it, flip it, land it on its wheels. A pixel art game of one swipe: something sits on the street, you flic
+davidrf88/blackjack [Opus 5.5] | 2D blackjack table with NPC players who react to the game | Blackjack Table A 2D blackjack game in plain HTML, CSS and JavaScript. There's no build step: open  index.html  in a bro
+Fala243/mini-app-Quiz-Game [Opus 5.5] |  | General Knowledge Challenge A beginner friendly quiz game in HTML, CSS, and vanilla JavaScript: 10 random questions (2 p
+BryanRha/dessert-pop [Opus 5.5] | Dessert Pop! — 디저트 매치3 H5 게임 | Dessert Pop! — 디저트 매치3 H5 게임 브라우저에서 바로 실행되는 세로형 매치3 퍼즐 게임. Phaser 3 + 순수 JS (빌드 도구 없음). 모든 그래픽·사운드는  ../assets/tools/  의
+lanwakacsus/blind-tape [Opus 5.5] | Real-time trading game with a built-in backtester and a daily challenge | Blind Tape A real time trading game combined with a backtester. The source is TypeScript; the build bundles it into a si
+th-in-gs/sh_invaders [Opus 5.5,Sonnet 5.5] | #!/bin/sh Invaders: **Space Invaders** written in **unnecessarily pure old-schoo | !/bin/sh Invaders  Space Invaders  in a terminal, written in  unnecessarily pure old school POSIX shell . As faithful to
+DOSAYGO-Freelang/freelang-doom-source [Opus 5.5] | Freelang Doom Engine — playable in your browser (bring your own WAD) | 
+machuiwen/neon-racer [Opus 5.5] |  | Neon Racer A neon synthwave racing game that runs in the browser. Race three computer cars around a glowing track at sun
+fayep/MacVapoR [Opus 5.5] | Play Windows PC VR games from Steam on a Mac, shown on Apple Vision Pro through  | MacVapoR   Play Windows PC VR games from Steam on a Mac, shown on an Apple Vision Pro. The games run under  's CrossOver
+ghozian084/numon [Opus 5.5] |  | numon  Jelajah Numon  — game edukasi matematika SMP berbasis lokasi (GPS + kamera/AR). Numon tersebar di sekitar sekolah
+maryamaarif/hill-sttaion-hideout [Opus 5.5] |  | Hill Station Hideout  ▶ Play it here:    A side scrolling stealth platformer made in 24 hours for the  "Four Seasons"  g
+spicycumin5/pokewalker [Opus 5.5] | Phone take on the HGSS Pokéwalker: steps earn watts, real-world terrain decides  | PokéWalker A phone take on the HeartGold/SoulSilver Pokéwalker: walk to earn watts, spend them to search, and the wild P
+Jneyra6/volley [Opus 5.5] |  | Volley Volleyball rotations, live match stats and reports. Runs in the browser and installs to a phone's home screen; wo
+game943/horror-game [Opus 5.5] |  | 
+Rollie2347/PrepPath [Opus 5.5] |  | PrepPath A free SAT + ACT prep game for iOS. It follows a Duolingo style path with levels, Legendary rounds, XP, streaks
+Hparker6/nfl-2min-drill [Opus 5.5,Fable 5.1] |  | The 4th Call A browser game about late game football play calling. You get the score, the clock, the timeouts and 22 pla
+ako8177/the-vig-unity [Opus 5.5] | The Vig in Unity: a first-person co-op casino roguelike. Gamble a shared bank up | The Vig (Unity) A first person co op casino roguelike: you're trapped in an underground casino, and every night the Coll
+chandlerbillman2013-create/fellow-guys [Opus 5.5] |  | fellow guys
+game943/jump-map [Opus 5.5] |  | 
+debuffjp/debuff [Opus 5.5] | Open-source toolkit that handles the basics of 2D browser games, so you can buil | more room for play.  You have a game in your head: a world to wander, a fight that feels just right, a story only you wo
+roszhan2684/california-drive [Opus 5.5] | Accountless browser open-world California driving game built from open map data | California Drive  ▶ Play: https://roszhan2684.github.io/california drive/  (desktop browser with WebGL2; keyboard or gam
+wenwenerrr/EsportsManager [Opus 5.5] | Trying to build a game on Unity | Claude Code Game Studios    Turn a single Claude Code session into a full game development studio.   49 agents. 74 skill
+richiewharris/CelticCross [Opus 5.5] |  | Celtic Cross Small browser games with a Celtic theme. None needs installing or building: open  index.html  for the front
+neha-aj/RESPAWN-VIBGYOR [Opus 5.5] |  | 
+stryderjoe/figure-forge [Opus 5.5] | Build your own characters from the classic TT LEGO games (Star Wars TCS, Indiana | Figure Forge Build your own characters from TT's LEGO games (PC), in three modes, one per era of their file formats:    
+neilmalvalli-cyber/THE_GAME [Opus 5.5] |  | THE GAME A 3D investigation game: six case files on a detective's desk, a Normal Market and a Black Market selling power
+jnghadaki-ux/ChickenCoop [Opus 5.5] | Your Chickogatchi can survive outside the menu just dont let the enemy team catc | ChickenCoop   Your Chickogatchi can survive outside the menu, just don't let the enemy team catch him first.  Pet chicke
+gouthamkrishnadesign-glitch/Music-games [Opus 5.5] | Note Friends: playful piano theory lessons and games for young kids | Music Games  Note Friends : a playful, dark mode piano theory course for young children (ages 5–7).   40 lessons: note n
+groovebak/Browser-Car-Racing [Opus 5.5] |  | Coast Road GP A pseudo 3D arcade racer that runs in the browser. One HTML file, no build step, no dependencies.   Play O
+mattmkelly/micklecade [Opus 5.5] | An Arcade Made By Mickles | 
+mayaaravapalli/xalgoquest [Opus 5.5] |  | X Algo Quest Every change to the X For You algorithm, turned into a pixel game. Plain words, real numbers straight from 
+themanprince/downshaft [Opus 5.5] | platformer game initially for start.ng | Downshaft A 3D descent game for  , inspired by the classic NS Shaft. The ledges keep rising toward a ceiling of spikes, 
+zonezgame/zonezgame.github.io [Opus 5.5] |  | ZONE Z Game bắt zombie bằng camera của THEZONE (Phú Tân, An Giang). Bản test trên điện thoại.   Chơi: https://zonezgame.
+Blackthorne-Management/elodie-game-demo [Opus 5.5] |  | Bloodlines: Echoes of Zetwal (quest)    Chapter 1 demo.  This repository is the quest alone, copied from the main projec
+benllados/writ340-game [Opus 5.5] |  | The Game That Builds Itself Around You A small browser game for a recorded WRIT 340 presentation (Benjamin Llados). It i
+tylergardner10/spot-on-daily [Opus 5.5] | Daily Sports Stat Guessing game | 
+hieunm3-lab/wop2-level-editor [Opus 5.5] | WOP 2 Level Editor (3D như ingame) — link cho team GD | WOP 2 Level Editor Bản web nội bộ cho team GD. Code, art và dữ liệu level đã được mã hoá (AES 256 GCM); mở link cần file
+machuiwen/swarm-survivor [Opus 5.5] |  | Neon Hive Survivors 霓虹虫巢幸存者 A neon survivor style browser game. You only move: your weapons fire on their own. Survive 1
+StevenR152/ludum-dare-60 [Opus 5.5] | Ludum Dare 60 | Ludum Dare 60 Theme: TBC Built with   0.9.0 (loaded from cdnjs).   Run locally Serve the folder over HTTP (asset loading
+ReasonedClub55/tictactoe-5x5 [Opus 5.5] | 5x5 four-in-a-row tic-tac-toe for the terminal, with difficulty levels. Built wi | tictactoe 5x5 A terminal game: tic tac toe on a 5x5 board where  four in a row  (horizontal, vertical or diagonal) wins.
+wasmga-me/wasmgame-wg [Opus 5.5] |  | wg: wasmga.me native games in Rust The engine for  's own games written in Rust: the Rust side of the C games'  wg.h ,  
+khil13/HollowPines [Opus 5.5] |  | Hollow Pines — vertical slice Stylized frontier open world game. Three.js (r128), plain JavaScript, no build step beyond
+Githyot/mine-clone [Opus 5.5,Fable 5.1] |  | Mine Clone A Minecraft like block game written in  Rust , built for speed. Rendering uses  wgpu  on Vulkan (Windows/Linu
+Belendali/wanaka-mobile-demo [Opus 5.5] | Wanaka mobile — clickable prototype: game feed, Discover, Create with AI, 3D Sna | Wanaka Mobile · 可点击 Demo  在线 demo ：https://belendali.github.io/wanaka mobile demo/ （电脑上显示手机框预览，手机上全屏）  Figma ：  这是用来演示交互
+machuiwen/robo-strike [Opus 5.5] |  | Robo Strike 机器人大作战 一个卡通风格的第一人称射击小游戏。打败一波又一波的机器人和无人机，它们被击中后会碎成火花、螺丝和零件，没有任何流血内容，适合小朋友。  在线游玩：https://machuiwen.github.io/
+cogwizzle/Alphabet-Flashcards [Opus 5.5] | Flash card game for kids to help learn letters and sounds. | Alphabet Flashcards Flash card game for kids to help learn letters and sounds. It is a Progressive Web App made for touc
+wpknox/ti4-table [Opus 5.5] | Phone-first Twilight Imperium 4 companion: rules search, map fairness checks, an | TI4 Table A phone friendly companion site for a group that plays  Twilight Imperium 4 .   What's in it   Section   Statu
+hubstacksea/tux64 [Opus 5.5] | A 3D game featuring Tux, the Linux mascot | TUX 64 — The Kernel Castle Adventure               KERNEL CASTLE GROUNDS — お城の庭       KERNEL CASTLE — サイバー空間のお城の中       
+bunditks/hangman-nodejs [NONE] | hangman nodejs by Claude | Hangman A Hangman word game for the browser, built with Node.js and Express. The server picks the secret word and checks
+tylerq05-maker/ridgeline-jets [Opus 5.5] |  | Jet City Open world jet flight in the browser: a real scale Mount Everest (8,848.86 m), 22 landmarks to discover, dogfig
+Garagoro/WeaponFX [Opus 5.5] | Custom HLSL pixel shaders on the weapon in hands in CS2 (DX11): see-through, gla | WeaponFX  Your own pixel shaders on the weapon and gloves in your hands in Counter Strike 2.  Glass that bends the world
+darkharasho/hml [Opus 5.5] |  | hml HML (Haro's Mod Loader) is a desktop mod manager modeled closely on r2modman, built as an Electron app with a modern
+PhamVanDat98/gamekit [Opus 5.5] |  | GameKit Plugin skill + script cho dây chuyền  port game từ engine bất kỳ sang web game JS/TS, reskin và phát hành lên po
+t3rrey/friendslopped [Opus 5.5] |  | FRIENDSLOPPED A monorepo of N64 flavoured party games. You join with a name, pick a game cartridge, then host or join a 
+anthonybong9188-coder/play-corner [Opus 5.5] | Play corner | Play Corner Simple, no login games for little ones, made for big phones.    Match the Cards  – flip two cards to find ma
+ivyproschool5/travelgameivy [Opus 5.5] |  | Himachal Road Rally A family car game for the Delhi to Himachal trip. One phone, held by the front passenger, runs five 
+SulphurS16/ACFA-Port [Opus 5.5] | Unofficial native Windows port of ARMORED CORE for Answer (PS3), built from your | ARMORED CORE for Answer: unofficial PC port A native Windows version of ARMORED CORE for Answer (PS3, USA, BLUS30187). T
+SkerbMcDuck/skyrim-companion [Opus 5.5] |  | Skyrim Companion A live map and character readout for Skyrim Special Edition that runs in a browser window, so you can k
+aadishs-364/SE_Lab [Opus 5.5] |  | 
+moneyhipo/Personal_AI_Work_Experience_Repository [Opus 5.5] |  | AI Experience Repository AI(Claude 등)와 함께 프로젝트를 하면서 겪은 실수와 교훈을 모아 둔 저장소입니다.  AI가 새 프로젝트를 시작하기 전에 읽는 용도 로 씁니다.   AI에게: 읽는
+chris8christie-boop/pac-ben [Opus 5.5,Fable 5.1] |  | Pac Ben  ▶ Play it: https://chris8christie boop.github.io/pac ben/  Works on phones, tablets and computers, in any moder
+satsuki19980613/Stat-Hub [Opus 5.5] | ポーカーチェイスのクラブの成績管理アプリ | Stat Hub  ](https://github.com/satsuki19980613/Stat Hub/actions/workflows/ci.yml)  ](https://github.com/satsuki19980613/
+rahul-sg/fantasy-edge [Opus 5.5] |  Start/sit, waiver and trade advice for ESPN fantasy football leagues, built on  | Edge — fantasy football intelligence for ESPN and Sleeper leagues Edge connects to your ESPN and Sleeper fantasy leagues
+tjelton/Bible-Learning [Opus 5.5] |  | Game playable from:     Chapter & Verse A quick fire phone game for learning where the key events of the Gospels are fou
+sambhavm15/DuolingoMockProduct [Opus 5.5] | A mock feature for Duolingo's APM Round 1 | Ask Oscar — Duolingo Chess mockup Interactive, single file mockup ( index.html ) of an  "Ask Oscar"  AI coach inside Duo
+abedley/planeswalker [Opus 5.5] |  | Planeswalker A single player game built on a subset of the Magic: The Gathering rules, written in plain JavaScript (ES m
+tolga-asa/uk-driving-game [Opus 5.5] |  | Keep Left: UK driving practice A top down driving game for practising UK roads. Double click  index.html  to play it in 
+Dynasty9/Frontline [Opus 5.5] | Squad-level military RTS in Godot 4: soldiers who think, squad tactics, armour,  | Frontline  A squad level military strategy game where every soldier thinks for himself.   ](https://godotengine.org)  ](
+Garebear72/delve [Opus 5.5] | Delve - a cozy, absurd idle colony game where you are the Digging God | 
+BabyKraken1/aetherbound [Opus 5.5] |  | Aetherbound: Shards of the Riftlands A pixel art action RPG for the browser, inspired by the feel of Pixel Quest, Realm 
+Mjqwa123/Mouse-mimic [Opus 5.5] |  | Mouse Mimic Records how  you  move the mouse, trains a neural network on it, and generates new movements in your style. 
+dmendoza2121/Test [Opus 5.5] | Testing | Brick Breaker A dependency free browser brick breaker game (HTML5 canvas + vanilla JS), all in one file.   Play Open  in
+jun0e/2048-siege [Opus 5.5] | 2048 Siege: a 2048 merge + lane tower-defense game for phones (PixiJS) | 2048 Siege (prototype fork) A fork of   without a castle.  The blocks are what you defend.  There is no wall and no cast
+rnjagurwn5-max/nolate [Opus 5.5] |  | 
+zirongvannal1/comm250-elm-review [Opus 5.5] |  | 
+dschoenblum/big2 [Opus 5.5] | Big 2 game | Big 2 A phone first web version of the card game Big 2 (Big Two / Cho Dai Di). You play against three bots. It uses stan
+Zhandos-Makhuov/First-try [Opus 5.5] |  | Вопросы для двоих Игра для свидания: 300 вопросов (по 100 в трёх уровнях), 20 мини заданий, 30 посланий, русский и казах
+Bardia323/p-chat [Opus 5.5] |  | p chat Live:  https://p chat 21r.pages.dev  (Cloudflare Pages), with its relay at  wss://p chat relay.bardia shahrestani
+xTOYOx/idea-slot [Opus 5.5] |  | アイデアスロット ランダムな単語・動詞・ゲームジャンル・タグを 2〜4 枠のリールで組み合わせて、ゲームやアプリのアイデアの種を出すツールです。依存なしの静的Webアプリ。 公開URL: https://xtoyox.github.io/i
+CodeWizardQA/mrbin [Opus 5.5] | Mr. Bin · PKG in, BIN out. Android app that unpacks PS4 fake PKGs (fPKG) into th | Mr. Bin    PKG in, BIN out.     English  ·  Español       Android app that unpacks a  PS4 fake PKG (fPKG)  into its game
+billtruong003/billthedevstudio-web [Opus 5.5] | billthedevstudio.com: Bill The Dev, a one-man game studio | 
+sd-codebase/star-jar [Opus 5.5] |  | ⭐ Star Jar A colorful habit tracking game for kids. Children tap their avatar, enter their birthday PIN (DDMM), and tap 
+inticoy/snapshoot-classic [Opus 5.5] | SnapShoot Classic — 3D 5v5 browser football (Three.js). Classic mode of SnapShoo | SnapShoot Classic  (스와이프 승부차기)의 클래식 모드. 브라우저에서 키보드·터치로 하는 3D 11대11 축구. 105×68m 경기장과 4 3 3 포메이션.  플레이:  https://inticoy.g
+kkob728/claudeproject [Opus 5.5] |  | NIGHT SURVIVORS — 어둠의 생존자 뱀파이어 서바이버즈 스타일의 웹 게임입니다. 순수 HTML + CSS + JavaScript(Canvas 2D)로 만들었고, 외부 라이브러리·빌드 도구·이미지/사운드 파
+ilovefree1s/graveyard-shift [Opus 5.5] |  | Grave Shift A spooky 1 vs 3 voxel game for phones: one robber digs up graves and banks the loot before dawn, while three
+BringOutTheRainn/space-app [Opus 5.5] |  | Stardust Empire A space themed incremental clicker for phones, in the spirit of Cookie Clicker. Tap a lonely asteroid fo
+omar-Suleiman14/chess [Opus 5.5] | chessy chess | Chess by Chaos ♟️  A personal chess gym, open source for anyone who wants to learn by playing.    ·   ·   ·   ·   ·   · 
+donghee-ai/project_ax [Opus 5.5] |  | Rush Line 콘과 느린 차를 피해 결승선까지 최대한 빨리 달리는 1인칭 레이싱 게임입니다. HTML 파일 하나로 동작하며 별도 설치가 필요 없습니다.  ▶ 라이브 데모: https://donghee ai.git
+ANISMAI/game-matematik-darjah-1 [Opus 5.5] |  | YouEdu Math — Pulau Ninja (Fasa 1) Prototaip navigasi interaktif untuk permainan matematik murid Tahun 1. Dibina dengan 
+2junewoo/project_ax [Opus 5.5] |  | Rush Line 브라우저에서 바로 즐기는 캔버스 레이싱 게임입니다.   🎮 라이브 데모  👉      조작법   키   동작               ← →   조향     ↑   가속     ↓   감속     
+kirhgoff/lord-of-light [Opus 5.5] | Playground for System 1 experiments | Lord of Light An arena where a Pantheon of self styled gods fights a Power matched Horde of monsters. Every Combatant's 
+TeddyWChoi/web-ops [Opus 5.5] |  | web ops 서비스개발실 웹 업무 관리 페이지 원본.    sf2/  스포2 한국 런칭 웹 업무 가이드 (HTML, 간트 생성 스크립트)    svcdev/  서비스개발실 웹 업무 페이지 (현재는 게시본 스냅샷) 
+jayamohanan/Merge-Dash [Opus 5.5] |  | 
+chloe-xie297/xiaomao-game [Opus 5.5] | 小猫找兔兔 – a little phone game | 
+Shagg88/Athelas [Opus 5.5] | Play The Return of the King (PC and Xbox) and The Two Towers (Xbox) on a modern  | Athelas I'm Shagg and I created this project with the help of Claude (Anthropic). This is a free, unofficial launcher fo
+yahya123467/Pax-history-s- [Opus 5.5] | Strategy | Pax History A browser based, AI driven alternate history grand strategy game. Pick a nation and a start date, write your
+hammaad2002/shrek2-team-action-web [Opus 5.5] | Play your own copy of Shrek 2 Team Action (PC, 2004) in the browser: bring your  | Shrek 2 Team Action — in your browser (bring your own disc) Play your own copy of  Shrek 2 Team Action  (PC, 2004) in a 
+andyqueyl/fathom [Opus 5.5] | Free daily-dive trivia game: name something, rarer answers sink deeper | Fathom A free, offline take on the daily trivia game Krillion. Each day you get seven prompts like "Name a country in So
+msureshc21/scran-battle [Opus 5.5] | Which would you rather eat? 10 rounds of head-to-head scran. | 
+Alvin010202/guigui-superman [Opus 5.5] | 龟龟超人：在人偶身上写上名字，让龟龟超人替你出气的网页小游戏 | 龟龟超人 在人偶身上写上名字，让龟龟超人用 11 种招式替你出气。网页小游戏，手机和电脑都能玩。    index.html ：可直接部署的游戏页面（单文件，图片已内嵌，不依赖任何外部资源）    game.src.html  +  hea
+duongtuankiet-se/SirLocked [Opus 5.5] | A two-player cooperative detective game featuring real-time investigation, role- | SirLocked AI assisted cooperative detective game MVP.   Stack   Backend: ASP.NET Core Web API, MongoDB, JWT, SignalR   F
+viruztt/subscroll [Opus 5.5] | Every game you already pay for, in one place. Desktop app showing which games ar | Subscroll  Every game you already pay for, in one place.      Your played and completed games   Roll a game when you can
+jcooksh/loop-clear [Opus 5.5] |  | Loop Clear A small pipe loop puzzle game. Play: https://jcooksh.github.io/loop clear/ Tap a piece to select, tap again t
+glepicsv-cyber/Veteran [Opus 5.5] |  | Người Đi Trước Game sinh tồn H5 theo chương. Mã nguồn game nằm trong  . Triển khai: Vercel đọc  vercel.json  và phát hàn
+nhuay2404/arknights-tierlist-vn [Opus 5.5] |  | Arknights Tier List VN Phiên bản tiếng Việt (không chính thức) của  , kèm thông tin chi tiết từng operator (Trait, chỉ s
+juricmatej/palmetto-run [Opus 5.5] | Slop game to have fun with your friends | Palmetto Run  Play now:  https://palmetto run.palleto.workers.dev A neon open world crime sandbox that runs in the brows
+Lucas-Corrieras-LCS/eva-vr-escape-sousmarin [Opus 5.5] | Escape game VR sous-marin pour l'arène EVA — Unity 6.3, Meta Quest 2 | Projet VR EVA — Escape game sous marin Escape game VR mono joueur pour l'arène  EVA  (piste 31 × 16,5 m), sur  Meta Ques
+fukka0409-png/Toto-monsters [Opus 5.5] |  | トトと魔物たち ガチャで魔物を集めて育てるブラウザゲーム。 https://fukka0409 png.github.io/Toto monsters/
+Kalaith/auto_resolved [Opus 5.5] |  | Auto Resolved You are starting your IT career the same week PATCH, a new AI assistant, is released. Keep a multi floor o
+Kseraaa/BatOnBoard [Opus 5.5] |  | 
+hungungworld/kart-racer [Opus 5.5] |  | 🏎️ KART RACER 카트라이더 스타일의 3D 카트 레이싱 게임입니다 (three.js). 별도 설치나 빌드 없이  index.html  하나로 실행됩니다.   실행 방법  index.html  파일을 브라우저로
+plantskang-hash/dead--line [Opus 5.5] |  | 데드라인 생존일지 좀비월드 생존 텍스트 게임. 단일  index.html 로 동작합니다.   호스팅: GitHub Pages ( main  브랜치 루트)   순위표·구글 로그인: Supabase 프로젝트  deadl
+JUSTTNZ/flying-tesla [Opus 5.5] | Side-view endless runner: hop a flying Tesla over city traffic | Flying Tesla Standalone side view web game.  Not part of Shopa.    ▶ Play now:     Runs in any modern browser on desktop
+Tarangrana/crrazyyyGAME [Opus 5.5] |  | Forgotten Acorns  A squirrel's year in four seasons. Every acorn you forget becomes a tree.  ThunderHacks 2026 · Algoma 
+asifircu5-spec/claude [Opus 5.5] | first app | Nuzaim Learns 🔺🔢🐝🖍️ A playful learning web app for  3 year olds , built as a single  index.html  with no installs or bui
+madisonho/rolleria [Opus 5.5] |  | Papa’s Cinnaboneria A playable cinnamon roll cooking game with four stations and 210 original, editable SVG assets. Run 
+DosPuppet/Pokecircle [Opus 5.5] | play your pokemon decks aginst AI or a friend. Scope : standard | Pokecircle Pokémon Trading Card Game (Standard format) in the browser: play against the AI or online against another pla
+Tekrontech/Kitefall [Opus 5.5] | Kitefall Game  | Kitefall Online competitive 3D kite fighting for mobile –  "Read the wind, win the cross, cut the line."  Unity 6 LTS · 
+frannunezrivera/holded-quest [Opus 5.5] | Tus finanzas de Holded convertidas en un videojuego: montañas de dinero, deudas  | Holded Quest 🐷💰 Tus finanzas de Holded convertidas en un mundo de videojuego. Pip, un cerdito hucha, recorre un valle do
+blake8086/escapement [Opus 5.5] | Prototype grid-only puzzle game in the spirit of Opus Magnum | Escapement  Working title.  A prototype puzzle game in the spirit of Zachtronics' Opus Magnum, where everything happens 
+jawsbaek/vr-poker-casino [Opus 5.5] |  | Monte Carlo VIP 3D / WebXR Poker Casino Live deployment on Google Cloud Run:   Team: Jawsbar ( Sanghoon Baek ) Repositor
+Jankozeluh/Chiip [Opus 5.5,Sonnet 5.5] | A free tactical shooter in the spirit of Counter-Strike, with a retro Quake look | Chiip A tactical shooter in the spirit of Counter Strike, with the look of a 1990s Quake era game: you and your bot team
+48dgpkws68-spec/caughtgames [Opus 5.5,Fable 5.1] |  | 
+yoooshie/intro-roulette [Opus 5.5] | 交流会の自己紹介ルーレットとBlooket用クイズづくり | 
+TAFTAFFF/fuat-morel [Opus 5.5] |  | ♠ Fuat Morel Klanın kendi Fun Run'ı. Tarayıcıda oynanan, 4 kişilik, eşyalı ve özel güçlü 2D engelli koşu yarışı.  Oyna: 
+0816559413zz-spec/Fantas-Stick [Opus 5.5,Sonnet 5.5] | Wizard Duel - 3D wizard dueling game (co-op, PvP, brooms, online play) in a sing | ✦ Wizard Duel ✦  ▶ เล่นเลย: https://0816559413zz spec.github.io/Fantas Stick/  เกมดวลเวทมนตร์ 3D มุมกล้องหลังไหล่แบบ Hog
+asivixlp44-cmyk/math-glass-bridge [Opus 5.5] | Math Glass Bridge: a 3D math glass bridge game for Bloxity (Three.js + Colyseus) | Math Glass Bridge A Bloxity game built with Three.js and Colyseus. It is a clone of the Roblox game " " (reference video
+stockYandere/choiceEditor [Opus 5.5] |  | 사건 게임 에디터 0.1.31 Android 8.0 이상용 세로 화면 제작 에디터. 인터넷 없이 실행합니다. 첫 화면에서 1 · 에디터 / 2 · 플레이를 고릅니다. 에디터 안에서 이야기 / 보유 항목 / 테스트 탭
+helico-tech/retro-sports [Opus 5.5] | Whimsical 16-bit sports games on Helico Island: dodgeball, frisbee dogs, Dutch h | RETRO SPORTS  Greetings from Helico Island! Seven totally radical sports, 1992 style.  A collection of 16 bit style spor
+stavell/xctracer-display [Sonnet 5.5,Opus 5.5] |  | Paragliding vario display A handheld, portrait display for an XC Tracer Mini III GPS vario. The box is a Bluetooth LE ce
+austinbeaulier/Tesla-roadster-fly-game [Opus 5.5] |  | Tesla roadster fly game
+mtmcdermott00-cpu/chinese-whist [Opus 5.5] |  | chinese whist
+tamirlav-kaiser/Creative-coding [Opus 5.5] |  | Creative Coding Interactive browser sketches. Each folder is a standalone  index.html  — open it in a browser, no build 
+DrOmaia/JavaScript [Opus 5.5] |  | JS30 — Learn JavaScript in 30 Days  ](https://dromaia.github.io/JavaScript/)  A free, 30 day JavaScript course for begin
+orsplayvault/draft-chaos [Opus 5.5] | 82-0 DRAFT CHAOS — card mode POC, play a friend | 
+whoisuave/PU5 [Opus 5.5] | Card Game | PU5 — BlackJack Pick Up 5 (All Saints Rules) A browser card game: you against 1–5 CPU players. The first player to run o
+vnthudao-source/lu-hanh [Opus 5.5] |  | Lữ Hành · Làng Thanh Mộc Webgame nhập vai phiêu lưu, phong cách làng Việt xưa. Chạy trên Blogspot, máy chủ là Google App
+Shugaeng/basic_english_word [Opus 5.5] |  | 🏝️ 단어섬 800 초등 필수 영어 어휘 800개(2015 개정 교육과정 초등 권장 어휘 기반)를 게임처럼 외우는 웹 앱입니다. 설치나 빌드 없이 브라우저에서 바로 실행됩니다.   실행  bash python3  m
+buicongnguyen/new_cute_game [Opus 5.5] | Cloudback: a cozy sky adventure on the back of a growing whale (Three.js, phones | Cloudback  A cozy sky adventure on the back of a growing whale.  You live on the back of  Bao , a sky whale calf, with y
+Piolo284/Kamote-Rider-High-way-Escape [Opus 5.5] |  | Kamote Rider: Highway Escape A portrait mode 3D endless motorcycle arcade game built with  Flutter  and the  Flame  game
+austin410203/3d_wordpuzzle [Opus 5.5] |  | 楓嶺 · 回音鐘 Maple Ridge 像素風(three.js 低解析度渲染 + 描邊)的解謎探險遊戲。回到過世爺爺的楓嶺,推石頭、釣魚、修水車、點古燈、闖山洞,登頂敲響回音鐘。   純靜態網站,不需 build:three@0.170
+DuyNguyen6868/Last-Hackathon [Opus 5.5,Sonnet 5.5] |  | 
+binhnt010896/long-ky-card-game [Opus 5.5,Sonnet 5.5] | A card game turn-based, based on Long Ky universe | Long Ký   The Game The first game in the Long Ký universe: a single player, offline, turn based card strategy game about
+AndreaAcanfora/dama [Opus 5.5] | Italian draughts (dama italiana) in the browser: five AI levels, online play wit | Dama Italian draughts (dama italiana) in the browser:    against the computer , from Principiante to Maestro, a neural n
+sos-fantasy/stars-of-sabotage [Opus 5.5] | Sabotage fantasy football scoring | 
+ls11ae/ruler-of-the-plane [Opus 5.5] | Geometry games for the TU Dortmund open house – web edition of Ruler of the Plan | Ruler of the Plane Spiele zur algorithmischen Geometrie für den Tag der offenen Tür der TU Dortmund. Browser games that 
+tomphp/icosagon [Opus 5.5] |  | Icosagon Icosagon is a simple turnbased, two player game. The game area is a regular icosagon (20 points layed out in a 
+michaelcrosato/DentedDestiny-Z7 [Opus 5.5] | Dented Destiny: an original Souls-inspired action RPG vertical slice built on Sh | Dented Destiny · The Bellwether Abbey  The crown is broken. The oath remains.  An original Souls inspired action RPG ver
+DuIslingr/CR2-U [Opus 5.5] | CR2-U - a from-scratch reimplementation of Chaos Rings II (iPad 2.1.0, Android 2 | CR2 U A from scratch reimplementation of  Chaos Rings II  (Square Enix / Media.Vision, 2012), from the iPad release (2.1
+PhenomDevel/Quality-of-Life-Forever [Opus 5.5] |  | Quality of Life Forever Many small quality of life improvements for World of Warcraft  Forever . Every feature can be tu
+pjw7264/toeic-part5 [Opus 5.5] |  | TOEIC Part 5 문법 훈련 게임 토익 Part 5(단문 빈칸 채우기) 문법 문제를 무작위로 반복해서 푸는 모바일용 웹 게임입니다. HTML 파일 하나로 되어 있고 외부 라이브러리를 쓰지 않습니다.   출제 유
+kostinabbo/2048-legal [Opus 5.5] | 2048 Puzzle — privacy policy | 2048 Puzzle — legal pages Privacy policy for the 2048 Puzzle Android game (ru.denwa.game puzzle), in English and Russian
+xaisanatvtz25-ctrl/ball-vs-ball [Opus 5.5] |  | Ball vs Ball เกมลูกบอลสกิลสู้กันในกรง แบบ 2D ลูกบอลบังคับไม่ได้ เด้งเองตามฟิสิกส์ ใช้สกิลเองตามคูลดาวน์ ใคร HP หมดก่อนแพ
+Valisium/dh-ai-arcade [Opus 5.5] | Digital Heroes AI Arcade: iPad games for the Hotel Ops Event | 
+niasmin/Healthcare-Simulator-Starter [Opus 5.5] |  | Healthcare Empire: Care & Beyond — เฮลท์แคร์ เอ็มไพร์ A Thai first, single player isometric nursing home and hospital ma
+rysev-a/game [Opus 5.5,Sonnet 5.5] |  | Игра детектив (браузер, three.js)  Играть онлайн: https://rysev a.github.io/game/  · ДЕМО площадка: https://rysev a.gith
+claryaldringen/bohemia [Opus 5.5] | Feudální strategie v prohlížeči – roky 500–1500 za jeden rok | Bohemia Feudální strategie v prohlížeči. Buduj vesnice, hradiště, tvrze a hrady, rozšiřuj rodový majetek a prestiž a udr
+laurenceroblox1-bit/hoi4-browser [Opus 5.5] |  | Iron Fronts — WW2 Grand Strategy in the Browser A Hearts of Iron IV–inspired grand strategy game that runs entirely in y
+AISA-AI-web/arcade [Opus 5.5] |  | pD Day 2026 An explore the school game for the AISA AI PD days (19–20 October 2026), in  English and Arabic . Teachers w
+yasserreslan/simcore [Opus 5.5,Sonnet 5.5] | Deterministic lockstep simulation core for an RTS game | simcore The deterministic simulation core of a classic style RTS: the whole game minus graphics, sound and input. A rend
+Ed-Cheerz/direction-breakpoint [Opus 5.5] | Direction Breakpoint, la commu Solana FR en route pour Breakpoint 2026 | 
+kyamada-gif/kankouji-game [Opus 5.5] |  | 現場まるわかり（試作） 管工事の施工管理として入社する新卒向けの、建設現場の全体像を学ぶインタラクティブ教材のプロトタイプ。   実装済み： B. 危険探し （7段階 × 2〜3件）   未実装：A. 職種マップ / C. 搬入・搬出（ボタ
+productlinkit/metfone.quizpro [Opus 5.5] |  | 
+Akinaru/PokeAgents [Fable 5.1,Opus 5.5] | Fork personnel de Pixel Agents : bureau pixel art où vos agents Claude Code pren | PokeAgents     🇬🇧 English  · 🇫🇷  Français  · 🇪🇸  Español  · 🇩🇪  Deutsch  · 🇮🇹  Italiano  · 🇧🇷  Português  · 🇯🇵  日本語  · 🇨
+AlessioCarta/innerclock [Opus 5.5] | ⏱️ How accurate is your inner clock? A daily social game — hold the button for e | InnerClock ⏱️    How accurate is your inner clock?   A daily social game: hold the button for  exactly  the time shown —
+laamella-gad/copter_duel_sloppy_edition [Opus 5.5] | Copter Duel Sloppy Edition | Copter Duel Sloppy Edition A two player helicopter duel for the Commodore 64: yellow (joystick in port 2) and red (port 
+kedsuda/HIDE-TROLL [Opus 5.5] |  | HIDE & TROLL — ซ่อนหาแปลงร่าง 3D ออนไลน์ เกมซ่อนหาแบบแปลงร่าง เล่นกับเพื่อน 3–10 คน บนเว็บ (คอมพิวเตอร์ + มือถือ) ฝ่ายซ่
+gpicha3/family-party [Opus 5.5] | เกมปาร์ตี้ครอบครัว เล่นพร้อมกันด้วยมือถือเครื่องเดียว | 
+NeoGio73/krebs-run-play [Opus 5.5] | The Krebs Run: a citric acid cycle review game (web build), the sequel to The Ba | The Krebs Run A citric acid cycle review game for undergraduate biochemistry, and the sequel to The Battle of Embden. St
+PeacexF/Rybalka-Desktop [Opus 5.5] | Fan-made offline remake of Russian Fishing 2/3 (Русская Рыбалка) — 2D fishing si | Рыбалка Desktop Фанатский офлайн ремейк классической «Русской Рыбалки 2/3» на  Rust + Tauri 2 . 2D панорамы водоёмов, по
+diyorbekabdulaxatov/secret-contract [NONE] | Shooter game | Silent Contract A 2D noir sniper game for phones and browsers, inspired by LONEWOLF. Rain soaked Port Varenne, a silent 
+BireshwarChakravarty/DisplayTuner [Opus 5.5] |  | Display Tuner    Research based display settings for gaming and editing on the Mac.     Download Display Tuner 1.0  ·  T
+AbulkasimovBakhtiyar2006/adal-ai [Opus 5.5] |  | Adal AI ИИ помощник по официальным документам на русском и казахском языках.   Railway Сайт: https://adal ai production.
+TheAmoungMcer/super-pip-bros [Opus 5.5] | Fan-made SMB3-style platformer with original characters and online co-op | Super Pip Bros. A fan made, retro platformer in the spirit of the NES classics. Pip and Pep cross the Petal Kingdom to r
+GoldiAI/super-adventure [Opus 5.5] | משחק קפיצות לימודי לילדים | 
+iSkuffed/europedia-v [Opus 5.5] | Europedia V: an EU5 reference built from the game files, starting with productio | 
+Yu-Hsuan-1220/NYCU_Network_Programming [Opus 5.5] |  | NYCU Network Programming Assignments for the Network Programming course at National Yang Ming Chiao Tung University (NYC
+joe-sdc/speckle [Opus 5.5,Sonnet 5.5] | A fun word game | Speckle A Wordle style word game with British English spellings and words. Guess the five letter word in five goes.   Sh
+tuannoisy11/test1 [Opus 5.5] |  | 
+deepsharkdev/cargo-sort-site [Opus 5.5] | Cargo Sort: privacy policy, terms, support and app-ads.txt for yeniji.org | cargosort.ishbul.org — Cargo Sort pages Published with GitHub Pages from  . This folder is the source; copy it into that
+ichorid/vibecoder [Opus 5.5] | Clicker game about vibe coding. Based on real events. Got a cat in it and some v | VIBE CODER   Based on real events. No cat's feelings were hurt during the 2 hours of vibe coding this game.     (best on
+omri2003/imposter-game [Opus 5.5] |  | 
+vianney-g/omatro [Opus 5.5] | A Balatro-like card game for Omarchy: poker hands, chips × mult, and jokers abou | omatro A Balatro like card game for Omarchy: play poker hands to beat blinds, while jokers multiply the score (chips × m
+nafisapambudi-ux/Game [Opus 5.5] |  | Benteng Gurun Game strategi benteng isometrik di browser, terinspirasi  Stronghold Crusader . Bangun ekonomi di tepi sun
+DaedamChoi/myTest [Opus 5.5] |  | 토끼의 간식 바구니 휴대폰 브라우저에서 바로 하는 캐주얼 게임이에요. 설치는 필요 없어요.   화면을 손가락으로 좌우로 밀어서 토끼 바구니로 간식(🍬 🍓 🧁)을 받아요.   ⭐ 별을 모아서 토끼의 털 색깔과 머리 장
+Mesut-Outlook/Padel_Game [Opus 5.5] |  | Padel Legends Tarayıcıda çalışan 3D padel oyunu (Three.js). 1–4 oyuncu, boş koltuklara AI, arkadaşlarla online.   Hızlı 
+Aymeric-Dcn/realroad [Opus 5.5] |  | realroad  🇫🇷   · 🇬🇧   · 📘   · 📍    Routes réelles → pistes de simulation, générées automatiquement à partir de données o
+rupertclaw/questionable-journey [Opus 5.5] | Fantasy trivia board game for 1-6 players: answer questions to march from Hearth | Questionable Journey A fantasy trivia board game for 1 to 6 players on one device. Answer a question correctly to roll t
+carinaburana/gotta-match-em-all [Opus 5.5] | A satirical alien dating-app game about engagement-driven matchmaking. React + T | Gotta Match 'Em All 👽💜 A playful, mobile first web game that satirises dating apps, "AI powered" matchmaking and engagem
+pratik-j-mahajan/The-Jantar-Mantar-Run [Opus 5.5] | The Jantar Mantar Run Game | द जंतर मंतर रन — The Jantar Mantar Run  Play it:  https://the jantar mantar run.vercel.app A satirical, comic style arca
+highfivegamesdev-cell/backstage [Opus 5.5] |  | Backstage Crew scheduling for High Five Games, at  https://backstage.highfive.games .    Showtimes : day grid like the o
+alsskdhgkdy2-creator/sqfangame [Opus 5.5] |  | sqfangame — 「아보르 프로토콜」(가제) 아틀라스 「세계수의 미궁(Etrian Odyssey)」 시리즈의 비공식 팬게임. 신작을 기다리던 팬이 직접 만드는 2차 창작 후속작으로, 1인칭 그리드 탐사·손으로 그
+yvsazh/abebuilds [Opus 5.5] |  | Every available build of Angry Birds Epic in one place.
+ldo2x/dahoom [Opus 5.5] | منصة دحوم — ألعاب جماعية: ألف نقطة وخلية الحروف، مع تحكم من الجوال | منصة دحوم v2 — ألف نقطة + خلية الحروف موقع ثابت (HTML/CSS/JS) بدون سيرفر. افتح  index.html  في المتصفح، أو شغّله بسيرفر 
+Pineman-PPAP/ECHO [Opus 5.5] |  | ECHO  A horror escape game played in total darkness, controlled only by your voice and your head.  No keyboard, no mouse
+jasisz/ceo-tycoon [Opus 5.5] | Satirical isometric CEO simulator. Your real goal is FIRE. An LLM is the game ma | CEO Tycoon Satirical isometric tycoon where you're a C level exec whose real goal is FIRE — via an honest IPO or by quie
+samueleonelia/rpghunt [Opus 5.5] | RPG Hunt: today's tabletop RPG deals, found and verified by AI agents | 
+riddhisingla2028-cpu/chaos-theory [Opus 5.5] | A minimalist browser survival game where players adapt to constantly changing ru | Chaos Theory A neon arcade survival game for the browser where the rules keep breaking. You steer a small shape around a
+ddepqwee/steal-a-slime [Opus 5.5] |  | 🫧 Steal a Slime! — движок «фабрики плейсов» Игра целиком в коде: карта, слаймы, UI, экономика, монетизация. Новый плейс 
+stephenmwangi40/little-explorers [Opus 5.5] |  | little explorers A new Flutter project.   Getting Started This project is a starting point for a Flutter application. A 
+PetreLuca05/gameengine [Opus 5.5] |  | Deadground First person co op zombie survival foundation in  C11  on  SDL3 + Vulkan 1.3 , with Jolt physics (via  joltc 
+mmisbaah/scitabletop-arcade [Opus 5.5] |  | SciTabletop Four science strategy games on Science Island, an animated world map you walk around. Plain HTML, CSS and Ja
+Callzik/fart-together [Opus 5.5] | 🎈💨 Кооперативная 3D-гонка на плоту: 4 зверя толкают плот пуками по водной горке. | Fart Together   Кооперативная 3D аркада для ПК: четыре зверя на надувном плоту несутся по водной горке. Плот двигается т
+AldericCOROIR/mermaid-ocean [Opus 5.5] |  | Mermaid Ocean 🧜‍♀️ A gentle 3D underwater fairy tale adventure for young children (made for a 6 year old), playable in a
+codemaskdev/aaa-snake [Opus 5.5] | Snake, turned into a AAA game one industry habit per patch. Built with Claude Co | AAA Snake Snake, turned into a AAA game one industry habit per patch. A tiny, honest Snake (v1.0) gets ten patches of bi
+ChopstickGuy/frametide-os [Opus 5.5] | Gaming Linux that just works: zero-touch drivers, RGB & fan control, game check, | ](https://github.com/ChopstickGuy/frametide os/actions/workflows/build iso.yml)  ](LICENSE)  ](https://ubuntu.com)  ](ht
+hojo0729/baseball [Opus 5.5,Sonnet 5.5] |  | ナイター対決 スマホのブラウザで遊べる、どうぶつたちの3D野球アクション。    ストーリー ：柴犬チーム「しばいぬズ」で、どうぶつリーグ優勝を目指す（全4話）    フリー対戦 ：CPU相手に打つ・投げる    オンライン対戦 ：部屋番号
+nullsatori/game-jam-0 [Opus 5.5] |  | game jam 0 Игра для двухдневного геймджема. Тема —  Trash , предмет —  Rocket . Unreal Engine 5.8, C++.   Концепт Космос
+ilecom/playground [Opus 5.5] |  | Pocket Snake A classic Snake game in one HTML file (no build step, no dependencies). It works in Safari on Mac and iPhon
+joemizumoto2/newgame [Opus 5.5] |  | 建国サクセス（プロトタイプ） 中世の架空の大陸で国を建て、30年かけて育てるブラウザゲームの試作。選んだことが国の挿絵に残り、何年か後に出来事として返ってくる。 遊べるページ: https://claude.ai/artifact/SBiQ
+Vahn84/Wake2Play [Opus 5.5] |  | Wake2Play A   plugin for the Steam Deck that puts your Steam Remote Play host PC to sleep when the Deck sleeps, wakes it
+Fatteuf/beat-quest [Opus 5.5] |  | Structure Le code source est dans  src/ . Les fichiers sont assemblés dans l'ordre de leur nom pour former  beat quest.h
+Thunderman48/pokemon-war [Opus 5.5] |  | Pokémon War A real time strategy game built for phones, playable in the browser and hosted on GitHub Pages. Gather berri
+sohaibaslam127/signal-shift [Opus 5.5] |  | Signal Shift  Connect the signal. Outsmart the grid.  A portrait 2D logic puzzle game for Android and iOS, built with Go
+Andrew2142/IW4DOOM [Sonnet 5.5,Opus 5.5] | Unofficial: Modern Warfare 2 (2009) gunplay and real 3D viewmodels in the classi | IW4DOOM     Modern Warfare 2 (2009) gunplay in the classic Doom engine.   Real MW2 weapon logic and real 3D viewmodels, 
+wozers0/kerosene [Opus 5.5] | kerosene is a extension for octane.wtf or sum bullshit idk what to put here | kerosene Fuel for  . Kerosene is a browser extension for the Octane Roblox revival (2021–2022 era). Works in  Chrome, Br
+yeahthisisrob/family-trivia [Opus 5.5] | AI-powered family trivia, daily facts, and mini-games. Built with React, AWS CDK | Family Trivia    "Assume everyone is trying their best, and be kind to each other."    — Christina Baker Kline AI powere
+Utuglu/sky-stack [Opus 5.5] |  | Sky Stack: YouTube Playables oyunu Tek dokunuşla oynanan bir kule oyunu. Kayan bloğu doğru anda bırakıp kuleyi büyütürsü
+lee-ye-eun/WinningBidMyHouse [Opus 5.5] | 낙찰! 우리집 (Winning Bid, My House) — 가구 경매 보드게임 소개 페이지 | 낙찰! 우리집 — 소개 페이지 경매로 가구를 사고, 집을 꾸며 코인을 모으는 2~4인 보드게임  「낙찰! 우리집」  소개 웹페이지입니다. 👉 https://lee ye eun.github.io/WinningBidMy
+PhantomOrion1/wikiracer [Opus 5.5] | Race through Wikipedia from one article to another in the fewest clicks. Solo or | 🏁 WikiRacer Get from one Wikipedia article to another using only the links on the page. Fewest clicks wins.  Play:  http
+kendallmark3/video-poker [Opus 5.5] |  | Carla's Video Poker Game  Developed by Mark Kendall.  A Jacks or Better video poker machine for the browser, built with 
+robintranberg/Gurka [Opus 5.5] |  | 
+radosek/urban-cyborg-project [Opus 5.5] | URBAN - The Cyborg Project (1999 DOS action game), ported to Rust for Windows, L | URBAN – The Cyborg Project A native, cross platform port of  URBAN – The Cyborg Project  (1999), a side scrolling DOS ac
+AMercy-lab/Glitter-Rain-Game [Opus 5.5] | An-AI Powered Game using Three.js | Glitter Rain 💖 A girly catch 'em game for  . Your own start.ng character holds a pink basket and catches falling hearts,
+isJongmin/DRIVE [Opus 5.5] |  | CITY DRIVE 신호등이 있는 도심과 순환 고속도로를 달리는 웹 3D 드라이빙 게임입니다. 빌드 없이  index.html  하나로 동작합니다(Three.js는 CDN에서 로드).   플레이 GitHub Page
+phakoda/bendchess [Opus 5.5] | bending chess | BendChess An original chess engine written in  Bend 2 , built to test one research question:  can an engine play stronge
+tjjahan055-ai/adam-game [Opus 5.5] |  | Adam: City Fixer (working title) A single player puzzle adventure for mobile (ages 10 17). Adam repairs a broken modern 
+pyatochka-ctrlv/lesson18 [Opus 5.5] |  | Запали Кристал чисел Інтерактивна гра для онлайн уроку «Змінні» (Minecraft MakeCode, 8 років). Відкрийте  index.html  по
+Zhengxian-Liu/medieval-simulator [Opus 5.5] |  | 中世紀模擬（Medieval Simulator） 14 世紀英格蘭一個家族的幾代人生：克魯賽德國王式的事件、個性和傳承，加上模擬市民式的家人、心情和往來。    simcore/ ：C++20 的模擬核心和純文字試玩版。說明見  。   
+Harlock123/AVARipOff [Opus 5.5] | A colour vector game after the 1980 arcade classic Rip Off: defend eight fuel ca | AVA Rip Off  ](https://github.com/Harlock123/AVARipOff/actions/workflows/build.yml) A colour vector game in the style of
+alisa085/alisa085.github.io [Opus 5.5] |  | หมู่เกาะเฌอแตม เกมผจญภัยเรียนรู้ในโลกบล็อก 3D สำหรับเด็กประถม เล่นในเบราว์เซอร์ได้ทั้งบนแท็บเล็ต มือถือ และคอมพิวเตอร์ ต
+danelxdev/dragon-ball [Opus 5.5] |  | Dragon Ball Survivors Fan game de supervivencia por hordas (estilo  Vampire Survivors  /  PokeSurvivor ) con temática de
+coderblack15/listener-game [Opus 5.5] | A Relicsong game created by Ablack15  | Prophecy of the Listener: Relicsong Card Game A small card game you play in your web browser. You are the Listener, sing
+Farathim89/rom-collection-checker [Opus 5.5] | See what you have, what's missing and what's a mess in your retro game collectio | ROM Collection Checker See what you have, what's missing and what's a mess in your retro game collection   a small Windo
+h4sw5q2wr9-byte/Five-Nights-At-Walid-s [Opus 5.5] |  | Five Nights at Walid's   A FNAF style horror game made in  TurboWarp  (Scratch) by  Tijnv50 . You've taken the night shi
+Virojet/Shell-Shockers-Gun-Sounds [Sonnet 5.5,Opus 5.5] | Replace your weapon sounds in Shell Shockers with meme sounds or your own MP3 (u | Shell Shockers — Gun Sounds  Swap your weapon sounds in   for a meme sound or your own MP3.     ](https://raw.githubuser
+wildanlsfs/jagoan-kotak [Opus 5.5] | Game tarung dunia kotak untuk anak, dimainkan dengan gerakan badan di depan kame | Jagoan Kotak Game petualangan tarung 3D bergaya dunia kotak (ala Minecraft) yang dimainkan dengan  gerakan badan  di dep
+subbu5280/local-ai-android [Opus 5.5] |  | Local AI A private AI assistant that runs  on your Android phone . Chat, ask questions about your own documents, run sma
+DBYoder/Driving-Game [Opus 5.5] |  | Highway 1 A tiny, private, chaotic arcade driving game set on 15 real miles of  Iowa Highway 1, from the IA 22 four way 
+ptra243/brain-training [Opus 5.5] |  | Brain Training Brain training games plus a murder mystery campaign: each minigame she wins reveals a clue, and she works
+ostromaj/next-read [Opus 5.5] |  | Next Read Live NFL drive predictions: for the team with the ball, each receiver's chance of at least one target and one 
+alkait/seen-jeem-alquran [Opus 5.5] | https://seenjeem-quran.netlify.app | سين جيم القرآن  أُنس ومُدارسة  — a Quran trivia party game for 1–4 players, built around المتشابهات.   Concept   Jeopard
+jbman03/starwake [Opus 5.5] | Starwake: an original Escape Velocity-inspired space trading and combat game for | Starwake (working title) An original 2D space trading and combat game inspired by the classic Escape Velocity series (EV
+TheDorkKnightCodes/cow-clicker [Opus 5.5] |  | Cow Clicker A tiny browser cow clicker inspired by the one in  Fears to Fathom: Scratch Creek . Click the cow, buy barn 
+Saupernova13/ts3-online [Opus 5.5] | 4-player co-op for Toy Story 3 (PC): a runtime patch loader that raises the 2-pl | ts3 online  4 player co op for  Disney/Pixar Toy Story 3  on PC, built to be played online with each player on a screen 
+WiesnSims/Berghittn [Opus 5.5] |  | Berghittn Browser first wave survival shooter. Design: see  GAME DESIGN.md .   Toolchain (recorded at project start)   G
+lightpollutioncurseforge-a11y/needle-drop [Opus 5.5] | Hear ten seconds of a record, guess when and where it was made. | Needle Drop Hear ten seconds of a record from anywhere in the world, 1930 to now. Pin where it was made and tune the dia
+Ekekwecharles/coin-dash-arena [Opus 5.5] |  | Coin Dash Arena A three.js arena game for  . You play as your own start.ng character on a floating island: grab coins to
+kuog88/galaxy-english [Opus 5.5] |  | 🚀 銀河英語闖關 國小三～五年級的英文闖關小遊戲，結合「銀河單字卡」的翻卡學習與「NYT Crossword」的格子拼字。   玩法    過關動畫 ：每關過關會先播一段約 3 秒、有音效的小動畫（ assets/video/ ），可以按「
+s-milly/super-bowl-defense [Opus 5.5] |  | Does Defense Win Championships? A look at every Super Bowl team (Super Bowls I through LX, the 1966 through 2025 seasons
+mannypein/TowerForge [Opus 5.5] | TowerForge.net | TowerForge TowerForge.net
+smiley-GPU/SKIRM [Opus 5.5] |  | SKIRM: modern tactical skirmish (proof of concept) A minimal, playable version of the whole loop in  todo.md :  Briefing
+aricburkert/nebula [Opus 5.5] |  | The Nebula from Hell — online An online multiplayer version of the party board game  The Nebula from Hell : create a roo
+debuffjp/docs [Opus 5.5] | debuff documentation site: debuff.jp | debuff docs Source for  : the home page, guides, examples, benchmarks, roadmap and API reference. Built with  ; the API 
+lithIV/ReDusted [Opus 5.5] |  | ReDusted woohoo one of the first mods!!!   Features   Feature   Status       Borderless windowed   Done (hooks window cr
+HarshGaba1196/graphite-games [Opus 5.5] |  | Graphite Games Six pencil and paper classics in a single web page: Sudoku, Tic tac toe, Dots and Boxes, Connect Four, Mi
+tamasfabi/poker-player-bpex [Opus 5.5] |  | bpex maniac Shove first aggro bot for Lean Poker (TypeScript).   Strategy Built on one observation: the other bots fold 
+SupasSK/Before-They-Wake- [Opus 5.5] |  | Night Shift Ward 7  Play:  https://supassk.github.io/Before They Wake / (works on phone and computer, no install)  Cours
+chili-chip/chili-doom [Opus 5.5] |  | chili doom Doom for the ChiliChip VGC Zero (RP2350, 128x128 OLED), built on the   like every other ChiliChip game. Statu
+animeliodas/SeriousSpeedrun [NONE] | Speedrun timer (RTA, IGT), LiveSplit autosplitting and a speedometer for Serious | SeriousSpeedrun — таймер для спидрана Serious Sam Classic Таймер RTA и IGT, LiveSplit и спидометр для Serious Sam Classi
+Shazookie/Mop-Mania-Ultra-Deluxe [Opus 5.5] | The cleanest version of the game | Mop Mania Ultra Deluxe Seamus's edition of  Mop Mania: The Purging of Le' Hospitale , the text RPG by Joshua Fouch, Seam
+Bolotaure/Geography-test [Opus 5.5] |  | Geography test   Capy's Map Safari A kids' geography game, recreated from  , with two more tests added: the 18 regions o
+jessicasogge/snackerpillar [Opus 5.5] |  | Snackerpillar 🐛 A browser game about a very hungry caterpillar made of circles. Every dot he eats adds a new circle to h
+ethaserm/Golf-Game [Opus 5.5] |  | Fairway Legends ⛳ A low poly 3D golf game for the browser (PC and phone), rebuilt from the ground up after studying the 
+B1zzyy/Eraly [Opus 5.5] |  | Eraly   Project status, decisions and to dos: see  . A daily pixel art time travel game. Seven moments from history, one
+12akakor/MazeOfGalious-Haiku [Opus 5.5] | Knightmare II: The Maze of Galious for Haiku/RenkuOS | Maze of Galious for Haiku and RenkuOS A native Haiku and RenkuOS port of the Brain Games remake of  Knightmare II: The M
+cev64/chainmates [Opus 5.5] |  | Chainmates A daily teammate chain trivia game. You get two players, for example  Brett Favre → Josh Jacobs , and connect
+kobi2132/lumda [Opus 5.5] |  | הלומדות שלי אתר סטטי (HTML/JS בלבד, בלי שרת ובלי build) שמרכז לומדות לילדים לפי נושא וגיל. מתאים לפרסום ב GitHub Pages. 
+jamesparser/naga-atelier [Opus 5.5] | Talk it into the room. Sculpt it with your hands. Hands-first mixed-reality bloc | AgentAsia Voxel  Talk it into the room. Sculpt it with your hands.  AgentAsia Voxel is a seated mixed reality block stud
+fapivnytsia/zonk [Opus 5.5] |  | ZONK Кости на 6 костей: бросаешь, откладываешь очковые и решаешь — рисковать дальше или записать очки хода. Побеждает то
+denvis1090-a11y/belka [Opus 5.5] |  | Белка Казахстанская карточная игра двое на двое: вы и партнёр против двух ботов. Мобильное веб приложение: ставится на г
+yvettege728/kiki-bouba-pilot [Opus 5.5] | Kiki/bouba warm-up task for eye-tracking pilots | Kiki / Bouba eye tracking pilot A short warm up task for getting participants used to an eye tracker (SCI 6384, Harvard 
+muhammadsamir11/game [Opus 5.5] |  | Brick Racers Build a car from toy bricks, then race it! Made for playing on an iPad.   Start the game (on the Mac)  bash
+engjellhas/makeaface [Opus 5.5] | Support and privacy pages for MAKE A FACE | 
+HarshGaba1196/scrawl [Opus 5.5] |  | Scrawl A multiplayer draw and guess game for friends. It runs entirely in the browser: no server and no accounts.  Play:
+manishkshtriya/linefollower-ai [Opus 5.5] | Neural-network line follower car for ESP32. 4 IR sensors in, 2 motor speeds out. | AI line follower car  Live demo (3D car driven by the trained network): https://manishkshtriya.github.io/linefollower ai
+chanyowll/step-redlight [Opus 5.5] |  | STEP Onboarding — Red Light, Green Light A multiplayer Red Light, Green Light game for the SPRINT STEP onboarding.    Bi
+ilovefree1s/pest-panic-TD [Opus 5.5] |  | Pest Panic Defense A 3D kitchen tower defense game. Bugs march along a sugar trail toward the birthday cake on the count
+youcapmatte/vaesen_game [Opus 5.5] |  | vaesen game
+lambsubstitute/cozy-cat-sanctuary [Opus 5.5] | A cosy pixel-art room for your own cats: they nap, play, dream, make friends and | Cozy Cat Sanctuary A cosy pixel art living room for your own cats. They nap by the fire, chase the laser and the mouse, 
+cody-surf-dev/dg-luna-2026 [Opus 5.5] |  | 
+Zerex77/bluehorseshoe [Opus 5.5] |  | Blue Horseshoe — bluehorseshoebet.com NFL and college football picks built from live lines. No server and no monthly cos
+ariele-marcellino/shift [Opus 5.5] |  | 
+lambsubstitute/three-cats [Opus 5.5] | Moe, Joe & Mr Mews: an isometric puzzle game for three cats, in the spirit of He | Moe, Joe & Mr Mews An isometric puzzle game for three cats, in the spirit of  Head Over Heels  and  Batman  on the ZX Sp
+josiahscalia5-dev/threadgame [Opus 5.5] |  | 
+DoctorChewiik/ant-colony-simtes [Opus 5.5] |  | Fourmilière (ant colony simulator) Un simulateur de colonie de fourmis en pixel art 2D, puis en voxel 3D, qui tourne ent
+phm950408-a11y/Box [Opus 5.5] | Be a pro boxer | 
+rotemshosho-eng/family-tasks [Opus 5.5] |  | לוח המשימות של הבית אפליקציית משימות משפחתית עם נקודות. כל בן משפחה מסמן "סיימתי" מהטלפון שלו ומקבל נקודות. רק הורה מחוב
+wasmga-me/games [Opus 5.5] |  | wasmga.me games The games written for  . Each one builds to a single  .wasm  file with no JavaScript glue; the site's pl
+EdWordy/minimal-code-brutal [NONE] |  | minimal code brutal A minimal, complete game built on the   C  framework, plus short guides for anyone starting their ow
+eisiishai/diagonpuzzle [Opus 5.5] | Diagon Puzzle is a turn-based puzzle game where you fire lasers which need to re | Diagon Puzzle A turn based puzzle game in the browser: fire a pellet into a grid, let diagonal mirrors ( \   / ) turn it
+jeromedusanter95/TakTik [Opus 5.5] | Non-commercial web tribute to TakTik, the Palm OS strategy game by Kickoo (2002) | 
+makoydev/ai-transformation-simulator [Opus 5.5] | A corporate strategy game where you play the Head of AI Transformation: triage u | 🧠 AI Transformation Simulator  You're the new Head of AI Transformation at a 90 year old company.   Eight quarters. Six 
+rupertclaw/games-hub [Opus 5.5] | Home page for a shelf of free family browser games | 
+alternatefact/surviving-lagos-island [Opus 5.5] | A web game based on Lags Nigeria Zombie outbreak | Surviving Lagos Island: Street Level A first person zombie survival game set on the streets of Lagos, Nigeria. Pick a su
+matthewkayin/goldrush-replays [Opus 5.5] | A replay analytics site for my game. This repo is an experiment in remaking a pa | 
+Tomqre01/MMORPG [Opus 5.5] |  | ต้นแบบเฟส 1: เกมแนว MU Origin (Unity) ต้นแบบเล่นคนเดียว ใช้รูปทรงพื้นฐานแทนงานภาพ เพื่อทดสอบว่าลูป "ตีมอน → ได้ของ → อัป
+alanyangcn/smbwonder-ios [Opus 5.5] | Native iOS port research of Super Mario Bros. Wonder 1.2.0 (Metal 2 / A11). No g | Super Mario Bros. Wonder — Native iOS Port 《超级马里奥 惊奇》1.2.0 的原生 iOS 移植研究项目。当前目标为 iPhone 18 Pro（iOS 27），渲染走 Metal 3 / MSL 
+Caypoh23/pixel-sort [Opus 5.5] | Pixel Sort: browser demo, gameplay clips and market test automation | Pixel Sort — тест рынка Браузерная демо версия игры, ролики для соцсетей и автоматика теста: публикации по расписанию и 
+cwinters410/trench-dive [Opus 5.5] |  | Trench Dive A rare answer trivia game inspired by Krillion. Every prompt has a ranked list of accepted answers. Obvious 
+Vybyranyi/box-box [Opus 5.5] | Race-strategy game set in the 2026 season: run the pit wall and make the calls. | Box Box A browser race strategy game set in the 2026 season. Pick a team, run both cars from the pit wall and make the c
+0xCodez/roadster-city [Opus 5.5] | Roadster City: a fan-made browser driving game with all climbs, kickflips and th | Roadster City A fan made browser driving game with an electric hypercar on a Vice City style island: a beach, Ocean Driv
+CrownPrime/CrownsDLSS5ER [Opus 5.5] | DLSS 5 for ELDEN RING. Done right. | CrownsDLSS5ER DLSS 5 for ELDEN RING. Hooked in at the right place.  by CrownPrime        Why Generic DLSS 5 tools run th
+kablamo/Turbulent-Skies [Opus 5.5] | A silly 3D airplane game where everything goes wrong | Turbulent Skies ✈ A silly 3D airplane game: walk around the plane, fix emergencies, keep passengers (and the crocodile) 
+forrestgump2000/merge-animals [Opus 5.5] |  | Merge Animals 🐟➕🐟 A blocky, Minecraft style fishing + merging + battle game built with three.js. 1.  Cast your line  twi
+ivankozel262-cloud/Ooo [Opus 5.5] |  | 
+RenaudAld/french-cities [Opus 5.5] | Geography game: place French cities on a map, with adaptive difficulty | Villes de France A geography game: place French cities (metropolitan France + Corsica) on a map showing department borde
+zackshutt/zs-news-cards [Opus 5.5] | Image hosting for Zack Shutt news card posts | 
+morganpage/creategameswithai [Opus 5.5] | The Create Games with AI website | 
+Liam9363/Stovk-simulator [Opus 5.5] |  | 모의 주식투자 게임 (Stock Simulator) 가상의 한국 주식시장에서 가상 자금으로 투자하는 싱글 플레이 모바일 게임입니다. 기획 문서는  를 참고하세요.   실행  bash npm install npx ex
+Bodila51/roadster_tesla_GTAVI [Opus 5.5] |  | Roadster: flying car playground A free browser game: drive the 2026 Roadster, fire its cold gas thrusters, hop the lineu
+AuraCrafting/sotf-live-map [Opus 5.5] | Live position, waypoints and progress tracking for Sons of the Forest, on your s | SOTF Live Map  Live position, waypoints and progress tracking for Sons of the Forest.  A map on your second screen or yo
+IvanBlessed/kindset [Opus 5.5] |  | Kindset  Play padel. Do good.  A Telegram Mini App for community padel nights: weekly Mexicano events, live scoring, sea
+muhezitong/gs-sandbox-public [Opus 5.5] | game-studio 预览功能的公开测试沙盒，只含模板示例游戏 | 公开沙盒3D 由木禾子桐工作台  web 2d  模板生成。设计基准见  docs/01 设计/01 游戏方向.md ，工程约定见  CLAUDE.md 。  bash npm install npm test npm run dev np
+nxtdelhi123-del/Videos-16-10-26 [Opus 5.5] |  | 
+LucioTD/wordle-opt [Opus 5.5] | Finds the best Wordle openers by exhaustive search. Rust, rayon, branch and boun | Finds the best Wordle first and second guesses by computation, not folklore. Rust, multithreaded with rayon. Checks all 
+Willlifer/Gamers-Gauntlet [Fable 5.1,Opus 5.5] | Where  Gamers will Gauntlet eachother | Gamers Gauntlet Where Gamers will Gauntlet eachother
+eduardmur/tesla-roadster-simulator [Opus 5.5] | Tesla Roadster Simulator: the 2026 Roadster's upside-down ramp jump in your brow | Tesla Roadster Simulator    Unofficial fan project. Not affiliated with Tesla or SpaceX.   ▶    ·    ](https://github.co
+Amjz03/capture-menu [Opus 5.5] | A PS5-style Create button for Windows: save recent gameplay, screenshot and reco | Capture Menu    A PS5 style Create button for Windows.  Press  Alt + C  (or  Create  on your controller) to save the las
+dorelazar/brawl-stars-ranked [Opus 5.5] |  | Brawl Draft A ranked draft helper for Brawl Stars that runs as a web app on your iPhone home screen. Pick the map, tap t
+Hignettto/dart-scorer [Opus 5.5] | Web page based app for iphone to track and store dart games | Darts Scorer A phone first web app for scoring darts (Round the World and X01) and keeping stats per player. It installs
+Ermes-x86/MW2-GTA-Beta [Opus 5.5] | MW2-GTA (Beta): Call of Duty: Modern Warfare 2 (2009) gameplay inside GTA San An | MW2 GTA (Beta)   ⚠️  WARNING: this mod is in beta and still contains bugs.  Expect the   player to sometimes get stuck o
+PuviwatS/fang-paep [Opus 5.5] |  | ฟังแป๊บ — เกมทายเพลงไทย (MVP) เกมแนว Songless สำหรับเพลงไทย ฟังท่อนสั้น 0.5 วินาที ทายผิดหรือกดข้ามจะได้ฟังยาวขึ้น (0.5 
+rachelmedvedev/shuk-game [Opus 5.5] | Name Your Price!  Haggling game in Machane Yehuda market | Name Your Price! — a haggling simulator in Machane Yehuda A browser game set in Jerusalem's Machane Yehuda market. Plain
+GreyTheGangalf/arena [Opus 5.5] |  | Arena C++23 ve   ile yazılan, Vampire Survivors tarzı bir arena survival oyunu. Asıl amaç oyun değil: aynı oyunu her aşa
+magwima/Jazda [Opus 5.5] | Simple Web Skating Game | Jazda! Polish Streets A 2.5D pixel art street skating racer through Warsaw, Rzeszów, Gdańsk and Wrocław. It is one HTML 
+nurbeks-hub/hopper [Opus 5.5] |  | 
+crafter-games/shizuku-web [Opus 5.5] | Leaf's MAX engine reimplemented for the browser: PC-98 Shizuku in Spanish, from  | shizuku web A browser reimplementation of Leaf's MAX engine that plays the PC 98 visual novel  Shizuku  (雫, Leaf, 1996) 
+venson01/mama-put-rush [Opus 5.5] | Mama Put Rush: a Lagos buka lunch-rush game for start.ng | Mama Put Rush A lunch rush time management game set in a Lagos buka. Customers sit on the bench with an order chit; dish
+tidev910-svg/trong-lua [Opus 5.5] |  | Nông dân lúa nước – prototype Prototype web cho game mô phỏng nông dân thuê 5 công ruộng lúa nước, xoay xở tiền bạc qua 
+sug0927-alt/dog-game [Opus 5.5] | Dog breed quiz (private use) | 
+mebombastic/rexhep-in-goal [Opus 5.5] |  | 
+KyleLookingAround/door-duty-game [Opus 5.5] |  | Door Duty Contractors A crowd science tycoon/puzzle game. You run a small firm fitting entrances on the High Street: rev
+utkarsh3mehta/cabo [Opus 5.5] |  | Cabo Online A browser based, real time multiplayer version of the  Cabo  memory card game. Play remotely with friends in
+starMinK/deephold [Opus 5.5,Sonnet 5.5] |  | 딥홀드 던전을 파밍하고, 내 던전을 짓고, 친구가 도전하는 2.5D 도트 액션 (TypeScript + Phaser 3). 규칙·수치의 기준은 「딥홀드 기획서」.   실행 Node.js 가 있으면 바로 실행된다 (미
+nomeata/hydro [Opus 5.5] |  | Hydro A slow, cozy water management sandbox in the browser. Rain falls, rivers wander, groundwater rises and sinks. You 
+rasulovnazim-design/English-Quest [Opus 5.5] |  | English Quest    ·    ▶️  Play: https://rasulovnazim design.github.io/English Quest/      English English Quest is a fre
+laboratorio-cmd/tronwell-game-zone [Opus 5.5] | TRONWELL KIDS GAME ZONE: retro space arcade for English practice (ages 10-16) | TRONWELL KIDS GAME ZONE A retro space arcade for English practice (students aged 10–16). Four short games (1–3 minutes e
+ozackdown0925-web/brain-dungeon [Opus 5.5] |  | 
+deathangel4290/Loony [Opus 5.5] |  | Loony Wheels A 2D physics hill driving game for iOS. Drive as far as you can across six worlds (including a low gravity 
+sgilson7/pots [Opus 5.5] | Protection of the Spheres: a browser game that plays like DotA Allstars, with he | Protection of the Spheres A browser game that plays like the Warcraft III map Defense of the Ancients (DotA Allstars, ve
+Miiiiiiiid/blacksmith [Opus 5.5] |  | Blacksmith Prototype 대장장이 성장 시뮬레이션 RPG의 프로토타입이에요. 목표는 "무기를 만들어 팔고, 능력이 자라고, 마왕군을 버티거나 진다"를 30일 동안 해보고 재밌는지 확인하는 거예요.   구
+AnnabelleChimpton/CartridgeStudio [Opus 5.5] |  | 
+akshagra/OpenAPI_SE_Lab [Opus 5.5] |  | OpenAPI SE Lab Software Engineering lab work for  Problem Statement  41: OpenAPI Mock Server Generator .  Author:  Aksha
+KonRichter/roadster-pursuit [Opus 5.5] | A browser game where you drive the Tesla Roadster 2nd Edition and try to escape  | Roadster Pursuit A  Split/Second: Velocity style escape game in the browser. You drive the 2nd generation Tesla Roadster
+IntelligentRebel/constellations [Opus 5.5] | A turn-based 4X space strategy game in the browser, freely inspired by Stars! (1 | Constellations  English ·    A turn based 4X space strategy game,  freely inspired by Stars!  (Jeff Johnson & Jeff McBri
+ztorage/slop-commander [Opus 5.5] | A modernized runtime/remake for Strike Commander | Slop Commander (Godot 4, macOS) A from scratch, affectionately named remake of Origin Systems'  Strike Commander  (1993)
+truonglvpems/more-or-less [Opus 5.5] | More or Less - a 60-second trivia rescue game. Answe right, save the princess. P | More or Less — Save the Princess A 60 second trivia rescue game. Two facts, one question: is it  more or less ? Answer 7
+mcgingras/lofi-ops [Opus 5.5] | Lo-Fi Ops: a browser FPS tribute to BO1/MW2-era multiplayer with a PS1-style loo | Lo Fi Ops Browser multiplayer FPS recreating the best of 2010 era Call of Duty in a photo textured low poly look.    doc
+AtWritesProg/RealOrCake [Opus 5.5] |  | RealOrCake A 3D birthday cake for Poopu. Turn on the camera and mic, make a wish, and blow the candles out for real.   R
+mikmcelroy1/takeanumberdotgov [Opus 5.5] | Please Take a Number: a timed game of deliberately bad government web pages. | Please Take a Number A timed game of deliberately bad government web pages. Plain HTML and JavaScript, no build step. Li
+leesyashin/Acai [Opus 5.5] |  | Açaí Fever Ein Zeitmanagement Spiel im Stil von  Cooking Fever  für den Browser: Du arbeitest in einem modernen Açaí Caf
+deloy4/graveyard-gridiron [Opus 5.5] | A zombie football game you play in the browser | Graveyard Gridiron A football game against a field full of zombies, played in the browser. Pick a play, snap the ball, t
+MohitOrange/finger-ninja [Opus 5.5] | Get the player ready: you turn on the camera and the game checks four things: ca | 🥷 Finger Ninja — AR Fruit Slicer A browser game where  your webcam is the controller . The game reads your hands in real
+asdkfkosafj/SDT-Godot [Opus 5.5] |  | SDT Godot A port of the Flash game  SDT  to the Godot engine (4.7). It aims to stay faithful to the original while being
+KaanKaramese/ringhold [Opus 5.5] |  | 
+arturmilk/montaggio-site [Opus 5.5] | Site da Montaggio: advergames para bares, lanchonetes e comércios | 
+maevlyn/gate-fixer [Opus 5.5] | 3D logic-gate puzzle game for teaching Grade 12 students (three.js) | Gate Fixer A browser game for teaching logic gates to Grade 12 students. Each level shows a circuit with one or more mis
+shyamkirankotnana/pocket-snake [Opus 5.5] | A single-file HTML snake game styled like an old LCD phone | 
+6up-b/bluff-lab [Opus 5.5] | Does memory make AI agents better or more exploitable? A bluffing-game lab with  | Bluff Lab A controlled experiment in how AI agents learn through persistent memory without retraining, and in whether th
+bar371/my-spiel [Opus 5.5] |  | SPIEL '26 Planner 🎲 A small planner for our crew (Sjoerd, Annemieke, Bar and Naomi) at  SPIEL Essen 2026  (Messe Essen, 
+DarkendSun/PSP-Homebrew-Store [Opus 5.5] |  | PSP Homebrew Store A homebrew store that runs on a PSP with CFW, for a few friends. It shows a  signed catalogue  of fre
+Louzada-git/Dungeon-Crawler [Opus 5.5] |  | Dungepm — As Cisternas Dungeon crawler de sobrevivência com cara de PlayStation 1, feito na Godot 4.7. Você desce pelas 
+155210/my-app [Opus 5.5] |  | my app
+kajarral-381/Hivewing88 [Opus 5.5] |  | 
+lieroliu/taiwanese-simulator [Opus 5.5] |  | 台灣人生模擬（暫名） 以台灣為舞台的人生模擬網頁遊戲。玩家選擇一個 出生世代 ，被隨機分配身分、家庭與出生地，從出生走到人生終點。重點不在數值，而在 角色每個階段的心境與遇到的處境 。 靈感來源： 。原作比較的是「出生在哪個國家」，本作比較
+Aashishgtbit/roadster-liftoff [Opus 5.5] | Fan-made, physics-simulated 3D take on the Tesla Roadster flying-car unveiling.  | Roadster Liftoff A fan made, physics simulated 3D take on the Tesla Roadster unveiling of October 15, 2026. Watch the ra
+HarrisonZeng/grapple-game [Opus 5.5] | 钩锁突袭 — a browser first-person grapple-hook game (Three.js) inspired by Apex Lege | 钩锁突袭 · Grapple Raid A first person browser game built around a Pathfinder style grappling hook (Apex Legends). Swing, sl
+RaiyanS20/aaki [Opus 5.5] |  | Aaki's Birthday Quest 🎂 A tiny Stardew style pixel adventure made for Aaki's birthday. Make your character, then walk th
+pphy96826-coder/hexwar [Opus 5.5] |  | 蜂巢兵棋 · Hexwar 一个两人对战的六边形格子策略游戏，以及一个从零开始、靠自我对弈训练出来的 AI「宗师」。    在线试玩 ： （第 36 代网络，随训练自动更新）（Chrome / Edge / Safari 18+，宗师需要浏
+iduesmc-lab/SIMI [Opus 5.5] |  | 
+tomule1urbule/euroleague-stat-desk [Opus 5.5] |  | Silkiu Magnatai Fantasy Analytics App Silkiu Magnatai Fantasy Analytics App: live EuroLeague stats with custom Fantasy P
+blackworm86/eftaios [Sonnet 5.5,Opus 5.5] |  | EFTAIOS Companion Web companion for the physical board game  Escape from the Aliens in Outer Space  (Black Edition maps:
+jrmorgan18/word-quest [Opus 5.5] | Word Quest — a vocabulary adventure game for kids | Word Quest — Brooks's Vocabulary Adventure A tablet friendly vocabulary game for a strong first grade reader. Brooks exp
+DejaVu-Labs/LD60 [Opus 5.5] |  | 
+typ127/arcade [Opus 5.5] | Original arcade games in the spirit of the early 80s, playable in the browser | Arcade The published arcade games, served with GitHub Pages: a start page ( index.html ) and one folder per game with it
+jeffcampbell/Pumpkin-Carving-Party-Game [Opus 5.5] | Carve 3D jack-o-lanterns in the browser, share them, and play a timed carving pa | 🎃 Pumpkin Carving Party Game Carve a 3D jack o lantern in the browser, light it with any candle color, set it in a spook
+derikatwork/f4mm-linux [Opus 5.5] |  | BETH Mod Manager A mod manager for Bethesda games (Fallout 4, Skyrim Special Edition, Fallout: New Vegas, Fallout 3, Obl
+selchook/ayvago [NONE] | Ayvago web game platform | Ayvago Retro aksiyon, casual ve bulmaca oyunlarını tek çatı altında toplayan web oyun platformu —  .   Durum  Faz 0 — Ha
+Schokoladenhase/Stargame [Opus 5.5] | a claude code clone of the smartgames game. | Stargame – Sternen Legespiel Ein Legespiel für eine Person im Browser: Sieben farbige Sternteile (3–4 Sterne je Teil) we
+iamchuck504/from-prompt-to-play [Opus 5.5] | From Prompt to Play: interactive companion site for Part 2 of the AI game dev ta | 
+umar-s/tictactoe-lab [Opus 5.5] | Terminal tic-tac-toe — a lab for task-flow with two models | tictactoe lab Terminal tic tac toe in Python (stdlib only, Python ≥ 3.8) — and a lab for running an epic through task fl
+hermes98761234/browser-arcade [Opus 5.5] | Free browser game platform — 3000 games you can play instantly, no login | Browser Arcade A free browser game platform with  3000 games  you can play instantly — arcade classics, puzzles, strateg
+kapilsid/KemEveryDay [Opus 5.5] | Kemistri EveryDay | Kemistri Everyday Standalone Android app for EdBetter with application ID  uk.edbetter.kemdaily . The application intent
+Olusive/firefly-dash [Opus 5.5] |  | Firefly Dash A one tap pixel art phone game: flutter a firefly through ten glowing worlds, collect sparks, and spend the
+spencerburg/meridian.io [Opus 5.5] | A daily geography game: ten prompts a day, any correct answer counts, and the ra | Meridian Daily A daily geography game. Each day brings ten prompts, three in calm seas (easy), four in choppy waters (me
+sreeharikalesh/two-rings [Opus 5.5] | One-button orbit game: hop between rings, dodge rocks, comets and gravity wells. | 
+mugsatcz/Konici-hra [Opus 5.5] |  | Koníčci Dětská hra pro Android (6–11 let) o péči o koníčky a procházkách barevným světem.   Herní návrh a plán:     Spuš
+srmrpapitas/Terror-game- [Opus 5.5] | Un juego de terror básico divertido y en grupo  | Última Compra Un juego de terror cooperativo para 1 a 4 amigos: entráis de noche en un supermercado cerrado, tenéis que 
+nkahlor/CouchFin [Opus 5.5,Sonnet 5.5] |  | Couchfin  ](https://slint.dev) A controller first   client for Bazzite/SteamOS and Steam Big Picture, written in Rust wi
+Yashgurav002/hearsay [Opus 5.5] | NPCs that remember what you did, and gossip about it. A 3D game + NPC memory eng | Hearsay:  Everyone's talking about you.   A memory engine that lets game characters remember what you did, gossip about 
+LuckyMonkey/luckymonkey-game [Opus 5.5] | 🐵 On-call in the jungle: a Bevy/WebAssembly game about keeping a make-believe ne | 🐵 Lucky Monkey: On Call in the Jungle  A browser game about keeping a make believe jungle network alive through one on c
+prachetpoddar/blind-auction-figgie [Opus 5.5] | A Figgie variant where players bid for hidden information before each trading wi | Blind Auction Figgie A four player variant of  , the card game about trading under uncertainty, in which players can  pa
+c0s1nlarry10/crownmere [Opus 5.5] | A 3D medieval kingdom game in the browser: build a village into a kingdom, alone | Crownmere A 3D medieval kingdom game that runs in the browser (Three.js, no build step). Build a village into a kingdom,
+ZippyParakeet097/commonwealth-survey [Opus 5.5] | The Fallout 4 map warped onto real eastern Massachusetts: a scale grid, route me | Commonwealth Survey The Fallout 4 map warped onto real eastern Massachusetts, so you can measure the Commonwealth in tru
+DannyLahcenePro/juju-in-the-nature [Opus 5.5] | Juju in the Nature - a cosy pixel-art exploration game | 
+HadiTAG7/Games [Opus 5.5] |  | ألعاب الشلة 🎲 ألعاب جماعية تنلعب من الجوال: المضيف يفتح غرفة على شاشة (لابتوب أو تلفزيون)، والكل يمسح الباركود ويدخل ويج
+jacobgamby09/TalenttreeIncremental [Opus 5.5] |  | TalenttreeIncremental An incremental RPG where the talent tree is the whole game world. Skills, crafting, combat, dungeo
+DaneViser/StudyRPG [Opus 5.5] |  | StudyRPG A pixel art study timer (Pomodoro style) where every finished study session is a battle won. Earn XP to level u
+nadocodes/DeadCoach [Opus 5.5] | Deadlock post-match coach: role-based grades vs your lobby, build coaching and a | Deadlock Macro & Itemization Coach   DeadCoach website ( docs/ ) A static site, hosted on GitHub Pages, that anyone can 
+AbrahamCain/glassbox [Opus 5.5] | A game for exploring the inside of a vision-language model: climb its layers, ca | Glassbox  ](https://github.com/AbrahamCain/glassbox/actions/workflows/ci.yml) A game for building intuition about what h
+Riyazkhan53/Zen-Play [Opus 5.5] | A Gaming space both offline and online | Zen Play Multiplayer board and card games for  Android, iOS, iPad and the web , built with Expo.   Game   Status        
+garciaryan/sixth-man-mk3 [Opus 5.5] | Comparison app for fantasy basketball players. | 
+lendegroote/kabooze [Opus 5.5,Sonnet 5.5] | KABOOZE: pass-the-phone party drinking game. Play: https://lendegroote.github.io | KABOOZE Een gemeen Vlaams drinkspel voor aan tafel, met een verborgen bom. 2 tot 8 spelers, 1 gsm, geen build (gewone HT
+Danielburgin/foxtrot-privacy [Opus 5.5] | Privacy policy for Foxtrot, an iOS game | 
+BillYLZ/r3f-mister-mole [Opus 5.5] |  | Mister Mole   Demo:   https://billylz.github.io/r3f mister mole/   1980'lerin klasik maden oyunlarından esinlenen, React
+tyntrin/tyntrin [Opus 5.5] | Profile README | Hi, I'm Trin Rattanasiri, a Software Engineering graduate from Mae Fah Luang University. I work across business, enginee
+tarikhokka/GameJam2026TOOADEVS [Opus 5.5] | GameJam2026TOOA | İmza  CIVIL GAME JAM 2026  · Tema:  Afete Hazırlık ve Farkındalık  · Takım:  TOOADEVS  Bir şehrin yapı denetim mühendisi
+linuskai/New-Anthro [Opus 5.5] |  | Hospital Escape A browser game for iPhone (and any other browser). Your shift ended at 17:00. Get out of the hospital be
+csinva/board-game-web [Opus 5.5] | Learn any board game from one illustrated page, plus an interactive map of simil | Board Game Web  Live site:  https://csinva.io/board game web/ One illustrated page per board game, with every rule neede
+gabrielflorianoo/Vic3-Inspired [Opus 5.5] |  | Iron & Society A performance first historical grand strategy game (Godot 4.3, Compatibility renderer, GDScript).  Curren
+MarioArchives/ui-mocks [Opus 5.5] | This repository is purely dedicated to simple UI tests which can be quickly adde | UI mocks Phone first UI mocks for  : try a screen in your hand before it is built into the game. Each mock is a plain fr
+alternatefact/eko-rising [Opus 5.5] | Open world game of Nigeria | Eko Rising Build Lagos from scratch. Start as a farmer and his wife by the lagoon, grow a yam farm into a compound, a to
+phildbs/mountain-mogul [Opus 5.5] |  | Mountain Mogul Build a ski resort on an untouched mountain: clear trees, cut trails, run chairlifts, and keep thousands 
+quzopl/anyps5-converter [Opus 5.5] | One-click GUI/CLI converter for AnyPS5: turn a decrypted PS5 game dump into a na | AnyPS5 Converter One click front end for  : point it at a PS5 game dump and get a native Windows, Linux or macOS program
+RedNoos/topo-heli [Opus 5.5] | Browser topography game: fly a helicopter to cities, mountains, rivers and lakes | Topo Heli A browser topography game: fly a helicopter over a map and find as many cities as you can before time runs out
+justinspv24/Being_creative_in_physics [Opus 5.5] |  | 
+Catherine1708/lol-esports-prediction [Opus 5.5] | Predicting pro League of Legends matches with Elo team ratings and champion draf | Pro League of Legends: Team Ratings & Draft Win Prediction How well can we predict who wins a professional League of Leg
+rachelmakesfunprojects/omegas-shawarma [Opus 5.5] | A first-person browser game: run a late-night shawarma shop on King St W, Toront | Omega's Shawarma A first person browser game set in a late night shawarma shop on King St W, Toronto.  Play it:  https:/
+antotaverna/videogame [Opus 5.5] |  | videogame Cookie eats cookies: a tiny 2D game built with Python and  . Move a hungry cookie around, eat the small cookie
+Rapid421/LSWTSS-Level-Exporter [Opus 5.5] | Export LEGO Star Wars: The Skywalker Saga maps to Blender (.blend) with game mat | LSWTSS Level Exporter — version 0.1.0 (first release, early preview) Exports maps from  LEGO Star Wars: The Skywalker Sa
+Chenbisan/Potato-Quiz [Opus 5.5] | 🥔 Potato Quiz — a team quiz game that runs in the browser | 🥔 Potato Quiz A team quiz game that runs entirely in the browser — no install, works on Windows, Mac and phones.  Play: 
+MagicMiikka/TowerDefense [Opus 5.5] |  | Tower Defense prototype A compact grid mazing roguelite where the enemy evolves to counter your build.   Layout   Path  
+deborahantunes/encaixe-perfeito [Opus 5.5] | Encaixe Molecular VR - educational molecular docking game for Meta Quest (WebXR) | Encaixe Molecular VR  Play:  https://deborahantunes.github.io/encaixe perfeito/  Event mode (visitor queue, 3 stages):  
+johannesap/Game-Legenda-Nusa-Kabut [Opus 5.5] | Ini pembuatan game pertama saya menggunakan AI | Game Legenda Nusa Kabut Ini pembuatan game pertama saya menggunakan AI
+John-ODell/freeciv-macos27 [Fable 5.1,Opus 5.5] | Port of. FreeCiv for mac os 27 and then improvements | freeciv macos27 Getting   running well on macOS 27 (Apple Silicon), then improving it. Freeciv is the GPL empire buildin
+fapivnytsia/JadeRod [Opus 5.5] |  | Нефритовый стержень Кликер с ритмом: води платком по стержню вверх и вниз. Если держать ровный темп, монеты капают. Если
+ddjess/bits-fetch [Opus 5.5] | 8-bit fetch game that sends traces, logs, custom metrics and RUM to Datadog | 🦴 Bits Fetch A tiny 8 bit fetch game that sends  traces, logs, custom metrics and RUM  to Datadog. Hold to charge, let g
+saigoneseecoffee/daiviet- [Opus 5.5] |  | Đại Việt Hiệp Khách Game nhập vai hành động lấy bối cảnh lịch sử Việt Nam, chạy thẳng trên trình duyệt và iPhone. Có 6 m
+nn4748/Azozi [Opus 5.5] |  | 
+Valajar/CryoSat [Opus 5.5] |  | CryoSat Cryogenics and orbital infrastructure for  . Liquefy air into cryogenic coolants, run superconducting power netw
+FunPixelNest/funpixelnest-mgp [Opus 5.5] |  | FunPixelNest MGP — Multi Gaming Platform One app, many skill games, 5 player tournaments. Android, iOS and Web from a si
+dinocode00/epic-racer [Fable 5.1,Opus 5.5] |  | Epic Racer A free, home built couch multiplayer kart racer. Race movie vehicles (Pod Racer, Batmobile, Nazgûl rider) thr
+dvirshr/poker-night [Opus 5.5] |  | אפליקציית ערב פוקר: תשתית (שלב 1) המסמך הזה מכסה את מה שנבנה עד עכשיו: מסד הנתונים, ההרשאות, מנוע החישובים, והוראות ההתק
+nathan6609/roadster-launch [Opus 5.5] | Roadster Launch: a three.js stunt game (unofficial fan project) | Roadster Launch A browser stunt game built with three.js: launch up a reverse C ramp, come off it upside down, roll upri
+antotaverna/mision_sobris [Opus 5.5] |  | mision sobris Misión Sobris: a tiny 2D cookie game built with Python and  . Each nephew/niece picks their own cookie cha
+thomaswiener/music-memory [Opus 5.5] |  | Music Memory A memory match game played by ear. Flip two tiles, each plays a short Spotify snippet, and pair the ones th
+nathanlr29/Comptatycoon [Opus 5.5] |  | ComptaTycoon Jeu de gestion Idle/Tycoon, mobile first : faites grandir votre cabinet d'expertise comptable sur une carte
+MotiTheWizerd/spaceinvenders [Opus 5.5] |  | 
+NChandrasekharR/sikku-kolam-tetris [Opus 5.5] |  | Sikku Kolam Tetris A Tetris where every block is a sikku kolam loop. Each side of a block's loop checks one neighbour: a
+fallensignalstudios/SovereignEngine [Opus 5.5] |  | Sovereign Engine (research build, First Ignition) A separate, independent research engine: native editor, renderer, runt
+ondrik/quantum-arcade [Opus 5.5] | An attempt of a Quantum version of PacMan | Quantum Arcade Classic computer games rebuilt around quantum mechanics: superposition, phase flips, entanglement, measur
+JohnnyNero/daily-grind [Opus 5.5] |  | Daily Grind (working title) A café sim for phones. You set up the café, staff it with characters you made up or recognis
+songadaymann/watertower [Opus 5.5] | Water Tower Smash: a Roblox game for little kids. Smash stuff, grow huge, knock  | Water Tower Smash A Roblox game for little kids who love water towers. You start small in a new land with a water tower 
+marcelborbus/dubparty [Opus 5.5] | Browser party game: dub famous clips with your friends, vote, win. | 
+technotrue-bit/trueaigaming [NONE] |  | TrueAIGaming A free, public arcade of games built with AI. Every game listed here was made with AI tools and is free to 
+wilheim77/willysGate [Opus 5.5] | Motor de RPG táctico isométrico por turnos para navegador, y sus juegos (Interes | willysGate Motor de RPG táctico isométrico por turnos para navegador, con estética retro, y los juegos construidos sobre
+SeardnaSchmid/patient-gamer-games-rank [Opus 5.5] | patient-gamer-games-rank | Patient Gamers Rank A static page that ranks patient games: games out for at least a year and finished (not Early Access
+KabanguJDTshikuma/todes-tea-run-ai-coded [Opus 5.5] |  | Build a Game with an AI Coding Agent  ](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)  ](https://ope
+divyachandana/Inference-Rally [Opus 5.5] |  | Inference Rally   On device AI models race taxis through a 3D maze. Every turn is a decision; every second is compute. E
+storrence88/snack-hole [Opus 5.5] |  | Snack Hole A 3D hole game that runs in the browser. Slide a hole around a wooden floor covered in snacks. Anything small
+baleale12/seren-alert [Opus 5.5] |  | 
+cayovalsamis/game-save-sync [Opus 5.5] | Steam Cloud-style save sync for non-Steam games between Windows and Steam Deck | game save sync Keeps save games for non Steam games in sync between a Windows PC and a Steam Deck, using   for save disc
+akuforge/accrete [Opus 5.5] | A small space game: start as a pebble, grow to a universe | Accrete A small space game: start as a pebble, swallow anything smaller, and grow all the way to a universe.  Play:  htt
+rkachniarz/SuperRollies [Opus 5.5] | A d20 roll-off game with real dice physics. three.js + cannon-es, no framework. | Super Rollies A d20 roll off game. Pick up your die, throw it, roll higher than your opponent. Lose a round and you lose
+JuanMateusMarinho/AutoSWFVectorAnimation [Opus 5.5] |  | AutoSWF Vector Animation  Turn your finished drawings into AdventureQuest Worlds items — without Adobe Animate.  AutoSWF
+JE2950/Escaperoom4 [Opus 5.5] |  | Urbs Sepulta A first person Latin mystery for Common Entrance Level 1. Two levels: 1.  The Buried City.  A Roman city un
+montialmatani/dap-ur-homies-forge [Opus 5.5] | Unofficial Forge Port | 
+deloy4/jetpack-christmas [Opus 5.5] | Browser rebuild of Jetpack Christmas Special (1993 DOS) with new art and sound | Jetpack Christmas Special A browser rebuild of Jetpack Christmas Special, the 1993 DOS game by Adam Pedersen that Softwa
+hetp4401/flappy [Opus 5.5] | A Flappy Bird-style iPhone game (SwiftUI + SpriteKit), built on GitHub's macOS r | Flappy A Flappy Bird–style game for iPhone (SwiftUI + SpriteKit, everything drawn in code). Tap to flap through the gaps
+chopki/test-game [Opus 5.5] |  | Hold the Hall A 3D browser tower defence / survival game. Raiders pour in from the edges of the map to tear down your  T
+r4sthel-netizen/blok-oyunu [Opus 5.5] |  | Blopu Telefon için blok bulmaca oyunu. Blokları 8x8 tahtaya yerleştirip satır ve sütunları patlatıyorsun. Oyna: https://
+sgilson7/mage-tower-battle [Opus 5.5] | A Builder game: rebuild a wrecked mage college's library, craft spells from piec | Mage Tower Battle You are the new archmage of a mage college. The last one was fired, and on his way out he pulled every
+gstandtv/gstandtv.github.io [Opus 5.5] | GrandStand | gstandtv.github.io GrandStand
+ekarbe/world-drive [Opus 5.5] |  | World Drive 🚗 An endless, procedurally generated voxel driving game that runs in the browser. Cruise through cities, vil
+rmackay0/parity-blocks [Opus 5.5] |  | 
+wisssdorrmm/flyingcarslife [Opus 5.5] |  | 
+gonenya-create/dragon32 [Opus 5.5] | Dragon 32 (1982) in the browser — a hobby tribute. Original BASIC, games and gra | Dragon 32 · 1982 A tribute to the  Dragon 32  home computer (Wales, 1982), running in the browser: a green screen, a BAS
+lauPhilip/au-btech-open-door [Opus 5.5] | Interactive, team-based learning of threat modelling in the browser, built on th | Open Door  Walk the office, spot the risks: an open source classroom game for interactive learning of threat modelling. 
+remathes/DragonLantern [Opus 5.5] | A Dragon’s Dogma–style belt lantern for The Witcher 3: Wild Hunt Remastered (5.0 | Dragon's Lantern A Dragon's Dogma style belt lantern for  The Witcher 3: Wild Hunt — Remastered (5.0) .     Hangs on Ger
+ihabhugoy/buddy-maze [Opus 5.5] | Buddy: a cozy hidden-maze game. Remember the way! | Buddy · Remember the way A cozy little 3D maze game for the browser. The maze is hidden: walls only rise near you and si
+MikeWeaver-dev/niagara-or-bust [Opus 5.5] | Niagara or Bust! A browser ragdoll game about surviving the Horseshoe Falls. | 🌊 Niagara or Bust! A cartoon ragdoll game in the spirit of Happy Wheels: try to survive going over the  Horseshoe Falls 
+nitrogoal/archmere-volleyball [Opus 5.5] | Archmere girls varsity volleyball site (auksvb.com) | Archmere Volleyball Buildless mobile first static website. Serve  dist/  with a static HTTP server. Data is a reviewed s
+delooze29-stack/Doughty-Links [Opus 5.5] |  | Doughty's Links A 3D golf game in your browser: four courses (Kingfisher Links, The Master Course, Heather Ridge, Little
+clayvanderburg/geometry-survivor [Opus 5.5] | Vectra // Survivor — Geometric twin-stick roguelite with Crab Drill-Claw asteroi | VEXOLITH // SURVIVOR A browser based geometric twin stick roguelite & asteroid excavation survival game inspired by  Geo
+GencSaracaydin/operation-long-shadow [Opus 5.5] | Operation Long Shadow: a Cold War Black Ops-style FPS in Unity 6 for WebGL (full | Operation Long Shadow A Cold War first person shooter for the browser, in the style of Call of Duty: Black Ops. It is bu
+mrp3bbles/albion-calc [Opus 5.5] | Albion Online (EU) refining profit calculator | 
+yelmovie/animal-record-recovery [Opus 5.5] | Animal Record Recovery: an elementary science game on "Animal Life". Explore 5 p | 동물기록 복구작전 · 하루와 모리의 자연 탐험 (0.4.0) 초등 과학 ‘동물의 생활’ 학습 게임. 사람 탐험가 하루가 이미지 지도에 그려진 길을 따라 이동하고, 너구리 모리가 따라다니며 관찰과 기록을 돕는다. 다섯
+FlamingFury00/Cartoon-Hitster [Opus 5.5] |  | Sigle in Fila 🎵📼  A Hitster style party game made of Italian cartoon theme songs  ("sigle dei cartoni animati"), from  U
+martinvd/sc2-build-optimizer [Opus 5.5] |  | sc2 build optimizer Finds the fastest StarCraft II build order to reach a goal, for Zerg, Terran and Protoss. The same b
+matt-moses/brow-guess [Opus 5.5] |  | Brow Guess A party word game for phones: hold the phone to your forehead, let your friends describe the word, tilt down 
+LK1248/Pawnbroker [Opus 5.5] | Chess variant: every piece starts as a pawn, captures earn points that buy promo | Pawnbroker A chess variant where every piece except the King starts as a pawn. Every turn earns a point, and points buy 
+Novice130/ESP32-035-CYD-3.5-display [NONE] |  | 📺 ESP32 035 (CYD 3.5" / ESP32 3248S035R) Working Guide & Dashboard  ](https://platformio.org/)  ]()  ]()  ]()    ⚠️ WARN
+hudasol/meta-adaptive-parallax [Opus 5.5] | ADAPTIVE: PARALLAX — Autonomous Principal Engineering Build Directive | ADAPTIVE: PARALLAX  See the pieces. Discover the impossible.  A seated, hands first spatial puzzle for Meta Quest, built
+feygon/SS2PsiAutocastMFD [Opus 5.5] | In-game MFD for psi_autocast (System Shock 2 Remastered): build psi macros and b | psi autocast mfd: an in game psi macro MFD for System Shock 2: 25th Anniversary Remaster  TLDR:  Press one key and an MF
+pricilaModesto20/money-maze [Opus 5.5] |  | Money Maze: a live Q&A game for your talk The audience scans a QR code, types their name and a question, and turns into 
+krm-studio/cairo-rides-privacy [Opus 5.5] | Privacy policy for the Cairo Rides game | 
+joshuaschaible/gameguide [Opus 5.5] |  | Game Guide Share your game with a friend. They watch and draw; their marks show up on top of your game and fade after 4 
+Harlock123/AVACastlesOfDrCreep [Opus 5.5] | AVA Castles of Dr. Creep: a puzzle-platformer of castle escapes after the 1984 C | AVA Castles of Dr. Creep  ](https://github.com/Harlock123/AVACastlesOfDrCreep/actions/workflows/build.yml) A puzzle plat
+lucasgleria/game-day-class [Opus 5.5] |  | 
+Jakedapro/Pokemon-Game [Opus 5.5] | Public repository for a Pokemon Game project | PokeBrawl A Pokemon battle game for Mac and Windows with  every Pokemon  (all 1,025 species plus regional forms, Megas a
+YigitSalihEmecen/City-Gen [Opus 5.5] | generate buildings, blocks and whole cities. It's very pretty and game ready | 
+paulofcmello/rea-chess [Opus 5.5] |  | REA Chess A local, single player take on chess.com's puzzles and bots. No accounts, no multiplayer. Progress (puzzle rat
+skitzellez/Xenia-GameVault [Opus 5.5] | Xenia Canary (Xbox 360) built for Game Vault: plays 360 games from any USB drive | Xenia Canary UWP is an unofficial fork of Xenia Canary to support UWP and the Xbox platforms. It is not associated with 
+openaideveloperai-png/Infinix [Opus 5.5] |  | Infinix A game in the style of  The World's Hardest Game , built to be harder. You are the red square. Take every yellow
+NUkecodesr/Eldorado-Lister [Opus 5.5] |  | Zotac Lister Desktop app (Electron) for selling Steal a Brainrot pets on Eldorado.gg.    Auto List : import pets from yo
+jinxlover/osm2zomboid [Opus 5.5] | Turn any real place into a playable Project Zomboid (Build 42) map from OpenStre | osm2zomboid  Turn any real place into a playable Project Zomboid (Build 42) map, built the way the game's own map is bui
+pikovets/yumicafe-privacy [Opus 5.5] | Privacy policy for Yumi Café (Paracord Studio) | Yumi Café — Privacy Policy Published at https://pikovets.github.io/yumicafe privacy/
+Gstxxx/shadow-ledger [Opus 5.5,Sonnet 5.5] | Remake web de um tycoon de espionagem: agência privada, comércio global e operaç | Shadow Ledger  Jogue no navegador:  https://shadow ledger delta.vercel.app Você é o Diretor de uma agência privada de in
+about2crash/minigames [Opus 5.5] |  | Minigames Party games for one shared screen. Pass the phone or laptop around. A static site, deployed to GitHub Pages an
+destrukter/Chameleon_app [Opus 5.5] |  | Chameleon An Android take on the social deduction party game  The Chameleon : everybody knows the secret word except the
+mswietlicki/steam-frame-dictation [Opus 5.5] | Voice typing for the Valve Steam Frame: hold a controller button, speak, and the | Steam Frame dictation Voice typing for the Valve Steam Frame. Hold a controller button, speak, let go, and your words ar
+dannyabbo/monikers [Opus 5.5] |  | Danny Abbo’s very own Monikers that makes up for him forgetting it A pass the phone web version of the party game   (Ale
+Jazzwec/Frostbite1 [Opus 5.5] |  | Frostbite
+soltheman/cavestory-pocket [Opus 5.5] | Cave Story+ on iPhone: an iOS build of doukutsu-rs (bring your own game files) | A reimplementation of the Cave Story (Doukutsu Monogatari) engine with many quality of life improvements. It lets you en
+gmmeyer/nycheroes [Opus 5.5] | A browser superhero game in a 1:1 New York City built from open data (Godot 4.7) | 
+FlorianDaunay/bee-factory [Opus 5.5] |  | Bee Factory A cute gacha game about bees. Build hives that make honey, open country packs to recruit bees from around th
+ygtbekar/GameJam [Opus 5.5] |  | GameJam  AFTERTRACE / Afetin İzi    CIVIL GAME JAM için geliştirilen, birinci şahıs robot dedektif oyunu. 3000'li yıllar
+alexleo97/mesbg-tabletop [Opus 5.5] |  | MESBG Tabletop An unofficial virtual tabletop for the  Middle earth Strategy Battle Game  that runs in any web browser, 
+Ryubara/coney [Opus 5.5] | A clean-room reimplementation of The Warriors. | Coney   [!IMPORTANT]   Coney is in early development and not playable yet. It contains none of the original game's files
+Elko-Lemiso/fafo [Opus 5.5] | Party game for one TV and a room full of phones: whose photo, whose song, name t | fafo A party game for one TV and a room full of phones. The laptop plugged into the TV shows the game, and everyone play
+hungnndev/the-last-tide [Opus 5.5] |  | 
+Enlightendseisai/spike-legends [Opus 5.5] | Very cool upcoming anime spike volleyball game | Spike Legends Anime volleyball game: story mode (Project APEX), Chemical Reactions, Flow state, custom players and teams
+tamsler/wigglefeast [Opus 5.5] | Wigglefeast: an offline snake-style .io game with AI worms, saves and install-as | Wigglefeast A single player snake style .io game you can play offline. Eat, grow, and outsmart AI worms; there's no serv
+emberian/intmat2 [Fable 5.1,Opus 5.5] | Interior 2: evolving matter as one continuous field. Julia, GPU-native, analyzed | Interior 2  Evolving matter as one continuous field.  Every voxel carries recurrent activity, deposited solid, nutrient,
+Ali-sial-786/WordSmith [Opus 5.5] |  | Wordsmith Wordsmith is a blacksmith themed word puzzle for Android, in the style of Wordscapes and Word Trails. You swip
+galbuquerqt/pcs-gamer-web [Opus 5.5] |  | pcs gamer web
+natemiller39/DD-s [Opus 5.5] |  | Austin's Fantasy DD's An online table game for up to 6 players. Each player has a wing nut launcher on the rim of a roun
+dhirhpatel-droid/offline-scout [Opus 5.5] |  | Offline Scout Scouting for FIRST robotics that  works with zero internet . Install it once, then scout in airplane mode.
+tanlanman123/mobile-stuff [Opus 5.5] |  | 67 Arcade A little collection of games that installs to your phone's home screen (it's a Progressive Web App). Opening t
+catylistic/pokemon-survivors [Opus 5.5] | Vampire Survivors-style Pokémon fan game, playable in the browser | Pokémon Survivors A Vampire Survivors–style fan game with Pokémon. Pick a starter, survive 15 minutes of wild Pokémon, t
+jiadongm/UniMelbMathsCompetition2026_PrizeGiving [Opus 5.5] |  | The hidden family trees in your blood Slides for a short talk by Dr Jiadong Mao (University of Melbourne) at the prize g
+accipiter117/Spice-Raiders [Opus 5.5] |  | Arrakis Wars A turn based desert strategy game for phones, inspired by Dune: Spice Wars. Three powers (House Atreides, H
+bradatwal-maverick/2450-maverick [Opus 5.5] | Coffs Harbour Live | 2450 maverick Coffs Harbour Live   Regional Australia: who represents you ( /au ) Pick a state and postcode, land on the
+mutaaf/openaero-dfw [Opus 5.5] | OpenAero DFW — real-world Dallas–Fort Worth flight sim in the browser, built and | OpenAero DFW A 6 DOF flight simulator in the browser, flown over real satellite imagery of the Dallas Fort Worth metropl
+mutaaf/outatime-88 [Opus 5.5] | OUTATIME 88 — neon time-travel arcade racer, built and groomed by autonomous age | OUTATIME 88 A neon time travel arcade racer for the browser. Drift, boost, slam rivals, and hit  88 mph  to jump eras. K
+cavemancompanyllc/trogly [Opus 5.5] | Talk to your RAID: Shadow Legends account in Claude Code. Fan project, not affil | Trogly Talk to your RAID: Shadow Legends account in  . "What gear is on Thor Faehammer?" "Which of my Epics are fastest?
+AndreyBelyy/dunecraft-conquer [Opus 5.5] | Browser RTS mash-up of Command & Conquer, Dune 2000 and StarCraft: 9 factions, m | DuneCraft & Conquer  ](https://github.com/rehan remade/universal modder)   A browser real time strategy game that mashes
+Fulgrim92/Vball-Freizeit-website [Opus 5.5] |  | Volleyball Freizeitliga München · Redesign A from scratch redesign of  , the Munich recreational volleyball league site 
+ywgistudio/ywgidrive [Opus 5.5] |  | 
+troshkinpavel/tesla-bird [Opus 5.5] | Flappy-Bird-style pixel-art game inspired by the new Tesla Roadster's thruster-p | Tesla Bird A Flappy Bird style pixel art game: fly the Roadster through gaps between Starship rocket pillars. Built with
+TheoLopez/Tesla-Roadster- [NONE] |  | Roadster: Thrust City Simulador web en tercera persona: conduce un superdeportivo eléctrico con  paquete de propulsores 
+ykuvat/rota-kocluk-oyunu [Opus 5.5] | Rota: Koçluktan Kuruma — izometrik pixel art eğitim koçluğu yönetim oyunu | 
+thesigns/Reliq [Opus 5.5] | A treasure-hunting game for your daily walks. | Reliq A treasure hunting game for your daily walks. You set up a  Vault  where your walks usually start, then head out. 
+shnydaone/BTC-Game [Opus 5.5] |  | BTC Game Working title:  Proof of Work . A real time Bitcoin mining business simulation built in Godot with PixelLab pix
+JPADev1/Joshuapatrickallen [Sonnet 5.5] |  | joshuapatrickallen.com Fan site tracking Josh Allen's stats and Bills franchise records.   How the numbers stay current 
+weijt606/gravoff [Opus 5.5] | Gravity is optional. Landing isn't. A tiny anti-gravity car game in plain JavaSc | GRAVOFF  ](README.md)  ](README.zh CN.md)  ](LICENSE)  ](https://foudreai.com)  Gravity is optional. Landing isn't.  A t
+JohannSR28/night-highway [Opus 5.5] | 60-second WebGL night driving game built with Next.js and three.js | Night Highway A 60 second night driving game: weave through late traffic, chain near misses for points, and see how far 
+MedMejri1/backend-tunfcb [Opus 5.5] |  | Tunfcb — API API Express + MongoDB de l'application mobile et du tableau de bord.   Démarrer  bash cp .env.example .env 
+filfai1003/marione2 [Sonnet 5.5,Opus 5.5] |  | Marione Il bot Discord che tiene vivo il server. Python 3.12 · discord.py · Postgres (schema  marione ) · OpenRouter. Tu
+Napigostore/Cash-3D [Opus 5.5] | Game Dòng tiền 3D | Cash to Freedom (Dòng Tiền 3D) A 3D board game about money: earn, spend, invest, and escape the Grind Mill.    web/dong 
+rembednarczyk/PanBug [Opus 5.5] |  | PanBug Gra do nauki testowania oprogramowania. Gracz przechodzi przez 24 zadania w ośmiu małych aplikacjach. Każde zadan
+danielbank/push-poker [Opus 5.5] | A game for shenans | Push Poker Push 4 meets poker. A web card game for 2–4 players sitting at the same table, each on their own phone or lap
+delectablegrapfruit/stickrpg [Opus 5.5] |  | Stick RPG Complete — browser recreation A fan recreation of XGen Studios' 2005 Flash game  Stick RPG Complete  (v1.22) i
+Harsh-Aaryan/RPG_Dev [Opus 5.5] |  | RepoRaid  Defeat vulnerabilities. Level up security.  RepoRaid is a low poly multiplayer boss fight in which verified se
+alyssafuward/whack-a-note [Sonnet 5.5] | Catch every Weekly Field Notes image as little oranges pop out of the grass. | Whack a Note A tiny game that celebrates ten Fridays of  . Little oranges pop out of the grass holding images from each 
+Mndum/gd-level-viewer [Sonnet 5.5] | View-only Geometry Dash level viewer in the editor's style. No game assets inclu | GD Level Viewer View and edit Geometry Dash level files in your browser, in the style of the in game editor.   Opens  .g
+ajayidowuvictor/GTL [Sonnet 5.5] |  | Grand Theft Lagos (GTL) Original Lagos inspired open world game. Android build wraps  www/index.html  with Capacitor. Bu
+dpt/ZXGame [Sonnet 5.5] | Portable front-end library for ZX Spectrum game ports | ZXGame A portable front end library for ZX Spectrum game ports written in C.    src/ZXSpectrum : a virtual Spectrum (scr
+s2469639/wildgame [Sonnet 5.5] |  | 
+tokanada/ipr-patcher-en [Sonnet 5.5] | English patched Idoly Pride APKs (adapted from CyleAR/ipr-patcher) | ipr patcher en English patched builds of Idoly Pride, adapted from  . Modules come from   (full and lite). Runs daily at
+sikhsanf/fitquest [Sonnet 5.5] | Fitquest | FitQuest Gamified morning workout PWA (vanilla JS). Open  index.html  over HTTPS/localhost (or  fitquest.html  directly)
+kllloh/gnome-strike [Sonnet 5.5] | Gnomes vs Goblins: a blocky browser FPS in a destructible English back garden | Gnomes vs Goblins A blocky, Counter Strike style first person shooter that runs in the browser. You and four bot teammat
+Yumenyan/Codiram [Sonnet 5.5] |  | Codiram GUI だけで実用的な Web アプリを作るための、自分専用の Web アプリ開発環境。  データ → UI → ロジック → 外部連携 → 完成した Web アプリ  を、ブラウザ上の GUI で構築し、 最後は普通の H
+Raymond2801/kokos-quest [NONE] |  | 
+ScottMorris/lieutenant-fizz-dos [Sonnet 5.5] | Lieutenant Fizz Episode 1 for DOS — a Rust port with VGA graphics and AdLib soun | Lieutenant Fizz for DOS                      Lieutenant Fizz — Episode 1: The Cocoa Caper  for MS DOS. The game's own Ru
+joshknnd1982/nfl-football-4-audio-game [Opus 5.5,Sonnet 5.5] | An audio-only NFL football game for blind players, a work in progress, inspired  | 
+raadhe121/SportBlast [Sonnet 5.5] | SportBlast | This is a   project bootstrapped with  .   Getting Started First, run the development server:  bash npm run dev   or yar
+jboesen/congress-guess [Sonnet 5.5] |  | 
+ckopp22/Sneaky [Sonnet 5.5] | Sneak to the next level- solo or buddy system.  | 
+alibaykara1/operasyon_depo [Sonnet 5.5] |  | 
+andydownard/time-clash [Sonnet 5.5] | Time Clash: a free, kid-friendly artillery game that teaches math and reading. | 
+imjarvissingh/Primer [Sonnet 5.5] |  | Primer Primer is an early stage, interest personalized mathematics game for US children ages 6–9. It aims to turn a chil
+benjtharm41/coordinator-challenge [Opus 5.5,Sonnet 5.5] | Mobile NFL play-calling game: call every play on offense and defense | Coordinator Challenge A mobile friendly NFL play calling game. You are the coordinator: you call every play on offense a
+kavemankai/Kaijustomp [NONE] |  | Kaijustomp Retro low poly kaiju reverse auto shooter for Godot 4 (mobile first). You are the kaiju. Tanks, mechs and hel
+aviate15/chessweeper [Opus 5.5,Sonnet 5.5] |  | Chessweeper Chess meets Minesweeper. Mines hide on the board, landing on a square reveals how many mines surround it, an
+goyalion17/breakout-game [Sonnet 5.5] | Classic Breakout arcade game in Python (turtle): levels, lives, high score, soun | Breakout A classic Breakout arcade game built with Python and the  turtle  module, as part of my 100 Days of Code journe
+Harrylever/finding-mama [Sonnet 5.5] |  | Finding Mama A tiny adventure for  : a little girl searches the market, river and forest for her mother in a yellow head
+gagatim/Mini-4WD-Racer [Sonnet 5.5] | Browser-playable Mini 4WD racing game (HTML/Canvas) | Mini 4WD Racer 四驅車大賽 瀏覽器即玩的四驅車賽車遊戲（純 HTML/Canvas，無需安裝）。   按住  空白鍵 / 滑鼠 / 螢幕油門鈕  = 全速，放開 = 煞車   進彎太快，「彎道負荷」爆表就會飛出賽道   賺獎金
+sds-code-reviewer-26-8/bowling-30821 [Sonnet 5.5] | MSP서비스개발그룹 김준영 | 
+whxoals03/day2-game-play [Sonnet 5.5] |  | 
+Aryan-1908/Dussehra-Event [Sonnet 5.5] |  | Ravan Dahan (Dussehra game) Everyone plays at the same time on their own screen. A live leaderboard ranks players by fas
+sds-code-reviewer-26-8/bowling-40832 [Sonnet 5.5] | 회계관리그룹 변규리 | 
+sds-code-reviewer-26-8/bowling-29001 [Sonnet 5.5] | 항공IT그룹 권웅기 | 
+lolvargas24/inferno [Sonnet 5.5] |  | 
+sds-code-reviewer-26-8/bowling-35950 [Sonnet 5.5] | 통신망개발그룹 문형석 | 
+jinliang0123/Eyegame [Sonnet 5.5] | 眼動遊戲 | 👁️ 眼動控制遊戲集錦 純前端（無需後端、無需安裝）的眼動控制網頁，使用網路攝影機 +  （含虹膜關鍵點與眨眼 blendshape）。影像只在瀏覽器本機處理。   頁面   說明        index.html    首頁／校正狀態 
+sds-code-reviewer-26-8/bowling-25456 [Sonnet 5.5] | EM개발그룹 전예리 | 
+sds-code-reviewer-26-8/bowling-40239 [Sonnet 5.5] | SCP Platform그룹 & 우주상 | 
+sds-code-reviewer-26-8/bowling-40620 [Sonnet 5.5] | 보험IT파트 김도현 | 볼링 게임 카타 Uncle Bob의  를 TDD(Red → Green → 코드 리뷰)로 진행한 Java 프로젝트입니다.  Game  클래스의  roll(int) 과  score() 를 구현했고, 각 사이클은  PLA
+sds-code-reviewer-26-8/bowling-29196 [Sonnet 5.5] | SDS 김현곤 | 
+okayline/dungeon-items [Sonnet 5.5] |  | dungeon items The one item table every game reads: 4Dungeon, irl dungeon, 88x31. Items are not copied between games; eac
+p12342234/tqgames [Sonnet 5.5] | Phaser 3 Match-3 商品消除遊戲（LiveOps + GAS | 商品消除 Match 3（Phaser 3 + GitHub Pages + LiveOps + GAS） 純靜態網頁遊戲：程式與資源由  GitHub Pages  託管，玩家進度存在  Google 試算表（Apps Script） ，
+OwainWilliams/Hubbub [Sonnet 5.5] |  | Hubbub A browser based meeting town in 2D for coworkers and friends. Up to 12 people walk around a generated town, chat 
+GNels-sys/cgwf [Fable 5.1] |  | CGwF   Card Games with Friends A private, installable web app for playing tabletop card games with friends over the inte
+hfumdaysri/datingapps [Sonnet 5.5] |  | Ayok Kita Ngedate (datingapps) Private, browser based date night app for exactly two people. Conversation first games fo
+vuthehuy1997/the-gioi-khoi [Sonnet 5.5] | Thế Giới Khối — game thế giới khối nhiều người chơi trên trình duyệt (WebRTC P2P | Thế Giới Khối Game thế giới khối chạy ngay trên trình duyệt, không cần máy chủ: đào và xây, đánh quái, hạ boss, làm nhiệ
+Harbugan/Manic_Pets [Sonnet 5.5] |  | Harbugan's Manic Pets
+yasi-87/pong-game [Sonnet 5.5] |  | 
+Arthur031221/whack-a-mole [Sonnet 5.5] | 打地鼠大作戰：夜市遊樂場風格的互動小遊戲（Vibe Coding 作業） | 打地鼠大作戰 Whack a Mole 夜市遊樂場風格的打地鼠小遊戲。30 秒內打地鼠、避開炸彈、打出連擊，挑戰各難度最高分。 單一  index.html ，沒有任何框架，直接用瀏覽器開啟即可遊玩。   玩法   目標   分數   說明
+glaroc2/trail-game [Sonnet 5.5] | Trail Game: A game inspired by Oregon Trail | Trail Game: A game inspired by Oregon Trail A game inspired by Oregon Trail, for Windows, built for people who play with
+upenthiran93/godot_horrogame_island [Sonnet 5.5] |  | Tidewater (island horror game) A first person island horror game in Godot 4.7, built previs first: story in  story/ , au
+sarail19th/triple-three [Sonnet 5.5] |  | 
+joaovitor-dv/universal-joystick-manager [Sonnet 5.5,Opus 5.5] | UJM — Universal Joystick Manager: a Linux service that numbers game controllers  | UJM — Universal Joystick Manager v0.8.0  ](https://github.com/joaovitor dv/universal joystick manager/actions/workflows/
+edu-tech-school/MiraIrshaid-Math-Game [Sonnet 5.5] |  | 
+Hemmetland/pixel-dynasty [Sonnet 5.5] |  | Pixel Dynasty (arbetsnamn) Ett studio tycoonspel i pixelart. Du startar i ett garage 1980 med en dator och en idé, och b
+ngrpv/ngrpv.github.io [Sonnet 5.5] |  | 
+millitheplug/monopoly [Sonnet 5.5] |  | Monopoly — Lagos Edition A browser based, 3D Monopoly table built with  Three.js + Vite . The interface takes inspiratio
+sds-code-reviewer-26-8/bowling-40851 [Sonnet 5.5] | 산업은행IT그룹 김재연 | 
+doromere/stpr-despitechernobyl [Sonnet 5.5] | project 0.1 | Despite Chernobyl (stpr despitechernobyl) Мод для Minecraft  1.12.2  (Forge) в духе S.T.A.L.K.E.R.: Чернобыльская Зона О
+BuechlerA/halo-ps2 [Sonnet 5.5] | Port of Halo: Combat Evolved (Xbox) to PlayStation 2 at 60 fps. No game data inc | halo ps2 A from scratch PlayStation 2 engine that plays the  Halo: Combat Evolved campaign  from the user's own Xbox dis
+yukytw/tw-2026-election-game [NONE] |  | 這誰？選哪？— 2026 縣市長候選人臉與地圖配對挑戰 手機版網頁小遊戲：60 秒內看照片認出 2026 縣市長候選人，再從 4 個縣市輪廓中選出他參選的縣市。每 5 連擊加 3 秒，結束後有結算頁與分享。 由 Yuki 製作 — Thre
+Namy0124/Store24 [Sonnet 5.5] |  | Store24
+yannicknussbaum/nonanteneuf [Sonnet 5.5] |  | 
+INDFORGE-Studio/OctoCat-Code [Sonnet 5.5] | Jeu d'aventure rétro 2D pour apprendre à programmer — le site est le jeu (MkDocs | 🐙 OctoCat Code Jeu d'aventure rétro 2D pour apprendre à programmer —  le site est le jeu . Cours en Markdown (Material f
+tombikdoner10/civil-game-jam [Opus 5.5,Sonnet 5.5] | Prompt Engineers · CIVIL GAME JAM 2026 oyunu (Phaser 3 + TypeScript) | OYUN ADI  Prompt Engineers  takımının   için geliştirdiği oyun.   Bu repo şu anda jam öncesinde hazırlanan  genel şablon
+Davemad93/glowcell [Sonnet 5.5] | Cell eating game | glowcell Cell eating game
+firstofakind935-dev/Crossy-Hager [Sonnet 5.5] |  | Chicken Crossing A Crossy Road style hopper. Single page game served by a tiny Node server. Run locally:  npm start  (PO
+achenard/AC-Cube-App [Sonnet 5.5] |  | OctBuildEx OctBuildEx is an AIUX application for ServiceNow (scope  x snc octbuildex ). It includes a home page, a live 
+Nate-the-Ace/nds-sanctum [Sonnet 5.5] | old 90's online only tag, cloned. | Sanctum remake A browser remake of  Sanctum , the 1998 online collectible card game (Digital Addiction), kept alive by t
+sarail19th/anakt-escape [Sonnet 5.5] | Pac-man based game adapt on Alien Stage scene when Ivan failed to rescue Til fro | Anakt Escape A small pixel art maze game in a single HTML file (canvas + vanilla JS, no dependencies, no build step). Th
+nferrin10/Volleyball [Sonnet 5.5] | Tracking scoring stats | Volleyball Game Day A scorekeeping + player stats app (PWA) that fills out the paper volleyball scoresheet automatically
+ol0710/playnin [Sonnet 5.5] | Retro 8-bit ninja turtles platformer in the browser (old-TV screen, 40 levels) | 🐢 Turtle Ninja Quest — ретро игра в браузере 8 битный экшн платформер про черепашек ниндзя. Играется прямо в браузере на
+Sanunaishunter/Battleship [Sonnet 5.5] |  | 
+tuanden0/strike-zone [Sonnet 5.5] |  | Strike Zone An original 3D tactical team shooter for playing with colleagues on an office LAN. Browser client (Three.js,
+somapujith/GameHub [Sonnet 5.5] |  | Hyderabad Tycoon A Hyderabad themed Monopoly style business game: React 19 + Vite on the front, one Cloudflare Worker (H
+bilbiall/SNL [Sonnet 5.5] | snakes and liqa | ﻿  Snakes & Liquor 🐍🥃 A party board game: roll the dice, dodge the snakes, and find out who takes the shot, picks a frie
+benoit-bremaud/retro-blocks [Opus 5.5,Sonnet 5.5] | Retro falling-block puzzle game for the browser (codename). TypeScript strict +  | retro blocks Browser falling block puzzle game (codename). TypeScript strict + native Canvas 2D + Vite.  Status:  brick 
+ayushthaosen-gif/repo-books-library [Opus 5.5,Sonnet 5.5] |  | Books Library A catalogue of all the books in our house.   Goals    Scan to add.  Scan a book's barcode (ISBN) with a ph
+schorschi72/- [Sonnet 5.5] | Країни , столиці , флаги | 
+Holmes-Leighton/Pet-Part-Hunter [Sonnet 5.5] | Roblox Game - Collect parts of pets and build your own | Pet Part Hunter Roblox game: hunt pet parts while a mythic creature chases you, escape with your haul, and build mix and
+jordanlcn/crossword-game [Sonnet 5.5] |  | Tamtech WEM Crossword Live multiplayer crossword (Node.js + WebSocket). 60 words from  words.json  (built from the Excel
+Yolanda-Amos/along-abuja-taxi [Sonnet 5.5] | Along! — a 3D Abuja shared-taxi game for start.ng (Three.js) | Along! — Berger to Wuse A 3D shared taxi game for  , set on an Abuja commute (Berger → Area 1 → Banex → Wuse Zone 4 → Wu
+jdahlin/ootss-mac [Opus 5.5,Sonnet 5.5] | Run Order of the Sinking Star on Apple Silicon Macs: x86_64 PE loader with Win32 | Order of the Sinking Star on macOS Runs the Windows build of  Order of the Sinking Star  on Apple Silicon Macs without W
+Toshiaki0315/PokkePet [Sonnet 5.5] |  | Tauri + React + Typescript This template should help get you started developing with Tauri, React and Typescript in Vite
+gerterholyelvis-pixel/dice-game [Sonnet 5.5] | strategic dice game | 
+ryansjack18-a11y/Games [Sonnet 5.5] |  | 
+bjoern-roccor/leon-memory [Sonnet 5.5] |  | 😀 Leons Memory Ein Memory Spiel für zwei Spieler mit lustigen Smileys, speziell für kleine Kinder – als App installierba
+mattschiering/pitch-hitch-ditch [Sonnet 5.5] | Pitch, Hitch, or Ditch: online buyer-journey pitching game | Pitch, Hitch, or Ditch Online version of the buyer journey pitching game. Teams join from their own devices and see only
+darthreckoner/sensory-town [Opus 5.5,Sonnet 5.5] | Sensory Town — a cozy offline 3D toy town for iPad (dress up, drive, build, squi | Sensory Town A cozy, touch first  3D toy town  for iPad (and desktop browsers): dress up, drive around, build houses in 
+peterdk31/spellmerge [Opus 5.5,Sonnet 5.5] | Merge spells. Cause chaos. Together. A 1-4 player co-op roguelite built by Claud | Spellmerge  Merge spells. Cause chaos. Together.  ·  Every spell is a merge request.  A 2D top down roguelite about buil
+martingabrielsson/Glosor-WordGame [Sonnet 5.5] |  | 
+Heiviel/POD [Sonnet 5.5] |  | 
+SUPERMAGIC1111/dingsty-demo [Sonnet 5.5] | Dingsty Hold Buddy demo: wait on hold with a runner game. Fictional, runs in you | 
+hoguzs/hoguzs [Sonnet 5.5] | Profil README | 🐍 Katkı yılanı               🎮 Benimle Connect Four oyna Bir sütun numarasına tıkla, açılan sayfada  Submit new issue  d
+dogannahmet/yilan-oyunu [Sonnet 5.5] |  | Yılan Oyunu Tarayıcıda çalışan, düz HTML + CSS + JavaScript ile yazılmış basit bir Yılan (Snake) oyunu. Kütüphane, sunuc
+Blightyboi/OuterWilds-Dualsense [Sonnet 5.5] |  | 
+ShepTR/wab2-newrecruit-data [Sonnet 5.5] |  | WAB 2.0 data set for New Recruit — pilot (4 armies) Built from your  Armies of Antiquity v2.0 .docx  (army lists) and th
+rafaeldesousadamasceno/jogoEletricista [Sonnet 5.5] | Survivor do Eletricista - proposta de mecanicas (documento de discussao com o Ga | Survivor do Eletricista Jogo no estilo  survivor  (PC, 2D top down) em que o protagonista é um eletricista com poderes e
+capable78638974979473297813001-pixel/Data [Sonnet 5.5] |  | NHL game predictor Give it two teams (or your own stats) and it predicts the winner, the win probability, the expected s
+Witchdoctor90/cascade-game-shared [Sonnet 5.5] |  | cascade game shared Публічні сторінки застосунків: лендинг Cascade та спільні блоки.   index.html лендинг Cascade assets
+zvillanue/gamenight [Sonnet 5.5] |  | Game Night A small private web app for organising game nights with friends.   Login first; accounts collect only  name, 
+pesuuu/Last-Frontier-V1 [Sonnet 5.5] | Zombie survival hoard game made in my spare time. | Last Frontier Open  LAST FRONTIER.html . This is the only main playable release and runs offline with Three.js, game cod
+huuuda-aus/deathwalker [Sonnet 5.5] | Tribute to Walker | Deathwalker A browser remake, inspired by  Walker  (DMA Design / Psygnosis, Amiga, 1993): a bipedal mech advances right 
+vita-port-lab/vita-builds [NONE] | PlayStation Vita homebrew ports, written with an AI assistant and tested on a re | Vita Port Lab  Native ports for a 2011 handheld that still has plenty of life. Written entirely by AI.   Every line of c
+Misterio77/jagex-auth [ANY:Sol,Fable 5.1] | Small browser-based Jagex account authentication helper for existing RuneScape c | jagex auth A small, unofficial Jagex account authentication helper for existing RuneScape clients. Uses your normal brow
+JorSanders/bomber-chess [Fable 5.1] | Bomberman on a chess board: the bombs are chess pieces and blow up the squares t | Bomber Chess Bomberman on a chess board. You are a king, the bombs are chess pieces, and each one blows up exactly the s
+openvectro/vectro [Opus 5.5,Fable 5.1] | Free, open-source interactive vector animation editor. Exports .riv, so it plays | Vectro Free, open source interactive vector animation: layers, vectors, timelines and state machines, for every platform
+asura-balbalta/asura-balbalta.github.io [Fable 5.1] |  | 
+samsunk25-hue/a260828ani_e [Fable 5.1] | 거인의 인체 탐험 - 세포 발전소를 가동하라 (3D 생명과학 방탈출 게임) | React + Vite This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules. Current
+Kaux-Studios/KEDO [Fable 5.1,Opus 5.5] | KEDO (Kaux Enriched Data Object): lenguaje y toolchain de contenido de juego enr | KEDO — Kaux Enriched Data Object Lenguaje y toolchain propios de Kaux Studios para definir contenido de juego enriquecid
+aditk3/drinking-games-claude [Fable 5.1] |  | Drinking Games for 4 A local, browsable library of drinking games that work with exactly four people. No backend, no acc
+ha7rock/blade2-mobile [Fable 5.1,Opus 5.5] | Run the Nintendo Switch game Blade II: The Return of Evil natively on macOS / iO | Blade II Mobile — 把 Switch 版《Blade II: The Return of Evil》搬到 iOS / macOS 这是对  （把 Switch 版《暗黑破坏神 II：狱火重生》原生跑在 iPhone 上的开源
+francisphan/pung [Fable 5.1] | Hong Kong mahjong against three opponents, in the browser. Sibling of Sparrow. | Pung Hong Kong mahjong you can actually play: against three opponents, or with friends around one table, in the browser,
+DeAnthonee/deanthoneeking.com [Fable 5.1] | Personal site + live game room, served at deanthoneeing.com via Cloudflare Pages | deanthoneeking.com Personal site + live game room, served at deanthoneeing.com via Cloudflare Pages
+RashidIsmayilzada/chess-match-analyzer [Fable 5.1,Opus 5.5] |  | chess analyzer A local, single user web app that imports a chess.com user's games and produces a chess.com style Game Re
+klaymendel-art/tesla-flip [Fable 5.1] | Tap-to-kickflip mobile game: Elon Musk rides a tiny Tesla like a skateboard | Tesla Flip 🛹⚡ Tiny mobile first browser game: a cartoon Elon rides a miniature Tesla Roadster like a skateboard through 
+muhammedqais/blind-buzzer [Fable 5.1] |  | Blind Buzzer A party game about feeling time. Each round names a target, say  20 seconds . You tap to start a hidden clo
+RickMcIntyre/ncaa2mindrill [Fable 5.1] | Daily college football play-calling game built on real FBS drives | NCAA Two Minute Drill (ncaa2mindrill.com) A college football version of nfl2mindrill.com: one real late game FBS drive a
+TakuroFukamizu/20261004_shi3z_hackathon [Fable 5.1,Sonnet 5.5,Opus 5.5] |  | StackChan + RoverC Pro 制御 M5Stack 公式 StackChan のボディ（K151）に  Core2  を載せ、 M5StickC Plus  が制御する RoverC Pro に乗せた機体を PC から動かす
+omrigattegno/Imposter [Fable 5.1] | Imposter game | Imposter A pass the phone party game for 4–10 people around a table. One phone, no cards, no second device, no account. 
+TefMeister/hand-poser-vr [Fable 5.1] | UNTESTED, design stage - a compact desktop window of bone sliders that poses the | Hand Poser — pose the player's hands in RE Engine games with sliders   ⚠️  UNTESTED.  Built on 2026 10 16 and proven onl
+shueny/german-breakout [Fable 5.1] | Retro German A1 vocabulary breakout game (Vue 3 + Vite) | RETRO DEUTSCH A1 BREAKOUT 復古風德語 A1 單字打磚塊，Vue 3 + Vite + TypeScript。   開發  bash npm install npm run dev   http://localhos
+TefMeister/window-view-vr [Fable 5.1] | UNTESTED - see your desktop windows inside any OpenXR game (D3D11/D3D12) and use | Window View — see your desktop windows inside any OpenXR game, and use them with the mouse   ⚠️  UNTESTED.  Built on 202
+watkast/predictionbots [Fable 5.1] |  | predictionbots Automated trading research for  Kalshi  and  Polymarket , evaluated only with a liquidity realistic simul
+cambopokerr/cambo-poker [Fable 5.1] |  | Cambo Poker Private home game manager for Jett and Maddox: sessions, attendance, rake, expenses, dealer earnings, profit
+denizdalga998-boop/oryvona-panel [Fable 5.1] |  | ﻿  Oryvona Games Paneli Statik panel sayfası. Veri: Supabase (canlı). Kaynak: work/oryvona panel/web (build.js).
+jarredksmith/squiggle [Fable 5.1] |  | Squiggle A daily word game. Each squiggle is the line a finger draws when it swipe types a word on a phone keyboard. Thr
+boyago/valleyblocks [Fable 5.1] |  | ValleyBlocks — plataforma própria Monorepositório do ValleyBlocks, desmembrado do portal LABSGames em 16/10/2026.   Past
+kld-altamimi/bab-alyaman [Fable 5.1] | Trying to make a first game | 
+EmmanuelRTM/new-plateu [Fable 5.1] | Browser prototype inspired by Zelda: Breath of the Wild. Wake in a shrine, explo | New Plateau A browser prototype inspired by the opening of  The Legend of Zelda: Breath of the Wild . You wake in the Sh
+ttechsyd/op-simulator [Fable 5.1] |  | 
+DrFlGd/Game-Repo [Fable 5.1,Opus 5.5] |  | Game Repo A Windows desktop app for organising a personal video game library: audit ROM sets against  .dat  files, build
+nbroadbent/kurdistan-monopoly [Fable 5.1] | Kurdish-themed Monopoly board game for the browser: places across Bashur, Rojava | Kurdistan Monopoly A Monopoly style board game with two themes:  Kurdistan  — Bashur (Iraq), Rojava (Syria), Rojhelat (I
+meltingscales/DrakonixPicrossAndroid [Fable 5.1,Opus 5.5] |  | Drakonix Picross Simple Android picross (nonogram) game. No ads, no BS. Just a fun puzzle game.     from the releases pa
+narfman0/grimtable [Fable 5.1] | Rules-enforcing engine and web client for an 11th edition grimdark wargame. Rust | grimtable A rules enforcing engine and web client for playing the 11th edition of a certain grimdark tabletop wargame. R
+travex-pixel/Moss-and-Moon [NONE] |  | Moss & Moon 🌙 A tiny watercolor garden you wake with a tap. One glowing seed, a chain of blooms, three sparks per round,
+cfeduke/emergent-tactics [Fable 5.1] | A card battler for learning ISMCTS + neural network opponents: Rust engine, PyTo | Emergent Tactics A two player card battler built to learn, hands on, how Information Set Monte Carlo Tree Search (ISMCTS
+travex-pixel/Colony-Go [Fable 5.1,Opus 5.5] |  | Mochi Colony A cosy, hand painted path puzzle. Guide the little forest spirits home by drawing routes across a storybook
+EmilKrobot/Games-Sokoban-Solver [Fable 5.1] |  | 
+Nublys/peacock [Fable 5.1] |  | Peacock A two player Forge 1.20.1 pack: frontier logistics on Tectonic terrain. Create and Steam 'n' Rails over Geolosys
+jetomev/linux-exodos [Fable 5.1] | Running the eXoDOS collection (7,600+ DOS games) on Linux / KognogOS from an ext | Linux   eXoDos    Running the eXoDOS collection on Linux, on KognogOS, from an external disk.  eXoDOS is a curated set o
+M-turtle/kingdom-quest [Fable 5.1] | Kingdom Quest: a kids' learning kingdom (math, reading, chess, music, art, natur | 
+matisse-walk/matisse-walk.github.io [Fable 5.1] | Matisse's Montparnasse: a walking guide for the MATISSE project, Paris, 21 Oct 2 | matisse walk.github.io  Matisse's Montparnasse : a walk through the Paris of Henri Matisse and his friends, as a comic b
+Big-Head-Club/mama-gather [Fable 5.1] |  | Mama Duck A daily game. Built on  .   npm test   assumptions + template tests node server.js   http://localhost:3000    
+dfrancour/quiet-football [Fable 5.1,Opus 5.5,Sonnet 5.5] |  | Quiet Football An NFL season browser with no ads, no betting lines, and no result shown until you ask for it. A static s
+sequoia-hope/playground-kit [Fable 5.1] | Shared toolkit for Rust + Bevy games on the web and natively, carved from Midnig | Playground Kit A shared toolkit for Rust + Bevy games that run in the browser (wasm, WebGPU with a WebGL2 fallback) and 
+ZaneyP/lantern [Fable 5.1] | Lantern: isometric survival-horror herding game. Your cursor is the only light.  | Lantern An HTML5 canvas game, deployed on Cloudflare Workers (static assets) and embedded (iframe) on the Scout House Bu
+almuhairimayed8770-byte/SAOGAME [Fable 5.1] |  | 
+hocmemini/gemma-raid [Fable 5.1] | Co-op AR RPG where Gemma 4 runs on your phone as the dungeon master. Offline, pe | Raid — a co op AR RPG where Gemma 4 is the dungeon master  Built in one day at MLH Hacktoberfest Hack Day (Draper x AMH)
+hyunhomon/administration-of-the-video-game [ANY:Argon] |  | Administration of the Video Game (전자오락관리국)    “Four AI heroes play an RPG. You are the NPC who changes their quest.”   H
+hyunaeee/google-hackaton-argon [ANY:Argon] |  | FANVERSE — Your Story. Your Universe.    "Don't just follow the story. Become part of it."      An AI orchestrated 3D in

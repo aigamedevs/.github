@@ -1,6 +1,6 @@
 # Gemini 4 Argon games
 
-Browse **15 curated game units** from **9 source repositories** attributed to Gemini 4 Argon. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **16 curated game units** from **10 source repositories** attributed to Gemini 4 Argon. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -21,7 +21,7 @@ Browse **15 curated game units** from **9 source repositories** attributed to Ge
 
 ## Game library
 
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **6 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **7 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **4 game units**
 - 💥 [Action and Shooters](#action-and-shooters) — **2 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **1 game units**
@@ -36,6 +36,7 @@ Browse **15 curated game units** from **9 source repositories** attributed to Ge
 - [**Argon Valley**](../games/argon-valley/readme.md) — ⭐ **8.2/10** · Gemini 4 Argon · Three.js, WebGL, GLSL, Web Audio API, Browser · [≈ creator-reported model evidence](https://github.com/ammaarreshi/argon-games/commit/7751fffc4cad78def8fe0bd22c3fe18776caabf3) · [files](https://github.com/ammaarreshi/argon-games/blob/main/argon-valley/index.html)
 - [**Grand Theft Argon**](../games/grand-theft-argon/readme.md) — ⭐ **8.2/10** · Gemini 4 Argon · Three.js, WebGL, GLSL, Web Audio API, Browser · [≈ creator-reported model evidence](https://github.com/ammaarreshi/argon-games/commit/7751fffc4cad78def8fe0bd22c3fe18776caabf3) · [files](https://github.com/ammaarreshi/argon-games/blob/main/grand-theft-argon/index.html)
 - [**The Corridor**](../games/the-corridor/readme.md) — ⭐ **8.2/10** · Gemini 4 Argon · Three.js, WebGL, GLSL, Web Audio API, Browser · [≈ creator-reported model evidence](https://github.com/ammaarreshi/argon-games/commit/7751fffc4cad78def8fe0bd22c3fe18776caabf3) · [files](https://github.com/ammaarreshi/argon-games/blob/main/the-corridor/index.html)
+- [**Novaki: Still Smoldering**](../games/novaki-still-smoldering/readme.md) — ⭐ **7.5/10** · Gemini 4 Argon · TypeScript, Browser · [≈ creator-reported model evidence](https://github.com/novaki-ai/still-smoldering/blob/master/README.md) · [files](https://github.com/novaki-ai/still-smoldering/blob/master/src/game/GameEngine.ts) · [play](https://novaki.lol) · 📸 **7.1/10** · [screenshot](https://github.com/novaki-ai/still-smoldering/blob/master/docs/test-06/boss.jpg)
 
 [Back to game library](#game-library)
 
@@ -63,7 +64,7 @@ Browse **15 curated game units** from **9 source repositories** attributed to Ge
 
 ## Strategy, Simulation, and Sports
 
-- [**PNF-404 Rush**](../games/pnf-404-rush/readme.md) — ⭐ **7.1/10** · Gemini 4 Argon · HTML, JavaScript, Canvas, Browser · [? inferred model evidence](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/README.md) · [files](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/game.js)
+- [**PNF-404 Rush**](../games/pnf-404-rush/readme.md) — ⭐ **7.1/10** · Gemini 4 Argon · HTML, JavaScript, Canvas, Browser · [? inferred model evidence](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/README.md) · [files](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/game.js) · 📸 **7.3/10** · [screenshot](https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/screenshots/gameplay_battle.png)
 
 [Back to game library](#game-library)
 

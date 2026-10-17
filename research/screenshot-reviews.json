@@ -5420,6 +5420,686 @@
       "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
       "reviewed_on": "2026-09-30",
       "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/novaki-ai/strike-twice",
+      "url": "https://github.com/novaki-ai/strike-twice/blob/master/docs/test-06/boss.jpg",
+      "game": "Novaki: Strike Twice",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down boss fight in a rainy cobblestone street with a rubber-hose villain, boss bar, timer and dialogue line; coherent cartoon style, busy HUD.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/novaki-ai/the-last-light",
+      "url": "https://github.com/novaki-ai/the-last-light/blob/master/docs/test-06/boss.jpg",
+      "game": "Novaki: The Last Light",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Moody boss encounter in a drowned archive with a tentacled boss, bullet ring and narration; elegant but the boss intro text dominates the frame.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/novaki-ai/still-smoldering",
+      "url": "https://github.com/novaki-ai/still-smoldering/blob/master/docs/test-06/boss.jpg",
+      "game": "Novaki: Still Smoldering",
+      "score_10": 7.1,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down cathedral boss arena with a candle boss, boss health bar, stage timer, dialogue box and touch controls; detailed tiles, small sprites.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Kimjh2003/Vulkan-Arena-Demo-Feat-GPT-6.1-Sol",
+      "url": "https://github.com/Kimjh2003/Vulkan-Arena-Demo-Feat-GPT-6.1-Sol/blob/main/docs/images/vulkan-emulator.png",
+      "game": "Vulkan Arena Demo",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Angled 3D arena with grey blocks, coloured capsule enemies, bullet trail and twin-stick touch controls; readable but primitive geometry.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/plwg/robot-steps",
+      "url": "https://github.com/plwg/robot-steps/blob/master/docs/level.png",
+      "game": "Robot Steps",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Kids coding puzzle board with robot, stars, rocks and an arrow program strip; clean and friendly, flat UI art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/th-in-gs/sh_invaders",
+      "url": "https://github.com/th-in-gs/sh_invaders/blob/main/mac_screenshot.png",
+      "game": "bin/sh Invaders",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Terminal Space Invaders with coloured invader rows, bunkers and score line; faithful and readable, very minimal.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/roszhan2684/california-drive",
+      "url": "https://github.com/roszhan2684/california-drive/blob/main/docs/media/la-day-clear.jpg",
+      "game": "California Drive",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person 3D drive on a city avenue with towers, trees and an orange sports car; clean lighting, simple geometry.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Githyot/mine-clone",
+      "url": "https://github.com/Githyot/mine-clone/blob/main/docs/screenshots/demo.png",
+      "game": "Mine Clone",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Voxel world with a wooden house, rainbow wool blocks, water and a hotbar; familiar block style, plain scene.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hubstacksea/tux64",
+      "url": "https://github.com/hubstacksea/tux64/blob/main/docs/screenshots/grounds.png",
+      "game": "TUX 64 — The Kernel Castle Adventure",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Snowy 3D platformer level with Tux, trees, snowmen and collectible HUD; cheerful, simple shapes.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Dynasty9/Frontline",
+      "url": "https://github.com/Dynasty9/Frontline/blob/main/docs/screenshots/battle.jpg",
+      "game": "Frontline",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Squad RTS battlefield with buildings, fires, trees and a unit list HUD; detailed terrain, dense interface.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yahya123467/Pax-history-s-",
+      "url": "https://github.com/yahya123467/Pax-history-s-/blob/claude/ai-grand-strategy-game-9i9vgx/docs/screenshot.png",
+      "game": "Pax History",
+      "score_10": 6.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Grand-strategy Europe map with nation panel and event log; clear map, text-heavy UI.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/helico-tech/retro-sports",
+      "url": "https://github.com/helico-tech/retro-sports/blob/main/docs/screenshots/super-shot.png",
+      "game": "RETRO SPORTS",
+      "score_10": 7.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel-art beach dodgeball match at sunset with team bars, timer and palm trees; vibrant 16-bit style, readable action.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ls11ae/ruler-of-the-plane",
+      "url": "https://github.com/ls11ae/ruler-of-the-plane/blob/main/docs/look/start-map.webp",
+      "game": "Ruler of the Plane",
+      "score_10": 6.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Hand-drawn parchment world map menu linking geometry games; charming, but a menu.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/xaisanatvtz25-ctrl/ball-vs-ball",
+      "url": "https://github.com/xaisanatvtz25-ctrl/ball-vs-ball/blob/main/img/cover.jpg",
+      "game": "Ball vs Ball",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Title screen with two glossy balls and a row of skill icons; polished but no gameplay.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/laamella-gad/copter_duel_sloppy_edition",
+      "url": "https://github.com/laamella-gad/copter_duel_sloppy_edition/blob/master/screenshots/start.png",
+      "game": "Copter Duel Sloppy Edition",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Two-player C64 helicopter duel map with energy, rockets and copters panels; authentic but sparse.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ichorid/vibecoder",
+      "url": "https://github.com/ichorid/vibecoder/blob/main/docs/screenshot.png",
+      "game": "VIBE CODER",
+      "score_10": 5.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Phone clicker UI with office scene, prompt button, upgrades and log; tidy pixel UI, small.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jasisz/ceo-tycoon",
+      "url": "https://github.com/jasisz/ceo-tycoon/blob/main/docs/demo.gif",
+      "game": "CEO Tycoon",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric pixel office floor with staff, desks and a stats sidebar; cosy and readable, small sprites.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Callzik/fart-together",
+      "url": "https://github.com/Callzik/fart-together/blob/main/screenshot.png",
+      "game": "Fart Together",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Colourful 3D water slide race with animals on a raft, timer and player bars; bright, coherent low-poly art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yeahthisisrob/family-trivia",
+      "url": "https://github.com/yeahthisisrob/family-trivia/blob/main/docs/screenshots/01-trivia-flow.png",
+      "game": "Family Trivia",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Plain mobile trivia category menu; functional, little visual content.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kendallmark3/video-poker",
+      "url": "https://github.com/kendallmark3/video-poker/blob/main/screenshots/r9-wide.png",
+      "game": "Carla's Video Poker Game",
+      "score_10": 6.3,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Neon video poker table with pay table, five card slots and bet buttons; polished casino UI, static.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Harlock123/AVARipOff",
+      "url": "https://github.com/Harlock123/AVARipOff/blob/main/Images/AVARipOff-towing.png",
+      "game": "AVA Rip Off",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Vector arcade field with fuel canisters, raider tanks and score; crisp retro vector look, sparse.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alisa085/alisa085.github.io",
+      "url": "https://github.com/alisa085/alisa085.github.io/blob/main/docs/english.png",
+      "game": "หมู่เกาะเฌอแตม",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Blocky train scene above a word quiz with answer buttons; friendly but simple.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/DBYoder/Driving-Game",
+      "url": "https://github.com/DBYoder/Driving-Game/blob/claude/clever-turing-v4fp3y/docs/screenshots/mile-1-traffic.png",
+      "game": "Highway 1",
+      "score_10": 6.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly highway drive through cornfields with traffic, timer and speed HUD; clear, plain landscape.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Ekekwecharles/coin-dash-arena",
+      "url": "https://github.com/Ekekwecharles/coin-dash-arena/blob/main/cover.png",
+      "game": "Coin Dash Arena",
+      "score_10": 6.2,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Floating-island arena with coins and player character under a large title overlay; appealing but promotional.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/lambsubstitute/three-cats",
+      "url": "https://github.com/lambsubstitute/three-cats/blob/main/docs/screenshots/scullery.png",
+      "game": "Moe, Joe & Mr Mews",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric pixel-art room with cats, wooden floor, water channel and props; cohesive retro style.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/makoydev/ai-transformation-simulator",
+      "url": "https://github.com/makoydev/ai-transformation-simulator/blob/main/docs/screenshots/dashboard.jpg",
+      "game": "AI Transformation Simulator",
+      "score_10": 6.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Corporate strategy dashboard with org map, metrics and executive list; clean dark UI, no scene.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/eduardmur/tesla-roadster-simulator",
+      "url": "https://github.com/eduardmur/tesla-roadster-simulator/blob/main/docs/media/curl.gif",
+      "game": "Tesla Roadster Simulator",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark 3D stage with a roadster below a tall curved ramp; sparse scene, little context.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/venson01/mama-put-rush",
+      "url": "https://github.com/venson01/mama-put-rush/blob/main/public/cover.png",
+      "game": "Mama Put Rush",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Illustrated Lagos buka counter with three customers, order chits and a dish; bold, appealing flat art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/IntelligentRebel/constellations",
+      "url": "https://github.com/IntelligentRebel/constellations/blob/main/docs/screenshots/en/map.png",
+      "game": "Constellations",
+      "score_10": 6.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. 4X galaxy map with territories, fleets and side panels; detailed but dense UI.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Louzada-git/Dungeon-Crawler",
+      "url": "https://github.com/Louzada-git/Dungeon-Crawler/blob/main/revisao/terceira/04-mesmo-lugar-isometrica.png",
+      "game": "Dungepm — As Cisternas",
+      "score_10": 6.9,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. PS1-style isometric dungeon corridors with torches, hero and hotbar; moody and coherent.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jeffcampbell/Pumpkin-Carving-Party-Game",
+      "url": "https://github.com/jeffcampbell/Pumpkin-Carving-Party-Game/blob/main/docs/images/game-carving.jpg",
+      "game": "Pumpkin Carving Party Game",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pumpkin carving scene with candles and tool palette; warm lighting, nicely modelled pumpkin.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Yashgurav002/hearsay",
+      "url": "https://github.com/Yashgurav002/hearsay/blob/main/docs/screenshots/3d-inn.png",
+      "game": "Hearsay: Everyone's talking about you.",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly village square with NPCs, speech bubbles and gossip panel; readable, modest detail.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/LuckyMonkey/luckymonkey-game",
+      "url": "https://github.com/LuckyMonkey/luckymonkey-game/blob/main/docs/img/oncall-overview.png",
+      "game": "Lucky Monkey: On-Call in the Jungle",
+      "score_10": 6.9,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric jungle network map with nodes, paths and an incident panel; distinctive, busy text.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AbrahamCain/glassbox",
+      "url": "https://github.com/AbrahamCain/glassbox/blob/main/docs/screenshot.png",
+      "game": "Glassbox",
+      "score_10": 5.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Layer-stack visualisation with quest list and question panel; educational, text-heavy.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/BillYLZ/r3f-mister-mole",
+      "url": "https://github.com/BillYLZ/r3f-mister-mole/blob/main/docs/mister-mole.png",
+      "game": "Mister Mole",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D digging mine with dirt blocks, boulders, gems and score HUD; solid lighting and readability.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gabrielflorianoo/Vic3-Inspired",
+      "url": "https://github.com/gabrielflorianoo/Vic3-Inspired/blob/claude/blissful-brahmagupta-epunwf/docs/screenshots/pick.jpg",
+      "game": "Iron & Society",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Painted grand-strategy province map with nation selection panel; attractive map, static.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ddjess/bits-fetch",
+      "url": "https://github.com/ddjess/bits-fetch/blob/main/docs/screenshots/charge.png",
+      "game": "Bits Fetch",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 8-bit fetch scene with dog, thrown bone arc, hills and power bar; simple retro art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/chopki/test-game",
+      "url": "https://github.com/chopki/test-game/blob/ccr-ae3db4b4-8qo0ga/docs/screenshots/showcase-desktop-high.jpg",
+      "game": "Hold the Hall",
+      "score_10": 7.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Painterly top-down castle defence map with river, forest, walls and build cards; rich, cohesive art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/FlamingFury00/Cartoon-Hitster",
+      "url": "https://github.com/FlamingFury00/Cartoon-Hitster/blob/main/docs/screenshots/listen.webp",
+      "game": "Sigle in Fila 🎵📼",
+      "score_10": 5.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Mobile music-guessing timeline with cards and confirm button; colourful but UI only.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Harlock123/AVACastlesOfDrCreep",
+      "url": "https://github.com/Harlock123/AVACastlesOfDrCreep/blob/main/Images/AVACastlesOfDrCreep-gatehouse.png",
+      "game": "AVA Castles of Dr. Creep",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark castle room with ladder, door and tiny character; faithful but sparse.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AndreyBelyy/dunecraft-conquer",
+      "url": "https://github.com/AndreyBelyy/dunecraft-conquer/blob/main/docs/screenshots/battle.jpg",
+      "game": "DuneCraft & Conquer",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Desert RTS battle with many units, bases, explosions, minimap and build sidebar; busy and detailed.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/troshkinpavel/tesla-bird",
+      "url": "https://github.com/troshkinpavel/tesla-bird/blob/main/docs/gameplay.gif",
+      "game": "Tesla Bird",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Night city title card with Tesla Bird logo and controls hint; menu only.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/goyalion17/breakout-game",
+      "url": "https://github.com/goyalion17/breakout-game/blob/main/screenshot.png",
+      "game": "Breakout",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Turtle-graphics Breakout with brick rows on a game-over screen; very basic.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ol0710/playnin",
+      "url": "https://github.com/ol0710/playnin/blob/main/docs/screenshot.png",
+      "game": "Turtle Ninja Quest — ретро-игра в браузере",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel platformer level framed inside a retro TV with knobs; charming frame, small play area.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/klaymendel-art/tesla-flip",
+      "url": "https://github.com/klaymendel-art/tesla-flip/blob/main/docs/screenshots/pair.png",
+      "game": "Tesla Flip 🛹⚡",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Portrait pixel night street with a rider on a Tesla and flip button; pleasant backdrop, tiny action.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/meltingscales/DrakonixPicrossAndroid",
+      "url": "https://github.com/meltingscales/DrakonixPicrossAndroid/blob/main/screenshots/play/gallery-1.png",
+      "game": "Drakonix Picross",
+      "score_10": 5.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Picross gallery of solved pixel images; neat, not gameplay.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hocmemini/gemma-raid",
+      "url": "https://github.com/hocmemini/gemma-raid/blob/main/docs/screenshots/lobby.png",
+      "game": "Raid — a co-op AR RPG where Gemma 4 is the dungeon master",
+      "score_10": 3.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark mobile setup screen with small text and one button; little visual content.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/etothesmith/city-squirrel",
+      "url": "https://github.com/etothesmith/city-squirrel/blob/main/assets/og.jpg",
+      "game": "City Squirrel: East End",
+      "score_10": 6.4,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Rainy noir rooftop key art with the City Squirrel logo; strong mood but a title image.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/TylusKinas/QRG",
+      "url": "https://github.com/TylusKinas/QRG/blob/main/docs/img/breakout.gif",
+      "game": "QRG – QR Game Engine",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Tiny Breakout board with coloured brick rows and paddle; minimal.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hsglc/protect",
+      "url": "https://github.com/hsglc/protect/blob/main/docs/hero.jpg",
+      "game": "Protect",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Glowing co-op tower-defence path on a dark island with towers, lanes and player list; clean neon style.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Momonimome/xl-chess",
+      "url": "https://github.com/Momonimome/xl-chess/blob/main/docs/screenshot.png",
+      "game": "XL Chess",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Plain chess board with settings panel; clean and readable, minimal.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mykkro/kwest",
+      "url": "https://github.com/mykkro/kwest/blob/main/public/screenshot.jpg",
+      "game": "Kwest",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. First-person brick dungeon corridor lit by wall torches with a minimap; atmospheric, simple.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/g8r-b8/frontierLab",
+      "url": "https://github.com/g8r-b8/frontierLab/blob/main/assets/screenshot-board.png",
+      "game": "Frontier",
+      "score_10": 7.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Polished strategy board with a radial stakeholder map, objectives and quarterly briefing; dense but readable management-sim interface, no action scene.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hardwaremack-prog/ember-valley",
+      "url": "https://github.com/hardwaremack-prog/ember-valley/blob/main/screenshot.png",
+      "game": "Ember Valley",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. First-person 3D mountain valley with lake, trees and distant peaks; coherent natural scene, low capture resolution and no visible HUD.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Harlock123/AVADKongJr",
+      "url": "https://github.com/Harlock123/AVADKongJr/blob/main/Images/AVADKongJr-jungle.png",
+      "game": "AVA DKong Jr",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Clean retro arcade jungle level with vines, enemies, score, bonus and lives; very readable, simple flat art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MundaPlus/Underneath",
+      "url": "https://github.com/MundaPlus/Underneath/blob/master/docs/screenshots/fungal.webp",
+      "game": "Underneath",
+      "score_10": 6.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Warm idle-game interface with growth list, health bar and a glowing fungal network panel; tidy styling, mostly menus.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/arKharashi/mergeup",
+      "url": "https://github.com/arKharashi/mergeup/blob/main/docs/screenshots/desktop-en.png",
+      "game": "MergeUp",
+      "score_10": 6.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Simulated git terminal with task checklist, team chat and file panel; clear and readable, little visual spectacle.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dtghgthf/BrowserGame",
+      "url": "https://github.com/dtghgthf/BrowserGame/blob/main/screenshots/chromium-14-krake-kanone.png",
+      "game": "Leuchtturmwaerter",
+      "score_10": 7.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Atmospheric pixel-art ship deck at night with cannon gauge, kraken marker and HUD stats; strong mood, small busy text.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/levikore/roeto-dice-game",
+      "url": "https://github.com/user-attachments/assets/b912e958-e438-4cf4-8618-02f308a813f0",
+      "game": "Roeto Dice Game",
+      "score_10": 4.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Plain dark web form with two score cards and dice; functional, minimal art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MiyazakiSora1234/quiz-knights",
+      "url": "https://github.com/MiyazakiSora1234/quiz-knights/blob/main/docs/screenshots/04-host-battle.jpg",
+      "game": "QUIZ KNIGHTS",
+      "score_10": 5.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Quiz-battle host screen with boss card, three player cards and judge buttons; clean card UI, static.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alexander-uspenskiy/CarRace",
+      "url": "https://github.com/alexander-uspenskiy/CarRace/blob/main/docs/images/05-race-chase.jpg",
+      "game": "CarRace",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person 3D open-wheel race on a palm-lined city circuit with standings, lap timer, speedometer and minimap; simple low-poly buildings.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GIider/ringbeat",
+      "url": "https://raw.githubusercontent.com/GIider/ringbeat/screenshots/play-desktop.png",
+      "game": "Ringbeat",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Rhythm game framed inside a retro Nokia-style phone with note lanes and combo counter; charming stylized concept, small play area.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alexander-uspenskiy/LastTrack",
+      "url": "https://github.com/alexander-uspenskiy/LastTrack/blob/main/docs/images/garage.jpg",
+      "game": "Last Track",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Neon garage upgrade menu with a stylized car and stat panel; polished but a menu, not gameplay.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/janroudaut/kaboom-arena",
+      "url": "https://github.com/janroudaut/kaboom-arena/blob/main/docs/screenshots/gameplay-3d.webp",
+      "game": "Kaboom Arena",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Angled 3D bomberman arena with destructible bricks, bots and scoreboard; readable, plain materials.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/leesyashin/Tycoon-",
+      "url": "https://github.com/leesyashin/Tycoon-/blob/main/docs/screenshots/v1/desktop-en.png",
+      "game": "Matcha Cafe Empire",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric cafe tycoon floor with levelled stations, customers and currency HUD; tidy, small figures.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gladimdim/super-desktop-tictactoe",
+      "url": "https://github.com/gladimdim/super-desktop-tictactoe/blob/main/docs/game.png",
+      "game": "TicTacToe for SUPER DESKTOP",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Minimal tic-tac-toe board against the CPU with a score panel; clean but very simple.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/oscarqht/pikmin-rush-by-opus-5.5",
+      "url": "https://github.com/oscarqht/pikmin-rush-by-opus-5.5/blob/main/screenshots/03-gameplay-grove.png",
+      "game": "Bulborb Rush",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Lush cartoon tower-defense path with mushroom towers, enemy waves, wave and coin HUD and a new-enemy card; rich, coherent art.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/oscarqht/pikmin-rush-by-gemini-4",
+      "url": "https://github.com/oscarqht/pikmin-rush-by-gemini-4/blob/main/screenshots/gameplay_battle.png",
+      "game": "PNF-404 Rush",
+      "score_10": 7.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Cartoon tower-defense map with winding path, ponds, towers and a detailed unit info bar; readable with good detail, flatter background.",
+      "reviewed_on": "2026-10-17",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # GPT-6 Astra games
 
-Browse **114 curated game units** from **85 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **115 curated game units** from **86 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -49,7 +49,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **3 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **14 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **5 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **9 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **10 game units**
 
 ## Action and Shooters
 
@@ -202,5 +202,6 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Trashketball — Out of Office (Max)**](../games/trashketball-out-of-office-max/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-max-codex-trashketball)
 - [**Trashketball (High)**](../games/trashketball-high/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-high-codex-trashketball)
 - [**Trashketball (Ultra)**](../games/trashketball-ultra/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-ultra-codex-trashketball)
+- [**Novaki: The Last Light**](../games/novaki-the-last-light/readme.md) — ⭐ **7.4/10** · GPT-6 Astra · TypeScript, Browser · [≈ creator-reported model evidence](https://github.com/novaki-ai/the-last-light/blob/master/README.md) · [files](https://github.com/novaki-ai/the-last-light/blob/master/src/game.ts) · [play](https://novaki.lol) · 📸 **7.0/10** · [screenshot](https://github.com/novaki-ai/the-last-light/blob/master/docs/test-06/boss.jpg)
 
 [Back to game library](#game-library)

@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-10–2026-10-16** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-11–2026-10-17** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -12,16 +12,16 @@
 
 | Rank | Game | Score | Date basis | Model | Technology | Links |
 | ---: | --- | ---: | --- | --- | --- | --- |
-| 1 | **Way of the Blade** | ⭐ **8.5** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | HTML, JavaScript, Canvas, Browser | [source](https://github.com/oneshoterick1S2R/way-of-the-blade/blob/main/index.html) · [evidence](https://github.com/oneshoterick1S2R/way-of-the-blade) · [play](https://oneshoterick1s2r.github.io/way-of-the-blade/) |
-| 2 | **Wild Fields 1648** | ⭐ **8.5** | 2026-10-11 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Three.js, Browser, WebGL | [source](https://github.com/0xInsiderhq/wild-fields-1648/blob/main/assets/scan_pack.js) · [evidence](https://github.com/0xInsiderhq/wild-fields-1648) · [play](https://0xinsiderhq.github.io/wild-fields-1648/) |
-| 3 | **Lumencraft** | ⭐ **8.3** | 2026-10-15 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, WebGL, Browser, Cloudflare | [source](https://github.com/TESTYEE-09/opus5.5Minecraft/blob/main/index.html) · [evidence](https://github.com/TESTYEE-09/opus5.5Minecraft) · [play](https://testyee-09.github.io/opus5.5Minecraft/) |
-| 4 | **Zeldo - Episode I: The Sunken Sanctum** | ⭐ **8.3** | 2026-10-14 · repository_creation_proxy | Gemini 4 Argon | Next.js, React, TypeScript, Babylon.js, Zustand, Web Audio API, Browser | [source](https://github.com/EBIKEBUILDER/zeldo-argon/blob/main/src/app/page.tsx) · [evidence](https://github.com/EBIKEBUILDER/zeldo-argon) · [play](https://zeldo-argon.vercel.app) |
-| 5 | **The Vertical Lost & Found** | ⭐ **8.3** | 2026-10-15 · repository_creation_proxy | Gemini 4 Argon | TypeScript, Three.js, Blender, Browser | [source](https://github.com/Emily2040/vertical-lost-and-found/blob/review/gemini-demo/authoring/railway-hall/audit_hall.py) · [evidence](https://github.com/Emily2040/vertical-lost-and-found) |
-| 6 | **Argon Airspace** | ⭐ **8.2** | 2026-10-13 · repository_creation_proxy | Gemini 4 Argon | Three.js, WebGL, GLSL, Web Audio API, Browser | [source](https://github.com/ammaarreshi/argon-games/blob/main/argon-airspace/index.html) · [evidence](https://github.com/ammaarreshi/argon-games) |
-| 7 | **Corner Mart** | ⭐ **8.2** | 2026-10-12 · repository_creation_proxy | GPT-6 Astra | TypeScript, Three.js, Blender, Browser | [source](https://github.com/ericyanpek/game-sample-corner-mart/blob/main/assets/source/build_characters.py) · [evidence](https://github.com/ericyanpek/game-sample-corner-mart) |
-| 8 | **Zombie Horde Survivors** | ⭐ **8.0** | 2026-10-14 · repository_creation_proxy | Claude Sonnet 5.5 | JavaScript, Three.js, Browser | [source](https://github.com/agustindiazcano/zombie-horde-survivors/blob/main/eslint.config.js) · [evidence](https://github.com/agustindiazcano/zombie-horde-survivors) · [play](https://agustindiazcano.github.io/zombie-horde-survivors/) |
-| 9 | **Trust Issues** | ⭐ **8.0** | 2026-10-15 · repository_creation_proxy | Claude Sonnet 5.5 | TypeScript, Phaser, Browser | [source](https://github.com/theoleuthardt/trust-issues/blob/main/backend/alembic/env.py) · [evidence](https://github.com/theoleuthardt/trust-issues) |
-| 10 | **Opus FPS** | ⭐ **8.0** | 2026-10-13 · repository_creation_proxy | Claude Opus 5.5 | Godot, GDScript | [source](https://github.com/frankhale/opus-fps/blob/main/godot/project.godot) · [evidence](https://github.com/frankhale/opus-fps) |
+| 1 | **2048 Siege (prototype fork)** | ⭐ **8.6** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, PixiJS, Browser | [source](https://github.com/jun0e/2048-siege/blob/main/2048-siege-kv.html) · [evidence](https://github.com/jun0e/2048-siege) · [play](https://jun0e.github.io/2048-siege/) |
+| 2 | **Word Tycoon Ecosystem** | ⭐ **8.6** | 2026-10-17 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/johnrstanley11-gif/word-tycoon-ecosystem/blob/main/word-tycoon/background.js) · [evidence](https://github.com/johnrstanley11-gif/word-tycoon-ecosystem) · [play](https://wordtycoon.live) |
+| 3 | **Surviving Lagos Island: Street Level** | ⭐ **8.5** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/alternatefact/surviving-lagos-island/blob/main/assets/m-burnt.js) · [evidence](https://github.com/alternatefact/surviving-lagos-island) · [play](https://alternatefact.github.io/surviving-lagos-island/) |
+| 4 | **Way of the Blade** | ⭐ **8.5** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | HTML, JavaScript, Canvas, Browser | [source](https://github.com/oneshoterick1S2R/way-of-the-blade/blob/main/index.html) · [evidence](https://github.com/oneshoterick1S2R/way-of-the-blade) · [play](https://oneshoterick1s2r.github.io/way-of-the-blade/) |
+| 5 | **Wild Fields 1648** | ⭐ **8.5** | 2026-10-11 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Three.js, Browser, WebGL | [source](https://github.com/0xInsiderhq/wild-fields-1648/blob/main/assets/scan_pack.js) · [evidence](https://github.com/0xInsiderhq/wild-fields-1648) · [play](https://0xinsiderhq.github.io/wild-fields-1648/) |
+| 6 | **City Squirrel: East End** | ⭐ **8.4** | 2026-10-17 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/etothesmith/city-squirrel/blob/main/play.html) · [evidence](https://github.com/etothesmith/city-squirrel) · [play](https://etothesmith.github.io/city-squirrel/) |
+| 7 | **Constellations** | ⭐ **8.4** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/IntelligentRebel/constellations/blob/main/index.html) · [evidence](https://github.com/IntelligentRebel/constellations) · [play](https://intelligentrebel.github.io/constellations/) |
+| 8 | **トトと魔物たち** | ⭐ **8.4** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/fukka0409-png/Toto-monsters/blob/main/index.html) · [evidence](https://github.com/fukka0409-png/Toto-monsters) · [play](https://fukka0409-png.github.io/Toto-monsters/) |
+| 9 | **蜂巢兵棋 · Hexwar** | ⭐ **8.4** | 2026-10-17 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/pphy96826-coder/hexwar/blob/main/hexwar.html) · [evidence](https://github.com/pphy96826-coder/hexwar) · [play](https://pphy96826-coder.github.io/hexwar/) |
+| 10 | **Hollow Pines — vertical slice** | ⭐ **8.3** | 2026-10-16 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Three.js, React, Browser | [source](https://github.com/khil13/HollowPines/blob/main/game.html) · [evidence](https://github.com/khil13/HollowPines) · [play](https://khil13.github.io/HollowPines/) |
 
 
 ## Date policy
@@ -31,5 +31,5 @@
 - Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-10-10 through 2026-10-16**
-As of: **2026-10-16**
+Period: **2026-10-11 through 2026-10-17**
+As of: **2026-10-17**

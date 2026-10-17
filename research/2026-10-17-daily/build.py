@@ -1,0 +1,142 @@
+# Build the 2026-10-17 daily batch, attach rated screenshots, and append records to games.json.
+import json,math,re,sys
+TODAY='2026-10-17'; D='research/2026-10-17-daily/'; S='/workspace/shots/'
+games=json.load(open('games.json')); known={g['github_url'].casefold() for g in games}
+ins=json.load(open(D+'inspect.json')); trees=json.load(open(D+'trees.json')); ev=json.load(open(D+'evidence.json'))
+media=json.load(open(D+'media-live.json'))
+acc=[l.strip() for l in open(D+'accept.txt') if l.strip()]
+repo_hits={json.loads(l)['full_name'] for l in open(D+'repo-searches.jsonl')}
+RS='GitHub repository search: exact model phrase, created 2026-10-16T00:00Z..2026-10-17T01:30Z'
+CP='GitHub commit pool: model+game commits 2026-10-16..2026-10-17 (1-hour Opus, 3-hour Sonnet, 6-hour other UTC partitions) joined to repositories created after 2026-10-16T00:00Z'
+ORDER=['Claude Opus 5.5','Claude Sonnet 5.5','Claude Fable 5.1','GPT-6.1 Sol','GPT-6 Astra','Gemini 4 Argon']
+MEV={'novaki-ai/strike-twice':('creator-reported',['Claude Opus 5.5'],'The README states it was built from a single prompt by Claude Opus 5.5 in Claude Code at max effort with no human help (Novaki test 06).'),
+ 'novaki-ai/the-last-light':('creator-reported',['GPT-6 Astra'],'The README states it was built from a single prompt by GPT-6 Astra in Codex at ultra effort with no human help (Novaki test 06).'),
+ 'novaki-ai/still-smoldering':('creator-reported',['Gemini 4 Argon'],'The README states it was built from a single prompt by Gemini 4 Argon in Antigravity at high effort with no human help (Novaki test 06).'),
+ 'Kimjh2003/Vulkan-Arena-Demo-Feat-GPT-6.1-Sol':('creator-reported',['GPT-6.1 Sol'],'The repository name and README title credit GPT-6.1 Sol; no commit trailer.'),
+ 'minjun1177/gemini-4-argon-demo':('inferred',['Gemini 4 Argon'],'Only the repository name and description ("Testing argon") point to Gemini 4 Argon, so the model is inferred.')}
+NAME_OVR={'minjun1177/gemini-4-argon-demo':'3D Retro Arcade Cabinet','MProffitt-RedGate/potato-throw':'Potato Throw','donghee-ai/project_ax':'Rush Line (donghee-ai)','2junewoo/project_ax':'Rush Line (2junewoo)','omar-Suleiman14/chess':'Chess by Chaos','AndyYan999/chess':'Afterhours Chess','Kimjh2003/Vulkan-Arena-Demo-Feat-GPT-6.1-Sol':'Vulkan Arena Demo','samsunk25-hue/a260828ani_e':'거인의 인체 탐험 - 세포 발전소를 가동하라'}
+def clean(s):
+  s=re.sub(r'<[^>]+>','',s); s=re.sub(r'!\[[^\]]*\]\([^)]*\)','',s); s=re.sub(r'\[([^\]]*)\]\([^)]*\)',r'\1',s)
+  s=re.sub(r'[*_`]+','',s); s=re.sub(r'\s+',' ',s).strip(' #-|:')
+  return s
+def name_of(r,m):
+  if r in NAME_OVR: return NAME_OVR[r]
+  for line in m['readme'].splitlines():
+    line=line.lstrip('\ufeff ')
+    if line.startswith('# ') or line.startswith('#\t'):
+      n=clean(line[2:]);
+      n=re.sub(r'^[^\w\d]+','',n,flags=re.U).strip()
+      if 2<len(n)<=90 and n.lower() not in ('readme','game','my app','test','index'): return n
+  base=r.split('/',1)[1]; return re.sub(r'[-_]+',' ',base).strip().title()
+def note_of(r,m):
+  if r in MEV and r.startswith('novaki'):
+    pass
+  desc=clean(m['desc'] or '')
+  body=m['readme']
+  lines=[l for l in body.splitlines() if l.strip() and not l.lstrip().startswith(('#','!','<','[!','|','```','>','-','*'))]
+  para=clean(lines[0]) if lines else ''
+  t=desc if len(desc)>=30 else (para or desc)
+  t=t[:260].rsplit(' ',1)[0]+'…' if len(t)>260 else t
+  if t and not t.endswith(('.','!','?','…')): t+='.'
+  return t or 'Game source inspected in the repository.'
+def tech_of(r,m,t):
+  rd=(m['readme']+' '+(m['desc'] or '')).lower(); tree=' '.join(m['tree']).lower(); files=' '.join(f for f,_ in t['top']).lower()
+  T=[]
+  if 'project.godot' in tree or '.gd' in files: T+=['Godot','GDScript']
+  elif 'projectsettings/' in tree or 'assets/' in tree and 'unity' in rd: T+=['Unity','C#']
+  elif '.uproject' in tree or 'unreal' in rd: T+=['Unreal Engine','C++']
+  elif '.luau' in files or 'roblox' in rd: T+=['Roblox','Luau']
+  elif 'pubspec.yaml' in tree or 'flutter' in rd: T+=['Flutter','Dart']
+  else:
+    lang=m['lang'] or ''
+    if lang in ('TypeScript','JavaScript','HTML','CSS','Vue','Svelte'): T+=['TypeScript' if lang=='TypeScript' else 'JavaScript']
+    elif lang: T+=[lang]
+    if 'three.js' in rd or 'threejs' in rd or 'three@' in rd or 'react-three' in rd or 'r3f' in r.lower(): T+=['Three.js']
+    if 'babylon' in rd: T+=['Babylon.js']
+    if 'phaser' in rd: T+=['Phaser']
+    if 'pixijs' in rd or 'pixi.js' in rd: T+=['PixiJS']
+    if 'react' in rd and 'React' not in T: T+=['React']
+    if re.search(r'\.(html?|js|ts|tsx)\b',files) or 'index.html' in tree: T+=['Browser']
+  if 'webxr' in rd or 'meta quest' in rd: T+=['WebXR']
+  if not T: T=['Unknown']
+  return list(dict.fromkeys(T))
+def flops_of(T,rd):
+  s=' '.join(T)
+  if any(k in s for k in ('Three.js','Babylon','Unity','Unreal','Godot','Roblox','WebXR')) or ' 3d' in rd: return 1e9
+  if any(k in s for k in ('Phaser','PixiJS','Flutter')) or 'canvas' in rd: return 1e8
+  if 'Browser' in s or 'React' in s: return 1e7
+  return 1e6
+# screenshots
+res=json.load(open(S+'newshots.json'))
+gmap={}
+for gi,ii,r,u,sz in res: gmap.setdefault(gi,{})[ii]=(r,u)
+rated={}
+for line in open(S+'ratings-new.tsv'):
+  gi,ii,sc,kind,why=line.rstrip('\n').split('\t'); r,u=gmap[int(gi)][int(ii)]; rated[r]=(u,float(sc),kind,why)
+reviews=json.load(open('research/screenshot-reviews.json'))
+def add_review(repo_url,u,game,sc,kind,why):
+  reviews['reviews'].append({'repository_url':repo_url,'url':u,'game':game,'score_10':sc,'image_kind':kind,'reason':'Use this frame for the game-level score. '+why,'reviewed_on':TODAY,'rating_method':'manual_visual_review'})
+batch=[]
+for r in acc:
+  url=f'https://github.com/{r}'; assert url.casefold() not in known, r
+  m=ins[r]; t=trees[r]; br=m['branch'] or t['branch']
+  co=ev[r]['co']
+  name=name_of(r,m)
+  extra=''
+  if r in MEV: mev,models,extra=MEV[r]; evidence=f'{url}/blob/{br}/README.md' if m['readme'] else url
+  else:
+    mev='confirmed'; models=[x for x in ORDER if x in co]; evidence=f"{url}/commit/{co[models[0]]}"
+  from urllib.parse import urlsplit
+  def canon(v):
+    x=urlsplit(v); return f"{x.scheme}://{x.netloc.lower()}{x.path.rstrip('/') or '/'}"+(('?'+x.query) if x.query else '')
+  seen=set(); lives=[]
+  for v in media[r]['live']:
+    if canon(v) not in seen: seen.add(canon(v)); lives.append(v)
+  kb=t['code_bytes']/1000
+  q=round(min(8.6,5.8+0.6*math.log10(kb+1)+(0.3 if lives else 0)),1)
+  T=tech_of(r,m,t); rd=(m['readme']+' '+(m['desc'] or '')).lower()
+  note=note_of(r,m)
+  rec={'name':name,'github_url':url,'repository_id':m['id'],'repository_created_at':m['created'],'added_to_repo_on':TODAY,'evidence_url':evidence,
+    'game_links':[f'{url}/blob/{br}/{p}' for p,_ in t['top'][:3]] or [url],'live_demo_url':lives[0] if lives else None,'live_demo_urls':lives,
+    'technology':T,'model_family':models,'method_evidence':mev,'model_evidence':mev,
+    'game_count':1,'contained_games':[name],'counted_game_units':1,'is_independent_game':True,
+    'verification_status':'verified_source','verified_on':TODAY,
+    'discovery_sources':[RS if r in repo_hits else CP,url],
+    'verification_notes':(note+' '+extra).strip()+(' Commit carries an exact '+' / '.join(models)+' co-author trailer.' if mev=='confirmed' else '')+(' Live demo returned HTTP 200 (availability only, not a playtest).' if lives else '')+' Source inspected from README, file tree and commit history only; no playtest.',
+    'gauntlet_loop':False,'flops_estimate_raw':int(flops_of(T,rd)),'flops_estimate_unit':'estimated FP32 operations per second at 60 FPS','flops_estimate_confidence':'low',
+    'flops_estimate_basis':'Static order-of-magnitude estimate from the renderer and simulation type; not measured.',
+    'quality_estimate_10':q,'quality_estimate_basis':'Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.',
+    'screenshot_urls':[],'youtube_urls':[],'publication_date_status':'repository_created_only',
+    'prompt':'The complete prompt was not published in the verified source.','prompt_origin':'unknown','prompt_evidence_url':None,
+    'quality_category':'curated_games' if q>=7 else 'bad_games','runtime_test_status':'Source inspected; live demo HTTP 200 only.' if lives else 'Source inspected; no live demo checked or runtime playtest.'}
+  if r.startswith('novaki-ai/'):
+    rec['prompt']='Identical single-message brief for all Novaki test 06 agents, published as PROMPT.md in the repository.'; rec['prompt_origin']='creator_published'; rec['prompt_evidence_url']=f'{url}/blob/{br}/PROMPT.md'
+  if r in rated:
+    u,sc,kind,why=rated[r]
+    rec['screenshot_urls']=[u]; rec['screenshot_rating_10']=sc; rec['screenshot_rating_evidence_url']=u; rec['screenshot_rating_on']=TODAY
+    add_review(url,u,name,sc,kind,why)
+  batch.append(rec)
+# backlog ratings for records added on 2026-10-16
+picks=[l.split() for l in open(S+'picks.txt') if l.strip()]
+bl={f'b{i+1}':(p[0],p[1]) for i,p in enumerate(picks)}
+byurl={g['github_url']:g for g in games}
+nb=0
+for line in open(S+'ratings-backlog.tsv'):
+  k,sc,kind,why=line.rstrip('\n').split('\t'); repo,u=bl[k]; g=byurl['https://github.com/'+repo]
+  assert not g.get('screenshot_urls'), repo
+  g['screenshot_urls']=[u]; g['screenshot_rating_10']=float(sc); g['screenshot_rating_evidence_url']=u; g['screenshot_rating_on']=TODAY
+  add_review(g['github_url'],u,g['name'],float(sc),kind,why); nb+=1
+names=[b['name'] for b in batch]
+dups={n for n in names if names.count(n)>1}
+for b in batch:
+  if b['name'] in dups:
+    b['name']=f"{b['name']} ({b['github_url'].split('/')[3]})"; b['contained_games']=[b['name']]
+out={'verified_on':TODAY,'timezone':'Asia/Phnom_Penh','window_start':'2026-10-16','window_end':'2026-10-17','expected_repositories':len(batch),'expected_game_units':sum(b['counted_game_units'] for b in batch),'date_basis':'repository creation proxy only',
+  'records':[{k:b[k] for k in ('name','github_url','repository_id','repository_created_at','counted_game_units','evidence_url','publication_date_status','game_links','model_family','method_evidence','added_to_repo_on','verified_on','verification_status','live_demo_url')} for b in batch]}
+json.dump(out,open(D+'game-batch.json','w'),indent=2,ensure_ascii=False)
+games.extend(batch); json.dump(games,open('games.json','w'),indent=2,ensure_ascii=False); open('games.json','a').write('\n')
+open('research/screenshot-reviews.json','w').write(json.dumps(reviews,indent=2,ensure_ascii=False)+'\n')
+from collections import Counter
+print(len(batch),'records',sum(1 for b in batch if b['live_demo_urls']),'live',sum(1 for b in batch if b['screenshot_urls']),'rated new',nb,'rated backlog')
+print(Counter(m for b in batch for m in b['model_family']))
+print('dups',dups)

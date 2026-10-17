@@ -1,5 +1,23 @@
 # Search experiments
 
+## Daily phrase and one-hour Opus commit-pool pass — 2026-10-17
+
+- Search October 16–17 in `Asia/Phnom_Penh`; bound repository creation to `2026-10-16T00:00:00Z` through `2026-10-17T01:30:00Z`. This overlaps the October 16 pass tail and relies on `games.json` deduplication.
+- Repository search: 13 phrases (adding `"made with Claude"`) in two UTC partitions. None capped (max 26). 93 unique new repositories yielded 13 accepted repositories.
+- Commit pool, changed dimension: Opus 5.5 in 26 one-hour UTC windows (198–1,114 hits; 25 still capped at 300 fetched) and Sonnet 5.5 in 3-hour windows (60–338; one capped). `gpt-6.1-sol` (max 38), GPT-6 Astra (max 8), Claude Fable (44–351; one capped), Gemini 4 Argon and Gemini 4 (max 7 each) ran in 6-hour windows. 60 queries, 11,071 commit rows, 4,988 repositories; 1,087 fresh non-forks after the creation join. Shortlist 759, inspect 775 via batched GraphQL (README, root tree, 100 commits), tree-scan 481.
+- Require an exact `Co-Authored-By:` trailer for `confirmed` (452 of 457). Novaki test 06 (Strike Twice, The Last Light, Still Smoldering) and Vulkan Arena Demo are creator-reported; the 3D Retro Arcade Cabinet is `inferred` from a repository name only and counts as one aggregate unit.
+- Reject ports and decomps (Vahva Reis, Commander Keen, ACFA, Cave Story and similar), mods, tools, companions, runtime-only AI (Jester Deadline), non-games (Neighborhood Quest), other models (Last Spark is Kimi K3), stubs and docs-only repositories, and repositories without tracked-model authoring evidence (318 rejected in total). The awesome list billyhetech/awesome-gemini4-argon-videos is a collection, not a game.
+- Rate screenshots by looking at each image: 52 new records plus 16 records from the October 16 pass (68 ratings, `manual_visual_review`). Four new records had only SVG or non-GitHub images and stay unrated.
+- Validate with `node scripts/validate-games.mjs` (1358 records, 1306 repos, 1613 units) and `python3 scripts/validate-screenshots.py`. Receipts: [search results](../research/2026-10-17-daily/search-results.json), [decisions](../research/2026-10-17-daily/candidate-decisions.json), [batch](../research/2026-10-17-daily/game-batch.json).
+
+### Critique
+
+Score this method 9.5/10 for yield (457 repositories) and 7/10 for depth. One-hour Opus windows lifted the pool from 1,974 to 4,988 repositories, but Opus still exceeds the 300-hit fetch limit in almost every hour, so coverage remains a sample. Notes come from READMEs and trees, quality scores are a size heuristic, and no game was playtested. HTTP 200 checks show availability only.
+
+### Next experiment
+
+Split Opus 5.5 commit windows to 20 minutes, or add a second keyword dimension (`html`, `three.js`, `godot`), to get under the 300-hit cap. Rate screenshots for older records that still have media but no rating.
+
 ## Daily phrase and six-hour commit-pool pass — 2026-10-16
 
 - Search October 15–16 in `Asia/Phnom_Penh`; bound repository creation to `2026-10-14T17:00:00Z` through `2026-10-16T02:00:00Z`. The October 15 pass ran at 08:36 local, so this window overlaps its tail and relies on `games.json` deduplication.
