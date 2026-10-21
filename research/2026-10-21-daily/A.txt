@@ -1,0 +1,660 @@
+kaikomziu/SuperKRWKMod | Visual-only mod for Bongo Cat: zoomies, cursor-following eyes, sleepy  | SuperKRWKMod English [日本語](README.ja.md) Visual-only mod for [Bongo Cat](bongo-cat-game-):
+bakhoon/ladder-luck-game |  | Crayon Ladder Game A ladder-luck game (사다리타기) with a crayon look, built with React + Vite.
+waifoof/MagiciansQuest-Recomp |  | MagiciansQuest-Recomp A native PC port of Magician's Quest: Mysterious Times (Nintendo DS,
+kaymun/bullet-haven | Bullet Haven: a sci-fi bullet-hell roguelite. Play it in your browser. | Bullet Haven Play it in your browser: https://kaymun.github.io/bullet-haven/ A top-down sc
+Dr-Vural/game | game.vumatech.net — HTML5 oyun portalı | game.vumatech.net VuMaTech Game — tarayıcı tabanlı ücretsiz HTML5 oyun portalı. Mimari - S
+majonesmax/shall-we-play-a-game | Demo packs for Adventure Forever: new casts and worlds for Atari 2600  | Shall we play a game? Demo packs for [Adventure Forever](https://github.com/majonesmax/adv
+grootbot-dev/awesome-opus-5.5-games | 🎮 Source-verified AI-built games — Claude Opus 5.5, Gemini 4 Argon, GP | 🎮 Awesome AI Games 1478 curated game units. 1171 qualifying source repositories. [](browse
+BarryBareth/banished-multiplayer | Multiplayer for Banished: share one town or build separate towns on th | Banished Multiplayer Play [Banished](https://store.steampowered.com/app/242920/Banished/) 
+xmoonl/niche | A party game: write the most niche answer for the judge's category. | Niche A party game. The judge names a category, everyone else writes the most niche answer
+Polarralop/Gameline |  | Gameline A desktop app that tracks your deadlines, notices when you launch a PC game, and 
+jayden0903/korean-chat-moderation | Korean game chat moderation on a CPU: evasion-aware rules, a KcELECTRA | korean-chat-moderation Moderation for Korean game chat that runs on a CPU. Rules with evid
+vic-goncalves/whereabouts-multiplayer | Geoguessr multiplayer mode | Whereabouts: multiplayer A GeoGuessr-style geography game with live party mode. You're dro
+KyleTheScientist/WalkSimulator | Gorilla Tag mod for playing without a headset | WalkSimulator Play Gorilla Tag with a keyboard and mouse. Walk, run, climb walls, swim, fl
+AlmazProud/metal-slug-3-recomp | Native Windows port of Metal Slug 3 (Neo Geo) by static 68000 recompil | metal-slug-3-recomp A word from the author Hey everyone, real human here! Keep in mind tha
+soncsec/star-destroyer | Browser vertical space shooter (Phaser 4 + TypeScript) for Soncrant Ar | Star Destroyer A browser-based vertical space shooter built with Phaser 4, TypeScript and 
+Habir-Studios/endzone-kings | Endzone Kings by Habir Studios: free 3D arcade football in your browse | 🏈 ENDZONE KINGS A Habir Studios game ▶ Play it free: https://habir-studios.github.io/endzo
+tedbear574-creator/combo-dice-mockups | Playable HTML mockups for Combo Dice | Combo Dice mockups Playable HTML mockups for Combo Dice, a Roblox game. Each file runs on 
+SpaceCarl9001/Game-of-War | 2D war strategy board game. | Game of War: Strategy Board Game A 2D hidden-rank war strategy board game on a 10×10 field
+hudsonbrendon/cubemenu | A good-looking, open game menu for the Nintendo GameCube: 3D shelf of  | A good-looking, open game menu for the Nintendo GameCube. Games start through Swiss. Cube 
+khyeo1011/pokerogueRL | Neuroevolution Model that Plays pokerouge | pokerogueRL Reinforcement learning agents for [PokéRogue](https://github.com/pagefaultgame
+coachwmafendi/chess-book-reader |  | Rak Catur — pembaca buku catur interaktif (personal) Ringkasan dan point penting untuk set
+shreyash510/house-game-view |  | House game view A walkable 3D house (three.js) built entirely from a JSON description. The
+FinlayJozefek/life-rpg | Turn real life into an RPG. Log activities, level up skills, collect d | Life RPG Turn real life into an RPG. Log real activities, earn XP in 12 skills, collect 28
+SupakornSJB/atit_micropython | MicroPython firmware that turns an ESP32 into a game controller: confi | ESP32 Firmware — MicroPython MicroPython firmware that turns an ESP32 into a physical game
+ImmortalBobik/carter-pc-parkour | Minimalist 3D parkour game starring Carter PC | Carter PC Parkour A minimalist 3D parkour game built with three.js. Jump across floating b
+jeffchavez-dev/magical-pets | A magical game by Mira made by daddy. | Magical Pets A single-player browser game designed by Mira, made with love by Daddy. Magic
+abdazez01/own-it | A Claude Code skill that turns your codebase into games. Your AI wrote | A Claude Code skill that turns your own codebase into games. Play them to prove you can ex
+petrishevgeorgii-debug/prototype-pc-slop | Native PC port of PROTOTYPE and PROTOTYPE 2 (experimental) from the PS | PROTOTYPE — native PC port A native Windows port of PROTOTYPE from the PS4 PROTOTYPE BIOHA
+iamboosted/riftcast | Riftcast game | Riftcast Live: https://iamboosted.github.io/riftcast/ · VFX gallery: https://iamboosted.gi
+woltsu/dadajam |  | Paahde This repo is frozen. Development has moved to https://github.com/woltsu/paahde (ful
+acemcakmak/jci-gamejam-2026 |  | Kömür and the Plague Rats The town says black cats bring bad luck. But the plague rats are
+faithere1/CeitG | Tiny 2D LAN tag game for the classroom (Windows & macOS). Cross the fi | CeitG A tiny 2D tag game for your classroom. Cross the field 3 times. Don't get tagged. []
+gandtr/farstrand.gand.games | farstrand.gand.games: the FARSTRAND site and press kit | farstrand.gand.games The FARSTRAND site: one static index.html (EN / 日本語 / TÜRKÇE), a priv
+omarmaarouf18/spd-coop | Online 2-player co-op mod of Shattered Pixel Dungeon v4.0.2 (non-comme | Shattered Pixel Dungeon [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/)
+MaSch0212/walkabout-minigolf-character-creator | Unofficial browser-based character creator for Walkabout Mini Golf ava | Walkabout Mini Golf Character Creator English [Deutsch](README.de.md) Build your own [Walk
+Pinpas/roadster-escape | Unofficial fan game: escape the cops in a flying roadster. Barrel-roll | Roadster Escape A flying roadster, a Texas highway, and every cop in the state. Barrel-rol
+sabomaster/games | Games for Stateloop.ai | Games Test Driver Test Driver is a browser driving sim with realistic physics. At speed, t
+ksielick/portmanager-miyoo | Port Manager for Miyoo Mini Plus (OnionOS): install and update native  | Port Manager for Miyoo Mini Plus (OnionOS) Install, update and remove native game ports ri
+inlighten420/open-planet | Welcome to your virtual planet: the whole real Earth, where we can all | Open-Planet Welcome to your virtual planet: a place where we can all connect, play, build 
+Jazzman1976/Forever-Hunter-Pets | WoW Forever addon: which beast teaches which hunter pet ability rank,  | Forever Hunter Pets Taming is a game again. Explore WoW Forever, find the beasts that teac
+jamalxcode/heli-attack | Heli Attack - a modern retro side-scrolling helicopter shooter in the  | Heli Attack A modern retro side-scrolling helicopter shooter for the browser, inspired by 
+OscarJHernandez/claude_community_2026_team_mnorm | testrepocreation | Real or Fake? 👉 Try it now: [rs.neurorelations.tech:8444/fenster](https://rs.neurorelation
+dbugger85/hungry-orca | Easy Flappy-Bird-style orca game for kids | Hungry Orca An easy, slow Flappy-Bird-style game for kids. Swim as an orca in the Arctic, 
+laizk/hoop-heroes | Chibi 3D arcade basketball in the browser (Three.js + Blender) | Hoop Heroes Chibi-style 3D arcade basketball that runs in the browser (Three.js + Vite), w
+viandwi24/space-orbital-program | A free, moddable space-flight game that runs in your browser | Space Orbital Program A free, moddable space-flight game that runs in your browser (the co
+Tristan-Hotham/neon-protocol | Neon Protocol: Uprising, a free browser tactics game: Advance Wars bat | Neon Protocol: Uprising [▶ Play it free](https://tristanhotham.com/games/neon-protocol/), 
+jvidals/learning_game |  | Learning Corner Workspace cleanup (2026-10-03) removed obsolete artwork, old APKs and gene
+cocodedk/invaders | A cinematic arcade shooter for the browser: 8 worlds, 40 levels, and a | Invaders A cinematic arcade shooter for the browser. Fly anywhere in the lower half of the
+Alex883388/number-dash | Number Dash: a gentle rhythm runner for kids where only the right math | Number Arcade Math, memory, English, coding, business and action games for kids aged 8–12,
+Malte007/YAGBE | Release repository for YAGBE - Yet Another Game-Boy Emulator | YAGBE – Yet Another Game-Boy Emulator Kostenloser Game-Boy-Emulator für Windows, Linux und
+darkuni/alien-crush-returns-recomp | A decompiled and recompiled version of a WiiWare game. | Alien Crush Returns - native recompilation A static recompilation of Alien Crush Returns (
+darkuni/gradius-rebirth-recomp | A decompiled and recompiled version of a WiiWare game. | Gradius ReBirth (Updated, v257) - native recompilation A static recompilation of Gradius R
+shahzaibcloudy7/PACMAN-Z-3D | PACMAN-Z - Modern Pacman game with power-ups, shooting mechanics and p | PACMAN-Z-3D A modern Pacman game with a real 3D view, smart ghost AI, power pellets, mushr
+harryndavies/last-alive | The real-life assassin game for friends. | Last Alive A mobile-first web app for playing a real-life assassin game with friends. No a
+mohammad-ayeshh/hot-boy-cool-girl | Online co-op temple puzzle platformer for two phones | Hot Boy & Cool Girl Online co-op temple puzzle platformer for two phones (Android + iPhone
+reidwcoleman/alpenglow | Big-mountain skiing game in the browser: race AI skiers or free ride a | Shredline A freeski park game in the browser, with accounts, global leaderboards and multi
+jackwilliamcantwell/naughty-or-nice | Friendmas game | Naughty or Nice The Friendmas game app. Live at https://jackwilliamcantwell.github.io/naug
+p32nicky/garage-stack | garage-stack game | Garage Stack A 3D parking-jam puzzle game for Android (work in progress). See CLAUDE.md fo
+B0gsto/mayday-sea-rescue | Mayday: Sea Rescue: a Roblox coast guard and sea rescue game. Design b | Mayday: Sea Rescue Answer the call. Brave the storm. Bring them home. A photoreal Roblox c
+Anudeepgona/atlas-game |  | ATLAS 🌍 Name · Place · Animal · Thing, the game from the back bench, now online. Make a ro
+yghub1/guess-the-accent | Listen to a voice, guess the accent. A one-file browser game. | Guess the Accent A listening game. You hear one sentence spoken by a voice from somewhere 
+thefixinhixon/UltraCombo | Native PC ports of the Killer Instinct arcade games - bring your own g | UltraCombo Native PC ports of the Killer Instinct arcade games, for Windows and Linux: Pla
+Malkefjes/newgame |  | LATTICE A browser tower defense where towers are nodes you wire together with beams. Nodes
+bakhoon/math-game |  | Math Game A pastel, phone-friendly mental math game. Pick operations (+ − × ÷), choose 2 t
+DanialAlway/dino-rush | Dino Rush: a bigger take on the offline Chrome dinosaur game, with zon | 🦖 Dino Rush A bigger take on the classic offline dinosaur game. It's pure HTML5 canvas and
+jmgamer1199/platform-shooter | Native PSP homebrew platformer with mod packs: textures, sounds, level | platform-shooter for PSP English [Español](español) 🗺️ [Roadmap](ROADMAP.md): what's comin
+MasterRoshiHehe/Sims-4-Extended-Sound-Control | Gives the user more control over the sound sources of the game | [](https://ko-fi.com/masterroshihehe) Extended Sound Control A standalone sound mod for Th
+Eaglewing91/Torn-Arcade.user.js | Torn Arcade: a phone full of games for Torn, including the Tornies RPG | 📱 Torn Arcade A phone full of games for [Torn](https://www.torn.com), by Eaglewing [571041
+FarhanFK2003/tode-last-bloom | A colorful survival game featuring progressive enemy waves and two-pla | Tode: Last Bloom A 3D browser game about a frog defending the last magical flower, built w
+soybean-alien/forsworn-director | SINGLE PLAYER / OFFLINE ONLY cheat panel for Forsworn (BepInEx 6 IL2CP | Forsworn Director An in-game cheat panel for Forsworn's solo campaign. Press F8 and bend e
+ColCarlo/ReTzar | Fan remake of the classic RTS Tzar: The Burden of the Crown, rebuilt i | ReTzar A fan remake of the classic RTS Tzar, rebuilt from scratch in Rust and Bevy and kep
+atone/nxnative | Native Nintendo Switch games on iPhone / iPad / Mac (fork of seedds/nx | nxnative Play your own Nintendo Switch games natively on iPhone and iPad. Bring your game 
+lanenur/halo-eq | Linux app for TANCHJIM DSP dongles: official, community and game EQ pr | Halo EQ The TANCHJIM EQ app, for Linux. Tune your TANCHJIM DSP dongle with official, commu
+mushinskyy/game-night | Party games for friends in the browser: Secret Number and Sketch Off | Game Night Party games for friends in the browser. No sign-up. - Secret Number: everyone s
+orczhu/tank_battle | for my kid | Tank Battle 🛡️ A two-player tank game inspired by the classic Battle City (Namco, 1985). O
+gkson-lab/rngexp10 | Ten-digit random number badge game with exact odds. | Long Shot 10 A ten-digit luck game, formerly RNGdle 10, in the spirit of [RNGdle](https://
+aitizazab/Psychopomp | PSYCHOPOMP: a first-person movement shooter descent into Hell (Fire, S | PSYCHOPOMP A first-person movement shooter about a descent into Hell. Made in Unity 6 (URP
+NexusVibe-Octet/gnexus | Utiliser un Gamepad Logitech G13 remis à jour qui intègre de nouvelles | G Nexus [Version française](README.fr.md) G Nexus replaces Logitech Gaming Software and G 
+andmillionaire/Dang | Dang what a game | Dang: Rainy Cabin A cozy pixel-art match-3 for phones, set in a cabin where it never stops
+zaynabtauqeer/SHADE | SHADE - You are his shadow. A Fire / Shadow / Time action game made fo | A scared kid. One candle. One terrifying night.You are his shadow. Every night at 11:00 PM
+jhanliufu-personal/Crowdcast | Turn any single-player VR game into a creative party game! | Midnight Egg 🥚✨ A mixed-reality wizard duel for Meta Quest (WebXR) where the audience inve
+LasVola/godhand-recomp | God Hand Recompiled: native PC port of God Hand (PS2) via static recom | God Hand Recompiled God Hand (PS2, 2006) running natively on PC. Not an emulator: the game
+thestackunderflow/godot-mcp-lab | Godot MCP, tested: Godot 4.7.2 + godot-editor-mcp 2026.10.15 pinned in | Can an AI agent play its own game to check its work? A Godot MCP lab Lab snapshot: 17 Oct 
+verdeyen-k/stacktics | Stacktics — stacking with tactics: a turn-based block-stacking physics | Stacktics Stacking with tactics: a turn-based block-stacking physics game for phones. Take
+ocarter84/battlegrounds-explorer |  | Battlegrounds Explorer A one-page browser for Hearthstone Battlegrounds heroes, minions an
+matearg/fly-fishing-incremental | A pixel-art fly fishing incremental game for the browser. Cast, reel,  | Fly Fishing Incremental A browser incremental game about fly fishing. Cast, reel, sell you
+VorticonCmdr/re-alleycat | Alley Cat (1984) ported to the browser by routine-level translation, v | Alley Cat — browser port A faithful, playable port of the 1984 IBM PC game Alley Cat to HT
+soncsec/contro | Contro: a sci-fi run-and-gun platformer for the browser (Phaser + Type | Contro A sci-fi run-and-gun platformer for the browser, in the style of Contra. A space ma
+perara/planet-crafter-dedicated-server | Dedicated server for The Planet Crafter, in Rust: runs the game's host | Planet Crafter dedicated server A dedicated server for [The Planet Crafter](https://store.
+hiradbaba/starfall | remake of the old cpp star wars game that I had for my bachelors in 20 | STARFALL A neo-retro terminal space shooter that runs in the browser. It's a 2026 rebuild 
+btahir/stillplay | Minesweeper, FreeCell, Solitaire, Spider and Hearts, rebuilt for the b | stillplay. A little time. Well wasted. A homage to the games that came with Windows XP: Mi
+diegorv/games-nine-sols-qol-mod |  | Nine Sols QoL BepInEx 5 + Harmony mod with quality of life tweaks for Nine Sols. Each feat
+1cto/minesweeper |  | Minesweeper A faithful browser recreation of Windows 95/98 Minesweeper, built with React a
+saitokodomopg/MiniGameSuite | 教室で作るミニゲーム集 | MiniGameSuite これは何か プログラミング教室の中学生がチームで作り、インターネットに公開するミニゲーム集。 トップにゲームの一覧が並び、選ぶとログインなしですぐ遊べる
+Harlock123/AVAAshenReliquary | AVA Ashen Reliquary: an isometric action RPG in the style of Grim Dawn | AVAAshenReliquary An isometric dark-fantasy action RPG in the style of Grim Dawn and Diabl
+MaxSignal/OpenDT | RPG Maker Dante98 and 98-II game player | OpenDT [](https://github.com/MaxSignal/OpenDT/actions/workflows/build.yml) OpenDT is a pla
+blackmoon87/canvas-sprite-skeletal-animation-js | Rig and animate ANY 2D game character in pure JavaScript + HTML5 Canva | Canvas Sprite Skeletal Animation (JavaScript) Turn still pictures of a character into a mo
+kilnan/DarkRiftRecomp | Native port of Dark Rift (N64) via static recompilation (N64Recomp + R | Dark Rift: Recompiled A native port of Dark Rift (Nintendo 64, 1997) made with static reco
+Juan-Pablo-Barrientos/MH3U-Damage-Multiplier | Cemu graphic pack for Monster Hunter 3 Ultimate (US v32): multiplies t | Monster Hunter 3 Ultimate (MH3U) Damage Multiplier for Cemu Also for MH3U on Cemu: [Always
+DerBerg07/pasha-rally | Animal Rally — browser racing board game (UA/EN), play online with fri | Animal Rally Грати: https://derberg07.github.io/pasha-rally/ Українською Animal Rally — бр
+pauligur/pauligur.github.io | Sus at TBS — a school mystery game | Sus at TBS A school mystery game made for (and with) pauligur. One of the "students" is se
+johnson-codes/star-vector | Gradius-style side-scrolling shooter for computer and tablet, with eas | Star Vector A simple Gradius-style side-scrolling shooter for computer and tablet, tuned s
+dustinpolkrst/echoes | Echoes: a LÖVE puzzle platformer where you ride replays of your past s | ECHOES [Play it in your browser](https://dustinpolkrst.github.io/echoes/play/) or [read th
+johnson-codes/deep-sea-serpent | Glowing deep-sea snake game: dive through ocean zones and swim through | Deep Sea Serpent A glowing snake game set in the deep ocean. Eat plankton to grow; every 5
+Chillysoop/adventures-rest |  | Adventures Rest A D&D-themed city builder where you govern a frontier town as its mayor wh
+pedrotung/EmilyGames | Emily & Jason Design the games | EmilyGames Small single-page HTML games that run in a phone browser. Each game lives in it
+shainyoreng/chain-of-command | A signal-corps puzzle game: get the orders through the faulty relays a | Chain of Command A signal-corps puzzle game. Command writes an order; a chain of faulty re
+joliver1981/brady-zombie-defense | Brady's Zombie Defense - a 3D Three.js zombie defense game | 🧟 Brady's Zombie Defense A 3D zombie defense game built with Three.js — designed by Brady,
+vikod3/outrun | Roadster: Outrun, a browser game where the Roadster flies. Fan concept | Roadster: Outrun (new-17) — CDN build Byte-for-byte the site as built, with every media fi
+GDmio/granny-legacy-menu | In-game trainer for Granny Legacy (Unity IL2CPP, D3D11) with a Materia | Granny Legacy Menu English [Русский](README.ru.md) An in-game trainer menu for Granny Lega
+benurquhart1/settry | A roguelike game with dynamics similar to the card game set | Settry A card game that mixes Set with Balatro. Plays in the browser, locally, with no ins
+lostsanctuary/EnshroudedFG | DLSS Frame Generation and Multi Frame Generation (2x-6x) for Enshroude | EnshroudedFG [](https://github.com/lostsanctuary/EnshroudedFG/actions/workflows/build.yml)
+thesmokesession-bit/perfect-eye | Perfect Dark and GoldenEye 007 as native PS5 homebrew: two home screen | Perfect Eye: Perfect Dark and GoldenEye on the PS5 Perfect Eye is [Dab's Mod](https://gith
+adil-infosec/SIX-SECONDS-OF-SUN | Game Dev | Six Seconds of Sun Light the fire. Shape the shadow. Borrow six seconds. A short, handcraf
+jonbeam1-netizen/concrete-lines | 3D browser skateboarding game with join-code multiplayer | Concrete Lines A 3D skateboarding game that runs in the browser: mega ramp, a full-pipe tu
+SHKChan/life-sim | A web base life sim game | 浮生录 人生模拟器合集。选一个背景，投一次胎，从出生活到离世。玩法借鉴 1 in 8 Billion，同一套引擎，不同的世界。 线上地址：https://www.vibe-game
+lexdiamondhq-ai/chess-game-killer |  | Chess Game Killer One beautiful iOS chess game, with every feature easy to reach and easy 
+dayanivan681/Claude-games | Games playground | Claude Games Bomblast (bomberman/) Juego estilo Bomberman para iPhone, hecho como PWA (se 
+adamlandman/monkey-business | Fun game to practice multiplication facts for grades 3-5 | Monkey Business A multiplication and factors game for 3rd and 4th graders. Walk Bongo the 
+timfennell/vintage-click | A 1970s 35 mm SLR photography game inside 3D Gaussian splat scans, for | Vintage Click A photography game for the Mac (and, in preview, Windows): a manual-focus 35
+batatinhafcbatatinha-pixel/fifa-street-2-pc | Experimental FIFA Street 2 (original Xbox) native PC port source kit.  | FIFA Street 2 — Native PC Port No Emulated Xbox Hardware [!WARNING] This repository does n
+ybresciani1/yvygrounds | YvyGrounds: games, gardens & goofs by Yvy (ybresciani) | YvyGrounds 🌱🐔🎮 The game portal of Yvy (ybresciani): gardening games, silly games, the Gard
+substreight/sea-of-bullets | Sea of Bullets (S.O.B.) - a pirate bullet-hell for one to four captain | Sea of Bullets (S.O.B.) A top-down pirate bullet-hell for one to four captains. Two ships,
+ZomZed/SMSPC | A PC port for mario sunshine | Super Mario Sunshine — PC Port (unofficial) A native Windows port of Super Mario Sunshine,
+revlayle/galaxy-stars | An experiment: A C64 game designed/guided by a human and developed by  | Galaxy Stars A single-screen action game for the Commodore 64, designed by Rev. Layle and 
+Marcus101RR/snake-slither |  | Snake Slither A very basic Snake game in C++ with SDL2. One codebase builds as a desktop a
+VorticonCmdr/re-alienbreed | A vanilla JavaScript port of the IBM PC edition of Alien Breed (Team17 | Alien Breed web port A vanilla JavaScript port of the IBM PC edition of Alien Breed (Team1
+Tr1dae/DMC-2013-Split-screen-mod | Mod that adds multiplayer couch coop to DMC 2013 | DmC: Devil May Cry (2013): Local Split-Screen Co-op A fan mod that adds 2-player couch co-
+divyachandana/gamehub |  | Game Hub — On-device AI racing on the Snapdragon NPU AI models drive taxis through mazes a
+Harlock123/AVAJetSetWilly | A flip-screen platformer round a mansion: put every item away before m | AVA Jet Set Willy [](https://github.com/Harlock123/AVAJetSetWilly/actions/workflows/build.
+Sclondon/Warren | A maze game for the Scareathon arcade: wake in the clearing, find the  | Warren A maze game for the Scareathon arcade, after The Maze Runner and Labyrinth. You and
+rmcrkd/fell-runner | A Celeste-style speedrunning platformer over three notorious Lake Dist | A Celeste-style speedrunning platformer over three notorious Lake District fells,where the
+qiulinfan/bleach-vs-naruto-pocket | A pocket2d remake of 5DPLAY Game Studio's Bleach vs Naruto (死神VS火影): G | 死神VS火影 Pocket A port of 5DPLAY Game Studio's Bleach vs Naruto (死神vs火影) to Pocket2D. The ch
+SilverBits1001/PokeBattler |  | Pokémon Pocket Brawl A top-down Pokémon arena brawler that runs in one HTML file. Play Ope
+hardwaremack-prog/frostfall-cabins | LAN multiplayer snowy survival game: five cabins on ne mountain, keep  | Frostfall Cabins A LAN multiplayer spin-off of Fernlight Frostfall. Five log cabins sit in
+rechedev9/mediavida-trigger | Chrono Trigger style fan RPG set in the Mediavida forum. Browser game  | Mediavida Trigger ⏳: el foro, en 16 bits. Un hilo necroposteado abre un portal. Toca salva
+kendeane1980-cpu/maths-games | Fun learning games | Penalty Shootout A timed column-addition game for children, made to be played on a phone. 
+XITRIX/Dirt-2-Recomp | Dirt 2 PC game recompilation project | DiRT 2 Recompiled Static recompilation of Colin McRae: DiRT 2 (PC, v1.1, dirt2game.exe) fr
+radcliffkey/openflek | Open source implementation of Flek! mariáš game | OpenFlek An open-source remake of FLEK!, the 1991–1992 Czech DOS card game by J. Pivoňka: 
+tamoghnakabi-wq/wildmere | Wildmere — an original voxel survival sandbox for macOS and Windows (U | Wildmere Shape the wild. An original voxel survival sandbox for macOS and Windows, built i
+poctave/vol-game | Typed options-strategy game in the browser: name, price, build and dra | Vol Game Try it in your browser: https://poctave.github.io/vol-game/ A typed options-strat
+ricande/rust-a-move | Rust a move: a portrait aim-and-match game in Rust where the creature  | Rust a move [](https://github.com/ricande/rust-a-move/actions/workflows/ci.yml) [](LICENSE
+crabtoast90-dev/practice-rpg |  | Practice RPG Play: https://crabtoast90-dev.github.io/practice-rpg/ (?mode=duel or ?mode=pa
+smokim38/rts-game | RTS game | rts-game A real-time strategy game in the spirit of Command & Conquer: Red Alert 2, built 
+harutonatu/game-no1 | 最初のゲーム | ゆびあそび iPhone・iPad で遊ぶための、指先ゲームの小さな集まりです。インストール不要で、ブラウザで開くだけで遊べます。 遊ぶ：https://harutonatu.gi
+oneiroid/risk-game | Risk world-conquest board game for phone and desktop: vs computer or o | Risk — World Conquest Browser implementation of the classic Risk board game. Runs on phone
+bezdomniy/container-port-manager | Isometric container port logistics puzzle built with Godot 4 and C | Container Port Manager An isometric container-terminal logistics puzzle for Godot 4.7 (.NE
+Swayam89/sound-maze | Sound Maze by Parisha Jain: a maze game played by sound and touch. Pro | Sound Maze A design project by Parisha Jain: a maze game played by sound and touch. This r
+Uss15/minilan-vpn | Free Radmin/Hamachi-style virtual LAN for gaming on Windows and Androi | MiniLAN A free, open-source virtual LAN for gaming, in the spirit of Radmin VPN and Hamach
+anmacmillan/wizard-chess | Wizard chess for Manon: play friends one move at a time by Signal link | Wizard Chess Chess for Manon, with stone pieces that smash each other. You play friends on
+SinisterN/Nocimonorcen | TD game with puzzle aspect | Nocimonorcen TD Isometric tower defense with puzzle-driven upgrades. Built with Phaser 4, 
+rezgaraam/brick-breaker | Brick Breaker: a single-file HTML5 Breakout clone with canal levels, i | Brick Breaker A pixel-art Breakout game with 100 levels of dense brick fields sealed behin
+XNWLK/ForeverWarlockArcade | Little Warlock games for WoW: Forever - in the browser and as an addon | Forever Warlock Arcade Little Warlock games for WoW: Forever. Play them in the browser or 
+DHex1401/SmallScale | Small game | Smallscale Build a tiny medieval town on a turntable. Draw a zone, and houses grow inside 
+techmatt/wordwarriors | A reading game for Julia | Word Warriors A learn-to-read game for a four-year-old: phonics minigames that power up fl
+rujopereiric/games | Small single-file browser games | Games Small browser games, each in its own folder. Every game is a single HTML file: downl
+Memo5561/Game |  | Blocko – Block-Puzzle für Android Start hier: [docs/DEINECHECKLISTE.md](docs/DEINECHECKLIS
+kilnan/ki-recomp | Static recompilation of Killer Instinct (1994 arcade, MIPS R4600 LE) t | ki-recomp Exploratory static recompilation of Killer Instinct (Rare/Midway arcade, 1994; M
+rbuchmeier/tacta | Unofficial pass-and-play companion for the Tacta card game (for owners | Tacta: pass-and-play An unofficial pass-and-play companion for the card game Tacta, made s
+calum/camera-games | A movement game for kids, in the spirit of the Nex Playground: put a w | Camera Games A movement game for kids, in the spirit of the Nex Playground: put a webcam o
+Kodoque1/sm64-gba | Super Mario 64's movement and collision code on the Game Boy Advance,  | sm64-gba [](https://github.com/Kodoque1/sm64-gba/actions/workflows/test.yml) Super Mario 6
+ggbillyjoe3526/Airsoft-Next | An Airsoft Game. | Airsoft An original first-person airsoft shooter for Windows and Linux, built with Godot a
+yliuang/im26-risk-game | Classroom risk management and insurance game for IM26 Tutorial I | IM26 Risk Management Game A classroom version of the Personal Lines Risk Management and In
+samie105/military-forge | Military Forge: a 2.5D browser jetpack shooter (TypeScript, determinis | Military Forge The name lives in exactly two places, GAMENAME/GAMESLUG in packages/shared/
+RayAhms0667/footnote | A daily retro history trivia game. Name the answers nobody else would. | Footnote A free daily retro history trivia game. Seven questions a day (2 easy, 2 medium, 
+KeighlyIsCoding/bug-garden-game |  | 🐞 Bug Garden A cozy gachapon bug-collecting game. Tend a garden, harvest fruit, and feed i
+nusbaumm01/5stones | A game similar to "Go" | 5Stones A Pente-style strategy game for Mac, Windows and iPhone, built with [Flutter](http
+DrTBaylor/tempquizzes |  | Sorry! — The Game Sorry! is a board game for 2–4 players in which each player races four p
+biancaalexis132-png/ForensicWard_Game |  | The Forensic Ward A first-person psychological thriller and forensic psychiatry simulation
+david-nelson-elske/learning-games | Short teaching videos and small games for children, by subject. Free t | Learning games Short videos and small games for children learning about the world, shared 
+MuriloDagustin/mc3-seamless-coop | Networked two-player career co-op mod for Midnight Club 3: DUB Edition | MC3 Seamless Co-op 🇧🇷 [Leia em português](README.pt-BR.md) Play the career of Midnight Clu
+ekcuttingchaidesign/rewards-game | Rewards Quest - one-tap mini game prototype | Airtel Rewards Quest (prototype v1) ▶ Play it here: https://ekcuttingchaidesign.github.io/
+UnsterKylink/pokemon-spire |  | Claude Code Game Studios Turn a single Claude Code session into a full game development st
+sharedsubs14-svg/emoji-movie-showdown | Emoji movie guessing party game for video calls — Bollywood & Hollywoo | 🎬 Emoji Movie Showdown A browser party game for video calls. The host screen-shares, the g
+jarvis-jhk/baba-port | Clean-room reimplementation of Baba Is You in Rust: Linux, Windows, ma | baba-port A clean-room reimplementation of [Baba Is You](https://store.steampowered.com/ap
+devcimen/ashmane | A short, replayable browser game: flee a burning forest as a cotton-ca | Ashmane Short, replayable browser game: a cotton-candy-pink horse has to escape a burning 
+louis-mudrack/prost | Prost - the drinking game for Minecraft (Paper 1.21.4-26.x) | Prost The drinking game for Minecraft servers: rounds with friends, challenges with fixed 
+gb1577/hyperloops | A rhythm graze-runner through low-poly worlds | HYPERLOOPS Fly a shard of light through low-poly worlds, on the beat. A rhythm graze-runne
+iammertg/kettlekite-site | kettlekite.com: Kettlekite studio page and per-game support, privacy a | kettlekite.com Studio page for Kettlekite, the studio name of independent developer Mert C
+DaniDiazTech/spline-rider | Physics hill-climb game with p5.js + Matter.js (Perlin noise + Catmull | Spline Rider: Dead Road 🧟🚗 A physics driving game about escaping a zombie outbreak, made w
+etothesmith/tilekeeper | Tilekeeper: a portrait puzzle game. Mark the tiles, capture the tumbli | Tilekeeper A portrait puzzle game for phones. Kip, an apprentice Tilekeeper, marks tiles w
+drugdamage/glyphwood | Minimalist ASCII action platformer with roguelite runs. Made with Godo | Glyphwood A gothic action platformer drawn entirely with text characters. Download · Chang
+Devon-cadaver/office-outbreak | Office Outbreak: isometric zombie city maze browser game | Extract from Zombieville (formerly Conga of the Dead / Office Outbreak) A browser game: a 
+Rohan-08/sudoku | Sudoku game with hints, difficulty levels, timer, history and a solver | Sudoku A Sudoku game and solver built as a Progressive Web App (PWA). It has no dependenci
+FelipeFerraz4/blue-fox-games |  | 🦊 Blue Fox Games Jogos web do ecossistema Blue Fox. Primeiro jogo: Jogo da Memória 1x1 onl
+rzazo24/dinopixel-game | Juego de correr y saltar en pixel art a color, estilo el dinosaurio de | DinoPixel [Juega ahora: dinopixel-game.vercel.app](https://dinopixel-game.vercel.app/) Un 
+Snehiths19/lane-runner | Personal 3-lane endless runner (Subway Surfers-inspired) in Three.js - | Lane Runner A personal 3-lane endless runner inspired by Subway Surfers, built in the brow
+zeveck/hoardhopper | A little dragon with big ambitions. A browser platformer made with Cla | Hoard Hopper A little dragon with big ambitions. Hop through four scrolling caves, scoop u
+NotReallyMeButKinda/orange-bear-monkey-sospmenu | a totally inconspicuous mod menu for a special smooth cube game... | Social Space Mod Menu A MelonLoader mod for Social Space (Unity 6, IL2CPP) with an in-head
+eanjohnson/feather | Play the original PC Angry Birds games in the browser, unpacked on you | Feather Play the original PC Angry Birds games in your browser, on a computer, phone or ta
+anwarahmed/ring-anthology-prisms | An unofficial, free Halo fan game: a 2-player co-op side-scroller thro | Ring Anthology: Prisms An unofficial Halo fan game. A 2D co-op side-scroller through the w
+dodojesuslol/wot-advances-room | World of Tanks mod: modern Gameface UI for the Stronghold / Advances b | EZ ROOM for ADV World of Tanks mod (EU 2.4.1): a modern Gameface UI for the Stronghold / A
+landonreekstin/jakks-batman-recomp | Native Linux runtime for the JAKKS Pacific The Batman TV game, with on | The Batman, natively A native Linux runtime for the JAKKS Pacific The Batman TV game (2004
+Chefmarketw/chefmarketw.github.io | $CHEF Explosive Kitchen / Cocina Explosiva — free browser game for PC  | $CHEF Explosive Kitchen Play now · Jugar ahora → Free maze game for PC and mobile, no inst
+Harlock123/AVAKlax | A recreation of Klax (Atari Games arcade, 1989) in .NET 10 and Avaloni | AVA Klax [](https://github.com/Harlock123/AVAKlax/actions/workflows/build.yml) A puzzle ga
+blakebates22/kartipelago | This project is a browser-based kart racer inspired from the classic D | Kartipelago An original adventure kart racer you can play in your browser. Drive, hover an
+mirowaltisberg/ninjago-recomp | LEGO Ninjago Tournament on iOS: a 32-bit Android ARM game statically r | Ninjago Tournament for iOS LEGO® NINJAGO®: Tournament, running natively on iPhone 17 and i
+Jujulearning/ChemshaBongo-Tz | Fun games swahili | Chemsha Bongo Beta (for testers) app/index.html is a playable beta that runs in any phone 
+Nostramadeus/seraphic-blue-mod | Unofficial Seraphic Blue MOD patches and custom EasyRPG Player; test r | Seraphic Blue MOD In progress The release already includes the Japanese-based dialogue ret
+EZPZme/murmuration | mancala style game | Murmuration Working title. A mancala-style game for 2 to 4 players about sowing gems aroun
+Hero88go/GungeonOnlineCoOpMod | Enter The Gungeon Online Co-Op Mod (1.0 beta): online co-op with indep | Enter The Gungeon Online Co-Op Mod Online co-op with independent cameras. Choose any chara
+Geckomacabre/GTA-VI-Inspired-HUD | A GTA VI-inspired HUD, 3D minimap and playable Lucia for GTA V single  | 🌴 GTA VI-Inspired HUD A GTA VI-style HUD, minimap and playable Lucia for GTA V story mode 
+Harlock123/AVATrackAndField | A recreation of Track & Field (Konami arcade, 1983) in .NET 10 and Ava | AVA Track & Field [](https://github.com/Harlock123/AVATrackAndField/actions/workflows/buil
+smm2recomp/smm2recomp | Super Mario Maker 2 Recomp | SMM2 Recomp A native port of Super Mario Maker 2 (v3.0.3) for macOS, iOS / iPadOS, Windows
+bubio/MenuetBoy | GAME BOY Emulator for MenuetOS. | MenuetBoy A GAME BOY (DMG) emulator for [MenuetOS](https://www.menuetos.net/) 64-bit, writ
+IniquitousAi/last-fire | A two-player survival FPS in the browser | Last Fire A co-op survival FPS in the browser (Three.js r186 in vendor/, PeerJS browser to
+Marie-6/fun-games |  | Off The Table Browser games by Marie (Yuyue Liu). Off The Table You are a cat. Knock thing
+gskolber/soulstone-survivors-coop | Co-op multiplayer mod for Soulstone Survivors (BepInEx 6 IL2CPP) | Soulstone Coop Online co-op for [Soulstone Survivors](https://store.steampowered.com/app/2
+YichiCS/AutoGame |  | AutoGame · 像素游戏厅 像素风小游戏合集。打开网页、挑一个游戏、点一下就开始玩；所有游戏的存档在同一个地方管理。 👉 游戏 游戏 简介 更新日志 --- --- --- 
+Vyom-gupta-alt/chesslab | All-in-one chess improvement site: import Chess.com/Lichess games, Sto | ♞ ChessLab A free, all-in-one chess improvement site that runs entirely in your browser. I
+kartpop/edu-games | Small, calm learning games for young kids | edu-games Small, calm learning games for young kids. Each game is a single HTML file with 
+jpcpais01/new-game |  | Afterglow Survive the swarm. Become the light. A neon arena survivor for Android: drag to 
+ApolloAutomation/gameday-scoreboard-main | Game Day Scoreboard: standalone ESPHome sports scoreboard firmware for | Game Day Scoreboard Credits and thanks - Brandon Harvey ([@bharvey88](https://github.com/b
+Arnaldo2026/snake-game |  | Game Room Multiplayer browser games for phones and PCs. One player creates a room, picks a
+sack2116/Gone-Bananas | Gone Bananas!!! - a banana-climbing game for kids (phones, tablets and | 🍌 Gone Bananas!!! A jumping game for kids: hop up the banana tree from banana to banana be
+Arzish29/open_arena |  | OpenArcade An arcade played with hand gestures, your voice, or an AI quiz that reads your 
+ShuraShipai/cv_arcade |  | OpenArcade An arcade played with hand gestures, your voice, or an AI quiz that reads your 
+lai3d/web-games | Browser remakes of classic games: Red Alert, Legend of Mir, DOTA, Stre | Web Games · 网页游戏合集 Browser remakes and tributes of classic games, plus a couple of origina
+Kikonos/Game |  | BLOCK HOURS A calm management game for the browser about running a small ACMI, wet-lease a
+Leenamgi20/Absorb-Roguelike | Absorb Roguelike — top-down action roguelike for 1-2 players (Unity 6, | Absorb Roguelike Absorb your enemies. Wear their power. A top-down action roguelike for 1–
+lucamaxi99-ai/dungeon-crawler |  | Dungeon Crawler (working title) A retro first-person dungeon crawler for the browser, in t
+gabercmatej/Last-Musketeer-standing-game- |  | The Last Musketeer Standing All for one, and one for… actually, just me. A simultaneous-tu
+KrialteStynedaxt/lantern-moth | An arcade style game about a moth collecting lanterns through the nigh | Lantern Moth A chill scrolling screen arcade game. Fly as a moth through the night-sky, co
+zachzc3/cfb-playoff-picture | Pick the 2026 college football season and project standings, conferenc | Playoff Picture 2026 Pick the rest of the 2026 college football season and see what it doe
+Ralf1108/BARLevelEditor | Level editor for Beyond All Reason: place units, generate armies and m | BAR Level Editor Note: This project was created with the help of [Claude Code](https://cla
+Sravankumarraju/Kids-Learning-game |  | Build My Town: Indian Railway Adventure A 3D browser game built with Three.js for children
+jarvis-jhk/towerfall-port | Clean-room reimplementation of TowerFall Ascension in Rust: up to 12 a | towerfall-port A clean-room reimplementation of [TowerFall Ascension](https://store.steamp
+VAHTKA/snake-game | Classic Snake game in Python (tkinter) with levels, obstacles, bonus f | Snake Game A classic Snake game written in Python with tkinter. Steer the green snake, eat
+EinarTho/darmok-games | Tic-tac-toe and Game of Life in the Darmok (Tamarian) language | darmok-games Tic-tac-toe and Conway's Game of Life written in [Darmok](https://github.com/
+ly05010419/MacNativeGames |  | MacNativeGames English Breath of the Wild 1.6.0 is now officially supported on Mac! (Mac o
+alielsharqawy15/split-content | Game content packs (English/Arabic) for the Split app, served via jsDe | Lamma (لمّة) — game content Word decks, "Most likely to" prompts, Taboo cards and Odd One 
+Burgersim/needle-drop-songlist | A lookup list of songs for the Needle Drop QR Music Game App | Needle Drop song list A community list that maps Spotify tracks to YouTube videos, used by
+deronys/PassTheLighter | PassTheLighter Game | Pass The Lighter A party game for Android and iPhone, built with [Expo](https://expo.dev) 
+konbraphat51/GameRelatedCfPs | CfPs of game related academic conferences & journals | Game-Related CfPs 2027 [日本語版はこちら](README.ja.md) A static website that lists the 2027 calls
+chuan-khuna/wordle |  | Wordle An interactive Wordle game you play in the terminal, plus a solver that suggests gu
+Lahrry45/rain-bucket | Rain Bucket: a three.js rooftop rain-catching game for start.ng (HNG 1 | Rain Bucket A three.js game for [start.ng](https://start.ng). It's raining on a Lagos roof
+TheEnglishJames/PartyGames |  | Arianna & Sebastian's Party Games Party games on one phone: pass it around. No server, no 
+JelenXP/BetterDT | Mod for Devices Tycoon | BetterDT – mods for Devices Tycoon [](https://discord.gg/JdQEMNNTrN) Handy extra buttons f
+WillD23/squirrel-dash | A game for Ru | Ru's Squirrel Arcade The home page (index.html) is a menu for picking a game. Squirrel Das
+Zakhele-TechWannabe/thief-of-dawn | Thief of Dawn: an action platformer in the Umbraverse (Godot 4) | Thief of Dawn An action platformer set in the owner's Umbraverse (lore in Google Drive; st
+dashryerson-design/ragdoll-shooters | thin | Ragdoll Shooters A physics ragdoll shooter that runs right in your browser — no install. ▶
+Wut-Lab/Dino-Match- | A simple dinosaur matching game | 🦕 Dino-Match A bubbly, cartoony dinosaur matching game for little kids. A picture of a din
+mmisbaah/bloomora | A pattern-puzzle math game for kids aged 5–12 | Bloomora: The Sunken Lagoon A pattern-puzzle math game for kids aged 5 to 12. Sprig, a lit
+DecentSoul-projects/GoSControllerToggle | Xbox Game Bar widget that turns the Legion Go S built-in controller of | Controller Toggle for the Legion Go S [](https://github.com/DecentSoul-projects/GoSControl
+TavernCrasher/D-Screen | A desktop partner for Digimon World 1. An unofficial fan project: no g | D-Screen A desktop partner for Digimon World 1. D-Screen is an unofficial fan project, not
+PlavaNS/game-portal | Free online games portal by Door 404 | ﻿ Game portal (I Love Web Games — ilovewebgames.com — "Play free. Play now.") StatiÄ^Mki s
+egr-meister/JokerRubies | Joker Rubies — offline Android quiz & matching pairs game (Kotlin, Jet | Joker Rubies A fully offline Android game in Kotlin + Jetpack Compose with two modes: - Qu
+EamonMcGaley/zombie-shooter-3D |  | Zombie Arena A blocky 3D zombie survival shooter that runs in your browser, on PC, phone o
+aosmann/edugames |  | EduGames The portal for the educational games: https://aosmann.github.io/edugames/ - Play:
+daphnoola-web/hannibal-game |  | Hannibal game (feasibility spike) A third-person 3D browser game about Hannibal's campaign
+dlavia/GoPilot | Panel de control para la Lenovo Legion Go S como widget de Xbox Game B | GoPilot El panel de control de la Lenovo Legion Go S, dentro de Xbox Game Bar. [Descargar]
+potatoteamgames/games |  | 🥔 Potato Team Games – Free Browser Games Visit our page with free good games: https://pota
+MauritsLaubser/Deals4U | An irritating incremental game | DEALS4U.biz An incremental game about a horribly annoying website. You land on a page full
+reneodlt/civitas | Civitas: a browser-based multiplayer city builder in three.js and Type | msimcity A web-based, multiplayer, unbounded city builder platform. three.js on the client
+ph1losof/gamematch | GameMatch: paid in-game re-engagement MVP for Freecash linked users (B | GameMatch MVP In short - Freecash pays people to play mobile games. About 1 million of its
+lewisca/Balloon-Stack | Balloon stacking game. Basically a reverse jenga. | Balloon Stack Reverse Jenga with balloons, and a small, fully observable probabilistic AI.
+princeodd47/heygoodbuddy.com | Game guides, notes and articles for heygoodbuddy.com | heygoodbuddy.com Source for [heygoodbuddy.com](https://heygoodbuddy.com/): game guides, no
+Darhaal/GulfOfTrump | Alternate-history grand strategy where a language model is the game ma | Gulf of Trump An alternate-history grand strategy game where a language model is the game 
+skimmer747/word-circle | A calm, large-print word game for an iPad | Word Circle Calm, large-print word games for Mom's iPad: - Word Circle, in the style of Wo
+bradhunt5/pixel-war | Pixel War: a territory-conquest strategy game for phones (installable  | Pixel War A territory-conquest strategy game in the spirit of Roblox's Pixel Conquest. It'
+Ermes-x86/MW2SA-Beta | MW2-GTA (Beta): Call of Duty: Modern Warfare 2 (2009) gameplay inside  | MW2-GTA (Beta) ⚠️ WARNING: this mod is in beta and still contains bugs. Expect the player 
+SumantxD/toy-plane-sim | Cartoon low-poly multiplayer plane game (Godot 4). Play with friends v | Toy Plane Sim A cartoon low-poly multiplayer plane game made with Godot 4.7. Fly with frie
+Teddy563/mineplus | Every mod that runs Minecraft inside another game, and the games insid | Mineplus: Minecraft inside every other game Every mod, port and bridge that runs Minecraft
+wongcha/redox-ar-game |  | Electron Pass An AR classroom game on redox reactions. Students stand in front of a camera
+appleapplegaming/pr-review-game |  | Ship It A browser co-op PR review game. Players share one quarter of a fictional company: 
+brightonspindoctor/Tycoon | Game | Tycoon Industry. Influence. Plausible deniability. A satirical solo roguelike deckbuilder 
+jonbeam1-netizen/ashvale | Ashvale - an original tick-based fantasy MMO-style browser game with p | Ashvale Ashvale is a free fantasy adventure that runs in your browser – a low-poly world o
+mendauuu/toshkent-gta | Grand Theft Avto: Toshkent - open-world driving and action game in the | Grand Theft Avto: Toshkent An open-world driving and action game in the spirit of GTA, set
+Xnos666/SoundBridge-PS5 | Stream your jailbroken PS5's game audio to your PC headset with ~50 ms | SoundBridge Your PS5's game sound, in the headset on your PC. A payload for jailbroken PS5
+sauravh-ledger/planet-pulse | This is the game specially made to play for their country rank among w | Planet Pulse 🌍 Play for your country. 30 mini-games, one live world ranking. --- Every gam
+Sapyst/Archivys | Archivys — idle guild-management pixel-art game for mobile (Godot 4).  | Archivys Alpha v0.1 — an idle guild-management game for mobile (portrait), made with Godot
+GrantBuonviri/Carrazy | Crazy Array Game | Carrazy A browser puzzle game about conquering a 20 × 20 grid. How to play - Drag a rectan
+ahmedayadeng-lang/zombie-survival-shooter | Top-down 2D zombie survival shooter in Python/Pygame: 4 weapons, anima | Zombie Survival Shooter A top-down 2D survival shooter built with Python and Pygame. You p
+malignatius/Stalactix | A PvP split screen space-shooter game | Stalactix A two-player, split-screen cave shooter that runs in the browser — one self-cont
+hectorei19/geo-games |  | Geo Games Home page for three daily geography games, live at https://hectorei19.github.io/
+ehawk61/alien-tic-tac-toe-ai | Computer Game generated as part of workshop at All Things Open 2026 | alien-tic-tac-toe-ai Computer Game generated as part of workshop at All Things Open 2026 A
+jtenzer/Tardy-Slip | Play the 2008 flip-phone edition of Surviving High School in your brow | Tardy Slip Play Surviving High School, the 2008 Verizon flip-phone edition, in a web brows
+adderek/vrdual | VR for any 3d game | vrdual Play ordinary 3D games in a VR headset with real stereo 3D: each eye gets its own r
+tb-x/cuckoo-clock | Cuckoo Clock: a telling-the-time game for young kids (hand clock, digi | Cuckoo Clock A telling-the-time game for young kids (around age 5), made for phones and ta
+ssjtheoryali/universe13-classic | Universe 13: classic three.js browser game (GitHub Pages) | Universe 13: Power Royal (classic browser game) The original three.js browser game, as it 
+Harlock123/AVAPunchOut | A recreation of Punch-Out!! (Nintendo arcade, 1984) in .NET 10 and Ava | AVA Punch-Out!! [](https://github.com/Harlock123/AVAPunchOut/actions/workflows/build.yml) 
+DabDavis/eqoa-rs | EverQuest Online Adventures: Frontiers client in Rust, ported from the | eqoa-rs: an EQOA client in Rust A native client for EverQuest Online Adventures: Frontiers
+ZagTheWag-dev/halo-dreamcast | Halo: Combat Evolved on the Sega Dreamcast - Halo's Xbox menus, Blood  | Halo: Combat Evolved on the Sega Dreamcast Halo: Combat Evolved's own game code running on
+hobsojam/hypercaz | Simple, ad-free hyper-casual browser games | hypercaz Simple, ad-free hyper-casual browser games. No monetisation, no currencies, no ti
+TxHandles/pokemonarena |  | Pokemon Battle Masters (Arena Clash) A 2D real-time Pokemon arena battler in C++ with rayl
+ishi12121/prowl | Koketsu (虎穴): Apex Tag. A real-world chase game of big-cat hunters and | Koketsu: Apex Tag Koketsu (虎穴) means the tiger's den, from the proverb "if you don't enter
+TimLeitch/color-match-game |  | Color Magic A dumpster-and-conveyor color sorter for Kaotic Gaming. Tap a dumpster to pick
+Alexdlc5/Kitchen-Table | Classic American card games: Spades, Hearts, Euchre. No ads ever. Work | Kitchen Table Classic American card games for iPhone and iPad: Spades and Hearts at launch
+tuncertimur/suasoria | Convince the Machine: a roguelike deckbuilder where words are the only | SUASORIA — Convince the Machine A roguelike deckbuilder where words are the only weapon. C
+ppriest/Arcade-LethalEnforcers_MiSTer | A MiSTer core for Lethal Enforcers | Lethal Enforcers core for MiSTer A MiSTer FPGA core for Konami's Lethal Enforcers (GX191) 
+Ahmad1765/claude-mobile-game-playbook | A Claude Code skill for building casual mobile games that run smoothly | Mobile Game Playbook for Claude Code A Claude Code skill for building casual mobile games 
+leandromeiramedeiros/My-dreamy-rpg |  | My Dreamy RPG — concept build A high-fantasy, dreamy pixel-art action RPG that runs in the
+scottpeterman/arcade | A Collection Of AI Created Games | Vector Arcade Wireframe and vector games for the browser. Each game is a single self-conta
+rajarshi-bose/ten-year-tape | scrapes BSL and Yahoo Finance data to create a realistic simulator for | Ten-Year Tape A stock market game that replays a secret, real decade of market history in 
+NicholasJohnAlvarez/pi5-colorlight-gameboy | Raspberry Pi 5 drives Colorlight 5A-75B/E80 LED receiver cards directl | pi5-colorlight-gameboy A Raspberry Pi 5 that talks straight to Colorlight LED receiver car
+Frigiduss/backroom-poker | poker game for browser | Back Room Poker A browser poker game against computer opponents. Games: Texas Hold'em (no-
+hazlema/lantern-hollow | A cozy autumn isometric zombie tower defense game. Three.js + TypeScri | Lantern Hollow A cozy autumn zombie defense. Every night, sleepy zombies wander out of the
+Maddex712/WiiDS | Wii and GameCube favourites running natively on the AYN Thor, with a D | WiiDS Wii and GameCube favourites, running natively on the AYN Thor, with a second screen 
+notakung490/Addition-game |  | ยิงเลขบวก (Addition Gun Game) เกมฝึกบวกเลข 2 หลัก ที่ใช้ มือทำท่าปืน เล็งและยิงคำตอบผ่านกล
+matt-CMDB/kodshim-quest | Pokemon for kodshim | Kodshim Quest A top-down, Pokémon-style browser game for learning the basic laws of korban
+adumah/MsPacManMazeMadnessRecomp | Native Linux build of Ms. Pac-Man Maze Madness (PS1) via PSXRecomp sta | Ms. Pac-Man Maze Madness — native Linux and Nintendo Switch builds Native Linux and Ninten
+briandle00/melee-3d-viewer | Slippi replay viewer that draws Melee with the game's own models, read | melee-3d-viewer A browser replay viewer for Super Smash Bros. Melee .slp replays (Slippi) 
+jmichaels2001/HeadsUp | This is a multiplayer Heads Up style game | Headbands A browser-based "Who Am I?" party game for friends on a video call. Everyone see
+kimball-vibing/cameron-sanfrancisco | Cameron Sanfrancisco game | Where in the World Is Cameron SanFrancisco? A geography detective game inspired by the 198
+jdonald/brownian | 2D mobile web game themed around Brownian motion, narrated by Albert E | Brownian! 2D mobile web game themed around Brownian motion, narrated by Albert Einstein. P
+jdonald/relativity | mobile web teaching game for special relativity, featuring Albert Eins | Relativity A mobile web teaching game for special relativity, featuring Albert Einstein in
+krishnavijaykumar/lantern-run | A cozy 2D platformer in a single HTML file. Guide Pip the lantern robo | Lantern Run A small, cozy 2D platformer that lives in one HTML file. Guide Pip, a little l
+zees-games/game-murder-mystery | A 3D game inspired by an old game mode called Murder in Garry's Mod. T | Murder Mystery This is a game to demonstrate the capabilities of the [Dot collection](http
+ikrmachoudry/ParkourHaris | Haris Game | Parkour Haris 3D multiplayer obstacle race (1-4 players), 6 levels, bat, power-ups, mobile
+TechSnazzy/astro-typer | Space-themed typing game for kids learning where the keys are. Plain H | Astro Typer 🚀 A gentle space-themed typing game for a complete beginner. The goal is to le
+NICOH-YAY/any-given-morning | Any Given Morning: a small farm, a small day, and about twenty seconds | Any Given Morning A small farm, a small day, and about twenty seconds. Play it: https://ni
+fadi0072/cold-gas-roadster | Browser game recreating Tesla's Oct 2026 Roadster demo on a working co | Cold Gas Roadster A browser game, installable on phones, that recreates Tesla's Roadster r
+Shantodotdev/zombie | DEAD BLOCK - isometric voxel zombie shooter (React + Vite + Three.js) | DEAD BLOCK A 3D voxel zombie-survival game with a Clash-of-Clans-style fixed isometric cam
+dialersapps/gamedac | Encode and decode classic video-game audio in plain JavaScript: PlaySt | gamedac.js reads and writes the audio formats of classic game consoles in plain JavaScript
+shwan-ps5/pulse | Beat Saber-style rhythm game for PS VR2 and Sense controllers on a jai | Pulse A Beat Saber-style rhythm game for the jailbroken PS5 with PS VR2 and Sense controll
+jackkav/tiny-idle | Smallest Thing: an idle game that starts at 1e-101 kg | Smallest Thing An idle game proof of concept. You start by tapping a speck worth 0.01e-99 
+KenLDubois/hot-mic-game | An online multiplayer game that tests your music knowledge! | Hot Mic A self-hosted online party game, Pass The Mic meets Kahoot. A word appears, everyo
+soffianz/badsoffware_Game |  | Badsoffware 2-4 player tag game in a single index.html. Portrait phone screens. Robots cli
+rehanraza0063-sudo/ninja-run-battle-game |  | 🍃 SHINOBI RUSH: Ninja Battle Endless Runner A 3D endless runner and ninja battle game insp
+koushikreddy510/make-ten | make ten game | Make Ten A number puzzle game built with Expo (React Native) and TypeScript. Select tiles 
+kvelury/freddysfall | a browser-based, side-scrolling metroidvania game | Freddy's Fall A browser-playable pixel metroidvania in Godot 4.7 and GDScript. The world i
+UnsupervisedMedia/PieceOffApp | Multiplayer jigsaw puzzles with smooth looping video, built in Rust (e | PieceOff A video-first jigsaw puzzle you can solve together. Turn a looping video, animate
+hermesdt/chess-coach | Local chess coach: syncs chess.com/lichess games, Stockfish analysis,  | Chess Coach Chess Coach is a local web app for chess improvement. It is for beginner playe
+antygraviton/blackorder | my first game | Black Order A browser-based first-person war game set in 2015, in which a secret organizat
+jaikishangurav/brain-arcade |  | Brain Arcade A collection of small educational browser games for kids. Each game is plain 
+Hung-nd233960/temporal-lobe-lab | Browser game testing temporal-lobe functions (memory, faces, melody, l | 🧠 Temporal Lobe Lab A short browser game that tests four functions of the temporal lobe — 
+ducgao/pkg-extractor-gui | GUI for the ShadPs4Plus PKG extractor: base game, update and patch/DLC | PKG Extractor GUI 🌐 [English](README.en.md) · Tiếng Việt Giải nén file PKG game PS4 (game 
+marlenercohen/block-game-v2 | Block game with color and memory rules | Block physics game - Version 2 (experimental): pilot experiment build A separate copy of t
+Shootquinn/Drilling_Game | Prospecting game: fractal borebot network vs conventional rig. Unlicen | DrillingGame A prospecting game about borebot fractal drilling against a conventional surf
+trentteinert/slasher-1 | 2d-roguelike-app | slasher-1 2.5D roguelike slasher for iPhone: a real 3D world (Three.js) with pixel-art spr
+JOSHIONCLAUDE/dead-harvest | Dead Harvest - 3D zombie survival game | Dead Harvest A 3D first-person zombie survival game. Hold out wave after wave on a haunted
+cneijenhuis/sudoku-vibes |  | Sudoku Vibes Mobile-first Sudoku game in TypeScript (Vite, plain DOM). No runtime dependen
+GVihi/FstreliBiciklina3D | Mostly vibe coded Godot game | FstreliBiciklina3D Mostly vibe coded Godot game Roguelite Development Roadmap The game is 
+muqeem72-R/python-quest | A free browser game that teaches Python step by step. 8 islands, 40 ch | Python Quest A free browser game that teaches Python step by step. Players travel across 8
+voodatari/Dogs-of-War-Atari-ST-Recomp-for-Windows | Dogs of War (Atari ST) native Windows port: the game's 68000 code reco | Dogs of War Atari ST Recomp for Windows Gameplay video / Vídeo de gameplay Where things ar
+jimmyscafe/game |  | Spray the Fly A single-file 3D browser game. Four flies (two purple, two faster green ones
+tbringuier/supertuxkart-docker | A STK server docker image :3 | supertuxkart-docker A SuperTuxKart dedicated server in a small container, built from the o
+nihakue/getgot | Don't Get Got style secret-missions party game, fully static | Don't Get Got — Holiday Edition A secret-missions party game in the style of Don't Get Got
+mattaldapa-design/GG- | Games w/ Friends | Friendly Competition — GG! Goal An app Matt uses on his phone to keep score with his frien
+BeargleIndustries/capchai | CAPTCHA-style spot-the-AI-image quiz | CapchAI A CAPTCHA you can fail. Each round shows four images; you pick either the one AI-g
+santolucito/pizzagame |  | Pizza Rush — a web-based idle pizzeria A browser game inspired by the arcade‑idle restaura
+ruhanu155/claude-game-studio-skills |  | Claude game studio skills Two skills for building games with Claude using an agent-team "s
+ratatabananana-bit/babel-board | Babel Board: read the cards of board games in a language you don't spe | Babel Board A phone app for playing board games whose cards you can't read. The problem it
+cdsweeney2016/netmancer | Netmancer: a CCNA study game in one HTML file. Build networks, follow  | Netmancer A CCNA study game. You start on a help desk and rise to network engineer, fixing
+dragoonant/murder-squad | Fan-made 3D Warhammer 40,000: Kill Team game (2024 edition mechanics,  | Murder Squad A browser-based 3D skirmish wargame with super-deformed miniatures: two small
+UriZ/action-chess | Battle-Chess-style animated chess: painted crusader warriors that walk | Action Chess Real chess. Every move is a performance. Normal chess rules — but the pieces 
+henri-cmd/spectrum | Spectrum, a daily word game | Spectrum Two daily word games, live at https://henri-cmd.github.io/spectrum/ (Darts, on th
+timjrobinson/songs-of-syx-multiplayer | Co-op multiplayer mod for Songs of Syx — deterministic lockstep, a por | Syx Multiplayer Co-op multiplayer for [Songs of Syx](https://songsofsyx.com/): several pla
+CborgX/HMB_ARENA | FPS game that autonomously betters itself as per user feedback | HMB Arena A browser-based first-person shooter. All 3D assets (weapons, enemy soldier, the
+meridian-knight/claude-swarm | Claude Swarm: a retro Snake-inspired fan game. Consume tokens. Spawn a | Claude Swarm Consume tokens. Spawn agents. Grow your swarm. A free retro arcade fan game i
+kenchasonakai/iwanoi-card-game |  | 岩瀬酒造 蔵元カードゲーム（仮） 岩瀬酒造（千葉県御宿町、銘柄「岩の井」）の酒造りを、1 人で遊ぶカードゲームです。ハッカソンの題材として作ります。 ルール、カード一覧、画面と技術
+ugurkc/root-access | Root Access idle clicker design bench | Root Access — design bench Phone-first prototype of Root Access, an idle clicker about hac
+Axiom-Puzzleworks/Reptile | A 1980s inspired game. | Reptile Reptile is a rock-and-diamond puzzle game for Windows, with a map designer for bui
+abbasaliii/gas-rapids | Four-player fart-powered raft race in the browser. Free, open source,  | Toot River A four-player, fart-powered raft race for the browser. Four animals share one r
+GabeMoraru/handshake-island | A barter game for hosted language models: six residents trade under se | Handshake Island Six language-model residents barter wood, rope, nails, cloth and fish for
+LP8273787843/numguess | A polished number-guessing game for Jupyter notebooks (ipywidgets): Cl | 🎯 NumGuess A polished number-guessing game that runs inside a Jupyter notebook, built with
+erfan-amini/nuclear-diplomacy-game | Moderator console for the K=1 Project Nuclear Diplomacy Simulation (St | Nuclear Diplomacy Simulation A moderator console for the K=1 Project's Nuclear Diplomacy S
+sgilson7/cis110-game-lab | Assignment page for the CIS 110 Collaborative Game Design Project, bui | Collaborative Game Design Project, CIS 110 The assignment page for the Collaborative Game 
+Mikale4/PokeSquad-Showdown | Pokémon Showdown server fork running PokeSquad Battler's own battles ( | Pokémon Showdown ======================================================================== 
+Furkiozknn/claude-game-arena | Eight free browser games by four Claude models (Opus, Sonnet, Fable, H | 🏟️ Claude Game Arena [▶ Open the arena page](https://furkiozknn.github.io/claude-game-aren
+ChimeratechCorp/cluesheet | A Digital Cluesheet to use alongside Classic Clue board game. Also inc | Clue Sheet An iPhone app that replaces the paper detective notepad in the board game Clue 
+timgarciaa/my-badminton-queue | MBQ: badminton court queue, balanced games and cost split (iPad PWA) | MBQ — My Badminton Queue iPad web app (PWA) for running badminton sessions: master player 
+trickzyinsanity/who-did-that | Party game: everyone writes an anecdote, the group guesses who wrote i | Who did that? A party game for friends, in English and French. Everyone writes one anecdot
+AlgieGen/mabar-app | Website mabar: bikin room, voice chat, planning, edit foto, dan main g | 🎮 MabarRoom Website untuk kumpul bareng teman secara online: bikin room, planning, edit fo
+barakthecat/Crowdrunner-game-noscam- | A non-scam crowd runner game | Crowd Runner (no scam) The crowd-runner game the App Store ads promise but never deliver. 
+makerjackie/yarn-planet | 毛线星球 · Yarn Planet — a small-planet walking game in the browser: your  | 毛线星球 · Yarn Planet [](https://yarn.ynot.games/) [](LICENSE) [](docs/making-of.en.md) Your 
+MuhammadaliMS/ai-farm-game-links | 8 free GitHub repos to build a cozy farm game solo with Claude + Unity | Build a Cozy Farm Game with AI: Every Link All the repos from the "solo cozy farm game wit
+quocnguyenx99/game-sn-sep | Game Cờ caro và Ô ăn quan sinh nhật Sếp | Hành trình quay về tuổi thơ 🎂 Trang game cho tiệc sinh nhật gồm 2 trò chơi đối kháng 2 ngư
+seamusohailin/games-room |  | The Games Room One web address for all the girls' learning games: https://seamusohailin.gi
+thlaure/BreakBreaker | Jeu d'action arcade en pixel art, vu du dessus (Phaser 4 + TypeScript) | BreakBreaker A 2D top-down pixel-art arcade web game, rewritten from the old Three.js prot
+PolycarpusTack/OSCFootball | Old Skool Crazy Football sim. a test of building a simple football gam | FIFA 96 Bananas (Godot 4.7) A new football game built on the original FIFA 96 assets. Pers
+techknight/geow2-scores | A score server for a group of geow2 players: shared high scores, unloc | geow2-scores A score server for a group of [geow2](https://geow2.com) players: your high s
+kimball-vibing/lionel-messi-game |  | Where in the World Is Lionel Messi? A sports spin-off of "Where in the World Is Cameron Sa
+mellemnick-del/dino-breakout |  | Dino Breakout The paddocks are open. Hold the line until the choppers arrive. App Store li
+mattbothell/Super-Snake | Snake for macOS where you unlock themes and colors through achievement | Super Snake A Snake game for macOS where you earn the customization by playing. Start with
+GRIMDROWNED/Drowned-Light | Survival bullet heaven game. | Drowned Light Will you thrive in the light or drown in the darkness? A top-down dark-fanta
+gb1577/digiplanes | A small Three.js browser game drawn like a technical drawing: roll a w | Digiplanes [▶ Play in your browser](https://gb1577.github.io/digiplanes/) A small Three.js
+Parakoos/player-screen-holder | Parametric Python generator for 3D-printable board game player screen  | Board Game Player Screen Holder Generator A Python script that generates 3D-printable hold
+meintsot/chess-review | Free, open-source chess game review and coach in the browser: Stockfis | Game Review — a free chess coach in your browser Review any chess game the way chess.com's
+ycgNem/knucklebound | A cinematic bare-knuckle MMA story game in three.js (WebGPU) | KNUCKLEBOUND A cinematic bare-knuckle MMA story game built with three.js (WebGPU + TSL). C
+didinaprodan/spelling-dive | Spelling bee practice game for a first grader: spell words, scan sea c | Spelling Dive A spelling bee practice game for a first grader, themed after an underwater 
+Bubbagum88/GameCoob-Bios | the goal of this project is to create a bios/ bios app that looks iden | GameCoob-Bios A UEFI boot app that makes any x86-64 PC start up like a GameCube: the conso
+thebiggeek/hatjabhai | Hat Ja Bhai! — sadak ka survival game. A road-safety satire. hatjabhai | Hat Ja Bhai! (हट जा भाई!) A road-survival satire game. In a racing game you try to finish 
+sakanarm/IcebreakerArena | IcebreakerArena | MFEC IceBreaker Arena เกม Icebreaker / Quiz แบบเล่นสดสำหรับทีม MFEC ผู้จัดสร้างคำถามเองแบ่
+Blockheads-Club/blockheads-pc | Play The Blockheads on your computer — Windows, macOS and Linux. Use y | Blockheads PC Play The Blockheads on your computer — Windows, macOS and Linux. Use your ow
+Harlock123/AVAXCom | A UFO defence strategy game in the style of X-COM: UFO Defense (MicroP | AVA X-COM [](https://github.com/Harlock123/AVAXCom/actions/workflows/build.yml) A turn-bas
+underscoreloG/zakov | Retro pixel-art extraction shooter in a single HTML file, inspired by  | ZAKOV A retro pixel-art extraction shooter that runs in the browser, inspired by ZERO Siev
+kitcatkode/MacNativeGames | totk android port (wip) | MacNativeGames English Breath of the Wild 1.6.0 is now officially supported on Mac! (Mac o
+ctorres345/Yomineko | Turn the Japanese script of GBA and Game Boy Color games you own into  | yomineko 読み猫 Turn the Japanese script of a game you own into flashcards. A word list, exam
+mahakrishan21/Game |  | Sadak Surge An endless runner on Indian roads. You drive a prototype flying electric roads
+aleksejunas/eldfari | A game written in Go inspired by the finnish Amiga game turboraketti | eldfari Vector-style gravity cave flyer, inspired by Turboraketti (Amiga, Heikki Kosola). 
+syrox11/precursor-survivors | Fan-made Vampire Survivors-style browser game set in the Jak and Daxte | Precursor Survivors [](https://github.com/syrox11/precursor-survivors/actions/workflows/ci
+texet4523-code/arneyan-codex | The Arneyan Codex game system for Foundry VTT | The Arneyan Codex for Foundry VTT The game system for The Arneyan Codex, for Foundry VTT v
+Furkiozknn/cay-ocagi-godot | Çay Ocağı, a 3D tea house time-management game remade in Godot 4 by Cl | ☕ Çay Ocağı · Tea House Rush (Godot 4) [▶ Play in your browser](https://furkiozknn.github.
+ting39/eighth-segment | A hard, minimal precision platformer: you are the decimal point; every | Eighth Segment A hard, minimal precision platformer for the browser — 35 rooms, 12 stray p
+gkson-lab/longshot10 | Ten-digit random number badge game with exact odds. | Long Shot 10 A ten-digit luck game, formerly RNGdle 10, in the spirit of [RNGdle](https://
+braianperezrd-ship-it/ROLLITOUT | 2d game | ROLL IT OUT A 2D game made in Unity. - Unity: 6.3 LTS (6000.3.x), see ProjectSettings/Proj
+sweeax-exe/ffny-online | FFNY Online: Def Jam: Fight for NY on PC with online multiplayer (unof | FFNY Online — Def Jam: Fight for NY on PC, with online multiplayer [](https://github.com/s
+kayliox/sparta-clips | Free, lightweight Windows game clipper: instant replay, simple editor, | Sparta Clips Save your best gaming moments with one key press. A free, lightweight clip re
+garygrandchamp-cmyk/delta-nova-uprising-play | Playable DeltaNova: Uprising browser build. Exported game artifacts on | DeltaNova: Uprising — Play Play the browser build: https://garygrandchamp-cmyk.github.io/d
+ashachaf/card-games | Card games for regular playing cards, explained for your first game. H | משחקי קלפים משחקי קלפים עם קלפי משחק רגילים, מוסברים כך שאפשר לשחק כבר בפעם הראשונה: הכנה,
+ramlakhanmadheshiya/BrainnovaStudio | Brainnova Studio games site: theramlakhan.com/BrainnovaStudio/games/ | Brainnova Studio The games site at https://theramlakhan.com/BrainnovaStudio/games/. - game
+Clergyman0013/arizona-vamp-recomp | Native PC port of Darkwatch (Xbox, 2005) by static recompilation. Dire | Arizona Vamp Recomp A native PC port of Darkwatch (original Xbox, 2005), made by static re
+rochano/chess |  | Chess Game A playable chess game in a single HTML page: two players on one device or again
+adamsjm32-cmd/graham-game-plan |  | Graham's Game Plan Graham's two-week school game plan: calendar, science study packet, Fis
+Ghivee/Beben-game |  | Petualangan Laut Pokémon 19 mini-game Pokémon untuk anak 5 tahun, masing-masing dengan 5 l
+YourAverageCow/herald-datapack | 📯 Server announcements for Minecraft Java 26.3 that reach every player | Herald lets server admins send an announcement to everyone at once, and makes sure nobody 
+TalkingHand/IMEKeyFix | Project Zomboid B42 mod: hotkeys work while a Korean/Chinese/Japanese  | IME Key Fix Project Zomboid Build 42 mod for Windows players who type with a Korean, Chine
+b1rdmania/paris-riots | Turn-based story game on a pixel map of central Paris. Desktop browser | Paris Riots: The Game A turn-based story game on a pixel map of central Paris, set on 17 O
+jamespherman/jarchive-game | Pass-the-iPad trivia game using J! Archive clues (clue data not includ | J! Archive Game A pass-the-iPad trivia game using real Jeopardy! clues, with each clue's o
+deloy4/bfg | Every browser game in one place, with one sign-in for all of them | BFG The front page for the browser games at https://deloy4.github.io/bfg/: a list of every
+selameddin00/seraph-breaker | Isometric anime mecha action game in the browser. Community project: o | Seraph Breaker İzometrik, anime tarzı bir mecha aksiyon oyunu. Tarayıcıda çalışır, kurulum
+JJatMCLabs/mclabs-apps | mclabs games: the apps.mclabs.xyz site and the shared event counter | mclabs-apps The shared home of mclabs' games. It holds two things: - docs/: the website at
+Anonymoesje/gary-is-hungry | A one-button gravity-flip chase game. Flip gravity, keep running, don' | Gary Is Hungry A one-button chase game in a single HTML file. Flip gravity, keep running, 
+Bitsandbreakpoints/sorcerers-maze-psx-pc-recomp | Native Windows port of the PlayStation game Sorcerer's Maze - bring yo | Classic games, recompiled for today. Easy to play, with optional enhancements, for everyon
+riyasah0963/lamplighter | Top-down 2D stealth-puzzle game in C++ and SDL3 (COMP3016 CW1) | Lamplighter A top-down 2D stealth-puzzle game in C++ and SDL3, made for COMP3016 Immersive
+litu173/mustafa-reborn | MUSTAFA: The Dinosaur Wars — arcade beat 'em up tribute with online du | MUSTAFA REBORN A tribute to the 2002 arcade craze: a side-scrolling beat 'em up with dinos
+Skiari/tower-defence |  | Tower Defence (Roblox) A hard, real-time-strategy tower defence game with random wave even
+seskiramadhan/Kalabendu | Kalabendu: a 2D Indonesian sandbox game in JavaScript. Dig, build, rep | Kalabendu A 2D side-scrolling beat 'em up with pencak silat at its heart, set in the ficti
+tinsanchez00/game |  | Board game (working title) Source code for a personal play-testing app for an original boa
+hdmjack/untitled-surival-game |  | Untitled survival game Early prototype. Right now this is only the procedural landscape: n
+Kingtutz/darteye | Single-camera dart auto-scoring for iPad + TV, in the browser. 12 game | DartEye Auto-scoring for a steel-tip dartboard with one camera, an iPad and a TV. Runs in 
+erenciracioglu-dotcom/dustys-great-achoo | One dust bunny, one tyrant robot vacuum, one extremely powerful nose.  | Dusty's Great Achoo Tek bir toz yumağı, tek bir zorba robot süpürge ve son derece güçlü bi
+magickme/penguin-the-gathering | Wake up on the Antarctic ice with no name. Four penguins want to know: | Penguin: The Gathering A small first-person 3D browser game. You wake up on the Antarctic 
+hudsonozello-student/Dublin-Dash | A 3D browser game about Dublin, Ohio: shamrocks, Muirfield Village, th | ☘️ Dublin Dash A little 3D adventure through Dublin, Ohio, playable right in your browser.
+Tntdruid/mod-questparty | AzerothCore module: lets eligible party members loot their own quest i | Author: Tntdruid mod-questparty Author: Tntdruid mod-questparty lets eligible party member
+cojoco/ato-enemy-scaling | Across the Obelisk mod to scale the enemies health and damage | Enemy Scaling A BepInEx 5 mod for Across the Obelisk that makes enemies tougher: it multip
+tcw4wn9r95-jpg/game-new |  | Steel & Signal A single-player modern real-time strategy game for iPhone (Safari / Home Sc
+TimothyHadfield/game-fx |  | game-fx: sounds, celebrations and small animations for the board game sites One small file
+tejusna/tesla_roadster_projection_mapping_game |  | Tesla Roadster: Coin Rush (projection mapping game) A flying Tesla Roadster is projected o
+GordonWaite/what-time-is-the-game-on | Start times for today's games in your time zone. No scores, ever. | What Time Is The Game On? Start times for the week's sporting events in your local time zo
+franks-ai-cafe-test/lab-test-opus-high-superpowers-simple | Simple two-player Tic Tac Toe browser game (HTML/CSS/JS) hosted on Git | Tic Tac Toe A simple two-player Tic Tac Toe game in plain HTML, CSS and JavaScript — no bu
+rayners/clicker |  | DEEP CONTRACT, CHARTER OF THE ELDERDARK & LATE FEES Three idle games that run entirely in 
+asadravian/Tesla-Roadster-Game | Roadster Rush: weave through neon traffic at 300+ km/h and fire rocket | Roadster Rush A 3D rocket-thrust highway run in the browser, inspired by the Tesla Roadste
+HappynessSeller/red-horizon | Red Horizon: a 2-player Mars terraforming card game vs an AI rival (fa | Red Horizon A two-player Mars terraforming card game played in the browser against an AI r
+raultovar-space/game-of-life | Interactive Conway's Game of Life with a Matrix-style canvas UI: seed, | Artificial Life: Conway's Game of Life An interactive, Matrix-styled Conway's Game of Life
+cvcool-eng/carrot-clicker | Carrot Clicker - a cookie-clicker style browser game | 
+franks-ai-cafe-test/lab-test-opus-high-dev-stack-simple | Simple Tic Tac Toe browser game: play a friend or the computer. | Tic Tac Toe A simple Tic Tac Toe game for the browser. Play a friend on the same device or
+abeLedgry/game-day-releases | Game Day app downloads | Game Day — app downloads Installable builds of Game Day for Android TV / Google TV / Fire 
+bevlee/hold-the-bridge | Stick-figure gate shooter in three.js, inspired by the mobile ads | Hold the Bridge A browser game in the style of the "shoot the gates" mobile ads, built wit
+TimothyHadfield/game-table |  | game-table: the "real table" look for the board game sites Two small files, table.css + ta
+NicB-coder-bot/arcade |  | Arcade Four quick games in plain HTML, CSS and JavaScript. No libraries, no images, no set
+henrythebaby1-ops/the-breakfast | A two-player paper-collage breakfast puzzle game. A stops sideways, L  | The Breakfast A two-player paper-collage puzzle game. Breakfast pieces fly around the boar
+calebjonas281/History2026Mesopotamia- | History Project 2026 Mesopotamia Epic of Gilgamesh coded game. | I Am Gilgamesh An action-adventure game where you play Gilgamesh through Tablets I–XI of t
+TAziz05/daily-poke-catch | A Pokémon Trivia Website | Daily Poké Catch A daily Pokémon trivia game you play in the browser: https://taziz05.gith
+MarwanMoh11/luxel | Luxel: a survivor where the upgrade shop is the game's own Settings me | Luxel A survivor where the upgrade shop is the game's own Settings menu. Sell your subtitl
+InfamouslyGreedy/game-intel-mcp |  | Game Intel MCP [](https://github.com/InfamouslyGreedy/game-intel-mcp/actions/workflows/ci.
+nishit93/quiet-board | Calm puzzle and mind games from around the world | The Quiet Board Calm, single-player puzzle and mind games from around the world. A static,
+2021016035Kimtaeyoon/bundle-game-platform | 게임 기반 공동구매 플랫폼 (라운드박스) - 포인트 참여, 시드 검증 공정 추첨, Three.js 우주 랜딩 | bundle-game-platform 게임 기반 공동 구매 플랫폼. 사용자가 상품(기프티콘/피규어/전자제품/하이엔드/기타)을 등록하면, 다른 사용자들이 포인트로 
+Aarnivalkia/My-first-game | tutorial | Star Catcher A very simple mobile-friendly Phaser 3 game. Drag your finger (or mouse) to m
+rvorine/jump-game-ii | Jump Game II (LeetCode 45) — greedy minimum jumps in O(n) in Python, J | [](https://instagram.com/lacopydepastel) [](https://youtube.com/@rvorine) Jump Game II (Le
+najeeb101/Japanese-game |  | Game Jeopardy Game Jeopardy is a browser-based Japanese gaming quiz game presented at the 
+ewanc26/Hollowfall | A procedural voxel dungeon crawler with fast, aggressive combat and po | Hollowfall A voxel-based game written in C on .NET 10. Status Early, but playable. Seeded 
+anttiraisala/ai-slop-games |  | AI Slop Games A growing pile of games made entirely by AI. A human gives the AI one prompt
+walkingcorpses/firefall-reborn | Firefall Reborn - a fan revival of Firefall: single player, Steam co-o | Firefall is back. Play it alone, or with your Steam friends. --- Firefall Reborn is a fan-
+DavidNyholm/spinwright | Play-money slot machines and a clicker, in TypeScript and PixiJS. Pure | Spinwright A small workshop of play-money games: three slot machines built around pure Typ
+JorgeRZT/wotlk-questline | WoW 3.3.5a (WotLK) addon: per-level quest list ranked by XP/time from  | WotLK QuestLine A World of Warcraft 3.3.5a (WotLK) addon that tells you which quests to do
+moncozrr/roguelike-game | A 2D roguelike browser game | 경계선 (가칭) 2D 탑다운 생존 액션 로그라이크 RPG. JavaScript + HTML + CSS + Vite 기반의 브라우저 게임입니다. - 게임 이름 《경
+PalinkasAljoscha/LifeOfColors_game |  | Life of Colors A logic puzzle with secret rules. When you tap a cell, its new colour depen
+svedison/little-cake-kitchen | A cozy little cake-baking browser game | Creme's Kitchen 🍰 A cute, tactile 3D cake-baking game for the browser, made for Creme. One
+jordanlong121/a-personal-apocalypse | Offline browser roguelike that builds a zombie-infested world from Ope | A Personal Apocalypse — roguelike built from OpenStreetMap A turn-based zombie survival ro
+Furkiozknn/cini-ustasi-godot | Çini Ustası, a 3D Iznik tile puzzle remade in Godot 4 by Claude Fable  | 🏺 Çini Ustası · Iznik Tile Puzzle (Godot 4) [▶ Play in your browser](https://furkiozknn.gi
+JackMead/evo-game-claude | Evolution game made with Claude | evo-game-claude Why this repo exists Main goal: an experiment in completely hands-free dev
+Larslllllll/CrazyGames2 |  | Don't Wake the Dragon Sneak over a sleeping dragon's hoard. Grab as much gold as you dare.
+Furkiozknn/hisar-godot | Hisar, a 3D tower defense remade in Godot 4 by Claude Opus 5.5. Claude | 🏰 Hisar · Fortress Defense (Godot 4) [▶ Play in your browser](https://furkiozknn.github.io
+even86868-coder/rim-factions |  | Rim Factions - Multiplayer Co-op RimWorld multiplayer co-op with up to 4 friends on one pl
+1nputs/gunstars |  | gunstars 💥 Gunstar Heroes, rebuilt in C. Treasure's 1993 run-and-gun masterpiece, running 
+leomoon/OCTR-NitroFueled-PC-work | Independent development and CI builds for SacredFire CTR port | OCTR: CTR Nitro-Fueled PC, online Crash Team Racing: Nitro-Fueled (PS4, CUSA13795 v1.21) r
+SametAylak/ludum-dare-60 | ludum-dare-60 | Rhythm Coders An Incredibox-style music game where old computer parts are the band. Drag a
+NickMesser/AABevy1.2 |  | AAEMU 1.2: an ArcheAge 1.2 client in Bevy A from-scratch client for ArcheAge 1.2, written 
+Hydroponicz/zombiedefence | prototype | Zombie Defence A 3D browser sandbox where a city falls to a zombie outbreak in real time a
+Saneroki/SaneUI | A sane UI replacement for World of Warcraft | Sane UI Status: 0.3.0, written and tested outside the game; the split into five addons is 
+erentaskiran/ludum-dare-60 | ludum-dare-60 | Beigebox An Incredibox-style music game where old computer parts are the band. Drag a hard
+manison88/SportsApp |  | Witness An iOS app for every game you've been to. Each one becomes a memory: the score, wh
+gabrielelias22307/worldwalker |  | WORLDWALKER — The Torn Atlas A top-down geography RPG for APA World Geography (Alexandria 
+chvatma2/open-liero-reloaded |  | Open Liero Reloaded (OLR) A Rust reimplementation of [OpenLieroX](https://github.com/openl
+jaskiratpianist/FUTURE-COP-RECOMP |  | Future Cop: L.A.P.D. — static recompilation A native port of Future Cop: L.A.P.D. (EA, 199
+carafe-nx/carafe-lab | A test bench for Carafe's development | A test bench for Carafe's development [](LICENSE) [](requirements) [](https://www.rust-lan
+danhtrongit/iqx-pet |  | IQX Pixel Pets Bản vẽ lại dạng pixel art 512×512 của 4 linh thú IQX: Thanh Long, Lộc Hươu,
+satorunet/tesla-jet |  | TESLA JET RACER ジェットで浮かぶテスラの次世代レース — a browser racing game where a hovering Tesla flies ro
+stonejames1996-cell/verse-platform-desktop |  | Verse Platform for Windows The Verse desktop app. The window is [verseplatform.gg](https:/
+Dec3ptor/StickFighters |  | Stick Soldiers A browser remake of Stick Soldiers II (Whitespace Unlimited, 2003): a side-
+Jenil005/roomshift |  | RoomShift SwampHacks XII — October 16–18, 2026 RoomShift is a cooperative mixed-reality pu
+austinbryanprice-droid/Gods-and-titans |  | Mythic War A real-time strategy game in the style of Warcraft III, in low-poly 3D, that ru
+SpeedyCoder1192/tag | TAG, but it's a shit ton better: bots, online play, 16 colours, flashb | TAG — but it's a shit ton better A mod of the browser game TAG (a Construct 2 game) that a
+nkourouklis-dev/azhar |  | Azhar: Η Φυλακή του Βεζίρη A cinematic platformer for phones in the spirit of the 1989 Pri
+jlrigau/poulpy |  | Poulpy The little octopus of the city under the sea! Poulpy is a little pink octopus who l
+ripleyXLR8/atlantis-native | Native multiplatform port of Atlantis: The Lost Tales (Cryo, 1997), in | Atlantis Native Return to Atlantis, on today's machines. A native port of Atlantis: The Lo
+TuxLux40/re4uhd-modern-controls | Modern, camera-relative anti-tank controls for the OG Resident Evil 4  | RE4 UHD Modern Controls Play the original Resident Evil 4 (2005) with modern, remake-style
+bornaxahadi/kids-daily | Kids Daily: daily points, parent check and Roblox timer | Kids Daily ⭐ A simple daily points app for Diyar, Dayan and Dilan. It is a single index.ht
+Stephen-Petronis/shuck-shack |  | Shuck Shack Trace around each oyster to pop its top shell. Every shift is one order on the
+vonRotter/couch |  | Couch Party Island Couch co-op party games for 1–6 players on one screen, built with three
+breferrari/overhand | Valor Mortis Cheat Mod | One menu with every cheat, inside the game, built on [UE4SS](https://github.com/UE4SS-RE/R
+lsliwko/louis-claude |  | Games Simple learning games, published with GitHub Pages at https://lsliwko.github.io/loui
+RafTan10/rock-paper-scissors-visualized-cyber-version- |  | ROCK // PAPER // SCISSORS — hacker HUD edition A 5-round Rock Paper Scissors game against 
+OlivierNguyen/clair-obscur-expedition-cv |  | Expedition 35 My CV, rebuilt as the menu of Clair Obscur: Expedition 33. Positions are wea
+adore11s/God-of-War-VR-Mod | Native stereo VR mod for God of War (2018) on PC - SteamVR/OpenXR, 6Do | God of War VR Mod Play God of War (2018, PC) in VR. Every frame is drawn in true 3D for ea
+AyanASaiyed/StickDrift |  | 🕹️ Stick Drift Controller games for senior-living and long-term-care residents that help c
+bryanlaiwei/StickDrift |  | 🕹️ Stick Drift Controller games for senior-living and long-term-care residents that help c
+mazzucci/endfall |  | Endfall A browser real-time strategy game in the 1998 mold: mine shards and ether, build s
+rxvy-dev/crayon |  | 🖍️ crayon.h The easiest way to draw, make games and make apps in C. One header file. No se
+HoangKhoi1234/Slicer |  | Slicer (formerly SliceVision - the folder and the git repository keep the old name.) A web
+jimerb/Dealers-Choice |  | Dealer's Choice A warm, old-fashioned card room in your browser. Seventeen classic card ga
+binfpmr/scroller |  | scroller A small 2D platformer that boots on bare-metal x8664 through UEFI: no operating s
+MasterTemple/scripture-slinger |  | Scripture Slinger A typing game in the style of [ZType](https://zty.pe/), themed on the Bi
+KeganBerg/cartopia-roblox | https://Cartopia.lol | Cartopia (Roblox) The Roblox version of [Cartopia](https://github.com/KeganBerg/Cartopia).
+Petzia/dino-jetpack |  | Dino Jetpack A small low poly 3D browser game. You fly a jetpack dinosaur over an island a
+Mevlock/uncharted_pc-dev |  | Uncharted: The Nathan Drake Collection for Windows [!WARNING] This is an experimental hobb
+killerfrost22/technica2026-EarthVanguard | We are the of the Earth guardians | Earth Vanguard A vertical-scrolling space shooter that runs in the browser, built for Tech
+JohnnyNero/MP |  | TABLETOP A local 2–4 player party game for the browser, built for a Steam Deck docked to a
+mikaeleli-blip/mobland |  | Mobland Top-down 3D mafia strategy game set in Prohibition-era New York (inspired by City 
+mikaelmauno-png/anari |  | Änäri Standings for our NHL fantasy league. Eight categories, scored 5 / 3 / 2 / 1 for pla
+glasen/scrredux |  | Warning This game was completely vibe-coded with Claude Code. It is an experiment for me w
+byndbelief/r4box-home |  | r4box-home The front door at https://r4box.com. Plain static files on GitHub Pages; pushin
+Raamia/GatorCampus64 |  | GatorCampus 64 The University of Florida, rebuilt as a co-op Super Mario 64 playground. St
+0xSneaks/-Nori-chan |  | のりちゃん × こいぬ — Nori-chan × Koinu Nori-chan × Koinu is an original community-inspired compan
+hrs23/ez-hanseikai | Team reviews made ez. | GGI Hanseikai Record your team's games and review them together. A Windows app for recordi
+RanggaCasper/Black-Android | An unofficial native Android port of the original Xbox version of Blac | Black for Android An unofficial native Android port of the original Xbox version of Black,
+dogzit/Avengers |  | Шошгыг унш — food-label lesson + live quiz A Next.js app for a 45-minute, 12th-grade healt
+snroche/RelocateUI | Minecraft mod to relocate hud/ui | RelocateUI Move, scale and hide any HUD element, from vanilla or from other mods, with an 
+AlmazProud/metal-slug-5-recomp | Native Windows port of Metal Slug 5 (Neo Geo) by static recompilation. | metal-slug-5-recomp A native Windows port of Metal Slug 5 (Neo Geo MVS, 2003), built by st
+hawkwinghasseler/RingsOfIron | A top down 2d space combat sim with Newtonian physics and orbital mech | Rings of Iron A top-down 2D space combat sim with Newtonian flight and orbital mechanics. 
+Zaious/smallol | A small desktop bar for following League of Legends esports without th | SmalLoL League of Legends esports, but small. A quiet desktop bar for the pro match you ca
+sackchief/dqix-enhanced |  | DQIX Enhanced Dragon Quest IX: Sentinels of the Starry Skies, as a native PC game. This pr
+tpatil-09/DubHacks-2026 |  | Havenly Havenly is a dating app built with React, TypeScript, and Vite. Firebase Authentic
+ChocolateVS/homm5-rea | Heroes of Might and Magic V (HOMM5), Reverse engineered by claude usin | H5Reborn A from-scratch reimplementation of Heroes of Might and Magic V: Tribes of the Eas
+frenkelsergei-blip/petopia |  | PETOPIA An original pixel-art pet and side-scrolling adventure game for ages 5–12, followi
+mybaixinyu/wowsilicon-arm64 | athei/wine-build's arm64 Wine built from source with WoWSilicon's Wine | wowsilicon-arm64 Builds [WoWSilicon](https://github.com/WoWSilicon/WoWSilicon) around the 
+danicannt/dw-vita |  | Digimon World native port (PS Vita / PC) A native port of Digimon World (PlayStation, 1999
+zedoraps/scan7 | Scan7 – scan your Flip 7 cards with the phone camera and keep score (A | Scan7 An Android score keeper for the card game Flip 7. Point the phone at a player's row 
+mattgodbolt/starglider-beeb | Starglider for the Beeb | Starglider on the BBC Master A port of Argonaut Software's Starglider (Atari ST, Rainbird,
+xuleiknave/XFramework |  | Starline（星线） 单机奇幻战略游戏：亡灵吸干了连接人类城邦的法力水晶网络“星线”，你率领晨星远征军一段段重新点亮它。战前排兵布阵，用魔网连接你的角色，开战前先推演一百场战争
+ashifReza/StuckInMe-remake |  | Stuck In Me (Remake) A boy falls asleep in his family's new house in the woods, and the wi
+ryanhood10/LegacyOfHercule |  | The Legacy of Hercule: a co-op mod of Legacy of Goku II A mod of Dragon Ball Z: The Legacy
+Eugenius-S/fallout2-ce-3d | Fallout 2 CE fork: experimental sprite-preserving 3D scene renderer | Fallout 2 CE 3D This is an attempt to bring Fallout 2 into 3D while keeping it the same Fa
+abdullahamidi/WhatExatlyDoesThisMachineDo |  | What Exactly Does This Machine Do? A 2D incremental (idle) game prototype about an unexpla
+raneemrehab/little-lanterns |  | Little Lanterns Early years learning resources for nurseries, teachers and families (ages 
+aymandev-1/realities-of-dreams-minecraft-multiverse-of-madness |  | Realities of Dreams: Minecraft Multiverse of Madness A cinematic story mod for Minecraft 1
+SilverneoStar/zzz-team-builder |  | ZZZ Team Builder An unofficial, fan-made team planner for Zenless Zone Zero (ZZZ). Plan sq
+aek-innonova/xcom-ew-lw-tree |  | Long War Tech Tree The XCOM: Enemy Within Long War 1.0 research tree and Foundry on one sc
+brandontram/retro-gaming-chatbot |  | Retro Gaming Chatbot Ask questions about retro game manuals from your phone. Answers come 
+onion2k/artshape-sound |  | artshape-sound Sound effects and music for a browser game, made from a few numbers at load
+matthewhammer/dress-up-pictures | Messed Up Dress Up: every picture, run by run (each run a tag; SVGs, s | Messed Up Dress Up: every picture, run by run An archive of the pictures in [Messed Up Dre
+stefi421/voiceforge-studio |  | VoiceForge Studio Windows desktop app that turns a list of game or product titles into cha
+paravent/contour |  | Contour A daily geography puzzle. You see an unlabelled contour map of somewhere on Earth 
+Aetherion28/moonshine-ghost-viewer-v2 |  | Moonshine Ghost Viewer v2 Super Mario Sunshine practice-mod ghosts (Moonshine .smsghost) p
+ybadragon/ffx-randomizer | One-click randomizer for FINAL FANTASY X HD (Steam). C port of FFXRand | FFX Randomizer A randomizer for FINAL FANTASY X in the Steam release of FINAL FANTASY X/X-
+kindraywind/rustnarok-client | A native Ragnarok Online client for macOS and Linux, in Rust | rustnarok-client A native Ragnarok Online client for macOS, written from scratch in Rust. 
+novanoidai-stack/beat-the-ai | Beat the AI: drive one Tiger against the same AI that fights in VibeFu | Beat the AI Drive one Tiger against the AI from [VibeFuser](https://www.youtube.com/@vibef
+JoshM33k/match-three |  | Monster Pop A cute, colorful pixel-art match-three game for phones and tablets (portrait).
+hugecrankhank/Rando-hub |  | Rando Hub A Link to the Past Randomizer, a Snes9x emulator and Hutch's autotracker, all on
+JColesRoleModel/football-scoreboard |  | Football Scoreboard A personal, ad-free scoreboard for the NFL and FBS college football: l
+larsjohnston/Spiders_Curling |  | Spiders Curling A small installable web app for the team: who's playing each game, scores,
+Sevbro123/swedish-suede |  | NHL moneyline model (research) Predicts P(home team wins), overtime and shootout included,
+JittleYang42/Bloodborne-PS5- |  | Bloodborne for PS5 (native, upscaled) An unofficial PS5 port of Supermedo's PC port of Blo
+tulustul/ReCharged |  | ReCharged Small cars. Big world. Full charge. ReCharged is an arcade combat racer for 1:10
+Soulmanyes/sourceyaw | Cycle clyawspeed in CS:S and Momentum Mod with one key; see it from a  | Source Yaw Formerly CS:S Yaw. If you had it installed, ./install.sh moves your settings, a
+andr3w/lunar |  | Lunar Lander A browser lunar lander game with numbered levels, including cargo runs where 
+hcussatt/RH_Fever_Browser | no c&d thank you | Rhythm Heaven Fever for the browser Standalone browser versions of Rhythm Heaven Fever min
+SmokeDoggy044/CoD2-BRO-Decomp | Decompilation fork of the CoD2: Big Red One native loader (toward a fu | Call of Duty 2: Big Red One - decompilation Call of Duty 2: Big Red One never came out on 
+lukasbmeier/UMF-Regents-Rule |  | Universal Multiplayer Foundation Godot 4.7 (strictly typed GDScript 2.0; 4.6 is the floor)
+gangeli/grasshopper |  | Hopper — an AR pet that plays hide and seek Hopper is a small fantasy creature (part baby 
+gabrielbadolato/tyrian2000plus | Tyrian 2000 with modern controllers, for Windows, Linux and Steam Deck | Tyrian 2000+ [Português](README.pt-BR.md) English Tyrian 2000 with modern controllers, for
+whatmode/KalynaDroid |  | DroidDeck brings the SteamOS experience to Android: Valve's Steam client in Big Picture on
+nguyenbinhanltv/soul-land-mmo |  | Rừng Săn Hồn Online MMO săn hồn thế giới mở, pixel 2D, chơi trên trình duyệt, lấy bối cảnh
+kensashitsu/rogue | Rogue 5.4 in Python — terminal and phone (Pyodide), English / Japanese | Rogue Python implementation of Rogue 5.4 for the terminal, in English or Japanese. Require
+5511-boop/star-dash |  | Games Two-player browser games. One player creates a game and shares the 4-letter code; th
+Twixxwe/Trst- |  | Zerper BPM Explorer — game-level, regular season only A copy of the [Zerper BPM Explorer](
+kcy/figures-formulas |  | Figures & Formulas Math fluency games on one spaced-repetition scheduler. Live at https://
+elo252/say-less | A lightweight repository for the say-less project | Say Less The anonymous party game that makes everyone a sharper speaker. Everyone plays on
+deva090493/Roblex |  | BlockVerse 🎮 Roblox style multiplayer blocky game platform — Hub + mini-games. என்ன இருக்க
+Kinheadpump/PCS |  | Ruinstead (working title) A lightweight, top-down, pixel-art colony simulation in Rust. Yo
+Nazarik322/foc-coop | Unofficial co-op layer for Transformers: Fall of Cybertron (dev, work  | foc-coop Co-op for Transformers: Fall of Cybertron — play the story and Escalation with fr
+Ganrak/chog-contracts |  | Chog Contracts FUD posts become monsters. Your Chog NFT hunts them. A free browser game fo
+absolutezeroo/mini-rogulike |  | Le Puits des Âmes Under the village of Kagari lies an old well. One night without a moon, 
+Konyaco/TuKuai | Dou Dizhu or UNO in Minecraft. | English · 简体中文 · 繁體中文 · 日本語 · 한국어 A card table for Minecraft. Pull up a stool, deal in you
+Manya3084/SF33RDSXBRecompo | x86-64 port of Street Fighter III: 3rd Strike from the original Xbox.  | SF33RDSXBRecompo Native x86-64 port of Street Fighter III: 3rd Strike, built from the Xbox
+PTTFL/pttfl-head-coach |  | PTTFL Head Coach Call every play from the sideline of the PTTFL stadium, with the league's
+fafidesplas/coolmath-pilot |  | Coolmath pilot — game briefs 12 original HTML5 games for Coolmath Games, ranked, plus 8 pl
+sp00nznet/simant | Static recompilation of SimAnt (Maxis, 1991) for Windows, from its Win | SimAnt — Static Recompilation Static recompilation of SimAnt: The Electronic Ant Colony fo
+kyannon/super-metroid-ds | Dual screen Super Metroid on your dual-screen handheld of choice (opti | Super Metroid DS Super Metroid on dual-screen handhelds (the Anbernic RG DS / RG DS Plus),
+jeffflary-glitch/BrassBirm |  | Brass Scoring A digital scoring sheet for the board game Brass: Birmingham. - Enter each p
+HorizonRepublic/enshrouded-mods | Building mods for Enshrouded servers: flame altar zones that merge wit | ensh-mods Building mods for Enshrouded, for you and your friends on one server. Bases get 
+playeriv65/katrain-neo | Unofficial Flutter rewrite of KaTrain: KataGo-powered Go review, AI pl | KaTrain Neo A desktop app for reviewing Go games with KataGo, playing against AIs of calib
+kageomi/climbing-animals |  | 🐸〰️🐵 Huckepack-Seil (climbing-animals) Physikbasiertes Koop-Kletterspiel für den Smartphon
+FreshOrangeSlices/BloomLevel-Up |  | Bloom Level-Up A Fabric mod for Minecraft 26.3: a modpack-friendly character build system 
+Ehsanpooor/kahroba |  | Splendor — the gem merchants A Splendor-style board game for Android and Windows, made in 
+SamMcCormick61/tile-table |  | Tile Table A crossword tile game for 2 to 4 players, each on their own device. Standard 15
+zeusmess/zeusstudio |  | STARBUCKS CUP CATCHER Catch Every Cup. Beat Every Level. — a bilingual (Arabic / English),
+johnlartey121-hash/tuntum-anaa-k-k- |  | Tuntum anaa Kɔkɔɔ A card guessing game. The top card of a shuffled deck is face down: call
+mtgiguere/xcom2_40K_overhaul |  | XCOM 2: Warhammer 40K Overhaul A total-conversion mod for XCOM 2: War of the Chosen. The p
+PM2CRAZY/KH2-Combat-in-KH1 | KH2 Combat in KH1 | kh2-combat Install (OpenKH) The KH1 mod (KH2's combat in Kingdom Hearts Final Mix, PC: Epi
+Apocky/barony-apx | Apocky's Labyrinth: an unofficial fan fork of Barony (BSD 2-Clause cod | Apocky's Labyrinth An unofficial fan fork of [Barony](https://github.com/TurningWheel/Baro
+nopanpeno/NvanPlay |  | NvanPlay Kumpulan game kecil yang langsung dimainkan di browser. Situs statis di GitHub Pa
+Hung-nd233960/LearnMath_Grade1 | A vibecoded app for Grade 1 students to learn Math | Thám tử Toán học Tí hon A math game web app for Vietnamese grade 1 children (6 years old).
+Ozyman515/lofi-room |  | Lofi Room (Godot 4.3+, OpenXR: Steam Frame, PCs and Meta Quest 3) Just play it (Windows) U
+creativityrebranded-cpu/Vehicle-Mod-Overhaul-WIP | Vehicle Mod Overhaul | Vehicle Mod Overhaul (WIP) Hover vehicles, an autopilot that thinks, and NPCs who actually
+mirzamomin/chop-squad |  | Chop Squad Chaotic co-op cooking for 1 to 6 chefs, in the browser (and installable as a PW
+Seymur/cosa_nostra |  | Cosa Nostra A first-person crime-boss sandbox built with Godot 4.7 and a small Rust GDExte
+bsse23040/ITU-CS-464-LAB-05-BSSE23040 |  | ITU-CS-464-LAB-05-BSSE23040 Lab 05 for CS-464 Game Development. I made the Roll-a-Ball gam
+Dnaltroc/PSEUDO-CEO |  | Pseudo CEO A CEO strategy game built on real company data. You take over a struggling Fort
+odemarpizzol/Skald |  | Skald An epic first-person diary of your journey through Azeroth, written as you play and 
+gkaragoz/white-room-horde |  | white-room-horde A co-op top-down horde shooter that runs in the browser (Three.js). Up to
+ElaNte75/HeadsUp | HeadsUp: custom 'press this now' icons for World of Warcraft (Retail,  | HeadsUp HeadsUp shows the important "press this now" icon at the moment it matters, so you
+filda/baloncesto |  | Baloncesto A possession-based predictor for basketball game results. From repeatedly enter
+lorenzaquinzi/skate |  | Skate A tiny endless skateboard runner, in the spirit of Chrome's offline dinosaur. Skate 
+bekmo99/link-cape |  | Link's Cape A [Dusklight](https://github.com/TwilitRealm/dusklight) mod that gives Link a 
+aidankeighron/all-in-one-emulator |  | Emulator Menu A Wii-style menu that launches your games in Dolphin (Wii/GameCube) and Ryuj
+louisamurray/drifter |  | Drifter A simple car-drifting game for mobile browsers. Top-down, portrait, sixty-second r
+aihearX/aihearX |  | aihearX Odyolojinin tamamı tek uygulamada. Odyologlar, odyoloji öğrencileri, odyometristle
+FF9Kuja/Tekken-Tag-Tournament-2-Native-Online-Project |  | Tekken Tag Tournament 2 Native Online An independent, in-development native Windows port o
+Kayatwo/Vibeless | Dauntless modding | Vibeless Vibeless is a maintained fork of [Dauntless Revived](https://github.com/mixutin/d
+tsatria03/Heathcote-Windows | A windows port of Heathcote, recovered from the iOS binary. | Heathcote-Windows A Windows port, in Python, of Heathcote (com.fabulaeobscurae.heathcote 1
+Nikque/nikque-gui | Windows GUI for the Othello engines Edax v4.5.5-nikque and newedax: va | nikque GUI [日本語](日本語) · [English](english) 日本語 オセロのエンジン [Edax v4.5.5-nikque](https://githu
+PooterLewis/promo-studio |  | Promo Studio A Windows desktop app for recording gameplay promo videos: screen, camera, mi
+momotori01/ENSHROUDED-VR-MOD | Enshrouded VR mod - room-scale motion controls (melee by swinging, bow | Enshrouded VR - 6DoF Motion Controls Fight by swinging your sword, cast spells by swinging
+RyanHughes-RCD/Tides-of-Fortune | Tides of Fortune iOS App | Tides of Fortune: home-screen app Version 1.7.7. These files are the whole game. Put them 
+TimothyHadfield/ticket-to-ride |  | Ticket to Ride — companion, computers, online rooms and a route lab Live: https://timothyh
+Hephaestus985/Laugh-Labs |  | Laugh-Labs Silly little games, all in one Android app: Lab Arcade. Install on your phone: 
+NafeesMansoor/fish-fight |  | Fish Fight Eat. Grow. Survive. Rule the Ocean. A colorful 2D underwater survival-and-growt
+WhatsUpInTheSky37/rotten-apples | Toss Apples at Cars | Rotten Apples A first-person browser game: hide in your front garden, watch the cars come 
+jgoa156/ghwtde-all-main-menu-music |  | GHWT:DE All Main Menu Music By WitchDoctoR. The main menu music of ten Guitar Hero games i
+lustmyself/Lust | Lust - League of Legends skin changer (fork of Rose) with lobby reveal | 🌹 Lust - Effortless Skin Changer for LoL [](https://github.com/lustmyself/Lust/releases/la
+mergezalot/como |  | COMO QUIZ Quiz show for the living room. The laptop shows the game on the TV; each player 
+aashikelahe/italian-bridge |  | Italian Bridge A desktop-first, browser-based version of Italian Bridge (Italian Call Brid
+sm35recomp/sm35recomp |  | SM35 Recomp Super Mario Bros. 35, natively on your computer: a static recompilation of you
+johnabad2/FantasyBasketball | Side Project of Fantasy Basketball - Includes, Point Calculation, Etc. | FantasyBasketball Reads your ESPN NBA fantasy league and tells you what to do: bench injur
+mito551/pz-butter | Definitive optimization mod for Project Zomboid [WIP] | PZ Butter PZ Butter is a Project Zomboid Build 42 mod that aims for smoother frames. It is
+andrewkamback-sudo/ghost-in-the-machine |  | Ghost in the Machine: ASSISTANT.EXE Something else is answering. A haunted 1998 PC with tw
+Crambeary/journal-sync | Client-only Fabric mod: sync a Minecraft book and quill with a markdow | Journal Sync A client-only Fabric mod for Minecraft 26.2 that keeps a book and quill in st
+goums/chonk-doom | CHONK DOOM: a retro DOOM-like FPS starring Le Chonk, played by Mistral | CHONK DOOM A DOOM-like FPS starring Le Chonk. Mistral Large 4 plays it by itself. Entry fo
+adhilalif/bluff-bazaar |  | ⛵ Bluff Bazaar — The Malabar Trade Game A four-player online market-bluffing game built wi
+yieldextracting/sauce-sheet | Sauce Sheet: NBA model, lines and picks. Every line. Every number. Gra | Sauce Sheet Every line. Every number. Graded in public. An NBA projection model shown next
+krishanala/paatis-recipe-kitchen |  | Paati's Recipe Working title (first Paati's Muruku Kitchen, then Paati's Recipe Kitchen). 
+smahajan0205/4701project |  | Early Gesture Classification for Low-Latency Camera-Based Game Control CS 4701 project: So
+lunasvalle02-design/SNES-DS | SNES emulator for Anbernic RG DS Plus on CFW Linux | A dual-screen SNES emulator for the Anbernic RG DS Plus and RG DS. The game on one screen;
+luaslucas422-lab/rooftop-rumble-server |  | Rooftop Rumble game server Runs the online matches, player search, invites and parties for
+blazingblazed1/DINO-Priv | Automated uploads go here for now | DinoNet Online co-op for Diplomacy is Not an Option: 2–8 players (default 4) run one share
+carson-see/gamifiedbooks |  | gamifiedbooks Spoiler-safe reading quizzes and board games that follow a book chapter by c
+micarg/pocket-byte |  | Pocket Byte Φορητή κονσόλα στον browser για παιχνίδια Game Boy (.gb) και Game Boy Color (.
+Designoffset/gof2hd-vita |  | Galaxy on Fire 2 · PS Vita Port Port features • How to install • Known issues • How to com
+henriquemedeiros23-dev/pvp |  | PvP Game: Stickman Ruins A 3D stickman battle game for phones. Everyone joins one big aren
+CoryKleinjan/wildbound |  | Wildbound (Godot 4) A creature-collecting RPG in the style of the Gen 3 handheld games, bu
+woltsu/paahde |  | Paahde Migrated from [woltsu/dadajam](https://github.com/woltsu/dadajam) (full history inc
+WoutGheysen/crimsonipelago | archipelago integration for crimson desert | Crimsonipelago [Archipelago](https://archipelago.gg) multiworld integration for Crimson De
+goldbar123467/IMSAcraft |  | IMSAcraft A blocky, isometric 3D dungeon crawler that runs in the browser, in the spirit o
+Abhyuday2103/businessdeal |  | Business Deal The classic Indian property trading board game, for 2 to 6 players, each on 
+mindspot7/UI_GB |  | UIGB Shared Jetpack Compose interface for the GB family of Android emulators (GBSat and fu
+jfreema/TeamRank | rank teams in Louisiana | TeamRank Rankings for Louisiana 11U to 14U travel baseball teams, built from game results 
+ionutcm402-beep/emmaplayworld-site |  | Emma Play World website Static site (plain HTML, CSS and JavaScript). No build step, no de
+arpwatcher/backrooms |  | NOCLIP ∞ A Backrooms horror game that runs in the browser. It has the same yellow wallpape
+anhmt821152-ctrl/bea |  | Team Quiz Battle English [Tiếng Việt](tiếng-việt) A real-time two-team quiz game. Players 
+theArkein/in-between-online | betting on the edge | In-Between A card game for friends. Two cards are dealt to every player, then you bet on w
+kevinbenito853-commits/shadow-harbor |  | Shadow Harbor Online hidden-movement chase game for 2–6 players, played on a 3D board. One
+Dressy10/secure-ephemeral-aks-platform |  | Internal developer platform on Azure, under a hard $50 budget A small platform a team coul
+refinkurn/Spaceblast |  | Spaceblast Bomberman-style 3D grid battle game: animal astronauts vs hungry Martians. Phas
+Itiseddie/nba-tv-schedule |  | NBA Game Finder A large-text page that answers one question: where do I turn on tonight's 
+lPuffyy/ttr-mobile-ios |  | TTR: Mobile (iOS build scripts) Build scripts for an iOS app that runs a TTR-Offline clien
+dbdvilse/wayfarer-data | Wayfarer Data | wayfarer-data The data files the Wayfarer game downloads at start-up (monsters, items, spe
+ToolAssisted-run/Open4DBoxing | An unofficial reconstruction of 4D Sports Boxing (Distinctive Software | Open4DBoxing Open4DBoxing is an unofficial reconstruction of 4D Sports Boxing (Distinctive

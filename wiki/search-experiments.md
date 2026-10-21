@@ -1,5 +1,23 @@
 # Search experiments
 
+## Four-day catch-up pass with a trailer and game-signal prefilter — 2026-10-21
+
+- Search October 17–21 in `Asia/Phnom_Penh`; bound repository creation to `2026-10-17T00:00:00Z` and searches to `2026-10-17T01:00Z` through `2026-10-21T01:00Z`. The October 20 run stopped after its searches, so this pass reuses its October 17–20 receipts under `research/2026-10-20-daily/` and adds October 20–21 searches.
+- Repository search: 13 phrases in six UTC partitions (78 queries, none capped, max 61). Commit pool: Opus 5.5 in 96 one-hour windows (659–1,368 hits; all capped at 300), Sonnet 5.5 in 3-hour windows (9 capped), and 6-hour windows for `gpt-6.1-sol`, GPT-6 Astra, Claude Fable (3 capped), Gemini 4 Argon and Gemini 4. 208 commit queries, 41,992 commit rows, 5,051 fresh non-fork repositories.
+- Changed dimension: prefilter the pool before inspection to repositories whose fetched commits carry a tracked-model `Co-Authored-By:` trailer (or that came from repository search) and whose name, description or commit subjects carry game words. This cut 5,051 to 2,240 inspections. Inspect with five parallel GraphQL workers (README, root tree, 100 commits) instead of a serial loop; the serial loop would have taken hours at this pool size.
+- Triage by counting game terms in README and description. Review 660 strong-signal and 915 mixed-signal rows by hand; skip 642 rows with fewer than two game terms (logged as not reviewed). Reject ports, recomps, decomps, mods, trainers, launchers, companions, portals of other games, clean-room reimplementations of commercial games, tools, stubs, model-as-player repositories and this catalog itself. Drop four shortlisted repositories with no source files.
+- Accept 815 repositories and 815 units after dropping one renamed duplicate (`rngexp10` is now `longshot10`) (698 Opus 5.5, 142 Sonnet 5.5, 56 Fable 5.1, 2 GPT-6.1 Sol, 1 GPT-6 Astra; some credit several models). All are `confirmed` by an exact co-author trailer. 383 have a live URL that returned HTTP 200 (availability only).
+- Rate 122 new records by looking at contact sheets of every downloaded README image (up to three per repository) and scoring one best frame per game (`manual_visual_review`). No older record had media without a score.
+- Receipts: [search results](../research/2026-10-21-daily/search-results.json), [decisions](../research/2026-10-21-daily/candidate-decisions.json), [batch](../research/2026-10-21-daily/game-batch.json).
+
+### Critique
+
+Score this method 9/10 for yield (815 repositories) and 6.5/10 for depth. The trailer prefilter and parallel inspection made a four-day backlog tractable, but Opus commit windows stay capped every hour, triage relies on README text, and the 642 weak-signal repositories were not reviewed. No game was playtested, notes come from READMEs, and quality scores are a size heuristic.
+
+### Next experiment
+
+Split Opus 5.5 commit windows to 20 minutes or add a keyword dimension (`html`, `three.js`, `godot`). Re-check the weak-signal repositories with a tree-based detector (game engine files, canvas or input loops) instead of README words.
+
 ## Daily phrase and one-hour Opus commit-pool pass — 2026-10-17
 
 - Search October 16–17 in `Asia/Phnom_Penh`; bound repository creation to `2026-10-16T00:00:00Z` through `2026-10-17T01:30:00Z`. This overlaps the October 16 pass tail and relies on `games.json` deduplication.

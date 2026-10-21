@@ -1,0 +1,42 @@
+# IWSDK App
+
+> Verified game note.
+
+![IWSDK App screenshot placeholder](iwsdk-app-placeholder.svg)
+
+## At a glance
+
+- **Score:** 7.1/10
+- **Model:** Claude Opus 5.5
+- **Technology:** TypeScript, Browser, WebXR
+- **Estimated FP32 operations/s at 60 FPS:** 1,000,000,000 (low confidence; static estimate, not measured).
+- **Rating basis:** Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.
+- **Verified:** 2026-10-21
+- **Repository:** [https://github.com/zouhirmahjoubi/beam](https://github.com/zouhirmahjoubi/beam)
+- **Evidence:** [direct model evidence](https://github.com/zouhirmahjoubi/beam/commit/6c1431a947d5eccdfac4a0975465728e6094c9d8)
+
+## Screenshots
+
+No screenshot source is recorded yet. Keep the placeholder until a repository, awesome list, or creator source provides an image.
+
+## Model attribution
+
+Open the evidence link above. Evidence grade: **direct model evidence**.
+
+## Source description
+
+Beam: a hands-first mixed reality light puzzle for Meta Quest (IWSDK / WebXR). Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.
+
+### Gameplay source
+
+- [https://github.com/zouhirmahjoubi/beam/blob/master/src/board.ts](https://github.com/zouhirmahjoubi/beam/blob/master/src/board.ts)
+- [https://github.com/zouhirmahjoubi/beam/commit/6c1431a947d5eccdfac4a0975465728e6094c9d8](https://github.com/zouhirmahjoubi/beam/commit/6c1431a947d5eccdfac4a0975465728e6094c9d8)
+
+## Verification notes
+
+- **Status:** verified_source
+- **Counted units in repository:** 1
+- **Units covered by this note:** 1
+- **Discovery:** GitHub commit pool: model+game commits 2026-10-17T01:00Z..2026-10-21T01:00Z (1-hour Opus, 3-hour Sonnet, 6-hour other UTC partitions) joined to repositories created after 2026-10-17T00:00Z; https://github.com/zouhirmahjoubi/beam
+
+[Back to the awesome list](../../README.md)

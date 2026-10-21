@@ -1,0 +1,314 @@
+[
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T01:59:59Z",
+  "hits": 930,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T02:00:00Z..2026-10-20T02:59:59Z",
+  "hits": 911,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T03:00:00Z..2026-10-20T03:59:59Z",
+  "hits": 964,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T04:00:00Z..2026-10-20T04:59:59Z",
+  "hits": 975,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T05:00:00Z..2026-10-20T05:59:59Z",
+  "hits": 877,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T06:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 896,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T07:59:59Z",
+  "hits": 860,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T08:00:00Z..2026-10-20T08:59:59Z",
+  "hits": 854,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T09:00:00Z..2026-10-20T09:59:59Z",
+  "hits": 872,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T10:00:00Z..2026-10-20T10:59:59Z",
+  "hits": 805,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T11:00:00Z..2026-10-20T11:59:59Z",
+  "hits": 896,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T12:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 980,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T13:59:59Z",
+  "hits": 1059,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T14:00:00Z..2026-10-20T14:59:59Z",
+  "hits": 982,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T15:00:00Z..2026-10-20T15:59:59Z",
+  "hits": 1001,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T16:00:00Z..2026-10-20T16:59:59Z",
+  "hits": 1069,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T17:00:00Z..2026-10-20T17:59:59Z",
+  "hits": 1084,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T18:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 1078,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T19:00:00Z..2026-10-20T19:59:59Z",
+  "hits": 1052,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T20:00:00Z..2026-10-20T20:59:59Z",
+  "hits": 1001,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T21:00:00Z..2026-10-20T21:59:59Z",
+  "hits": 990,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T22:00:00Z..2026-10-20T22:59:59Z",
+  "hits": 906,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-20T23:00:00Z..2026-10-20T23:59:59Z",
+  "hits": 824,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-21T00:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 693,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T03:59:59Z",
+  "hits": 264,
+  "fetched": 264,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T04:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 249,
+  "fetched": 249,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T09:59:59Z",
+  "hits": 234,
+  "fetched": 234,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T10:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 245,
+  "fetched": 245,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T15:59:59Z",
+  "hits": 331,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T16:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 299,
+  "fetched": 299,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T19:00:00Z..2026-10-20T21:59:59Z",
+  "hits": 292,
+  "fetched": 292,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" game committer-date:2026-10-20T22:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 223,
+  "fetched": 223,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 22,
+  "fetched": 22,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 37,
+  "fetched": 37,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 15,
+  "fetched": 15,
+  "capped": false
+ },
+ {
+  "query": "\"gpt-6.1-sol\" game committer-date:2026-10-20T19:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 20,
+  "fetched": 20,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 9,
+  "fetched": 9,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 4,
+  "fetched": 4,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 5,
+  "fetched": 5,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" game committer-date:2026-10-20T19:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 248,
+  "fetched": 248,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 195,
+  "fetched": 195,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 262,
+  "fetched": 262,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" game committer-date:2026-10-20T19:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 217,
+  "fetched": 217,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" game committer-date:2026-10-20T19:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" game committer-date:2026-10-20T01:00:00Z..2026-10-20T06:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" game committer-date:2026-10-20T07:00:00Z..2026-10-20T12:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" game committer-date:2026-10-20T13:00:00Z..2026-10-20T18:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" game committer-date:2026-10-20T19:00:00Z..2026-10-21T00:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ }
+]
