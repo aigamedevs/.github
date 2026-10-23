@@ -3960,5 +3960,672 @@
   "images": [],
   "live": [],
   "checked": []
+ },
+ "yu2tru/poolsies": {
+  "images": [],
+  "live": [
+   "https://yu2tru.github.io/cuesies/"
+  ],
+  "checked": [
+   "https://yu2tru.github.io/cuesies/"
+  ]
+ },
+ "SimonAlkemade/GrandTheftAmsterdam": {
+  "images": [
+   "https://github.com/SimonAlkemade/GrandTheftAmsterdam/blob/main/shots-godot/side-in.png",
+   "https://github.com/SimonAlkemade/GrandTheftAmsterdam/blob/main/out/shots/street.png",
+   "https://github.com/SimonAlkemade/GrandTheftAmsterdam/blob/main/out/godot/ams_canal2.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "KeemaKornToTo/ProgmethProject": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "JohnCasAsh/dustkill-arcade": {
+  "images": [],
+  "live": [
+   "https://dustkill-arcade.web.app"
+  ],
+  "checked": [
+   "https://dustkill-arcade.web.app"
+  ]
+ },
+ "AdarshKhera/ship-it-play": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nusability/racer": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "stwater20/evo-runner": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Zach-Shirley/hex-balance": {
+  "images": [
+   "https://github.com/Zach-Shirley/hex-balance/blob/main/docs/screenshot.jpg"
+  ],
+  "live": [
+   "https://hex-balance.vercel.app"
+  ],
+  "checked": [
+   "https://hex-balance.vercel.app"
+  ]
+ },
+ "NECOKIZZ/The-Chog-of-Wall-Street": {
+  "images": [],
+  "live": [
+   "https://necokizz.github.io/The-Chog-of-Wall-Street/"
+  ],
+  "checked": [
+   "https://necokizz.github.io/The-Chog-of-Wall-Street/"
+  ]
+ },
+ "jmeekerdev/scabbage": {
+  "images": [
+   "https://github.com/jmeekerdev/scabbage/blob/main/docs/screenshots/world.jpg",
+   "https://github.com/jmeekerdev/scabbage/blob/main/docs/screenshots/blocks.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "bdush-coder/sonic-passport": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://YOUR-USERNAME.github.io/sonic-passport/"
+  ]
+ },
+ "debrockmathis-prog/puker": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://pocket-poker.onrender.com"
+  ]
+ },
+ "chintan-dhamecha/a-little-adventure": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "vocacaodepai/carloacutisrpg": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Taspol/outing-word-problem": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jpflores0404/21RE": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "tensorthinking/party-games": {
+  "images": [],
+  "live": [
+   "https://tensorthinking.github.io/party-games/"
+  ],
+  "checked": [
+   "https://tensorthinking.github.io/party-games/"
+  ]
+ },
+ "TechNaom/tap-duel": {
+  "images": [],
+  "live": [
+   "https://technaom.github.io/tap-duel/"
+  ],
+  "checked": [
+   "https://technaom.github.io/tap-duel/"
+  ]
+ },
+ "BrianChase515/partial-annihilation": {
+  "images": [
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/rts-battle.gif",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/arena.gif",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/commander-upgrade.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/nuke.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/groovy.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/naval.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/arena-fight.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/battle-2v2.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/orders.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/raid.png",
+   "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/arena-menu.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "ljtyk/flowstate-grill": {
+  "images": [],
+  "live": [
+   "https://ljtyk.github.io/flowstate-grill/"
+  ],
+  "checked": [
+   "https://ljtyk.github.io/flowstate-grill/"
+  ]
+ },
+ "chaostoclarity/daily-puzzles": {
+  "images": [],
+  "live": [
+   "https://daily-puzzles.vercel.app"
+  ],
+  "checked": [
+   "https://daily-puzzles.vercel.app"
+  ]
+ },
+ "mikaelandblom-coder/Worldline": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "pietro-sillano/Charades": {
+  "images": [],
+  "live": [
+   "https://pietro-sillano.github.io/Charades/"
+  ],
+  "checked": [
+   "https://pietro-sillano.github.io/Charades/"
+  ]
+ },
+ "Callme-Roby/BBL-Party": {
+  "images": [],
+  "live": [
+   "https://bbl-party-zeta.vercel.app"
+  ],
+  "checked": [
+   "https://bbl-party-zeta.vercel.app"
+  ]
+ },
+ "skyfion/cat-fisher": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "utkarsh3078/Market_Mayhem": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "YashNirwan/tail-goal": {
+  "images": [],
+  "live": [
+   "https://tail-goal.bc-server.workers.dev"
+  ],
+  "checked": [
+   "https://tail-goal.bc-server.workers.dev"
+  ]
+ },
+ "davecthomas/krillion": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kachaj96/Game2": {
+  "images": [
+   "https://github.com/kachaj96/Game2/blob/main/docs/podglad/wioska.png"
+  ],
+  "live": [],
+  "checked": [
+   "https://kachaj96.github.io/Game2/"
+  ]
+ },
+ "KenjiWriter/RideIdle": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Overdue-yarn/arcade": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Adam-Weiss8/top-of-the-world": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "pietertmortier-lab/fruitvlucht": {
+  "images": [],
+  "live": [
+   "https://pietertmortier-lab.github.io/fruitvlucht/"
+  ],
+  "checked": [
+   "https://pietertmortier-lab.github.io/fruitvlucht/"
+  ]
+ },
+ "omarharrasi3/itgames": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mayurj476/yugaverse-kids": {
+  "images": [],
+  "live": [
+   "https://mayurj476.github.io/yugaverse-kids/"
+  ],
+  "checked": [
+   "https://mayurj476.github.io/yugaverse-kids/"
+  ]
+ },
+ "robertpallas/jeopardy": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Audioscream/darkfate": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hectorei19/city-grid": {
+  "images": [],
+  "live": [
+   "https://hectorei19.github.io/country-grid/",
+   "https://hectorei19.github.io/city-grid/",
+   "https://hectorei19.github.io/geo-games/"
+  ],
+  "checked": [
+   "https://hectorei19.github.io/country-grid/",
+   "https://hectorei19.github.io/city-grid/",
+   "https://hectorei19.github.io/geo-games/"
+  ]
+ },
+ "sefner/skylance": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "errajim063-droid/collector-steph": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "aniketsagar/dot-n-box-web": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nickypeakin/Brawlhalla": {
+  "images": [
+   "https://github.com/nickypeakin/Brawlhalla/blob/claude/gracious-ride-nv4ciq/docs/screenshot.png"
+  ],
+  "live": [],
+  "checked": [
+   "https://nickypeakin.github.io/Brawlhalla/"
+  ]
+ },
+ "atiris/tapkotyper": {
+  "images": [
+   "https://github.com/atiris/tapkotyper/blob/main/docs/start.png",
+   "https://github.com/atiris/tapkotyper/blob/main/docs/meadow.png",
+   "https://github.com/atiris/tapkotyper/blob/main/docs/space.png"
+  ],
+  "live": [
+   "https://atiris.github.io/tapkotyper/"
+  ],
+  "checked": [
+   "https://atiris.github.io/tapkotyper/"
+  ]
+ },
+ "Kunal1905/mun": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "MichalNawrot/tesla-roadster-drop": {
+  "images": [],
+  "live": [
+   "https://michalnawrot.github.io/tesla-roadster-drop/"
+  ],
+  "checked": [
+   "https://michalnawrot.github.io/tesla-roadster-drop/"
+  ]
+ },
+ "arman1371/lingoat.games": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CieasCheligeman/Code-Game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "eslamgenio/AndroidGame": {
+  "images": [],
+  "live": [
+   "https://eslamgenio.github.io/AndroidGame/"
+  ],
+  "checked": [
+   "https://eslamgenio.github.io/AndroidGame/"
+  ]
+ },
+ "Vathgod/tienlen": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://lan-nguyen.github.io/tienlen/",
+   "https://lan-nguyen.github.io/tienlen/?room=ABC123"
+  ]
+ },
+ "AwsomSause/bramble": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "aaronjmagnan/billy-budget": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nisargpatel122/color-commute": {
+  "images": [],
+  "live": [
+   "https://nisargpatel122.github.io/color-commute/"
+  ],
+  "checked": [
+   "https://nisargpatel122.github.io/color-commute/"
+  ]
+ },
+ "Dylan78Lange/quiz-pup": {
+  "images": [],
+  "live": [
+   "https://dylan78lange.github.io/quiz-pup/"
+  ],
+  "checked": [
+   "https://dylan78lange.github.io/quiz-pup/"
+  ]
+ },
+ "CondrusArsen/promo-game-case": {
+  "images": [],
+  "live": [
+   "https://condrusarsen.github.io/promo-game-case/",
+   "https://condrusarsen.github.io/promo-game-case/game.html"
+  ],
+  "checked": [
+   "https://condrusarsen.github.io/promo-game-case/",
+   "https://condrusarsen.github.io/promo-game-case/game.html"
+  ]
+ },
+ "jussirantala/snowshooter": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GubiConcords/Business-Tycoon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mdbatey/Jury-duty": {
+  "images": [],
+  "live": [
+   "https://mdbatey.github.io/Jury-duty/"
+  ],
+  "checked": [
+   "https://mdbatey.github.io/Jury-duty/"
+  ]
+ },
+ "Louiebo1/hearts": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "PlayCOIL/playcoil.github.io": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "evancodez/noircity": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://noircity.vercel.app"
+  ]
+ },
+ "Ngold711/roadster-rush": {
+  "images": [],
+  "live": [
+   "https://ngold711.github.io/roadster-rush/"
+  ],
+  "checked": [
+   "https://ngold711.github.io/roadster-rush/"
+  ]
+ },
+ "Sireadell/portalsweeper": {
+  "images": [],
+  "live": [
+   "https://portalsweeper.vercel.app"
+  ],
+  "checked": [
+   "https://portalsweeper.vercel.app"
+  ]
+ },
+ "hnsik/viper": {
+  "images": [],
+  "live": [
+   "https://viper-ashen.vercel.app"
+  ],
+  "checked": [
+   "https://viper-ashen.vercel.app"
+  ]
+ },
+ "edgarbirlew-source/birco-arcade": {
+  "images": [],
+  "live": [
+   "https://edgarbirlew-source.github.io/birco-arcade/"
+  ],
+  "checked": [
+   "https://edgarbirlew-source.github.io/birco-arcade/"
+  ]
+ },
+ "yJulian/snake3d": {
+  "images": [],
+  "live": [
+   "https://yjulian.github.io/snake3d/"
+  ],
+  "checked": [
+   "https://yjulian.github.io/snake3d/"
+  ]
+ },
+ "colinwillow/zap": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://colinwillow.github.io/melee/"
+  ]
+ },
+ "y-a-v-a/pawprints": {
+  "images": [
+   "https://github.com/y-a-v-a/pawprints/blob/main/docs/interrogation.png",
+   "https://github.com/y-a-v-a/pawprints/blob/main/docs/title.png",
+   "https://github.com/y-a-v-a/pawprints/blob/main/docs/finale.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "esaashr4f/languageapp": {
+  "images": [
+   "https://github.com/esaashr4f/languageapp/blob/claude/adoring-goldberg-6j56z9/docs/screenshots/quest-carmen.png",
+   "https://github.com/esaashr4f/languageapp/blob/claude/adoring-goldberg-6j56z9/docs/screenshots/battle-corrupted.png",
+   "https://github.com/esaashr4f/languageapp/blob/claude/adoring-goldberg-6j56z9/docs/screenshots/battle-remembering.png",
+   "https://github.com/esaashr4f/languageapp/blob/claude/adoring-goldberg-6j56z9/docs/screenshots/mobile-market.png"
+  ],
+  "live": [
+   "https://languageapp-ruby.vercel.app"
+  ],
+  "checked": [
+   "https://languageapp-ruby.vercel.app"
+  ]
+ },
+ "okantao/vurgahpeyi": {
+  "images": [
+   "https://github.com/okantao/vurgahpeyi/blob/main/docs/screenshot.png",
+   "https://github.com/okantao/vurgahpeyi/blob/main/docs/radar-animation.png",
+   "https://github.com/okantao/vurgahpeyi/blob/main/docs/torpedo-animation.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "mahdimohebbi/picpath-web": {
+  "images": [],
+  "live": [
+   "https://mahdimohebbi.github.io/picpath-web/"
+  ],
+  "checked": [
+   "https://mahdimohebbi.github.io/picpath-web/"
+  ]
+ },
+ "Troysnew/equatile": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "katiesharp/the-brain": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "WaySel-org/moonlit-moat": {
+  "images": [],
+  "live": [
+   "https://play.waysel.com"
+  ],
+  "checked": [
+   "https://play.waysel.com"
+  ]
+ },
+ "dashaunb123/revlotto": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Ryan-J-Smith/throughput": {
+  "images": [],
+  "live": [
+   "https://ryan-j-smith.github.io/throughput/"
+  ],
+  "checked": [
+   "https://ryan-j-smith.github.io/throughput/"
+  ]
+ },
+ "HugoYin663/road-test-game": {
+  "images": [],
+  "live": [
+   "https://hugoyin663.github.io/road-test-game/"
+  ],
+  "checked": [
+   "https://hugoyin663.github.io/road-test-game/"
+  ]
+ },
+ "williamedwards/birthday-suffocation": {
+  "images": [],
+  "live": [
+   "https://aembear.itch.io/birthday-suffocation"
+  ],
+  "checked": [
+   "https://aembear.itch.io/birthday-suffocation"
+  ]
+ },
+ "mtcllvhmr/blox": {
+  "images": [],
+  "live": [
+   "https://mtcllvhmr.github.io/blox/"
+  ],
+  "checked": [
+   "https://mtcllvhmr.github.io/blox/"
+  ]
+ },
+ "adamhindman/feet-fighter": {
+  "images": [],
+  "live": [
+   "https://adamhindman.github.io/feet-fighter/"
+  ],
+  "checked": [
+   "https://adamhindman.github.io/feet-fighter/"
+  ]
+ },
+ "yycsudbuds-sys/mark201-trainer": {
+  "images": [],
+  "live": [
+   "https://yycsudbuds-sys.github.io/mark201-trainer/"
+  ],
+  "checked": [
+   "https://yycsudbuds-sys.github.io/mark201-trainer/"
+  ]
+ },
+ "Ronguat/Worduel": {
+  "images": [],
+  "live": [
+   "https://ronguat.github.io/Worduel/"
+  ],
+  "checked": [
+   "https://ronguat.github.io/Worduel/"
+  ]
+ },
+ "shaanElgoat/clutch": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "samahlersmeyer-prog/glam-studio": {
+  "images": [],
+  "live": [
+   "https://samahlersmeyer-prog.github.io/glam-studio/"
+  ],
+  "checked": [
+   "https://samahlersmeyer-prog.github.io/glam-studio/"
+  ]
+ },
+ "trafgals/pitfighter": {
+  "images": [],
+  "live": [
+   "https://trafgals.github.io/pitfighter/"
+  ],
+  "checked": [
+   "https://trafgals.github.io/pitfighter/"
+  ]
+ },
+ "khw03097-hash/fire-drill-game": {
+  "images": [],
+  "live": [
+   "https://khw03097-hash.github.io/fire-drill-game/"
+  ],
+  "checked": [
+   "https://khw03097-hash.github.io/fire-drill-game/"
+  ]
+ },
+ "liamtaylor/block-party-cup": {
+  "images": [],
+  "live": [
+   "https://liamtaylor.github.io/block-party-cup/"
+  ],
+  "checked": [
+   "https://liamtaylor.github.io/block-party-cup/"
+  ]
+ },
+ "petegordon/discord-activity-coinpusher": {
+  "images": [],
+  "live": [
+   "https://coins.housetandem.com"
+  ],
+  "checked": [
+   "https://coins.housetandem.com"
+  ]
+ },
+ "imarlenkz/engame": {
+  "images": [],
+  "live": [],
+  "checked": []
  }
 }

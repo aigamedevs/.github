@@ -8350,6 +8350,176 @@
       "reason": "Use this frame for the game-level score. World map conquest view cluttered with panels",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SimonAlkemade/GrandTheftAmsterdam",
+      "url": "https://github.com/SimonAlkemade/GrandTheftAmsterdam/blob/main/out/shots/street.png",
+      "game": "Grand Theft Amsterdam",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Canal-house street view with recognisable Dutch facades",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AdarshKhera/ship-it-play",
+      "url": "https://github.com/AdarshKhera/ship-it-play/blob/main/img/boss-1280.webp",
+      "game": "Ship It",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright office arena boss wave with polished HUD and bold banner",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Zach-Shirley/hex-balance",
+      "url": "https://github.com/Zach-Shirley/hex-balance/blob/main/docs/screenshot.jpg",
+      "game": "Hex Balance",
+      "score_10": 5.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Hexagonal balance board with clean dark UI panels",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/NECOKIZZ/The-Chog-of-Wall-Street",
+      "url": "https://github.com/NECOKIZZ/The-Chog-of-Wall-Street/blob/main/contracts/shot-board.png",
+      "game": "The Chog of Wall Street",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Monopoly-style board with dense panels; readable but busy",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jmeekerdev/scabbage",
+      "url": "https://github.com/jmeekerdev/scabbage/blob/main/docs/screenshots/blocks.jpg",
+      "game": "Scabbage",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Block palette overlay on voxel world",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/BrianChase515/partial-annihilation",
+      "url": "https://github.com/BrianChase515/partial-annihilation/blob/main/screenshots/arena.gif",
+      "game": "Partial Annihilation",
+      "score_10": 5.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. RTS arena view with selection ring; plain map",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kachaj96/Game2",
+      "url": "https://github.com/kachaj96/Game2/blob/main/docs/podglad/wioska.png",
+      "game": "Arena Iso (robocza nazwa Game2)",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Charming isometric village with detailed houses and autumn trees",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/errajim063-droid/collector-steph",
+      "url": "https://github.com/errajim063-droid/collector-steph/blob/main/jeu/images/decors/salon.jpg",
+      "game": "Collector Steph: Treasures of Morocco",
+      "score_10": 6.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Moroccan salon interior with lantern and tilework",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nickypeakin/Brawlhalla",
+      "url": "https://github.com/nickypeakin/Brawlhalla/blob/claude/gracious-ride-nv4ciq/docs/screenshot.png",
+      "game": "Brawlheim",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright 2D platform fighter stage with fighter HUD",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/atiris/tapkotyper",
+      "url": "https://github.com/atiris/tapkotyper/blob/main/docs/meadow.png",
+      "game": "TapkoTyper",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Sunny meadow scene with on-screen keyboard and hand guide",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/CondrusArsen/promo-game-case",
+      "url": "https://github.com/CondrusArsen/promo-game-case/blob/main/shots/2-play.png",
+      "game": "Кофе-рейн",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Falling coffee items in narrow mobile play area",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/evancodez/noircity",
+      "url": "https://github.com/evancodez/noircity/blob/main/docs/progress/2026-09-27_phase1b_street.jpg",
+      "game": "NOIR EXTREME",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Noir elevated railway in rain; striking monochrome look",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/colinwillow/zap",
+      "url": "https://github.com/colinwillow/zap/blob/main/images/splash_zap_n_clancy.webp",
+      "game": "Melee",
+      "score_10": 6.3,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Busy vivid cartoon splash with title and tap-to-start",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/y-a-v-a/pawprints",
+      "url": "https://github.com/y-a-v-a/pawprints/blob/main/docs/title.png",
+      "game": "Pawprints",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Illustrated fox detective title with warm village backdrop",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/esaashr4f/languageapp",
+      "url": "https://github.com/esaashr4f/languageapp/blob/claude/adoring-goldberg-6j56z9/docs/screenshots/battle-corrupted.png",
+      "game": "Zaban",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark battle screen with pixel enemy and text input",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/okantao/vurgahpeyi",
+      "url": "https://github.com/okantao/vurgahpeyi/blob/main/docs/radar-animation.png",
+      "game": "BattleShip v1.0 (Amiral Battı)",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Battleship radar view; functional desktop UI",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/petegordon/discord-activity-coinpusher",
+      "url": "https://github.com/petegordon/discord-activity-coinpusher/blob/main/public/screenshots/desktop.png",
+      "game": "Carnival Dozer",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Carnival coin pusher with neon framing and clear prompt",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
