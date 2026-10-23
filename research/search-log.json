@@ -1,7 +1,7 @@
 {
   "target": 900,
   "started_with": 30,
-  "updated_on": "2026-10-21",
+  "updated_on": "2026-10-23",
   "constraints": {
     "product": "Actual game or playable game prototype",
     "development_method": "Require explicit source or creator evidence for GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet or Claude Fable; distinguish authoring, evaluation and runtime use.",
@@ -9137,6 +9137,23 @@
       "date_basis": "repository creation proxy only",
       "source_limits": "Covers four days because the 2026-10-20 run stopped after searching. Opus 5.5 one-hour commit windows matched 659-1,368 and all 96 were capped at 300 fetched; 9 Sonnet 5.5 and 3 Claude Fable windows were capped. Repository phrase partitions were uncapped (max 61). 5,051 fresh non-fork repositories were prefiltered to 2,240 by trailer and game-word signal; 642 inspected repositories with fewer than two game terms in README/description were not reviewed further.",
       "next_frontier": "Split Opus 5.5 commit windows to 20 minutes or add a keyword dimension (html, three.js, godot); revisit the 642 weak-signal repositories with a tree-based game detector."
+    },
+    {
+      "source": "Combined daily pass for 2026-10-22 and 2026-10-23: exact-phrase repository search (13 phrases x 2 UTC partitions per day) plus model+game commit pool in 20-minute Opus 5.5, 3-hour Sonnet 5.5 and 6-hour other UTC partitions for Opus 5.5, Sonnet 5.5, gpt-6.1-sol, GPT-6 Astra, Claude Fable, Gemini 4 Argon and Gemini 4, joined to repository creation; both days' fresh pools deduped against each other, games.json and earlier candidate decisions, then limited to repositories with a tracked-model co-author trailer and manually reviewed in seven batches of up to 190",
+      "query_key": "2026-10-23:asia-phnom-penh:2026-10-20..2026-10-23:opus-sonnet-sol-astra-fable-argon:20m-opus-commit-partitions:trailer-prefilter:combined-oct22-oct23",
+      "status": "completed",
+      "queries": 252,
+      "results_inspected": 2079,
+      "new_verified_repositories": 618,
+      "new_verified_game_units": 618,
+      "rejected": 1461,
+      "pending": 0,
+      "screenshots_rated": 120,
+      "source_receipts": "research/2026-10-23-daily/search-results.json",
+      "batch": "research/2026-10-23-daily/game-batch.json",
+      "date_basis": "repository creation proxy only",
+      "source_limits": "The 2026-10-22 and 2026-10-23 runs both stopped at the 50-minute limit after searching, so research/2026-10-22-daily holds only search receipts and is covered by this combined pass; verification ran from the saved pools without re-running searches. 88 of 200 commit windows were capped (Opus 5.5 20-minute windows matched up to 438); repository phrase partitions were uncapped. 2,064 pooled repositories without a tracked-model trailer were not inspected; 655 trailer repositories with fewer than two game terms were auto-rejected unreviewed; 30 were unreachable at inspection.",
+      "next_frontier": "Size the routine at about 4 minutes per 100 trailer candidates for verification and rating; split the 20-minute Opus 5.5 windows further or add a keyword dimension; revisit the 655 weak-signal repositories with a tree-based game detector."
     }
   ],
   "frontier": [

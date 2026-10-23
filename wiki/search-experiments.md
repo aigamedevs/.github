@@ -2296,3 +2296,17 @@ Rate this path **8.7/10** for yield and **8/10** for evidence. The collection yi
 ### Next experiment
 
 Search verified showcase repositories and creator posts for linked project collections. Expand each source repository only after checking its folder boundaries. Stop when the requested count is reached; preserve all additional independently verified games in the dataset without inflating the named list with tools or visual-only projects.
+
+## Combined daily pass for 2026-10-22 and 2026-10-23 — completed 2026-10-23
+
+The 2026-10-22 and 2026-10-23 daily runs both reached the 50-minute limit after searching and before committing. Finish both from the saved pools without re-running the searches; `research/2026-10-22-daily` keeps only its search receipts and is covered by this pass. Combine the two fresh non-fork commit pools (2,110 and 4,087 repositories), dedupe them against each other, `games.json` and earlier candidate decisions, and keep only repositories with an exact tracked-model co-author trailer (2,079; the other 2,064 were not inspected).
+
+Auto-reject 655 trailer repositories with fewer than two game terms, 72 whose last 100 commits had no trailer and 30 that were unreachable. Review the remaining 1,322 by hand in seven batches of up to 190. Accept 618 original games, including educational, quiz, party and clone-style games, and reject ports, recomps, decomps, remakes, mods, tools, launchers, sites, portfolios, platforms, starter templates, AI bots and no-README repositories with unclear content. Drop one mirror of an already-catalogued game by repository id. After each batch, rate the README screenshots by looking at them, regenerate the README, model pages, profile README and latest games, validate, then commit and push to all three remotes.
+
+### Critique
+
+Rate this path **8/10** for yield and **7.5/10** for evidence. The trailer prefilter gave a 47% acceptance rate among manually reviewed repositories. Model evidence is a repository-level co-author trailer, and dates use the repository creation proxy. Live demos are HTTP 200 checks only, not playtests. Machine steps (decision, tree scan, media check, contact sheets, build, regen, validation and push) took about 45–55 seconds per 190-candidate batch. Reading the batches and rating the screenshots dominated, so plan on roughly 3–5 minutes per 100 trailer candidates overall.
+
+### Next experiment
+
+Keep a daily run under 50 minutes by committing after every batch and capping manual review at about 800 trailer candidates per run, carrying the rest to the next run's saved pool. Revisit the 655 weak-signal repositories with a tree-based game detector.
