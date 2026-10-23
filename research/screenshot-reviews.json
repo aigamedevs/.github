@@ -8070,6 +8070,156 @@
       "reason": "Use this frame for the game-level score. Retro green snake field with dots; very basic.",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/goums/chonk-fu",
+      "url": "https://github.com/goums/chonk-fu/blob/main/docs/img/gameplay.jpg",
+      "game": "CHONK FU",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person cat in a Chinese courtyard with HUD; warm and characterful.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yamz8/rusty-rex",
+      "url": "https://github.com/yamz8/rusty-rex/blob/master/docs/demo.gif",
+      "game": "Rusty Rex",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Monochrome Chrome-dino style runner; minimal by design.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sen-ltd/hackenbush",
+      "url": "https://github.com/sen-ltd/hackenbush/blob/main/assets/screenshot.png",
+      "game": "Hackenbush",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Hackenbush drawing beside value panel; functional dark UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/fwdmove/nba-pinpoint",
+      "url": "https://github.com/fwdmove/nba-pinpoint/blob/main/assets/thumbnail.png",
+      "game": "NBA Pinpoint",
+      "score_10": 5.5,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Bold NBA guessing promo card with leaderboard slots.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mason-keiser/code-quest",
+      "url": "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/host-lobby.png",
+      "game": "CodeQuest",
+      "score_10": 4.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Quiz host lobby with game PIN; plain web UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hfarid19/the-lost-isles",
+      "url": "https://github.com/hfarid19/the-lost-isles/blob/main/docs/room.png",
+      "game": "The Lost Isles",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down pixel island room with player and HUD; tidy.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/anoopsinha/ai4a11y-driving-demo",
+      "url": "https://github.com/anoopsinha/ai4a11y-driving-demo/blob/main/docs/screenshot.png",
+      "game": "Drive (AI for Accessibility)",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Flat pseudo-3D road with red car and prompt; basic.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tpcmurray/kindly",
+      "url": "https://github.com/tpcmurray/kindly/blob/main/docs/screenshots/act1-desktop.png",
+      "game": "Kindly",
+      "score_10": 4.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Spreadsheet-like incremental dashboard; text heavy.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/aquoric/hoop-dreams",
+      "url": "https://github.com/aquoric/hoop-dreams/blob/main/assets/og-image.png",
+      "game": "Hoop Dreams",
+      "score_10": 6.5,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Pixel basketball court art with chunky title logo.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Hauke12345/Robot",
+      "url": "https://github.com/Hauke12345/Robot/blob/main/media/attempts_compare.png",
+      "game": "Robo-Grab",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Side-by-side robot arm attempts; diagram-like.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/deguzmanshanmichael/pakpakGame",
+      "url": "https://github.com/deguzmanshanmichael/pakpakGame/blob/main/site/img/collection.png",
+      "game": "PakPak",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pixel collection book grid on narrow phone screen.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/Mind-Game-Simulator",
+      "url": "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/home-dark.png",
+      "game": "Mind Game Simulator",
+      "score_10": 4.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark dashboard of puzzle modes; app UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Preponderous-Software/kindling",
+      "url": "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/reveal.gif",
+      "game": "Kindling",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark first-person cabin interior, low detail.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/700799/ai-war-game",
+      "url": "https://github.com/700799/ai-war-game/blob/main/how-posture.png",
+      "game": "SIGNAL / NOISE",
+      "score_10": 4.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Text-heavy posture selection panel.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/IONOFIELD/COLD-LIGHTS",
+      "url": "https://github.com/IONOFIELD/COLD-LIGHTS/blob/main/docs/world-map.png",
+      "game": "Keeper of the Cold Lights",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Ink-style world map with ember highlights; stylised but murky.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

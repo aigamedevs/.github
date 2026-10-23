@@ -2758,5 +2758,602 @@
    "https://picocomputer.github.io/",
    "https://picocomputer.github.io/sdk.html#sdk-install"
   ]
+ },
+ "MeetThakur/blindspot": {
+  "images": [],
+  "live": [
+   "https://blindspot.pages.dev"
+  ],
+  "checked": [
+   "https://g-lime-sigma.vercel.app",
+   "https://blindspot.pages.dev"
+  ]
+ },
+ "Kmad666/Squad-test": {
+  "images": [],
+  "live": [
+   "https://kmad666.github.io/Squad-test/"
+  ],
+  "checked": [
+   "https://kmad666.github.io/Squad-test/"
+  ]
+ },
+ "jstinson83/hockey": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Kogelet/sofia-games": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ftrain/arcology": {
+  "images": [],
+  "live": [
+   "https://ftrain.github.io/arcology/"
+  ],
+  "checked": [
+   "https://ftrain.github.io/arcology/"
+  ]
+ },
+ "i-am-blake/gridline": {
+  "images": [],
+  "live": [
+   "https://i-am-blake.github.io/gridline/",
+   "https://tonejs.github.io/"
+  ],
+  "checked": [
+   "https://i-am-blake.github.io/gridline/",
+   "https://tonejs.github.io/"
+  ]
+ },
+ "javanefbin/BEING-Celebration": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "goums/chonk-fu": {
+  "images": [
+   "https://github.com/goums/chonk-fu/blob/main/public/video/poster.jpg",
+   "https://github.com/goums/chonk-fu/blob/main/docs/img/gameplay.jpg",
+   "https://github.com/goums/chonk-fu/blob/main/docs/img/mistral-plays.jpg",
+   "https://github.com/goums/chonk-fu/blob/main/docs/img/le-chonk.png"
+  ],
+  "live": [
+   "https://goums.github.io/chonk-fu/"
+  ],
+  "checked": [
+   "https://goums.github.io/chonk-fu/"
+  ]
+ },
+ "moblized/loom-logic": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "evanstom273/web-roguelike-soulslike": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "giovlnv/ios_202610.marscade": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "gagaarabuli77-arch/Dixie-game-": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "octopusheartsoftware/billionaire-twilight": {
+  "images": [],
+  "live": [
+   "https://octopusheartsoftware.github.io/billionaire-twilight/"
+  ],
+  "checked": [
+   "https://octopusheartsoftware.github.io/billionaire-twilight/"
+  ]
+ },
+ "techworldz31-web/hollowmere-server": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "n3try/tether": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CowgirlCS/AG1": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "yamz8/rusty-rex": {
+  "images": [
+   "https://github.com/yamz8/rusty-rex/blob/master/docs/demo.gif"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "WWAndene2/PokoPoko": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "SilverNinja71/Penguin-League": {
+  "images": [],
+  "live": [
+   "https://silverninja71.github.io/Penguin-League/"
+  ],
+  "checked": [
+   "https://silverninja71.github.io/Penguin-League/"
+  ]
+ },
+ "ubiquitousidea/eulergame": {
+  "images": [],
+  "live": [
+   "https://ubiquitousidea.github.io/eulergame/"
+  ],
+  "checked": [
+   "https://ubiquitousidea.github.io/eulergame/"
+  ]
+ },
+ "Nexus239/wyrdlight": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "emurray1/fight4fun": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "sen-ltd/hackenbush": {
+  "images": [
+   "https://github.com/sen-ltd/hackenbush/blob/main/assets/screenshot.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "fwdmove/nba-pinpoint": {
+  "images": [
+   "https://github.com/fwdmove/nba-pinpoint/blob/main/assets/thumbnail.png"
+  ],
+  "live": [
+   "https://nba-pinpoint.vercel.app"
+  ],
+  "checked": [
+   "https://nba-pinpoint.vercel.app"
+  ]
+ },
+ "mason-keiser/code-quest": {
+  "images": [
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/landing.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/host-lobby.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/podium.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/quiz-editor.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/leaderboard.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/report.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/host-question.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/player-question.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/host-reveal.png",
+   "https://github.com/mason-keiser/code-quest/blob/master/docs/screenshots/player-reveal.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "jcwebst5/journey-of-a-drop": {
+  "images": [],
+  "live": [
+   "https://jcwebst5.github.io/journey-of-a-drop/"
+  ],
+  "checked": [
+   "https://jcwebst5.github.io/journey-of-a-drop/"
+  ]
+ },
+ "SilverNinja71/Penguin-Track": {
+  "images": [],
+  "live": [
+   "https://silverninja71.github.io/Penguin-Track/"
+  ],
+  "checked": [
+   "https://silverninja71.github.io/Penguin-Track/"
+  ]
+ },
+ "arbabkhan03/Gearshift": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hfarid19/the-lost-isles": {
+  "images": [
+   "https://github.com/hfarid19/the-lost-isles/blob/main/docs/title.png",
+   "https://github.com/hfarid19/the-lost-isles/blob/main/docs/room.png",
+   "https://github.com/hfarid19/the-lost-isles/blob/main/docs/boss.png"
+  ],
+  "live": [
+   "https://hfarid19.github.io/the-lost-isles/",
+   "https://pixelfrog-assets.itch.io/tiny-swords"
+  ],
+  "checked": [
+   "https://hfarid19.github.io/the-lost-isles/",
+   "https://pixelfrog-assets.itch.io/tiny-swords"
+  ]
+ },
+ "talcom/sentence-bonanza": {
+  "images": [],
+  "live": [
+   "https://talcom.github.io/sentence-bonanza/"
+  ],
+  "checked": [
+   "https://talcom.github.io/sentence-bonanza/"
+  ]
+ },
+ "ZiggiggYT/brownieclicker": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "golfrs/Roadlink": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "samortiz/war_nation": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mshaffe1111/Heroes-Quest": {
+  "images": [],
+  "live": [
+   "https://mshaffe1111.github.io/Heroes-Quest/"
+  ],
+  "checked": [
+   "https://mshaffe1111.github.io/Heroes-Quest/"
+  ]
+ },
+ "MarusFaulkner/quality-showdown": {
+  "images": [
+   "https://github.com/MarusFaulkner/quality-showdown/blob/main/docs/screenshot.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Nagias/pixel-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "criste1000r/loopball": {
+  "images": [],
+  "live": [
+   "https://loopball.onrender.com"
+  ],
+  "checked": [
+   "https://loopball.onrender.com"
+  ]
+ },
+ "jjthillens-oss/pangaea": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jacoposta21-ux/Percento": {
+  "images": [],
+  "live": [
+   "https://percento-virid.vercel.app"
+  ],
+  "checked": [
+   "https://percento-virid.vercel.app"
+  ]
+ },
+ "dropchop/fretline": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "anoopsinha/ai4a11y-driving-demo": {
+  "images": [
+   "https://github.com/anoopsinha/ai4a11y-driving-demo/blob/main/docs/screenshot.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "tpcmurray/kindly": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mikeylambo/Chroma-Lines": {
+  "images": [],
+  "live": [
+   "https://chroma-lines-chi.vercel.app"
+  ],
+  "checked": [
+   "https://chroma-lines-chi.vercel.app"
+  ]
+ },
+ "TheHGremlin/mahjong": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "proflouishyman/reading-village": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "YeseniaCarrasco/tictactoe-online": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Gridmend/contrail": {
+  "images": [],
+  "live": [
+   "https://contrail-io.netlify.app"
+  ],
+  "checked": [
+   "https://contrail-io.netlify.app"
+  ]
+ },
+ "Jakeclur/Claudecraft": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "saedarm/Kasserine": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bdeboer-x/row-bird": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "RafiAlaydrus/DataCenterTycoon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Dhanancheyan43/HOLLOW-RAGE": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "tofu-cmd/guildmaster": {
+  "images": [],
+  "live": [
+   "https://guildmaster-zeta.vercel.app"
+  ],
+  "checked": [
+   "https://guildmaster-zeta.vercel.app"
+  ]
+ },
+ "BiggaThanLife/hollow-creek-farm": {
+  "images": [],
+  "live": [
+   "https://biggathanlife.github.io/hollow-creek-farm/"
+  ],
+  "checked": [
+   "https://biggathanlife.github.io/hollow-creek-farm/"
+  ]
+ },
+ "radelong/packet-loss": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "daedalist/hollow-house": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "RafiAlaydrus/WarnetTycoon": {
+  "images": [],
+  "live": [
+   "https://rafialaydrus.github.io/WarnetTycoon/",
+   "https://rafialaydrus.github.io/WarnetTycoon/?debug=1"
+  ],
+  "checked": [
+   "https://rafialaydrus.github.io/WarnetTycoon/",
+   "https://rafialaydrus.github.io/WarnetTycoon/?debug=1"
+  ]
+ },
+ "questxllc/AI-Builder": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "aquoric/hoop-dreams": {
+  "images": [
+   "https://github.com/aquoric/hoop-dreams/blob/main/assets/og-image.png"
+  ],
+  "live": [
+   "https://aquoric.github.io/hoop-dreams/"
+  ],
+  "checked": [
+   "https://aquoric.github.io/hoop-dreams/"
+  ]
+ },
+ "Hauke12345/Robot": {
+  "images": [
+   "https://github.com/Hauke12345/Robot/blob/main/media/attempts_compare.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "nozvi-studio/NOZVI-GAME-01": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mindattic/Unity.QuickDuel": {
+  "images": [],
+  "live": [
+   "https://mindattic.github.io/Unity.QuickDuel/"
+  ],
+  "checked": [
+   "https://mindattic.github.io/Unity.QuickDuel/"
+  ]
+ },
+ "mareearee/Game1": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "deguzmanshanmichael/pakpakGame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kvmukul/echo-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CharlieZhang7/snake-2": {
+  "images": [],
+  "live": [
+   "https://charliezhang7.github.io/snake-2/"
+  ],
+  "checked": [
+   "https://charliezhang7.github.io/snake-2/"
+  ]
+ },
+ "Chewyslaw/riichi-table": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jhkimm96/zone-survival": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jaineil32624/Mind-Game-Simulator": {
+  "images": [
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/banner.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/home-dark.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/sudoku-light.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/logic-dark.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/visual-light.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/stats-toast-dark.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/phone-home-light.png",
+   "https://github.com/jaineil32624/Mind-Game-Simulator/blob/main/docs/screenshots/phone-memory-dark.png"
+  ],
+  "live": [
+   "https://jaineil32624.github.io/Mind-Game-Simulator/"
+  ],
+  "checked": [
+   "https://jaineil32624.github.io/Mind-Game-Simulator/"
+  ]
+ },
+ "iagllc/pitch-perfect": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Preponderous-Software/kindling": {
+  "images": [
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/concept-key-art.png",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/reveal.gif",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m5-ruin.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m5-home.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m1-survey.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m7-mare.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m2-swept.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-m3-window.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-snow-shovel.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/game-closeup-ada.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/strata-hearth-before.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/strata-hearth-after.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/replay-start.jpg",
+   "https://github.com/Preponderous-Software/kindling/blob/main/docs/images/replay-end.jpg"
+  ],
+  "live": [
+   "https://kindling.play.danielstephenson.dev"
+  ],
+  "checked": [
+   "https://kindling.play.danielstephenson.dev"
+  ]
+ },
+ "FourShore/open-tabletop-rpg": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Naebun/mobilegame": {
+  "images": [],
+  "live": [
+   "https://naebun.github.io/mobilegame/"
+  ],
+  "checked": [
+   "https://naebun.github.io/mobilegame/"
+  ]
+ },
+ "700799/ai-war-game": {
+  "images": [
+   "https://github.com/700799/ai-war-game/blob/main/how-clash.png",
+   "https://github.com/700799/ai-war-game/blob/main/how-posture.png",
+   "https://github.com/700799/ai-war-game/blob/main/how-card.png",
+   "https://github.com/700799/ai-war-game/blob/main/how-map.png"
+  ],
+  "live": [
+   "https://ai-war-game-phi.vercel.app",
+   "https://700799.github.io/ai-war-game/"
+  ],
+  "checked": [
+   "https://ai-war-game-phi.vercel.app",
+   "https://700799.github.io/ai-war-game/"
+  ]
+ },
+ "bdog563/one-piece-guesser": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "wildanlsfs/tebas-buah": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "IONOFIELD/COLD-LIGHTS": {
+  "images": [
+   "https://github.com/IONOFIELD/COLD-LIGHTS/blob/main/docs/world-map.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "rehanraza0063-sudo/game-like-templerun01": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "gnslno1/rabbit-carrot-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "dojw7523/dino-rain-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bipinjr/Treasure-Hunt": {
+  "images": [],
+  "live": [
+   "https://treasure-hunt-seven-sigma.vercel.app",
+   "https://treasure-hunt-seven-sigma.vercel.app/"
+  ],
+  "checked": [
+   "https://treasure-hunt-seven-sigma.vercel.app",
+   "https://treasure-hunt-seven-sigma.vercel.app/"
+  ]
  }
 }

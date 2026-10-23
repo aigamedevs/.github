@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **254 curated game units** from **186 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **257 curated game units** from **189 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **11 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **37 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **63 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **66 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -255,7 +255,9 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Don't Get Got — Holiday Edition**](../games/don-t-get-got-holiday-edition/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/nihakue/getgot/commit/c759a544e00a22d46c2707b366039488a3d0120b) · [files](https://github.com/nihakue/getgot/blob/main/app.js) · [play](https://nihakue.github.io/getgot/)
 - [**Lander**](../games/lander/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/briandgoldberg/Lander/commit/98fa3bc6753f6167f6a60a162538ad9136612f3d) · [files](https://github.com/briandgoldberg/Lander/blob/main/index.html) · [play](https://lander-topaz.vercel.app)
 - [**NCAA Two-Minute Drill (ncaa2mindrill.com)**](../games/ncaa-two-minute-drill-ncaa2mindrill-com/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · Python, Browser · [✓ direct model evidence](https://github.com/RickMcIntyre/ncaa2mindrill/commit/39d29b7e40de2d918acb3caef7f69bcb4f6eb18f) · [files](https://github.com/RickMcIntyre/ncaa2mindrill/blob/main/docs/app.js)
+- [**Pitch Perfect**](../games/pitch-perfect/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/iagllc/pitch-perfect/commit/40ccc57ceb69dc92ad30695aec8869a79da35b88) · [files](https://github.com/iagllc/pitch-perfect/blob/main/js/main.js)
 - [**Raid — a co-op AR RPG where Gemma 4 is the dungeon master**](../games/raid-a-co-op-ar-rpg-where-gemma-4-is-the-dungeon-master/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · Kotlin · [✓ direct model evidence](https://github.com/hocmemini/gemma-raid/commit/04ac5d240c847ca5105780f3f102e43242a217dc) · [files](https://github.com/hocmemini/gemma-raid/blob/main/android/app/src/main/kotlin/com/hocmemini/raid/GameSession.kt) · 📸 **3.8/10** · [screenshot](https://github.com/hocmemini/gemma-raid/blob/main/docs/screenshots/lobby.png)
+- [**Riichi Table**](../games/riichi-table/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/Chewyslaw/riichi-table/commit/cbcbe023c788ff9d7ec067fb10721ee6210e81bb) · [files](https://github.com/Chewyslaw/riichi-table/blob/main/public/app.js)
 - [**THE LAST EXIT**](../games/the-last-exit/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/noamk15/the-last-exit/commit/e7cfeea8c6fb09d8d30e21ccccb49d981cec8257) · [files](https://github.com/noamk15/the-last-exit/blob/main/js/main.js) · [play](https://noamk15.github.io/the-last-exit/)
 - [**Tidy Quest (trial)**](../games/tidy-quest-trial/readme.md) — ⭐ **7.3/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/davebot86/tidy-quest/commit/f4aca19e0c4195e1197c219ff87021a771a90986) · [files](https://github.com/davebot86/tidy-quest/blob/main/app/src/main/assets/index.html)
 - [**Ballpark**](../games/ballpark/readme.md) — ⭐ **7.2/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/jameswallace35/Fermi/commit/ee7f1480ec1e8087d369326f47c8ee5f86fbde84) · [files](https://github.com/jameswallace35/Fermi/blob/claude/fermi-estimation-game-6fmn3p/src/main.js)
@@ -268,6 +270,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Deep Bite 🐟**](../games/deep-bite/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/spicerpon/deep-bite/commit/c692379ddd1aacec49a05601f8091549dd671ad2) · [files](https://github.com/spicerpon/deep-bite/blob/main/src/game.js)
 - [**Dust Duel**](../games/dust-duel/readme.md) — ⭐ **7.1/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/jomzrules-dotcom/dust-duel/commit/133c83b90e0b5b572989de5d95d86e47a86cad5c) · [files](https://github.com/jomzrules-dotcom/dust-duel/blob/main/client/game.js)
 - [**Flag Game**](../games/flag-game/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/maxlep/flag-game/commit/31b8d8fc8b9aeba6866471598267e6523d1d1eec) · [files](https://github.com/maxlep/flag-game/blob/main/js/app.js)
+- [**Fretline**](../games/fretline/readme.md) — ⭐ **7.1/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/dropchop/fretline/commit/623a527b6997a38eaa7aefa5d705ddb354970ae4) · [files](https://github.com/dropchop/fretline/blob/main/src/render/highway.js)
 - [**min box**](../games/min-box/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/mitodrummer/min-punchout/commit/47d0c9b9b96d00be64c43269bb27c4bfed78fa69) · [files](https://github.com/mitodrummer/min-punchout/blob/main/src/sim.rs)
 - [**Op Simulator**](../games/op-simulator/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/ttechsyd/op-simulator/commit/a972d5bbcc62de5c9a8480dac7f9ba7da6a163fb) · [files](https://github.com/ttechsyd/op-simulator/blob/main/app/src/App.tsx)
 - [**Root Access — design bench**](../games/root-access-design-bench/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/ugurkc/root-access/commit/8aa351c383c263041bb6d08e778e8a55ce0b7e5d) · [files](https://github.com/ugurkc/root-access/blob/main/index.html) · [play](https://ugurkc.github.io/root-access)

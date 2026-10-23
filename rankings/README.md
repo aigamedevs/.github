@@ -26,8 +26,8 @@
 | --- | ---: | ---: | --- |
 | Explicit publication date | 152 | 287 | `published_on` |
 | Publication or qualifying evidence date | 165 | 325 | `published_on`, `recent_game_evidence_on`, or `fresh_activity_date` |
-| Date unknown for ranking | 2042 | 2189 | Exclude from date rankings |
-| Repository creation metadata | 2207 | 2514 | Audit context only; not publication |
+| Date unknown for ranking | 2099 | 2246 | Exclude from date rankings |
+| Repository creation metadata | 2264 | 2571 | Audit context only; not publication |
 
 ## Date policy
 
