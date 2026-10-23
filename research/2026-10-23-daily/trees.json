@@ -13965,5 +13965,2501 @@
   ],
   "shots": [],
   "truncated": false
+ },
+ "WarmReset/claude-edu-session": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 23585,
+  "top": [
+   [
+    "index.html",
+    23585
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "adzimaziz/ada-power-game": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 54102,
+  "top": [
+   [
+    "game.js",
+    43808
+   ],
+   [
+    "index.html",
+    10294
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "semrush733-ux/cargo-truck-driver": {
+  "branch": "main",
+  "nfiles": 114,
+  "code_bytes": 675219,
+  "top": [
+   [
+    "www/js3d/game3d.js",
+    62723
+   ],
+   [
+    "www/js/game.js",
+    53472
+   ],
+   [
+    "www/js/world.js",
+    50174
+   ],
+   [
+    "www/js3d/road3d.js",
+    48827
+   ],
+   [
+    "www/js/ui.js",
+    43465
+   ],
+   [
+    "www/js/view3d.js",
+    41806
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "dechatillioncollection-netizen/Last-Colony-Game": {
+  "branch": "main",
+  "nfiles": 872,
+  "code_bytes": 6348615,
+  "top": [
+   [
+    "audio/sounds.js",
+    5126066
+   ],
+   [
+    "index.html",
+    705386
+   ],
+   [
+    "art/source/paint_weapons.js",
+    57337
+   ],
+   [
+    "audio/source/sounds.js",
+    49651
+   ],
+   [
+    "art/source/paint_gates.js",
+    49536
+   ],
+   [
+    "art/source/paint_vehicles.js",
+    45448
+   ]
+  ],
+  "shots": [
+   "docs/screenshots/bloom-before-after.png",
+   "docs/screenshots/brood-preview.png",
+   "docs/screenshots/campaign-planet.png",
+   "docs/screenshots/campaign-sectors.png",
+   "docs/screenshots/colony-mindustry-style.png",
+   "docs/screenshots/conveyor-turns.png",
+   "docs/screenshots/fog-of-war.png",
+   "docs/screenshots/gates.png",
+   "docs/screenshots/hd-colony-structures.png",
+   "docs/screenshots/hd-remaster-preview.png",
+   "docs/screenshots/hd-remaster-siege.png",
+   "docs/screenshots/hd-swarm-structures.png"
+  ],
+  "truncated": false
+ },
+ "jaineil32624/RedFlag": {
+  "branch": "main",
+  "nfiles": 60,
+  "code_bytes": 294733,
+  "top": [
+   [
+    "js/content/templates-scam.js",
+    36744
+   ],
+   [
+    "js/analyzer/analyzer.js",
+    26104
+   ],
+   [
+    "js/game/run.js",
+    24511
+   ],
+   [
+    "js/content/stories.js",
+    24399
+   ],
+   [
+    "js/content/templates-legit.js",
+    15894
+   ],
+   [
+    "js/game/story.js",
+    12626
+   ]
+  ],
+  "shots": [
+   "docs/banner.png",
+   "docs/feature-graphic.png",
+   "docs/screenshots/a-inbox-rush-swipe.png",
+   "docs/screenshots/b-feedback.png",
+   "docs/screenshots/c-boss-tech-support.png",
+   "docs/screenshots/d-check-a-message.png",
+   "docs/screenshots/desktop.png",
+   "docs/screenshots/e-lookalike-lightning.png",
+   "docs/screenshots/f-profile.png",
+   "docs/screenshots/f2-badges.png",
+   "docs/screenshots/g-share-card.png",
+   "docs/screenshots/home.png"
+  ],
+  "truncated": false
+ },
+ "areyesromo/Ark-1p-Hub": {
+  "branch": "main",
+  "nfiles": 218,
+  "code_bytes": 593063,
+  "top": [
+   [
+    "public/host/host.js",
+    25612
+   ],
+   [
+    "public/shared/common.js",
+    20102
+   ],
+   [
+    "server/games/trivia-questions.js",
+    19254
+   ],
+   [
+    "public/play/play.js",
+    17686
+   ],
+   [
+    "server/rooms.js",
+    17589
+   ],
+   [
+    "server/achievements.js",
+    14251
+   ]
+  ],
+  "shots": [
+   "docs/screenshots/achievements.jpg",
+   "docs/screenshots/phone-blocks.jpg",
+   "docs/screenshots/phone-lobby.jpg",
+   "docs/screenshots/phone-snake.jpg",
+   "docs/screenshots/phone-trivia.jpg",
+   "docs/screenshots/stats.jpg",
+   "docs/screenshots/tv-2048.jpg",
+   "docs/screenshots/tv-blocks.jpg",
+   "docs/screenshots/tv-gems.jpg",
+   "docs/screenshots/tv-invaders.jpg",
+   "docs/screenshots/tv-join.jpg",
+   "docs/screenshots/tv-lobby.jpg"
+  ],
+  "truncated": false
+ },
+ "DDDavid-Works/run-charlie": {
+  "branch": "main",
+  "nfiles": 36,
+  "code_bytes": 98719,
+  "top": [
+   [
+    "scripts/obstacles.js",
+    39513
+   ],
+   [
+    "scripts/player.js",
+    10710
+   ],
+   [
+    "scripts/game.js",
+    8789
+   ],
+   [
+    "scripts/config.js",
+    5669
+   ],
+   [
+    "scripts/background.js",
+    5453
+   ],
+   [
+    "index.html",
+    4810
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "pashafateev/deadpan": {
+  "branch": "main",
+  "nfiles": 68,
+  "code_bytes": 43448,
+  "top": [
+   [
+    "client/src/table/Table.tsx",
+    7107
+   ],
+   [
+    "client/src/playground/mocks.ts",
+    5921
+   ],
+   [
+    "client/src/table/ActionBar.tsx",
+    4022
+   ],
+   [
+    "client/src/playground/Playground.tsx",
+    3691
+   ],
+   [
+    "client/src/table/Seat.tsx",
+    3401
+   ],
+   [
+    "shared/src/table.ts",
+    3214
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "raulit-eng/sap-architect-bridge": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 144029,
+  "top": [
+   [
+    "index.html",
+    71859
+   ],
+   [
+    "src/game-data.js",
+    41857
+   ],
+   [
+    "src/template.html",
+    30019
+   ],
+   [
+    "build.js",
+    294
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "zPanda20/driver-draft-game": {
+  "branch": "main",
+  "nfiles": 377,
+  "code_bytes": 253096,
+  "top": [
+   [
+    "server/room.js",
+    35850
+   ],
+   [
+    "public/app.js",
+    30420
+   ],
+   [
+    "public/race.js",
+    20030
+   ],
+   [
+    "public/pool.js",
+    13542
+   ],
+   [
+    "engine/season.js",
+    12439
+   ],
+   [
+    "public/off.js",
+    11926
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rlaalswo4942/tesseract-circuit": {
+  "branch": "main",
+  "nfiles": 38,
+  "code_bytes": 66077,
+  "top": [
+   [
+    "src/rendering/CircuitRenderer.js",
+    11148
+   ],
+   [
+    "src/rendering/CubeRenderer.js",
+    6052
+   ],
+   [
+    "src/maze/MazeGenerator.js",
+    5788
+   ],
+   [
+    "src/rendering/SceneManager.js",
+    5128
+   ],
+   [
+    "src/core/GameController.js",
+    4650
+   ],
+   [
+    "src/maze/CubeTopology.js",
+    3752
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "amaadmirza/patang-wars": {
+  "branch": "main",
+  "nfiles": 300,
+  "code_bytes": 798924,
+  "top": [
+   [
+    "client/src/game.js",
+    332224
+   ],
+   [
+    "client/src/sound.js",
+    62832
+   ],
+   [
+    "client/src/fliers.js",
+    57585
+   ],
+   [
+    "client/src/physics.js",
+    48876
+   ],
+   [
+    "client/src/kitemaker.js",
+    44344
+   ],
+   [
+    "client/index.html",
+    40094
+   ]
+  ],
+  "shots": [
+   "screenshots-v6.4/home-online-on-rail.png",
+   "screenshots-v6.4/music-after-spectrogram.png",
+   "screenshots-v6.4/music-before-spectrogram.png",
+   "screenshots-v6.4/pecha-three-lines.png"
+  ],
+  "truncated": false
+ },
+ "aaamanite/oh-no-shutdown-again": {
+  "branch": "main",
+  "nfiles": 46,
+  "code_bytes": 363434,
+  "top": [
+   [
+    "js/world.js",
+    125901
+   ],
+   [
+    "js/game.js",
+    66481
+   ],
+   [
+    "js/data.js",
+    49914
+   ],
+   [
+    "js/events.js",
+    41474
+   ],
+   [
+    "js/satellite.js",
+    17164
+   ],
+   [
+    "js/worker.js",
+    17015
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "wjsmit/science-mayhem": {
+  "branch": "main",
+  "nfiles": 9,
+  "code_bytes": 248409,
+  "top": [
+   [
+    "index.html",
+    248409
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rakagaul433-cloud/memory-match": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 6979,
+  "top": [
+   [
+    "game.js",
+    3723
+   ],
+   [
+    "index.html",
+    3256
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rghrdxg-rdgbd/tank-battle": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 29073,
+  "top": [
+   [
+    "index.html",
+    29073
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "jyyi7484/game": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 10785,
+  "top": [
+   [
+    "minesweeper.html",
+    10785
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Gur1963/Mygames": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 118182,
+  "top": [
+   [
+    "index.html",
+    45722
+   ],
+   [
+    "snakes-ladders.html",
+    45449
+   ],
+   [
+    "docs/concept.html",
+    21107
+   ],
+   [
+    "tools/bank.js",
+    5063
+   ],
+   [
+    "tools/build-site.js",
+    841
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "JSAlvarado/iot-playground": {
+  "branch": "main",
+  "nfiles": 52,
+  "code_bytes": 457877,
+  "top": [
+   [
+    "ui.js",
+    27498
+   ],
+   [
+    "sound.js",
+    25595
+   ],
+   [
+    "games/curbe.js",
+    24117
+   ],
+   [
+    "games/tuba.js",
+    24039
+   ],
+   [
+    "games/seedling.js",
+    23375
+   ],
+   [
+    "games/copra.js",
+    23181
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "plairpro/captcha": {
+  "branch": "main",
+  "nfiles": 105,
+  "code_bytes": 57794,
+  "top": [
+   [
+    "index.html",
+    57794
+   ]
+  ],
+  "shots": [
+   "img/anA0.jpg",
+   "img/anA1.jpg",
+   "img/anA2.jpg",
+   "img/anA3.jpg",
+   "img/anA4.jpg",
+   "img/anA5.jpg",
+   "img/anA6.jpg",
+   "img/anA7.jpg",
+   "img/anA8.jpg",
+   "img/anB0.jpg",
+   "img/anB1.jpg",
+   "img/anB2.jpg"
+  ],
+  "truncated": false
+ },
+ "paulbuettner-star/looping-louie": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 151654,
+  "top": [
+   [
+    "index.html",
+    147655
+   ],
+   [
+    "relay/src/index.js",
+    3999
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "mikellidestheo-alt/Treaties-Map-game": {
+  "branch": "main",
+  "nfiles": 15,
+  "code_bytes": 106362,
+  "top": [
+   [
+    "src/data/treaties.js",
+    30650
+   ],
+   [
+    "src/game/Game.js",
+    29367
+   ],
+   [
+    "src/engine/MapScene.js",
+    19795
+   ],
+   [
+    "src/data/geo.js",
+    16195
+   ],
+   [
+    "index.html",
+    8175
+   ],
+   [
+    "src/audio.js",
+    1194
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "drpatrickaram-cyber/ventilator-night-out": {
+  "branch": "main",
+  "nfiles": 28,
+  "code_bytes": 117301,
+  "top": [
+   [
+    "js/admin.js",
+    17775
+   ],
+   [
+    "js/audience.js",
+    14841
+   ],
+   [
+    "js/screen.js",
+    14756
+   ],
+   [
+    "js/core.js",
+    13994
+   ],
+   [
+    "js/gm.js",
+    11981
+   ],
+   [
+    "tools/e2e.mjs",
+    9268
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Gabensrightnut/lancer-ttrpg": {
+  "branch": "main",
+  "nfiles": 1510,
+  "code_bytes": 3592070,
+  "top": [
+   [
+    "src/core/rules/gear_systems.gd",
+    105506
+   ],
+   [
+    "src/render/mechs/frame_sculpts.gd",
+    91939
+   ],
+   [
+    "src/gm/terrain_gen.gd",
+    78134
+   ],
+   [
+    "src/explore/hub_scene.gd",
+    66826
+   ],
+   [
+    "src/core/rules/attacks.gd",
+    60179
+   ],
+   [
+    "src/core/rules/talent_rules.gd",
+    58024
+   ]
+  ],
+  "shots": [
+   "assets/screenshots/customizer_paint_everest.jpg",
+   "assets/screenshots/customizer_paint_factory.jpg",
+   "assets/screenshots/customizer_paint_preset.jpg",
+   "assets/screenshots/customizer_paint_random.jpg",
+   "assets/screenshots/demo_alien.jpg",
+   "assets/screenshots/demo_alien_close.jpg",
+   "assets/screenshots/demo_alien_vista.jpg",
+   "assets/screenshots/demo_beam.jpg",
+   "assets/screenshots/demo_board.jpg",
+   "assets/screenshots/demo_cockpit.jpg",
+   "assets/screenshots/demo_deploy.jpg",
+   "assets/screenshots/demo_destroy.jpg"
+  ],
+  "truncated": false
+ },
+ "jackedevathome/frostwood": {
+  "branch": "main",
+  "nfiles": 109,
+  "code_bytes": 225133,
+  "top": [
+   [
+    "scripts/game/game.gd",
+    29004
+   ],
+   [
+    "tools/generate_audio.py",
+    24218
+   ],
+   [
+    "scripts/game/player.gd",
+    19368
+   ],
+   [
+    "scripts/game/hud.gd",
+    13314
+   ],
+   [
+    "scripts/ui/ui_theme.gd",
+    11003
+   ],
+   [
+    "scripts/game/items.gd",
+    10926
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ReMiKU/classroom-leadership-games": {
+  "branch": "main",
+  "nfiles": 54,
+  "code_bytes": 191640,
+  "top": [
+   [
+    "app/app.mjs",
+    46193
+   ],
+   [
+    "app/.private/facilitator-app.mjs",
+    46102
+   ],
+   [
+    "app/public/projector.mjs",
+    29487
+   ],
+   [
+    "app/scripts/navigation-renderers.mjs",
+    6850
+   ],
+   [
+    "app/lib/live-game.mjs",
+    6588
+   ],
+   [
+    "app/scripts/prepare-access-layout.mjs",
+    6359
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "BT-Rajan/bhagchal-aadupuli": {
+  "branch": "main",
+  "nfiles": 629,
+  "code_bytes": 1566496,
+  "top": [
+   [
+    "app/src/api/schema.d.ts",
+    185782
+   ],
+   [
+    "server/src/baghchal_server/games/service.py",
+    45867
+   ],
+   [
+    "server/src/baghchal_server/accounts/service.py",
+    27007
+   ],
+   [
+    "server/src/baghchal_server/tournaments/service.py",
+    25397
+   ],
+   [
+    "server/src/baghchal_server/lobby/service.py",
+    25314
+   ],
+   [
+    "app/src/app/game/[id].tsx",
+    24001
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "MoneyGotLonger/card-shark": {
+  "branch": "main",
+  "nfiles": 34,
+  "code_bytes": 28537,
+  "top": [
+   [
+    "src/screens/MatchScreen.tsx",
+    4533
+   ],
+   [
+    "supabase/functions/import-prices/index.ts",
+    3541
+   ],
+   [
+    "src/screens/ResultsScreen.tsx",
+    3317
+   ],
+   [
+    "scripts/setup-supabase.sh",
+    3236
+   ],
+   [
+    "App.tsx",
+    3209
+   ],
+   [
+    "src/data/sampleCards.ts",
+    2020
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "arnavh1512-source/Manhunt": {
+  "branch": "main",
+  "nfiles": 72,
+  "code_bytes": 135002,
+  "top": [
+   [
+    "convex/game.ts",
+    14440
+   ],
+   [
+    "src/app/game.tsx",
+    13748
+   ],
+   [
+    "src/game/sim-engine.ts",
+    11221
+   ],
+   [
+    "src/components/city-map.tsx",
+    10302
+   ],
+   [
+    "src/online/online-engine.ts",
+    9941
+   ],
+   [
+    "src/components/logo-xml.ts",
+    7819
+   ]
+  ],
+  "shots": [
+   "assets/images/expo-badge-white.png",
+   "assets/images/expo-badge.png",
+   "assets/images/tutorial-web.png"
+  ],
+  "truncated": false
+ },
+ "dososo/little-rain-cloud": {
+  "branch": "main",
+  "nfiles": 16,
+  "code_bytes": 76494,
+  "top": [
+   [
+    "main.js",
+    58001
+   ],
+   [
+    "index.html",
+    9207
+   ],
+   [
+    "tools/mix_audio.py",
+    3530
+   ],
+   [
+    "tools/record.mjs",
+    3306
+   ],
+   [
+    "tools/covers.sh",
+    1243
+   ],
+   [
+    "serve.mjs",
+    1207
+   ]
+  ],
+  "shots": [
+   "shots/01-opening.png",
+   "shots/02-fox-and-cloud.png",
+   "shots/03-rainbow.png",
+   "shots/04-look-back.png",
+   "shots/05-firefly-trail.png",
+   "shots/06-firefly-rain.png"
+  ],
+  "truncated": false
+ },
+ "tomasz-czarnecki/game-yaga-sh": {
+  "branch": "main",
+  "nfiles": 48,
+  "code_bytes": 2475203,
+  "top": [
+   [
+    "code/lib/three.core.js",
+    1427497
+   ],
+   [
+    "code/lib/three.module.js",
+    648961
+   ],
+   [
+    "code/app.js",
+    151422
+   ],
+   [
+    "code/lib/loaders/GLTFLoader.js",
+    114972
+   ],
+   [
+    "code/lib/utils/BufferGeometryUtils.js",
+    35552
+   ],
+   [
+    "code/bug-models.js",
+    25049
+   ]
+  ],
+  "shots": [
+   "assets/images/yaga-face.png"
+  ],
+  "truncated": false
+ },
+ "waizuiya/tank-battle": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 29632,
+  "top": [
+   [
+    "index.html",
+    29632
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Spidergy07/watch-fishing": {
+  "branch": "main",
+  "nfiles": 13,
+  "code_bytes": 57936,
+  "top": [
+   [
+    "mac/index.html",
+    39275
+   ],
+   [
+    "FishingWatch/FishingCore.swift",
+    5720
+   ],
+   [
+    "mac/server.py",
+    3931
+   ],
+   [
+    "FishingWatch/GameModel.swift",
+    3606
+   ],
+   [
+    "FishingWatch/FishingApp.swift",
+    3337
+   ],
+   [
+    "Tests/main.swift",
+    2067
+   ]
+  ],
+  "shots": [
+   "docs/caught.jpg",
+   "docs/fighting.jpg",
+   "docs/waiting.jpg"
+  ],
+  "truncated": false
+ },
+ "GooseKnightGaming/Tariel-Caulsleigh": {
+  "branch": "main",
+  "nfiles": 41,
+  "code_bytes": 2769229,
+  "top": [
+   [
+    "game.js",
+    2612242
+   ],
+   [
+    "src/game/main.js",
+    30116
+   ],
+   [
+    "src/world/world.js",
+    18897
+   ],
+   [
+    "src/game/scene.js",
+    14949
+   ],
+   [
+    "index.html",
+    12541
+   ],
+   [
+    "src/index.html",
+    12470
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "alon-hoffman/ink-skater": {
+  "branch": "main",
+  "nfiles": 68,
+  "code_bytes": 175186,
+  "top": [
+   [
+    "src/game/Simulation.ts",
+    14709
+   ],
+   [
+    "src/editor/EditorController.ts",
+    11756
+   ],
+   [
+    "src/editor/Editor.tsx",
+    10460
+   ],
+   [
+    "src/game/inkDrawing.ts",
+    8144
+   ],
+   [
+    "src/game/Game.ts",
+    7929
+   ],
+   [
+    "src/components/MyLevels.tsx",
+    7891
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "facingshootingstar/fossil-vault": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 66864,
+  "top": [
+   [
+    "js/main.js",
+    34326
+   ],
+   [
+    "js/skeleton.js",
+    18788
+   ],
+   [
+    "js/tidecloak-sim.js",
+    9868
+   ],
+   [
+    "index.html",
+    3882
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Tboy450/five-senses": {
+  "branch": "main",
+  "nfiles": 54,
+  "code_bytes": 7691,
+  "top": [
+   [
+    "export-ghosts.mjs",
+    3132
+   ],
+   [
+    "export-reference-models.mjs",
+    2226
+   ],
+   [
+    "export-model.mjs",
+    1396
+   ],
+   [
+    "server.mjs",
+    937
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Tanisha-dey18/hand-wizard": {
+  "branch": "main",
+  "nfiles": 6,
+  "code_bytes": 213497,
+  "top": [
+   [
+    "game.js",
+    175097
+   ],
+   [
+    "handTracking.js",
+    19764
+   ],
+   [
+    "index.html",
+    18636
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "gryng/pitatto-tower": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 41914,
+  "top": [
+   [
+    "index.html",
+    41914
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ByteC0de0/cats-vs-dinosaurs": {
+  "branch": "main",
+  "nfiles": 6,
+  "code_bytes": 39091,
+  "top": [
+   [
+    "index.html",
+    39091
+   ]
+  ],
+  "shots": [
+   "screenshots/desktop_1.png",
+   "screenshots/mobile_1.png",
+   "screenshots/mobile_2.png",
+   "screenshots/mobile_3.png"
+  ],
+  "truncated": false
+ },
+ "colemanuk82/traffic-warden-simulator": {
+  "branch": "main",
+  "nfiles": 573,
+  "code_bytes": 577568,
+  "top": [
+   [
+    "scripts/world.gd",
+    69091
+   ],
+   [
+    "scripts/main.gd",
+    64257
+   ],
+   [
+    "scripts/menu.gd",
+    63005
+   ],
+   [
+    "tools/gen_audio.py",
+    58422
+   ],
+   [
+    "scripts/character.gd",
+    41508
+   ],
+   [
+    "scripts/car.gd",
+    30860
+   ]
+  ],
+  "shots": [
+   "docs/promo.gif",
+   "docs/screenshots/car-park.jpg",
+   "docs/screenshots/christmas-eve.jpg",
+   "docs/screenshots/hilltop-village.jpg",
+   "docs/screenshots/main-menu.jpg",
+   "docs/screenshots/multi-storey.jpg",
+   "docs/screenshots/neon-city-rain.jpg",
+   "docs/screenshots/pleasant-street.jpg",
+   "docs/screenshots/seaside-prom.jpg",
+   "docs/screenshots/single-player.jpg",
+   "docs/screenshots/split-screen-race.jpg",
+   "docs/screenshots/spooky-hollow.jpg"
+  ],
+  "truncated": false
+ },
+ "crouchclifton/five-out-hoops": {
+  "branch": "main",
+  "nfiles": 469,
+  "code_bytes": 191326,
+  "top": [
+   [
+    "js/minigames.js",
+    30358
+   ],
+   [
+    "js/lessons.js",
+    30324
+   ],
+   [
+    "js/cards.js",
+    24720
+   ],
+   [
+    "js/app.js",
+    18320
+   ],
+   [
+    "voice/manifest.js",
+    17531
+   ],
+   [
+    "js/core.js",
+    12727
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "latsoudisbrothersgames/galaxidi-dash": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 40831,
+  "top": [
+   [
+    "index.html",
+    40831
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Chenredfish/2026_ReportMiniGame_for_MCPClub": {
+  "branch": "main",
+  "nfiles": 402,
+  "code_bytes": 226982,
+  "top": [
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs",
+    30811
+   ],
+   [
+    "Assets/Project/Scripts/GameManager.cs",
+    25878
+   ],
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs",
+    24604
+   ],
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs",
+    10637
+   ],
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs",
+    9303
+   ],
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs",
+    9123
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Fobeza/AttackTitensVN": {
+  "branch": "main",
+  "nfiles": 178,
+  "code_bytes": 153568,
+  "top": [
+   [
+    "editor/editor.js",
+    48820
+   ],
+   [
+    "engine/js/ui.js",
+    20124
+   ],
+   [
+    "engine/js/schema.js",
+    19270
+   ],
+   [
+    "engine/js/renderer.js",
+    10195
+   ],
+   [
+    "tools/lint_scenes.mjs",
+    8011
+   ],
+   [
+    "engine/js/parser.js",
+    7245
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Felina14/hobson": {
+  "branch": "main",
+  "nfiles": 102,
+  "code_bytes": 142487,
+  "top": [
+   [
+    "hobson/narrator.py",
+    18860
+   ],
+   [
+    "scripts/legacy/probe_wording.py",
+    16361
+   ],
+   [
+    "hobson/game.py",
+    16344
+   ],
+   [
+    "hobson/static/index.html",
+    10301
+   ],
+   [
+    "scripts/draw_scenes.py",
+    8486
+   ],
+   [
+    "hobson/cli.py",
+    7515
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "BRONDIJKxyz/Keezen": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 53977,
+  "top": [
+   [
+    "index.html",
+    53977
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "TomJPhillips/tone-rush": {
+  "branch": "main",
+  "nfiles": 9,
+  "code_bytes": 64598,
+  "top": [
+   [
+    "index.html",
+    63335
+   ],
+   [
+    "sw.js",
+    1263
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Bharatsingh7/verdance": {
+  "branch": "main",
+  "nfiles": 61,
+  "code_bytes": 251813,
+  "top": [
+   [
+    "src/world/ruins.js",
+    40870
+   ],
+   [
+    "src/world/models.js",
+    29870
+   ],
+   [
+    "src/main.js",
+    16636
+   ],
+   [
+    "src/world/textures.js",
+    13794
+   ],
+   [
+    "src/world/terrain.js",
+    11471
+   ],
+   [
+    "src/world/chunkgen.js",
+    10891
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "SodaCK87/Game---Blackjack": {
+  "branch": "main",
+  "nfiles": 63,
+  "code_bytes": 935344,
+  "top": [
+   [
+    "app/lib/three.js",
+    744186
+   ],
+   [
+    "tools/measure_perf.js",
+    58284
+   ],
+   [
+    "app/js/view/director.js",
+    29002
+   ],
+   [
+    "app/js/view/textures.js",
+    13363
+   ],
+   [
+    "app/js/core/game.js",
+    13173
+   ],
+   [
+    "app/js/view/dealer.js",
+    12580
+   ]
+  ],
+  "shots": [
+   "docs/img/play.png"
+  ],
+  "truncated": false
+ },
+ "ceddikers/Chalice": {
+  "branch": "main",
+  "nfiles": 471,
+  "code_bytes": 3769672,
+  "top": [
+   [
+    "game/boss_vaelgor.js",
+    456308
+   ],
+   [
+    "game/backup_original/boss_vaelgor.js",
+    403343
+   ],
+   [
+    "game/breaker_25d.js",
+    210693
+   ],
+   [
+    "game/boss_ignis_rig.js",
+    196069
+   ],
+   [
+    "game/backup_original/breaker_25d.js",
+    194959
+   ],
+   [
+    "game/hammer_25d.js",
+    165847
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "strokedoc/little-learners": {
+  "branch": "main",
+  "nfiles": 11,
+  "code_bytes": 131751,
+  "top": [
+   [
+    "art.js",
+    73666
+   ],
+   [
+    "index.html",
+    56974
+   ],
+   [
+    "sw.js",
+    1111
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ccc2223/unsinkable": {
+  "branch": "main",
+  "nfiles": 285,
+  "code_bytes": 2567638,
+  "top": [
+   [
+    "src/characters/garments.ts",
+    51319
+   ],
+   [
+    "src/world/interior/materials.ts",
+    44046
+   ],
+   [
+    "src/gameplay/npcs.ts",
+    41451
+   ],
+   [
+    "src/characters/presets.ts",
+    40573
+   ],
+   [
+    "src/characters/dog.ts",
+    36373
+   ],
+   [
+    "src/gameplay/dialogues/deck.ts",
+    36312
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "DrKeyzzz/super-genius": {
+  "branch": "main",
+  "nfiles": 25,
+  "code_bytes": 2346529,
+  "top": [
+   [
+    "channels/rhythm-trainer.html",
+    457449
+   ],
+   [
+    "channels/scale-quest.html",
+    410066
+   ],
+   [
+    "channels/rooftop-runner.html",
+    407713
+   ],
+   [
+    "channels/brainwaves.html",
+    365757
+   ],
+   [
+    "channels/tidal-tones.html",
+    322592
+   ],
+   [
+    "channels/earshot-saloon.html",
+    279154
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "shanisagar/webgames": {
+  "branch": "main",
+  "nfiles": 434,
+  "code_bytes": 3639545,
+  "top": [
+   [
+    "src/games/dashrush/DashRushGame.ts",
+    95985
+   ],
+   [
+    "src/games/candynova/CandyNovaGame.ts",
+    90419
+   ],
+   [
+    "src/games/ludoblitz/LudoBlitzGame.ts",
+    83165
+   ],
+   [
+    "src/games/wordwonder/WordWonderGame.ts",
+    69193
+   ],
+   [
+    "src/games/galaxydefenders/GalaxyDefendersGame.ts",
+    67420
+   ],
+   [
+    "src/games/skyfire/SkyfireGame.ts",
+    64385
+   ]
+  ],
+  "shots": [
+   "public/img/features/airhockey.webp",
+   "public/img/features/arrowpuzzle.webp",
+   "public/img/features/bladetoss.webp",
+   "public/img/features/blockdrop.webp",
+   "public/img/features/boltjam.webp",
+   "public/img/features/bubblebloom.webp",
+   "public/img/features/candynova.webp",
+   "public/img/features/carrom.webp",
+   "public/img/features/dashrush.webp",
+   "public/img/features/elixirlab.webp",
+   "public/img/features/emberripple.webp",
+   "public/img/features/firewall.webp"
+  ],
+  "truncated": false
+ },
+ "AlbertanCoder/hackathon-sim": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 705719,
+  "top": [
+   [
+    "index.html",
+    705719
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "gangidenset/english-game-app": {
+  "branch": "main",
+  "nfiles": 215,
+  "code_bytes": 96097,
+  "top": [
+   [
+    "src/services/progressService.ts",
+    8419
+   ],
+   [
+    "src/pages/BattlePage.tsx",
+    7089
+   ],
+   [
+    "src/pages/StatsPage.tsx",
+    6423
+   ],
+   [
+    "src/pages/HomePage.tsx",
+    4645
+   ],
+   [
+    "src/pages/ResultPage.tsx",
+    4479
+   ],
+   [
+    "src/services/feedbackService.ts",
+    3674
+   ]
+  ],
+  "shots": [
+   "store/screenshots/ipad-2048x2732-1-home.png",
+   "store/screenshots/ipad-2048x2732-2-battle.png",
+   "store/screenshots/ipad-2048x2732-3-result.png",
+   "store/screenshots/ipad-2048x2732-4-review.png",
+   "store/screenshots/ipad-2048x2732-5-stats.png",
+   "store/screenshots/iphone-1290x2796-1-home.png",
+   "store/screenshots/iphone-1290x2796-2-battle.png",
+   "store/screenshots/iphone-1290x2796-3-result.png",
+   "store/screenshots/iphone-1290x2796-4-review.png",
+   "store/screenshots/iphone-1290x2796-5-stats.png",
+   "store/screenshots/phone-1080x1920-1-home.png",
+   "store/screenshots/phone-1080x1920-2-battle.png"
+  ],
+  "truncated": false
+ },
+ "abdulem-byte/cyber-defenders": {
+  "branch": "main",
+  "nfiles": 5,
+  "code_bytes": 211947,
+  "top": [
+   [
+    "index.html",
+    155253
+   ],
+   [
+    "qrcode.js",
+    56694
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "noahkoldow/triviagame": {
+  "branch": "main",
+  "nfiles": 103,
+  "code_bytes": 385346,
+  "top": [
+   [
+    "packages/shared/src/content.ts",
+    54727
+   ],
+   [
+    "apps/mobile/src/map/NetMap.tsx",
+    22839
+   ],
+   [
+    "apps/mobile/app/index.tsx",
+    22111
+   ],
+   [
+    "packages/shared/src/ai.ts",
+    18956
+   ],
+   [
+    "apps/mobile/app/node/[id].tsx",
+    17569
+   ],
+   [
+    "apps/mobile/src/map/NodeViews.tsx",
+    16299
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "sosomyr/dont-touch-that-dial": {
+  "branch": "main",
+  "nfiles": 45,
+  "code_bytes": 188132,
+  "top": [
+   [
+    "js/views/studio.js",
+    16845
+   ],
+   [
+    "js/audio.js",
+    12404
+   ],
+   [
+    "js/games/quiz.js",
+    9510
+   ],
+   [
+    "js/games/keys.js",
+    8489
+   ],
+   [
+    "js/host.js",
+    8475
+   ],
+   [
+    "js/views/audience-ui.js",
+    7517
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "lakshveerrao/readrash": {
+  "branch": "main",
+  "nfiles": 18,
+  "code_bytes": 186885,
+  "top": [
+   [
+    "assets/game.js",
+    108608
+   ],
+   [
+    "index.html",
+    21401
+   ],
+   [
+    "gp.html",
+    20630
+   ],
+   [
+    "play.html",
+    15461
+   ],
+   [
+    "leaderboard.html",
+    8169
+   ],
+   [
+    "functions/api/gp.js",
+    3997
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "businessfordevsav/3d-chess": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 37370,
+  "top": [
+   [
+    "index.html",
+    29840
+   ],
+   [
+    "server.js",
+    7530
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "palamudin/stiNG": {
+  "branch": "main",
+  "nfiles": 76,
+  "code_bytes": 798629,
+  "top": [
+   [
+    "poc/sim/sim.js",
+    129171
+   ],
+   [
+    "poc/game.js",
+    116197
+   ],
+   [
+    "core/Sting.Core/SimWorld.cs",
+    61157
+   ],
+   [
+    "core/Sting.Core.Tests/Behaviour.cs",
+    50134
+   ],
+   [
+    "core/Sting.Core/SimWasp.cs",
+    45755
+   ],
+   [
+    "core/Sting.Core/Sim.cs",
+    26688
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "vanchien2973/vocab-battle": {
+  "branch": "main",
+  "nfiles": 106,
+  "code_bytes": 200645,
+  "top": [
+   [
+    "src/components/OnlineGame.tsx",
+    11232
+   ],
+   [
+    "api.Tests/CoreTests.cs",
+    10396
+   ],
+   [
+    "api.Tests/ProviderTests.cs",
+    9928
+   ],
+   [
+    "src/ai/directAiClient.ts",
+    7381
+   ],
+   [
+    "src/components/ai/ChatPanel.tsx",
+    7147
+   ],
+   [
+    "src/components/ai/DictionaryPanel.tsx",
+    6433
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "LachlanLindsay/ridge-road": {
+  "branch": "main",
+  "nfiles": 97,
+  "code_bytes": 611311,
+  "top": [
+   [
+    "src/ui/art/figures.ts",
+    41398
+   ],
+   [
+    "src/ui/art/scenes.tsx",
+    34819
+   ],
+   [
+    "src/ui/art/cards.ts",
+    31731
+   ],
+   [
+    "src/ui/MapView.tsx",
+    31152
+   ],
+   [
+    "src/engine/half.ts",
+    30405
+   ],
+   [
+    "src/ui/art/kit.ts",
+    25007
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "cjv74nyt7y-bot/Balrog": {
+  "branch": "claude/ipad-game-s277bo",
+  "nfiles": 12,
+  "code_bytes": 74055,
+  "top": [
+   [
+    "index.html",
+    72538
+   ],
+   [
+    "sw.js",
+    1517
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "titusmith/studio-arcade": {
+  "branch": "main",
+  "nfiles": 875,
+  "code_bytes": 11243847,
+  "top": [
+   [
+    "games/lock-unfortunate-teller/index.html",
+    4457020
+   ],
+   [
+    "games/gorski-critter-crop/index.html",
+    1229139
+   ],
+   [
+    "games/pewe-ready-rush/index.html",
+    1153246
+   ],
+   [
+    "games/andalsi-sandouk/index.html",
+    1151226
+   ],
+   [
+    "games/martin-disc-junkie/lib/canvas/rive.js",
+    575701
+   ],
+   [
+    "games/martin-disc-junkie/lib/webgl2/rive.js",
+    564735
+   ]
+  ],
+  "shots": [
+   "games/ho-where-the-flowers-grow/cutscenes/img/berries.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-close.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-clover.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-hat.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-hatpack.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-idle-walk.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-idle.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-look-walk.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/blue-look.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/bug-idle0.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/bug-idle1.png",
+   "games/ho-where-the-flowers-grow/cutscenes/img/bug-walk0.png"
+  ],
+  "truncated": false
+ },
+ "Mindle-Game/mindle": {
+  "branch": "main",
+  "nfiles": 24,
+  "code_bytes": 95335,
+  "top": [
+   [
+    "js/app.js",
+    31600
+   ],
+   [
+    "index.html",
+    13815
+   ],
+   [
+    "js/logic.js",
+    12521
+   ],
+   [
+    "tools/make-icons.mjs",
+    11648
+   ],
+   [
+    "tools/check-data.mjs",
+    6712
+   ],
+   [
+    "js/encyclopedia.js",
+    4989
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "SHIN-1O1/Arcade101": {
+  "branch": "main",
+  "nfiles": 199,
+  "code_bytes": 404429,
+  "top": [
+   [
+    "games/mahjong_match/game.gd",
+    26845
+   ],
+   [
+    "games/fruit_merge/game.gd",
+    23264
+   ],
+   [
+    "games/color_sort/game.gd",
+    22344
+   ],
+   [
+    "games/bubble_shooter/game.gd",
+    19634
+   ],
+   [
+    "core/cards/card_table.gd",
+    19290
+   ],
+   [
+    "games/fruit_merge/art/gen_art.py",
+    19092
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "fbkarsdorp/nachtdienst": {
+  "branch": "main",
+  "nfiles": 274,
+  "code_bytes": 750197,
+  "top": [
+   [
+    "game/js/game.js",
+    160724
+   ],
+   [
+    "blender/furniture.py",
+    45041
+   ],
+   [
+    "game/js/room.js",
+    43800
+   ],
+   [
+    "pipeline/generate.py",
+    40655
+   ],
+   [
+    "game/js/leaks.js",
+    30967
+   ],
+   [
+    "game/js/audio.js",
+    27608
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "abkgpta/lanpoker": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 86142,
+  "top": [
+   [
+    "poker.py",
+    86142
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "moduvoice/slothfall": {
+  "branch": "main",
+  "nfiles": 14,
+  "code_bytes": 38992,
+  "top": [
+   [
+    "game.js",
+    12411
+   ],
+   [
+    "view.js",
+    8832
+   ],
+   [
+    "audio.js",
+    7207
+   ],
+   [
+    "play.js",
+    5723
+   ],
+   [
+    "index.html",
+    4819
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "oofguy3/game": {
+  "branch": "main",
+  "nfiles": 143,
+  "code_bytes": 334811,
+  "top": [
+   [
+    "src/sim/ai/economy.ts",
+    18689
+   ],
+   [
+    "src/sim/systems/air.ts",
+    14545
+   ],
+   [
+    "src/sim/systems/attacks.ts",
+    14322
+   ],
+   [
+    "src/sim/systems/naval.ts",
+    11829
+   ],
+   [
+    "src/sim/ai/military.ts",
+    10222
+   ],
+   [
+    "src/sim/ai/diplomacy.ts",
+    9888
+   ]
+  ],
+  "shots": [
+   "docs/screenshots/1-menu.png",
+   "docs/screenshots/2-spawn.png",
+   "docs/screenshots/3-midgame.png",
+   "docs/screenshots/4-diplomacy.png",
+   "docs/screenshots/5-end.png"
+  ],
+  "truncated": false
+ },
+ "krosaen/tbone-sidescroll": {
+  "branch": "main",
+  "nfiles": 28,
+  "code_bytes": 152206,
+  "top": [
+   [
+    "clump-quest/js/game.js",
+    24744
+   ],
+   [
+    "clump-quest/js/render.js",
+    22655
+   ],
+   [
+    "clump-quest/js/heroes.js",
+    13853
+   ],
+   [
+    "branch-line/js/game.js",
+    11292
+   ],
+   [
+    "branch-line/js/art.js",
+    9571
+   ],
+   [
+    "branch-line/js/world.js",
+    7795
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "TranVietHoang99/murdle": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 90669,
+  "top": [
+   [
+    "index.html",
+    90669
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "oe7set/riftbrand": {
+  "branch": "ccr-44cded7b-e91ufi",
+  "nfiles": 152,
+  "code_bytes": 480574,
+  "top": [
+   [
+    "src/app/game.ts",
+    26989
+   ],
+   [
+    "src/view/ui/screens.tsx",
+    24186
+   ],
+   [
+    "src/content/schema.ts",
+    20989
+   ],
+   [
+    "src/sim/systems/player-actions.ts",
+    18384
+   ],
+   [
+    "src/app/feedback.ts",
+    17231
+   ],
+   [
+    "src/view/render/entity-view.ts",
+    16142
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "covuaduongsinh/chessminigame": {
+  "branch": "main",
+  "nfiles": 161,
+  "code_bytes": 446511,
+  "top": [
+   [
+    "packages/chess-core/src/position.ts",
+    23901
+   ],
+   [
+    "packages/minigames/src/content/classics.ts",
+    23644
+   ],
+   [
+    "apps/app/src/app/(tabs)/phan-tich.tsx",
+    20338
+   ],
+   [
+    "packages/minigames/src/session.ts",
+    19453
+   ],
+   [
+    "packages/ui/src/Board.tsx",
+    17409
+   ],
+   [
+    "apps/app/src/components/MiniGamePlayer.tsx",
+    17097
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Krist95/kuhhandel": {
+  "branch": "main",
+  "nfiles": 131,
+  "code_bytes": 130388,
+  "top": [
+   [
+    "src/room.ts",
+    8118
+   ],
+   [
+    "src/protocol.ts",
+    5790
+   ],
+   [
+    "src/rules/types.ts",
+    5524
+   ],
+   [
+    "src/rules/engine.ts",
+    5505
+   ],
+   [
+    "src/rules/lobby.ts",
+    5191
+   ],
+   [
+    "src/rules/auction.ts",
+    5079
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "mariusmhm/wait-game-w2e-1year": {
+  "branch": "master",
+  "nfiles": 11,
+  "code_bytes": 26257,
+  "top": [
+   [
+    "src/game.rs",
+    9417
+   ],
+   [
+    "src/page.rs",
+    6796
+   ],
+   [
+    "src/main.rs",
+    4395
+   ],
+   [
+    "src/word.rs",
+    3433
+   ],
+   [
+    "src/light.rs",
+    1664
+   ],
+   [
+    "src/chance.rs",
+    552
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "michael-lundsgaard/song-guessr": {
+  "branch": "main",
+  "nfiles": 42,
+  "code_bytes": 203064,
+  "top": [
+   [
+    "src/i18n.ts",
+    36520
+   ],
+   [
+    "src/App.tsx",
+    27032
+   ],
+   [
+    "src/components/GameScreen.tsx",
+    16480
+   ],
+   [
+    "src/spotify.ts",
+    13426
+   ],
+   [
+    "src/game.ts",
+    12889
+   ],
+   [
+    "src/player.ts",
+    11155
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "playbymail/seiicho": {
+  "branch": "main",
+  "nfiles": 65,
+  "code_bytes": 157136,
+  "top": [
+   [
+    "cmd/seiicho/main.go",
+    38657
+   ],
+   [
+    "internal/store/clusters.go",
+    24109
+   ],
+   [
+    "internal/store/store.go",
+    12145
+   ],
+   [
+    "internal/store/games.go",
+    9803
+   ],
+   [
+    "internal/server/server.go",
+    9282
+   ],
+   [
+    "cmd/seiichodb/main.go",
+    8781
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Alebrahim22/Modern-travian": {
+  "branch": "main",
+  "nfiles": 12,
+  "code_bytes": 296665,
+  "top": [
+   [
+    "public/client.js",
+    125349
+   ],
+   [
+    "game.js",
+    82055
+   ],
+   [
+    "nuclear.js",
+    39279
+   ],
+   [
+    "bot.js",
+    17808
+   ],
+   [
+    "public/index.html",
+    11841
+   ],
+   [
+    "server.js",
+    10169
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "jams24/DSA": {
+  "branch": "main",
+  "nfiles": 160,
+  "code_bytes": 1349789,
+  "top": [
+   [
+    "src/content/worlds/system-design.ts",
+    85226
+   ],
+   [
+    "src/content/worlds/trees-graphs.ts",
+    80183
+   ],
+   [
+    "src/content/worlds/patterns.ts",
+    75373
+   ],
+   [
+    "src/content/worlds/algorithms.ts",
+    65575
+   ],
+   [
+    "src/content/worlds/foundations.ts",
+    65424
+   ],
+   [
+    "src/content/worlds/system-design-cases.ts",
+    63901
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "agadoury/Handoftheforgotten": {
+  "branch": "claude/new-session-qkkl57",
+  "nfiles": 71,
+  "code_bytes": 270639,
+  "top": [
+   [
+    "docs/pilot/index.html",
+    209000
+   ],
+   [
+    "world/island.gd",
+    15703
+   ],
+   [
+    "hand/camera_rig.gd",
+    9952
+   ],
+   [
+    "world/island_layout.gd",
+    5947
+   ],
+   [
+    "tools/pilot/pilot.mjs",
+    5499
+   ],
+   [
+    "world/mesh_kit.gd",
+    4300
+   ]
+  ],
+  "shots": [],
+  "truncated": false
  }
 }

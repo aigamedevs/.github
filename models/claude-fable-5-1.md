@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **257 curated game units** from **189 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **258 curated game units** from **190 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **11 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **37 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **66 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **67 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -244,6 +244,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Mine Clone**](../games/mine-clone/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/Githyot/mine-clone/commit/82db5ea09a2c155a4fc77c87c451795116c922f3) · [files](https://github.com/Githyot/mine-clone/blob/main/crates/game/src/main.rs) · 📸 **6.2/10** · [screenshot](https://github.com/Githyot/mine-clone/blob/main/docs/screenshots/demo.png)
 - [**Night Duel Baseball**](../games/night-duel-baseball/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/dioaroinc/nightduelbaseball/commit/01a4719414fba22da798b346b111a04fb5317076) · [files](https://github.com/dioaroinc/nightduelbaseball/blob/main/baseball/index.html)
 - [**Pung**](../games/pung/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/francisphan/pung/commit/f397d58c22921aa8deed210cd11475af2e13bb70) · [files](https://github.com/francisphan/pung/blob/main/src/engine/game.ts) · [play](https://francisphan.github.io/pung/)
+- [**Ridge Road**](../games/ridge-road/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/LachlanLindsay/ridge-road/commit/03bef1cf8b81e1d3eb1e0f87275cf6666c1bb444) · [files](https://github.com/LachlanLindsay/ridge-road/blob/main/src/ui/art/figures.ts)
 - [**Toot River**](../games/toot-river/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/abbasaliii/gas-rapids/commit/06822c9de40ea4eb328e54897be1c28b7adc27f8) · [files](https://github.com/abbasaliii/gas-rapids/blob/main/src/main.js) · [play](https://play.gas-rapids.workers.dev)
 - [**Family Night**](../games/family-night/readme.md) — ⭐ **7.4/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/sebasfles/family-night/commit/4b8ce0dad514d057105626b393922630d18b9e86) · [files](https://github.com/sebasfles/family-night/blob/main/web/screenshots/pages.spec.ts)
 - [**Imposter**](../games/imposter/readme.md) — ⭐ **7.4/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/omrigattegno/Imposter/commit/c346fd8a457c7766296fdfcdba19fbbf7f47e671) · [files](https://github.com/omrigattegno/Imposter/blob/main/src/game/engine.ts)

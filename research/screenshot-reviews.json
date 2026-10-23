@@ -8220,6 +8220,136 @@
       "reason": "Use this frame for the game-level score. Ink-style world map with ember highlights; stylised but murky.",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dechatillioncollection-netizen/Last-Colony-Game",
+      "url": "https://github.com/dechatillioncollection-netizen/Last-Colony-Game/blob/main/docs/screenshots/brood-preview.png",
+      "game": "Last Colony",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down colony base on stone grid with full RTS HUD; dense but readable",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/RedFlag",
+      "url": "https://github.com/jaineil32624/RedFlag/blob/main/docs/banner.png",
+      "game": "RedFlag",
+      "score_10": 6.0,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Polished banner with bold logo and phone mockups",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/areyesromo/Ark-1p-Hub",
+      "url": "https://github.com/areyesromo/Ark-1p-Hub/blob/main/docs/screenshots/tv-lobby.jpg",
+      "game": "Ark 1P Hub",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Clean TV lobby listing arcade games; tidy dark UI",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/amaadmirza/patang-wars",
+      "url": "https://github.com/amaadmirza/patang-wars/blob/main/screenshots-v6.4/home-online-on-rail.png",
+      "game": "Patang Wars",
+      "score_10": 6.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Bright level-select card for Lahore Rooftops with chunky play button",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Gabensrightnut/lancer-ttrpg",
+      "url": "https://github.com/Gabensrightnut/lancer-ttrpg/blob/main/assets/screenshots/customizer_paint_factory.jpg",
+      "game": "Lancer TTRPG",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Customizer view of quadruped mech; dark and sparse",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dososo/little-rain-cloud",
+      "url": "https://github.com/dososo/little-rain-cloud/blob/main/shots/01-opening.png",
+      "game": "小雨云 · Little Rain Cloud",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Small fox under cloud in vast desert; atmospheric but empty",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Spidergy07/watch-fishing",
+      "url": "https://github.com/Spidergy07/watch-fishing/blob/main/docs/waiting.jpg",
+      "game": "Watch Fishing",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Wait-for-a-bite prompt over calm night lake",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ByteC0de0/cats-vs-dinosaurs",
+      "url": "https://github.com/ByteC0de0/cats-vs-dinosaurs/blob/main/screenshots/mobile_1.png",
+      "game": "Коты против динозавров",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Mobile merge grid of cats vs dinos with cute icons",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/colemanuk82/traffic-warden-simulator",
+      "url": "https://github.com/colemanuk82/traffic-warden-simulator/blob/main/docs/promo.gif",
+      "game": "Traffic Warden Simulator",
+      "score_10": 6.3,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bold cartoon title card with warden character; strong branding",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SodaCK87/Game---Blackjack",
+      "url": "https://github.com/SodaCK87/Game---Blackjack/blob/main/docs/img/play.png",
+      "game": "21 點",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D blackjack table with illustrated dealer and chips",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/shanisagar/webgames",
+      "url": "https://github.com/shanisagar/webgames/blob/main/public/img/features/arrowpuzzle.webp",
+      "game": "Web games by Shani Sagar",
+      "score_10": 5.8,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Neon arrow puzzle cover art",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gangidenset/english-game-app",
+      "url": "https://github.com/gangidenset/english-game-app/blob/main/store/screenshots/ipad-2048x2732-2-battle.png",
+      "game": "英語バトル",
+      "score_10": 4.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark quiz battle screen with tiny text and lots of empty space",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/oofguy3/game",
+      "url": "https://github.com/oofguy3/game/blob/main/docs/screenshots/4-diplomacy.png",
+      "game": "Untitled Conquest",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. World map conquest view cluttered with panels",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
