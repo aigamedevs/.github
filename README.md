@@ -4,9 +4,9 @@
 
 <a href="https://games.omgithub.com/"><img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
-### 2362 curated game units. 2055 qualifying source repositories.
+### 2431 curated game units. 2124 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-2362-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-2055-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-547-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-2431-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-2124-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-559-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)
 
@@ -82,9 +82,9 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 
 | Model | Game units | Source repositories |
 | --- | ---: | ---: |
-| [Claude Opus 5.5](models/claude-opus-5-5.md) | **1323** | 1290 |
-| [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) | **313** | 287 |
-| [Claude Fable 5.1](models/claude-fable-5-1.md) | **244** | 176 |
+| [Claude Opus 5.5](models/claude-opus-5-5.md) | **1381** | 1348 |
+| [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) | **326** | 300 |
+| [Claude Fable 5.1](models/claude-fable-5-1.md) | **250** | 182 |
 | [Claude Fable 5](models/claude-fable-5.md) | **205** | 97 |
 | [Claude Opus 5](models/claude-opus-5.md) | **126** | 111 |
 | [GPT-6 Astra](models/gpt-6-astra.md) | **115** | 86 |
@@ -110,15 +110,15 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 | Rank | Game | Score | Model | Verified date |
 | ---: | --- | ---: | --- | --- |
 | 1 | [**Ravenswood**](games/ravenswood/readme.md) | ⭐ **8.5** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-23 |
-| 2 | [**Hora Cero · Invasión Buenos Aires**](games/hora-cero-invasion-buenos-aires/readme.md) | ⭐ **8.3** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-23 |
-| 3 | [**PokéGo · Mystery Dungeon**](games/pokego-mystery-dungeon/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-23 |
-| 4 | [**Vanai**](games/vanai/readme.md) | ⭐ **8.3** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-23 |
-| 5 | [**Call of Slop**](games/call-of-slop/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-23 |
-| 6 | [**Mèo Giao Bánh Mì**](games/meo-giao-banh-mi/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
-| 7 | [**Party Panic**](games/party-panic/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
-| 8 | [**PlayNine**](games/playnine/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
-| 9 | [**Seasons of War · Proving Grounds**](games/seasons-of-war-proving-grounds/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
-| 10 | [**Amah**](games/amah/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-10-23 |
+| 2 | [**Blue Light**](games/blue-light/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-23 |
+| 3 | [**Frontières**](games/frontieres/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-23 |
+| 4 | [**Hora Cero · Invasión Buenos Aires**](games/hora-cero-invasion-buenos-aires/readme.md) | ⭐ **8.3** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-23 |
+| 5 | [**PokéGo · Mystery Dungeon**](games/pokego-mystery-dungeon/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-23 |
+| 6 | [**Vanai**](games/vanai/readme.md) | ⭐ **8.3** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-23 |
+| 7 | [**Call of Slop**](games/call-of-slop/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-23 |
+| 8 | [**Iron Perimeter**](games/iron-perimeter/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
+| 9 | [**Mèo Giao Bánh Mì**](games/meo-giao-banh-mi/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
+| 10 | [**Party Panic**](games/party-panic/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-10-23 |
 
 ## New source repositories yesterday and today
 
@@ -140,13 +140,13 @@ _No qualifying repositories were created in this window._
 | 6 | [**Ravenswood**](games/ravenswood/readme.md) | ⭐ **8.5** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-20 · repository creation proxy |
 | 7 | [**Warren**](games/warren/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
 | 8 | [**Absorb Roguelike**](games/absorb-roguelike/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-19 · repository creation proxy |
-| 9 | [**City Squirrel: East End**](games/city-squirrel-east-end/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-17 · repository creation proxy |
-| 10 | [**msimcity**](games/msimcity/readme.md) | ⭐ **8.4** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-17 · repository creation proxy |
-| 11 | [**PETOPIA**](games/petopia/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-17 · repository creation proxy |
-| 12 | [**Reel Time**](games/reel-time/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
-| 13 | [**Roguelites**](games/roguelites/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
-| 14 | [**Smallscale**](games/smallscale/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
-| 15 | [**Space Orbital Program**](games/space-orbital-program/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-17 · repository creation proxy |
+| 9 | [**Blue Light**](games/blue-light/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-21 · repository creation proxy |
+| 10 | [**City Squirrel: East End**](games/city-squirrel-east-end/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-17 · repository creation proxy |
+| 11 | [**msimcity**](games/msimcity/readme.md) | ⭐ **8.4** | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-17 · repository creation proxy |
+| 12 | [**PETOPIA**](games/petopia/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-17 · repository creation proxy |
+| 13 | [**Reel Time**](games/reel-time/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
+| 14 | [**Roguelites**](games/roguelites/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
+| 15 | [**Smallscale**](games/smallscale/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-18 · repository creation proxy |
 
 ## Top games this month
 
@@ -204,33 +204,33 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **2362** |
-| Qualifying source repositories | **2055** |
-| Dataset records, including related or excluded records | **2365** |
-| Low-quality game units moved to bad-games.md | **258** (258 repositories) |
+| Counted game units | **2431** |
+| Qualifying source repositories | **2124** |
+| Dataset records, including related or excluded records | **2447** |
+| Low-quality game units moved to bad-games.md | **271** (271 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **547** |
-| Non-browser engine game units | **451** |
-| Game units with screenshot links | **411** |
+| WebGL-family game units, across all categories | **559** |
+| Non-browser engine game units | **463** |
+| Game units with screenshot links | **428** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **2362** |
+| Game units with source-derived prompt fields | **2431** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **2362** (2055 repositories) |
+| Game units with repository creation dates | **2431** (2124 repositories) |
 
 ## Verification snapshot
 
-The list contains **2362** game units from **2055** qualifying repositories. The dataset also retains **310** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **2431** game units from **2124** qualifying repositories. The dataset also retains **323** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **2019** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **2088** |
 | ≈ Creator report | The creator attributes the listed model. | **293** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **43** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **7** |
 
 ## More records
 
-- ⚠️ [Bad games](bad-games.md) — **258** low-quality game units excluded from the curated library
+- ⚠️ [Bad games](bad-games.md) — **271** low-quality game units excluded from the curated library
 - 📦 [Other](other.md) — **52** related, derivative, forked, or non-game records
 
 ## How to use this guide

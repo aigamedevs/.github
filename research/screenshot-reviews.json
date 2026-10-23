@@ -7700,6 +7700,186 @@
       "reason": "Use this frame for the game-level score. Torch-lit 3D stone chess board before a pyramid; strong atmosphere.",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Devace-93/wars",
+      "url": "https://github.com/Devace-93/wars/blob/main/docs/screenshots/desktop-dark-age.png",
+      "game": "Wars",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric RTS map with town and HUD panels; clear and readable.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dcl-regenesislabs/Slide-Maze",
+      "url": "https://github.com/dcl-regenesislabs/Slide-Maze/blob/main/assets/images/SlideMazeeTHumbnail.png",
+      "game": "Slide Maze",
+      "score_10": 6.0,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Painted key art of the ice puzzle with title; promotional.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hamishplatt11-art/Game",
+      "url": "https://github.com/hamishplatt11-art/Game/blob/claude/upbeat-sagan-933lob/docs/visual/01-full-court.jpg",
+      "game": "Hardwood 27",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Full-court 3D basketball broadcast view, shown as before/after comparison.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ahab94/dimmer-switch",
+      "url": "https://github.com/ahab94/dimmer-switch/blob/main/docs/media/blackout.gif",
+      "game": "Dimmer Switch",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Side-view stealth level with lamp pools and HUD; moody but small.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Ameer-Assi/pirate-bird-fpga",
+      "url": "https://github.com/Ameer-Assi/pirate-bird-fpga/blob/main/docs/gameplay.gif",
+      "game": "Pirate Bird",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Photo of the FPGA board driving a small VGA monitor; game barely visible.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Jalensuggs/tankplay",
+      "url": "https://github.com/Jalensuggs/tankplay/blob/main/screenshots/gameplay.jpg",
+      "game": "坦克大战 2D · Tank Battle",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down tank arena with brick walls; plain.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/thiagofares-code/purrfect-pitch",
+      "url": "https://github.com/thiagofares-code/purrfect-pitch/blob/main/store/screenshot-1-alley.png",
+      "game": "Purrfect Pitch",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. VR rhythm lane with cartoon cat choir and GOOD feedback; colourful and readable.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/fish2lab/clawd-game",
+      "url": "https://github.com/fish2lab/clawd-game/blob/cc/trusting-fermi-tlanvs/docs/diorama/room.jpg",
+      "game": "请勿敲击玻璃 · PLEASE DO NOT TAP THE GLASS",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric lab room puzzle scene; clean illustration style.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Proximo0/gladiator",
+      "url": "https://github.com/Proximo0/gladiator/blob/main/docs/renders/arena-decor/after_1280x720_q2_box.jpg",
+      "game": "Gladiator",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Arena interior with stands and banners in first person; solid 3D.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cyberhubitacademy/cybercity",
+      "url": "https://github.com/cyberhubitacademy/cybercity/blob/main/public/social-preview.jpg",
+      "game": "Cyber City: Hack the Future",
+      "score_10": 6.0,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Neon city screenshot with title overlay; promotional preview.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Artsiom-beep/snow-surfer",
+      "url": "https://github.com/Artsiom-beep/snow-surfer/blob/main/docs/screenshot.png",
+      "game": "Snow Surfer",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Simple 2D snowy slope with rider mid-air.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Artsiom-beep/delivery-dash",
+      "url": "https://github.com/Artsiom-beep/delivery-dash/blob/main/docs/screenshot.png",
+      "game": "Delivery Dash",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down cartoon map with trees, houses and road; cheerful.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/adilkhankokanov/forest-duel",
+      "url": "https://github.com/adilkhankokanov/forest-duel/blob/main/tests/screens/web/autumn_arena.png",
+      "game": "Forest Duel",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Narrow portrait duel lane with autumn trees; small and cramped.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/danielmazh/speaker-trainer",
+      "url": "https://github.com/danielmazh/speaker-trainer/blob/main/docs/design/02-home.png",
+      "game": "Speaker Trainer",
+      "score_10": 4.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Mobile home screen UI for lessons; app-like, little game visual.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ahab94/sock-run",
+      "url": "https://github.com/ahab94/sock-run/blob/main/docs/media/sock-run.gif",
+      "game": "Sock Run",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Warm 3D parkour room with on-screen tutorial text dominating.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nicks2d/Startup-Simulator-",
+      "url": "https://github.com/nicks2d/Startup-Simulator-/blob/main/screenshots/office.png",
+      "game": "Startup Simulator",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric 3D office floor sim with detailed desks and HUD.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hobsojam/survival",
+      "url": "https://github.com/hobsojam/survival/blob/main/docs/art-review/branch-pile-followup/game.png",
+      "game": "Hearthwild",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down pixel camp clearing in forest; clean tiles.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/POS-Novus/AMPED",
+      "url": "https://github.com/POS-Novus/AMPED/blob/main/docs/screenshots/desktop-gig.webp",
+      "game": "AMPED: From Garage to Glory",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel-art band on stage with rhythm lanes and PERFECT feedback.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
