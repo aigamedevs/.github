@@ -1,0 +1,229 @@
+883 228
+foster-curtis/world-conquest | An online copycat of Risk. Pass and play and online are available, syn | 0 | .gitattributes .github/ .gitignore .vscode/ BRAND.md BUILD_PLAN.md
+Mikale4/PokeSquad-Showdown-Client | PokeSquad Battler's Pokémon Showdown site (a fork of the Showdown clie | 5277 | .babelrc .editorconfig .github/ .gitignore .vscode/ CODEOWNERS
+masatoenkonda-create/The-Great-Work | Supply chain game | 0 | .aistudio/ .gitignore AGENTS.md BUILD_NOTES.md CLAUDE.md CODEX.md
+HungLuuSB/ForTheGreaterGood | A large-scale, modern-warfare RTS where two ideologies fight across la | 0 | .claude/ .darklua.json .gitattributes .gitignore .luaurc .lune/
+anhlh-GO/GameScope |  | 2474 | .github/ .gitignore .nojekyll 404.html README.md components/
+rzqwang/dash-strike | One-tap mobile web shooter: spin, dash, chain. | 0 | .claude/ .gitattributes .gitignore .nojekyll CLAUDE.md assets/
+alifirex96/Game |  | 6000 | .claude/ .github/ .gitignore CHANGELOG.md CLAUDE.md README.md
+utof/enth | Modular synth in Rust: CLAP plugin, Recreate ear-training game, agent  | 0 | .cargo/ .config/ .gitattributes .github/ .gitignore AGENTS.md
+LegendNed/Vido | Lightweight, private game clipper for Windows. One hotkey saves your l | 6000 | .cargo/ .gitattributes .github/ .gitignore .nvmrc .prettierignore
+katiol123/newgamezombies |  | 1530 | .gitignore README.md art/ audio/ css/ docs/
+wanleung/secondlife | 輪迴 Samsara: a browser game where you are reborn by real-world birth st | 5407 | .gitignore LICENSE README.md en/ i18n/ index.html
+nguyensiclc/PlayTogether |  | 3480 | .claude/ .gitattributes .gitignore CLAUDE.md README.md biome.json
+zoom1314/Game | 五行师 · 网页版 | 0 | .nojekyll assets/ draco/ fonts/ index.html models/
+devil10421-source/chess |  | 6000 | .gitattributes .github/ .gitignore CHANGELOG.md README.md assets/
+hieuluan2109/Undercover | Undercover application to play within the teammate | 64 | .docs/ .gitignore .oxlintrc.json LICENSE README.md index.html
+d9v3/vanguard-beta | Cyber defense for endpoints and networks, from a USB key; in Rust (goi | 6000 | .cargo/ .claude/ .github/ .gitignore CHANGELOG.en.md CHANGELOG.md
+DeroXP/Core | Aim benchmark and trainer for controller and mouse: Core, Call of Duty | 6000 | .gitignore README.md aimtuner/ analyze.bat analyze.py app.py
+gnet100/firstlearning-play |  | 0 | .nojekyll games/ hub-cards-animated/ index.html voice/
+Winnywiz/auto-chess |  | 0 | .gitattributes .gitignore analysis/ builder.html composition-guidance.js compositions.css
+playprojectdragon/playprojectdragon.github.io | Project Dragon — an indie MMO. Closed alpha. | 0 | .nojekyll 404.html favicon.ico img/ index.html robots.txt
+Insumaster/pixelfm-privacy | Privacy policy for the game Pixel Football Manager | 0 | index.html
+ahmed-okkio/gangoflegends | Gang Beasts-style ragdoll brawler with League of Legends champions, P2 | 1180 | .gitignore DESIGN.md README.md assets/ beast.js champs.js
+logunovaleksey-prog/verno-game |  | 0 | index.html
+indolass/starcraft2-ghost-ops | Ghost Ops: modular mission mods for StarCraft II (Galaxy build tooling | 6000 | .gitignore CLAUDE.md GhostOps_Launcher.pyw GhostOps_TRaynor01.cmd LICENSE README.md
+xickoh/pixel-fantasy-journal | journal for the game pixel fantasy | 716 | README.md app.js data/ img/ index.html style.css
+carsonwright2009-hash/Wild-mark-feild-and-co- | Wildmark Field Co. builds a personalized gear list for your hunt. Ente | 132 | .env.example .gitignore DEPLOY.md README.md netlify.toml netlify/
+remofurlanetto/dino-ai-study | A hands-on study of how neural networks learn, using Chrome's dino gam | 6000 | .gitignore README.es.md README.md README.pt-BR.md deep-dives/ dino/
+gschomburg/neon-1 | neoN+1 game repo and prototypes | 0 | .gitignore database.rules.json dist/ docs/ prototypes/ readme.md
+alevizio/hora-cero | Hora Cero · Invasión Buenos Aires: un juego de sigilo y rescate inspir | 6000 | .github/ .gitignore LICENSE LICENSE-ASSETS NOTICE README.md
+jianguojuan/dungeon-delve | Dungeon Delve's privacy policy and terms of service | 0 | .nojekyll icon.png index.html privacy.html style.css terms.html
+NolanHickey/CodeBams | custom codenames typa game | 0 | index.html
+avanbussum/surgery-jeopardy | Surgery clerkship review Jeopardy game | 0 | index.html src/
+TrickerNoxics14/growhome-coop | Unofficial co-op mod for Grow Home (up to 8 players, invite codes) | 1296 | .gitignore CoopMod.dll LICENSE README.md SECURITY.md audit/
+MMX13/ryans-make-money-game |  | 2003 | .github/ .gitignore README.md docs/ index.html package-lock.json
+lupin2498/game-stone |  | 2002 | .github/ .gitignore README.md app/ auth.html build-site.sh
+lupin2498/game-oneline |  | 6000 | .firebaserc .github/ .gitignore README.md android/ dist/
+The-Mush-Room-Games/the-mush-room-games.github.io | The Mush Room studio site (themushroomstudio.com) | 0 | .nojekyll CNAME CREDITS.md games/ img/ index.html
+climb0516/game-deals |  | 5666 | .github/ .gitignore README.md data.json index.html ps_detail.json
+shuheikomatsuki/car-game |  | 6000 | .github/ .gitignore CLAUDE.md README.md bgm/ docs/
+xpgioleexp/Instachess |  | 0 | .gitignore HANDOFF.md fonts/ instagram-ready-jpeg/ profile-pictures/ scripts/
+Molybdenum1999/caesar | for game caesar mid term | 0 | .nojekyll 13.png 7.png 813poster.jpg Anime Characters.jpg background.png
+KyleCo76/Conjunction-Map-Framework | One world map for The Witcher 3 Remastered (5.01) that map mods can sh | 6000 | .gitattributes .gitignore LICENSE README.md docs/ examples/
+open-game-system/scribble-room | Draw on your phone, the room guesses on the TV. An OGS party game. | 114 | .gitignore CLAUDE.md README.md STATUS.md assets/ critic/
+cntr2303diran-design/Game-econ-1 | Econ 2.0 | 0 | .env.example .github/ .gitignore app/ build.gradle.kts docs/
+RubberDuckGames/RubberDuckGames.com | Little learning games for curious kids | 0 | .nojekyll CLAUDE.md CNAME apple-touch-icon.png brand/ favicon.ico
+Creationnn/gameday-desk |  | 108 | .github/ .gitignore .nojekyll README.md collector/ config.json
+di404/kikoku-reader | Mac reader for Nitroplus 鬼哭街 (2011 remake, Chinese patch): horizontal  | 2454 | .gitignore LICENSE README.md app.go build.sh build/
+apexfaucet-hub/bloodstream | Spot the rug before the machine: a free Arc game, an agent playground  | 3570 | AGENTS.md LICENSE README.md agents/ contracts/ docs/
+ChanakyaNxtWave/sql-missing-influencer | sql-learning-game-nxtwave | 6000 | .gitignore PLAN.md README.md app/ content/ docs/
+lIIlIllIlIllI/archer-ops-policy | Archer Raising (MapleStory Worlds) operations policies - game and Disc | 284 | CHANGELOG.md README.md _config.yml en/ index.md ko/
+Darrenczw/matchday | Matchday: my NFL, football and NBA games in Singapore time, with where | 0 | .gitignore css/ data/ fonts/ icons/ index.html
+hu-zhixuan/World-zombies-game |  | 1744 | .github/ .gitignore LICENSE README.md android/ archive/
+colinwillow/culture_war |  | 436 | .gitignore CLAUDE.md README.md ROADMAP.md art/ atmo.png
+ckopp22/SimpleRacing | Simply a racing game | 686 | CLAUDE.md MDD.md README.md assets/ css/ icons/
+EliBarrett11/dungeonsandlegends |  | 20 | README.md assets/ game.js index.html style.css
+Its-Retro/totk-test | Native Windows x86-64 TOTK port (part of nxport) - private test builds | 6000 | .gitattributes .gitignore CLAUDE.md LICENSE README.md THIRD-PARTY-NOTICES.md
+dshustov-xslplayer/Game-Jam-x-Publisher-quest |  | 651 | .nojekyll README.md ds/ index.html src/ xsolla-upload.zip
+kplumgc/emfman | SaferEMF Pacman style game | 0 | api/ index.html saferemf-logo.png supabase/
+Sourabh004/viralgamer |  | 0 | assets/ cases.js events.js game.css game.js index.html
+UlisseMini/4e55-game |  | 475 | .nojekyll README.md appendix/ data.json img/ index.html
+DovYT/route-game |  | 194 | .nojekyll README.md index.html
+ropahektic/wkVista | In-game renderer for Worms Armageddon 3.8.1 (WormKit module): zoom, fu | 1496 | .cargo/ .gitignore Cargo.lock Cargo.toml LICENSE README.md
+MrE42/riskoflight-signin | Bungie OAuth redirect page for the Risk of Light mod (hands the sign-i | 0 | index.html
+bilalerrahil-cpu/stickstorm | Personal ad-free crowd-cannon browser game | 0 | .gitignore icon-192.png icon-512.png index.html manifest.webmanifest sw.js
+Aalpaka/dokle | Dokle daily game | 3875 | .env.example .gitignore AGENTS.md README.md docker-compose.yml drizzle.config.ts
+Ye0l/KSTR-maiChart | Simai (maimai) chart viewer with game, flat and isometric views | 6000 | .github/ .gitignore .gitmodules .npmrc .vscode/ LICENSE
+San4os12/game-hub |  | 175 | .firebaserc .github/ README.md ach/ apple-touch-icon.png avatars/
+xinranc325-sys/tank-battle |  | 1002 | .gitignore README.md game.js index.html style.css
+FerdonsiTyoma/ios-games-iphone |  | 0 | shawarma-tycoon/
+bcduydi-git/Demo-learning-english-game | Demo game tieng anh | 1334 | .gitignore CHOI_TREN_MAY_MAC.command CHOI_TREN_MAY_WINDOWS.bat README.md client/ docs/
+saritis315/simon | test for simon musical memory game | 0 | .claude/ .github/ .gitignore CLAUDE.md index.html package-lock.json
+dovevgit/simon-game | simon sound and color old school game | 934 | .claude/ .gitattributes .github/ .gitignore CLAUDE.md README.md
+NinaR1968/Simon | a game simon sounds and colors | 812 | .claude/ .github/ .gitignore CLAUDE.md README.md index.html
+GamOrly/simon-game | Simon sounds and colors oldschool game | 0 | .gitignore CLAUDE.md index.html package-lock.json package.json spec/
+Haiyael8/simon | simon game  course excercise  | 0 | .claude/ .github/ .gitignore .nvmrc CLAUDE.md index.html
+Hirsch2828/Simon-game |  | 0 | .github/ .gitignore CLAUDE.md index.html package-lock.json package.json
+DanMurat-src/cabin-fever-site | Website for Cabin Fever: Flight Party (playcabinfever.com) | 0 | .nojekyll CNAME fonts/ img/ index.html privacy.html
+yardenvsound-web/Simon | Simon old school game | 0 | .claude/ .github/ .gitignore CLAUDE.md index.html package-lock.json
+ToEzBit/space-invader-rougelike |  | 0 | .claude/ .gitignore art-src/ docs/ index.html package-lock.json
+mahesh-vakeel/familyfun-club | Family game  | 738 | .nojekyll README.md firestore.rules index.html questions.js
+zabidisukuan/mari-membaca | Game membaca Bahasa Melayu Konstruk 1-12 (Mari Membaca) | 1955 | .gitignore README.md apps-script/ assets/ css/ docs/
+HyperClaire/hyperclaire.github.io | HyperClaire, independent game studio: the studio's website (Double Iss | 0 | .nojekyll CNAME app-ads.txt assets/ doubleissue/ index.html
+YoniSaban/SimonGame |  | 0 | .claude/ .github/ .gitignore .nvmrc CLAUDE.md index.html
+Prathamesh2801/Napcon_Games_Zeal |  | 0 | .gitignore CLAUDE.md docs/ index.html package-lock.json package.json
+dniwndk/gamecode |  | 3175 | .claude/ .github/ .gitignore README.md css/ design/
+wattai/saizeriya-blind-order-game | 君はサイゼリヤの注文番号をどれだけ覚えているか？ | 1640 | README.md bgm/ config.js game.js img/ index.html
+thiagofares-code/purrfect-pitch | WebXR rhythm game: lead a cat choir on Meta Quest | 0 | .gitignore audition.html band.js icons/ index.html manifest.webmanifest
+fish2lab/clawd-game |  | 1826 | .gitignore LICENSE README.md assets/ docs/ index.html
+somapujith/Anthill-gamestudio |  | 5218 | .gitignore Anthill Ventures Logo.png README.md index.html package-lock.json package.json
+jorgefsb/game-feel | Game Feel: metodología y adaptadores de interacción por marca, con Cur | 4908 | .github/ .gitignore LICENSE NOTICES README.md docs/
+jorgefsb/papacito-juice | Papacito Juice: perfil de Game Feel para la marca personal de Jorge Su | 5423 | .github/ .gitignore LICENSE NOTICES README.md docs/
+Nick1t0s/ChessDep |  | 5137 | .env.example .gitignore Makefile README.md backend/ certs/
+luckyCatMiao/AIBattle |  | 4466 | .gitignore ContinueTraining.bat README.md REPORT.md RunBomberMatch.bat RunDefusalMatch.bat
+ValeFerm/nfl-wr-cb-matchup-matrix | NFL Big Data Bowl Paris Side Quest – WR vs CB Burst/Burn matchup matri | 1950 | .gitignore README.md docs/ main.py outputs/ requirements.txt
+RemcoG75/De-Lage-Landen | civ like game for 3-5 year olds, featuring history of low countries | 85 | .gitattributes README.md icon-180.png icon-192.png icon-512.png index.html
+jhyb-rog/tank-battle |  | 414 | README.md index.html
+jimbosveld/vlaggenjager-game | Vlaggenjager: a 1930s cartoon-style flag learning game for kids (Dutch | 0 | .github/ .gitignore CLAUDE.md art/ docs/ index.html
+ChandanYdv0402/orderbook-java | Low-latency limit order book and matching engine in Java 21, replaying | 499 | .gitignore README.md SPEC.md build.gradle.kts docs/ settings.gradle.kts
+DmAoWdID/Kaju | Kaiju Park - Roblox kaiju collecting, battling and park-building game  | 0 | .gitattributes .gitignore Docs/ PROJECT_STATUS.md build/ default.project.json
+quythuynh/game-box-gplx |  | 6000 | .gitignore README.md api/ data/ package-lock.json package.json
+datadrowner/BlueLight | Blue Light: real-time strategy game about emergency services (fire, re | 2257 | .gitattributes .github/ .gitignore BlueLight.sln CONTRIBUTING.md Core.Tests/
+chsl1010-gif/tetris | 브라우저에서 즐기는 테트리스 | 0 | .gitignore index.html
+inseo0o/kart_revive |  | 0 | .github/ .gitignore HANDOFF.md LauncherMP_src/ docs/ tools/
+GD-JM/darkest-dungeon-rebalance | Darkest Dungeon hero rebalance mod (Steam Workshop 3821353035): data,  | 900 | .gitattributes .gitignore README.md design/ effects/ heroes/
+ysyny1126-bot/breakout |  | 163 | READ ME.txt README.md index.html
+archi9882/GAMELIFE |  | 1080 | .gitignore README.md SPEC.md content/ docs/ index.html
+Hushsprout-Games/hushsprout-games.github.io | Public pages for CHGameDev games | 0 | privacy.html
+PrakritD/poker-live | Home cash-game tracker shown on a TV (Vite + React + TS, no backend) | 465 | .github/ .gitignore CLAUDE.md README.md docs/ history.json
+huynhthikimtho1310-cmd/speak-up | Speak Up Express – game luyện giao tiếp tiếng Anh A2 đến B+ | 0 | icon-192.png icon-512.png index.html manifest.json sw.js
+imSurme/tactic-arena |  | 0 | .github/ .gitignore css/ icons/ index.html js/
+yshsu0918/yi-arena |  | 0 | docs/
+DarktukZ/innomath_ar-game | assignment for inno_for_teacher class | 0 | .gitignore check.js index.html logic.js
+Tenasgarden1010/umigame |  | 0 | database.rules.json firebase-config.js hitblow/ index.html ito/ puzzles.js
+acnightOWO/GameQA_Bug_by_Categories_pages |  | 32 | README.md assets/ crash.html graphics.html index.html information.html
+nutputsorn2547-ai/cute-games | cute-games by ai | 0 | .nojekyll cooking/ fishing/ index.html jenga/ latte/
+longhithibaut-lgtm/Game-Studio |  | 6000 | .claude/ .gitattributes .github/ .gitignore .worktreeinclude Assets/
+gorori2006/riso-runner |  | 0 | icons/ index.html manifest.webmanifest riso-runner.html sw.js
+george-prime/arena-app-up-or-down |  | 0 | app.json brand/ client/ dist/ package.json page/
+nulljosh/gastown | A Vancouver colony game: send a crew, build machines that run themselv | 3862 | .asc/ .github/ .gitignore AGENTS.md CLAUDE.md Gastown.icon/
+AMCCRLCC/CheeseburgerGame |  | 0 | .gitignore app/ components.json components/ lib/ next.config.mjs
+TobiasSteiner26/chronicleofgods.com | The website of Chronicle of Gods, a god game where the world writes it | 861 | .nojekyll CNAME README.md apple-touch-icon.png css/ favicon.png
+Frostie4Life9/gamelog | Game progress and rating tracker | 43 | README.md apple-touch-icon.png favicon-32.png favicon.ico icon-192.png icon-512.png
+abhiinhii/the-cricket-game-privacy | Privacy policy for The Cricket Game | 0 | .nojekyll index.html
+renat2006/quoridor_game |  | 6000 | .dockerignore .gitignore Dockerfile README.md deploy/ docs/
+Beebopcat/hungry-moors | Hungry Moors - a branching browser adventure. Play it free in your bro | 3895 | .github/ LICENSE NOTICE.md README.md SECURITY.md app.js
+sudosilo/text-based-game |  | 0 | api/ text-based-game-v1.html vercel.json
+gerterholyelvis-pixel/Caesar-s-Dilemma | Rogue like game | 0 | .gitignore CONTRACT.md CONTRACT_GAME.md CONTRACT_GARDEN.md IDLE_DESIGN.md IDLE_RESEARCH.md
+ajayd16/the-long-game |  | 0 | .nojekyll index.html
+zworking1-svg/play-and-math |  | 6000 | .claude/ .gitattributes .gitignore CLAUDE.md README.md admin.css
+NinjaDesignStudio/hogwarts |  | 243 | .nojekyll README.md art.js dice.js dice3d.js doll.js
+FailingVillain/gameProject |  | 344 | .gitattributes .gitignore README.md game-tools/ korean-division/ ops/
+ForgeInDark88/DungeonEclipse |  | 6000 | .gitattributes .gitignore README.md assets/ data/ docs/
+aprodrigues31/HWSuite | Monitoramento e inventário de hardware para Windows 11 (CPU, GPU, sens | 6000 | .github/ .gitignore CHANGELOG.md Directory.Build.props HWSuite.slnx LICENSE
+griffinhjones-commits/torque | Torque - working machines for Minecraft Bedrock (portfolio site) | 0 | .nojekyll clips/ film/ index.html og.jpg
+RealTube/mario-play | Playable build of Super Mario Starlight Kingdom | 0 | .nojekyll assets/ index.html
+colinchia2/SolveBuddy | A place for challenging logic puzzles! | 0 | .github/ .gitignore .impeccable/ CLAUDE.md checks/ docs/
+n3try/tether | Tether: a one-button swinging game printed in risograph inks | 0 | index.html
+mahamud751/games |  | 0 | .claude/ .gitignore .nojekyll 404.html apex-pursuit/ assets/
+Nexus239/wyrdlight | Wyrdlight: Familiars of the Hollow Moon - a co-op browser game | 0 | index.html
+emurray1/fight4fun | Mason's Game! | 4955 | .claude/ .nojekyll README.md index.html
+clenseigne/Roblox-game-1 |  | 0 | .gitattributes .gitignore FoodRoll.rbxl art/ assets/ blender/
+R6-boardgame/r6-boardgame.github.io |  | 184 | .nojekyll README.md app2.webmanifest i2-180.png i2-192.png i2-32.png
+limath/near-miss | Support page and privacy policy for Near Miss: Dodge the Dots (iOS gam | 0 | .nojekyll index.html privacy-ko.html privacy.html style.css
+Gridmend/contrail | Mobile game  | 671 | .gitignore 404.html PLAYING.txt README.md _headers icons/
+cs0028monglish-cmd/edulixa-mental-math | Edulixa Mental Math digital library, games, admin panel and live tests | 778 | .gitignore .nojekyll README.md admin.html assets/ books/
+th5011/shooting |  | 0 | index.html
+ckopp22/Go | Endless runner plane or onewheel. | 0 | .gitignore CLAUDE.md UpOrDown_MDD.md css/ icons/ index.html
+Preponderous-Software/kindling | A cozy first-person frontier homestead game on the Strata engine: surv | 6000 | .gitattributes .github/ .gitignore ARCHITECTURE.md CMakeLists.txt CONCEPT.md
+bdog563/one-piece-guesser | Unlimited One Piece character-guessing game | 361 | .gitignore .nojekyll README.md characters.js game.js index.html
+wildanlsfs/tebas-buah | Game tebas buah untuk anak: kedua tangan jadi pedang lewat webcam, ata | 5001 | .gitignore README.md favicon.svg icons/ index.html js/
+ScriptBytes/ArenaShooter |  | 0 | .editorconfig .gitattributes .gitignore ArenaShooter.csproj CLAUDE.md Goals.md
+sunjihun73/rabbit-game | rabbit-game | 0 | index.html rabbit_bgm.mp3 rabbit_opening.mp4
+gnslno1/rabbit-carrot-game | 토끼야, 당근을 피해! - HTML 하나로 만든 피하기 미니게임 | 0 | Bunny_Hop_High_Score.mp3 Gemini_Generated_Image_zfdcn4zfdcn4zfdc.png gemini_generated_video_cc708a68.mp4 index.html
+dojw7523/dino-rain-game | 공룡의 비구름 대작전 - 웹 미니게임 | 0 | index.html
+tjs1245-cmd/glove-catch-game |  | 0 | index.html
+WarmReset/claude-edu-session | Rabbit jump web mini game | 0 | .gitignore Scoreboard_Confetti.mp3 background_image.png index.html
+nikay99/PS5MG | Picture to textured 3D mesh on the PlayStation 5: TRELLIS.2 on the con | 6000 | .gitattributes .github/ .gitignore .gitmodules CONTRIBUTING.md LICENSE
+rlaalswo4942/tesseract-circuit | TESSERACT CIRCUIT — 3D cube-surface circuit maze (Three.js) | 4217 | .github/ .gitignore PERFORMANCE.md README.md THIRD_PARTY_NOTICES.md index.html
+besmerho/kutupstar | Kutupstar (Polestar TR): Turkish for the Polestar addon (World of Warc | 0 | .claude/ .gitattributes .gitignore ROADMAP.md addon/ docs/
+ioritree/kyoei_toshi_pc | Native Windows port of the PS4 version of City Shrouded in Shadow (巨影都 | 6000 | .gitattributes .github/ .gitignore .gitmodules CONTRIBUTING.md LICENSE
+rghrdxg-rdgbd/tank-battle | 坦克大战 · 纯 HTML5 Canvas 实现的经典 Battle City 小游戏 | 851 | README.md index.html
+ethinkingbureau-web/dinorunner |  | 0 | css/ index.html js/
+jyyi7484/game |  | 23 | README.md minesweeper.html
+Gur1963/Mygames |  | 359 | .gitignore README.md docs/ index.html questions/ snakes-ladders.html
+arybashov/arybashov.github.io | Alexander Rybashov — VFX, Science Viz, AI Video, Game Dev, Engineering | 1263 | .gitignore README.md assets/ index.html lab/ sim/
+racer-power/2048-game |  | 0 | index.html
+VerbodhDev/test-game |  | 0 | .gitignore index.html package-lock.json package.json postcss.config.js public/
+mrx8384/gamenetsite |  | 1401 | .env.example .gitattributes .gitignore AGENTS.md CLAUDE.md README.md
+waizuiya/tank-battle |  | 687 | README.md index.html
+Artimis2nd/G6-by-GAYRAY | G6 by GAYRAY — free portable button remapping & macro software for the | 6000 | .gitignore CHANGELOG.md LICENSE README.md assets/ build.ps1
+Spidergy07/watch-fishing | Night fishing on your Mac, played with an Apple Watch: flick to cast,  | 3921 | .gitignore FishingWatch/ LICENSE README.md Tests/ docs/
+facingshootingstar/fossil-vault | 3D dinosaur dig game where fossil-site secrets unlock only by stakehol | 3637 | README.md index.html js/ run.bat styles.css
+gryng/pitatto-tower |  | 606 | .nojekyll README.md bgm.mp3 gas/ index.html
+chenhung0506/game |  | 0 | game.go game_test.go go.mod go.sum main.go main_test.go
+jonmaxmore/TD-Games-Idel |  | 0 | .claude/ .gitattributes .gitignore .mcp.json CLAUDE.md art/
+DBKGAMES2/dbkgames-website | DBK Games official website | 0 | .nojekyll 404.html CNAME about/ contact/ css/
+SodaCK87/Game---Blackjack | 給同事玩的網頁 21 點：3D 牌桌、插畫荷官、三位電腦同桌 | 2733 | .gitattributes .github/ .gitignore CLAUDE.md README.md app/
+ceddikers/Chalice | Chalice - 2.5D raid game | 0 | .gitignore CHANGELOG.txt README_SAVES.txt art_src/ cervanth_preview.html changelogs/
+HeetroNoft/PlayniteBetterRichPresence |  | 6000 | .gitattributes .gitignore BetterRichPresence/ LICENSE README.md addon-manifest.yaml
+yarinlevin18-ai/Game-night- |  | 1450 | .env.example .gitignore README.md eslint.config.mjs next.config.ts package-lock.json
+AlbertanCoder/hackathon-sim | A browser game that rehearses a real hackathon weekend, plus a step-by | 803 | .gitattributes README.md index.html
+gangidenset/english-game-app |  | 6000 | .github/ .gitignore .nvmrc .oxlintrc.json README.md android/
+noahkoldow/triviagame |  | 1030 | .github/ .gitignore .npmrc .prettierrc CLAUDE.md README.md
+guypod/tessl-carnival | A small browser carnival to build a software factory on: label an issu | 6000 | .devcontainer/ .github/ .gitignore .nvmrc .prettierignore .prettierrc.json
+camp-tribe-eu/camptribe-game | 2D web game · work in progress | 0 | .claude/ .github/ .gitignore CLAUDE.md DISCLAIMER.md art/
+dawkaw0dy/battlecode-agent-evo |  | 22 | .claude/ .gitattributes .github/ .gitignore BotAPICpp.md GameRules.md
+alexrgras-lang/imposter-game |  | 0 | index.html
+ProggePal/lunte-app | Lose it with your AI, your laptop blows up. A Mac menu bar game for Cl | 1661 | .gitignore LunteApp/ LunteCore/ README.md Resources/ docs/
+vanchien2973/vocab-battle |  | 6000 | .github/ .gitignore README.md api.Tests/ api/ global.json
+Mindle-Game/mindle | A philosophy and psycology Wordle game | 6000 | .gitignore .nojekyll README.md data.json encyclopedia.html icons/
+pashok3345u-netizen/ice-boost | IceBoost — free PC optimizer for gamers (Windows). Оптимизатор ПК для  | 0 | .claude/ .github/ .gitignore CLAUDE.md build/ electron.vite.config.ts
+emailbuikhanhnguyen/game | game | 0 | .github/ .gitignore app/ build.gradle gradle.properties gradle/
+ClaudioIonck/mesa-gamer |  | 3180 | LICENSE README.md apple-touch-icon.png favicon.svg index.html og-image.png
+obsidianstudiodesigns/Maroela-Pub-Grill-Game-Trails | Maroela Pub & Grill & Game Trails: game farm, pub & grill, bushveld lo | 468 | .nojekyll 404.html README.md apple-touch-icon.png assets/ favicon-16x16.png
+zonearc/PerformanceCompanion | Automatic performance modes for gaming laptops and handhelds. Switches | 6000 | .github/ CHANGELOG.md LICENSE PerformanceCompanion.ahk README.md docs/
+mo7morad/play-english | Play English: a teacher-operated 1-on-1 English lesson tool (built app | 0 | .nojekyll assets/ fluent-3d/ fluent-color/ fonts/ index.html
+Alebrahim22/Modern-travian | My strategy war game | 1344 | .gitignore README.md bot.js game.js nuclear.js package-lock.json
+ghrh2025/math-climb | Free, open-source math practice app for kids. Adaptive skill climb fro | 0 | icon-180.png icon-512.png icon.svg index.html manifest.webmanifest
+Artistical-Intelligence/hivemind-assembly | A platform for autonomous, collaborative AI agents that develop reusab | 6000 | .claude/ .gitattributes .github/ .gitignore AGENTS.md README.md
+AdarshKhera/ship-it-play | Play Ship It, a phone-first office brawler, plus its case study | 0 | .nojekyll fonts/ img/ index.html play/
+nusability/racer |  | 3590 | .claude/ .github/ .gitignore .specify/ AGENTS.md CLAUDE.md
+stwater20/evo-runner |  | 503 | CNAME README.md index.html
+proger-exe/craftsocial | Магазины, кланы и квесты прямо в Minecraft. Плагин Paper/Purpur связыв | 2195 | .gitignore LICENSE README.md docs/ pom.xml preficses/
+troler11/demons-souls-port-pc | Demon's Souls (PS3) recompiled to run natively on PC (ps3recomp). No g | 6000 | .gitattributes .gitignore LICENSE README.en.md README.md docs/
+PaoloDelCasale/decky-t3code | Decky Loader plugin to start/stop the T3 Code service and its Claude C | 1623 | .gitignore LICENSE README.md decky.pyi main.py package.json
+tensorthinking/party-games |  | 135 | .nojekyll README.md index.html
+pereirasergio/sushi-game | Joguinho para rodízio de sushi: marca as peças de 2 jogadores e vê que | 0 | .claude/ .github/ .gitignore MELHORIAS.md MENU-KOBELIN.md PESQUISA-PECAS.md
+otis-16/break-games |  | 0 | .gitignore .nojekyll 404.html apple-touch-icon.png bomb/ boss/
+skyfion/cat-fisher | little game for little girl  | 0 | index.html
+sigala000/Roadster-games |  | 0 | ads.txt game.js index.html privacy.html style.css
+garmatua/idle-mower-legal |  | 0 | index.md support.html
+omarharrasi3/itgames | IT educational games and teacher dashboard | 0 | .nojekyll ITGames_Common.css ITGames_Common.js ITGames_Config.js ITGames_Dashboard/ ITGames_G6_U2_Escape/
+robertpallas/jeopardy | Single-file Jeopardy game (HTML/JS/CSS, no dependencies) | 0 | index.html
+Audioscream/darkfate | Darkfate - a soulslike boss fight you can play in the browser (three.j | 0 | .github/ .gitignore ANIMATION_GUIDE.md index.html package-lock.json package.json
+ReaperRush/steam-family-library | Every game shared in our Steam Family | 0 | .nojekyll fonts/ img/ index.html
+sefner/skylance | Skylance: an on-rails dragon shooter for phones. Lock on, release huge | 0 | .gitignore build.py docs/ music/ src/
+berobloom/a2racer2-re | Reverse engineering of A2 Racer II (1998, Windows) and a from-scratch  | 4746 | .claude/ .gitignore .opencode/ AGENTS.md LICENSE README.md
+CieasCheligeman/Code-Game |  | 648 | .gitignore ANSWERS.md Dew Point Definition.png Project4(Most challenging).cpp README.md index.html
+bighouse-games/bighouse-games.github.io | Big House Games studio website | 0 | .nojekyll app-ads.txt assets/ delete-account/ favicon.png index.html
+guillermo-rebolledo/vgame-journal |  | 0 | .agents/ .claude/ .env.example .github/ .gitignore AGENTS.md
+Arty-Lab1/roblox-game |  | 1648 | .gitignore README.md default.project.json rokit.toml selene.toml src/
+polston/dd2-clairvoyance | Dragon's Dogma 2 REFramework mod: side-quest and world markers on the  | 3388 | .gitattributes .github/ .gitignore AGENTS.md CLAUDE.md LICENSE
+HugoYin663/road-test-game | Ontario Road Test Practice | 126 | README.md assets/ green-right.html green-right.js index.html lib/
+felicianevin-lgtm/game.gamergunner.com |  | 0 | .nojekyll CNAME gg.css img/ index.html play/
+adamhindman/feet-fighter | A fighting game for legs. Choose your fighter. | 0 | .gitignore index.html
+yycsudbuds-sys/mark201-trainer | Adaptive, game-style midterm trainer for MARK 201 (Chapters 1, 6-12) | 6000 | .gitignore .nojekyll PLAN.md README.md app/ content/
+scpe/stardust-game |  | 0 | index.html script.js style.css
+khw03097-hash/fire-drill-game | 초등학생용 소방훈련 3D 탈출 게임 (불이야! 탈출 대작전) | 253 | .nojekyll README.md index.html three.min.js

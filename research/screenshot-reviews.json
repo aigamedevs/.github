@@ -7320,6 +7320,216 @@
       "reason": "Use this frame for the game-level score. Portrait incremental screen with a glowing tree island and progress panel; minimal.",
       "reviewed_on": "2026-10-21",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/foster-curtis/world-conquest",
+      "url": "https://github.com/foster-curtis/world-conquest/blob/main/tools/map-build/preview.png",
+      "game": "World Conquest",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Flat colour-coded world map board with clean territory borders; readable but sparse, no units or HUD visible.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/HungLuuSB/ForTheGreaterGood",
+      "url": "https://github.com/HungLuuSB/ForTheGreaterGood/blob/main/assets/models/chs_warlord/v1/export/preview_bar_35.png",
+      "game": "For The Greater Good",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Chunky stylised mech render on a plain green ground with warm lit details; coherent asset but no scene or HUD.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cktang88/wego-4x-game",
+      "url": "https://github.com/cktang88/wego-4x-game/blob/main/docs/style-explore/compare-detail.png",
+      "game": "Three Crowns",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Grid of many dark star-map turn screens with sector overlays; consistent look but tiny, hard-to-read frames.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Kapilrohilla/territory-wars",
+      "url": "https://github.com/Kapilrohilla/territory-wars/blob/main/assets/store/screenshot-1.png",
+      "game": "Territory Wars",
+      "score_10": 4.8,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Phone mockup with a blue territory loop and score card under a slogan; clean but a marketing frame.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/irvincisneros-png/carrying-capacity",
+      "url": "https://github.com/irvincisneros-png/carrying-capacity/blob/main/docs/concept/act1-boom.png",
+      "game": "Carrying Capacity",
+      "score_10": 6.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Detailed painted island-city diorama with industry and coastline; attractive but concept art, so discounted.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/witchspace-game/witchspace",
+      "url": "https://github.com/witchspace-game/witchspace/blob/main/public/media/trailer-poster.jpg",
+      "game": "Witchspace",
+      "score_10": 6.8,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Neon green wireframe Cobra over black with a WITCHSPACE title and stats panel; strong vector style, partly a title card.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/martinipolice/brainrot-brawl",
+      "url": "https://github.com/martinipolice/brainrot-brawl/blob/main/img/og-image.png",
+      "game": "Martini's Brainrot Brawl",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bright pixel-art title over a beach with meme fighters; colourful and coherent but a title card.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MRaheel25/rdstr-game",
+      "url": "https://github.com/MRaheel25/rdstr-game/blob/main/screenshots/m1_boot.png",
+      "game": "rdstr",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark neon city corridor with a flat blue car shape and a speed gauge; readable but low detail.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/datazuul/amade-sands-game",
+      "url": "https://github.com/datazuul/amade-sands-game/blob/main/docs/screenshots/amade-sands-game.png",
+      "game": "amade-sands-game",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Desert RTS map in a desktop window with a build sidebar; readable but small and plain.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cgsereggela/Brawler",
+      "url": "https://github.com/cgsereggela/Brawler/blob/master/docs/media/chaos.gif",
+      "game": "Brawler",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Purple cave arena with platforms, four-player HUD and a highlighted player; clear, moody 2D layout.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/pork0817/ntou-walk",
+      "url": "https://github.com/pork0817/ntou-walk/blob/main/docs/ntou-game-map.png",
+      "game": "海大漫遊 NTOU Walk",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down campus road map with buildings and paths; clean and readable but flat.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mutima89/riskbound",
+      "url": "https://github.com/mutima89/riskbound/blob/main/Docs/Screenshots/Cast_Workspace.jpg",
+      "game": "RISKBOUND",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Realistic office interior with lit desks, monitors and NPCs; solid lighting and scene detail.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nguyensiclc/PlayTogether",
+      "url": "https://github.com/nguyensiclc/PlayTogether/blob/main/docs/design/co-tuong/mockup-1.jpg",
+      "game": "PlayTogether",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Xiangqi board with player cards and buttons on a warm parchment UI; tidy and readable.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ozesince02/ram-baan",
+      "url": "https://github.com/ozesince02/ram-baan/blob/main/docs/screenshots/01-ravan-dahan.png",
+      "game": "राम बाण · RAM BAAN",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Festive pixel-art Ravana effigies under string lights and fireworks; rich colour and strong composition.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/theholdr/holdr-thread-games",
+      "url": "https://github.com/theholdr/holdr-thread-games/blob/main/docs/covers-approved-format-examples.png",
+      "game": "holdr thread games",
+      "score_10": 5.5,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Bold flat portrait poster cards for each thread game; striking art but title cards rather than play.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tedwin-Main/3D-toys-random",
+      "url": "https://github.com/tedwin-Main/3D-toys-random/blob/main/render-studio/frontend/demos/animated-svg-landscape.png",
+      "game": "3D Toy Box + Render Studio",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Soft 3D lake landscape at sunset with birds and a small control panel; calm and atmospheric.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gnet100/firstlearning-play",
+      "url": "https://github.com/gnet100/firstlearning-play/blob/main/games/shared/end-panel-preview.png",
+      "game": "Firstlearning Play",
+      "score_10": 4.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pale quiz/star screens repeated in a strip; plain educational UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gentlewind-alt/Run_ai_game",
+      "url": "https://github.com/gentlewind-alt/Run_ai_game/blob/claude/brave-johnson-j555ql/docs/concepts/weapons/w_omnitrix_dial.png",
+      "game": "MONSTER MASH: Slingshot Siege",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 16-bit slingshot battle with red monsters, a green energy shockwave and debris; lively and readable.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/buhamzok/game-jam",
+      "url": "https://github.com/buhamzok/game-jam/blob/main/docs/screenshots/shot-hud.png",
+      "game": "Tag Team Terror",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Portrait phone frame with a WAVE 1 banner over a small dark arena; readable but tiny.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/terriblewitlogic/crosswinds",
+      "url": "https://github.com/terriblewitlogic/crosswinds/blob/main/docs/images/title.png",
+      "game": "Crosswinds",
+      "score_10": 5.5,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Ink-etched sailing ship title screen on e-ink with side buttons; distinctive but a title screen.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gschomburg/neon-1",
+      "url": "https://github.com/gschomburg/neon-1/blob/main/dist/preview.png",
+      "game": "NeoN+1",
+      "score_10": 5.0,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. ASCII-art logo card with tagline text on black; stylish but promotional.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
