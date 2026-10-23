@@ -7880,6 +7880,196 @@
       "reason": "Use this frame for the game-level score. Pixel-art band on stage with rhythm lanes and PERFECT feedback.",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/BMKoscak/Chains-of-Hera",
+      "url": "https://github.com/BMKoscak/Chains-of-Hera/blob/main/docs/screenshots/title.jpg",
+      "game": "Chains of Hera",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Low-poly N64-style village with large title overlay; charming.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yijiang1/MicroscopeCraft",
+      "url": "https://github.com/yijiang1/MicroscopeCraft/blob/main/docs/thumbnail.png",
+      "game": "MicroscopeCraft",
+      "score_10": 6.2,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Pixel-title promo with 3D microscope building and scale icons.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dmplanthireltd-gif/THORNVALE",
+      "url": "https://github.com/dmplanthireltd-gif/THORNVALE/blob/main/site/media/atlas-small.jpg",
+      "game": "Thornvale",
+      "score_10": 5.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Top-down overworld atlas map of islands; map asset not gameplay.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AlexAlphaK/Vaultmanager",
+      "url": "https://github.com/AlexAlphaK/Vaultmanager/blob/main/docs/screenshots/staff.png",
+      "game": "Vault Manager",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pixel-font shop management panels; dense text UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nulljosh/gastown",
+      "url": "https://github.com/nulljosh/gastown/blob/main/screenshots/gastown-2.jpg",
+      "game": "Gastown",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark top-down colony grid with tiny units; hard to read.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nikolaneutiens/tilty-martinis",
+      "url": "https://github.com/nikolaneutiens/tilty-martinis/blob/main/blender/preview.png",
+      "game": "Tilty Martinis",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Warm 3D 1930s bar interior; nicely lit, no HUD.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mtd-public/suburban-turismo",
+      "url": "https://github.com/mtd-public/suburban-turismo/blob/main/docs/art-test/01-culdesac.jpg",
+      "game": "Suburban Turismo",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Autumn suburb cul-de-sac in low-poly 3D with info panel; atmospheric.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/wizzard262/swooping-simulator",
+      "url": "https://github.com/wizzard262/swooping-simulator/blob/main/screenshots/01-first-build.png",
+      "game": "Swooping Simulator",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright pixel suburb with sun and magpie; simple but clean.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Beebopcat/hungry-moors",
+      "url": "https://github.com/Beebopcat/hungry-moors/blob/main/docs/media/01.webp",
+      "game": "Hungry Moors",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dark landing page with small pixel title art.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Beebopcat/aetherglass",
+      "url": "https://github.com/Beebopcat/aetherglass/blob/main/docs/media/01.webp",
+      "game": "Aetherglass",
+      "score_10": 6.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Hub UI with ornate pixel town map and side menu.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Beebopcat/stolen-names",
+      "url": "https://github.com/Beebopcat/stolen-names/blob/main/docs/media/01.webp",
+      "game": "Stolen Names",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dark title page with rainy pixel street art.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Beebopcat/thirteenth-lantern",
+      "url": "https://github.com/Beebopcat/thirteenth-lantern/blob/main/docs/media/01.webp",
+      "game": "Thirteenth Lantern",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dark title page with pixel cover art.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Beebopcat/classic-solitaire",
+      "url": "https://github.com/Beebopcat/classic-solitaire/blob/main/docs/media/redesign-table-desktop.webp",
+      "game": "Classic Solitaire",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Klondike table, plain and functional.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/wicash/static-outskirts",
+      "url": "https://github.com/wicash/static-outskirts/blob/main/docs/street.png",
+      "game": "Static Outskirts",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Foggy low-res 3D street; murky.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tjdawgy/Extinction-Event",
+      "url": "https://github.com/tjdawgy/Extinction-Event/blob/main/docs/screenshots/667x375-2-intro-both-bases.png",
+      "game": "Extinction Event",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric hex RTS base on mobile with build bar; tidy sci-fi UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/linaventures/rocket-roadster",
+      "url": "https://github.com/linaventures/rocket-roadster/blob/main/docs/studio.png",
+      "game": "Rocket Roadster",
+      "score_10": 4.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Untextured 3D car model on grey background.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/FailingVillain/gameProject",
+      "url": "https://github.com/FailingVillain/gameProject/blob/main/korean-division/assets/themes/kd1920/buildings/village-capture/village-capture.png",
+      "game": "Korean Division",
+      "score_10": 5.5,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Top-down pixel village capture tiles, repeated.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/h1ddenpr0cess20/tunnel-v",
+      "url": "https://github.com/h1ddenpr0cess20/tunnel-v/blob/main/docs/screenshots/tv.png",
+      "game": "Neverending Tunnel V: Time Warp",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Flying through a static-particle tunnel with a TV tumbling; stylised.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ulften/snake6502",
+      "url": "https://github.com/ulften/snake6502/blob/main/docs/screenshot.png",
+      "game": "Snake for the Picocomputer 6502",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Retro green snake field with dots; very basic.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
