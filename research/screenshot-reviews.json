@@ -7530,6 +7530,176 @@
       "reason": "Use this frame for the game-level score. ASCII-art logo card with tagline text on black; stylish but promotional.",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/robwizzie/jawn-legends",
+      "url": "https://github.com/robwizzie/jawn-legends/blob/main/docs/ios-adventure.png",
+      "game": "Jawn Legends",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Phone screen strip of the adventure UI; readable but small and menu-heavy.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/phdiassantos/hypha-run",
+      "url": "https://github.com/phdiassantos/hypha-run/blob/main/cover.png",
+      "game": "Hypha Run",
+      "score_10": 6.0,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Clean cover art with in-game hypha on soil; promotional framing.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/phdiassantos/hypha-lab",
+      "url": "https://github.com/phdiassantos/hypha-lab/blob/main/cover.png",
+      "game": "Hypha Lab",
+      "score_10": 5.8,
+      "image_kind": "promotional",
+      "reason": "Use this frame for the game-level score. Cover card showing fungus scene; promotional framing.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Ant-DeGeorge/sneaky-kryptids-spooky-claw",
+      "url": "https://github.com/Ant-DeGeorge/sneaky-kryptids-spooky-claw/blob/main/docs/media/worlds.png",
+      "game": "Sneaky Kryptid's Spooky Claw",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Four Game Boy Color world frames; clear sprites, simple palette.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/georrrgess-jpg/Brick-Rng",
+      "url": "https://github.com/georrrgess-jpg/Brick-Rng/blob/claude/wonderful-franklin-9nexb9/docs/update-5/prototypes/sheet_hourglass.jpg",
+      "game": "Pop Rush",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone gameplay of the brick-popping board with HUD; busy but readable.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/philipqnguyen/vanai",
+      "url": "https://www.vanaiworld.com/media/shots/combat-drake-thunder.jpg",
+      "game": "Vanai",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person 3D combat with lightning effects on snowy terrain.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/shahadathhs/GuliBatto",
+      "url": "https://github.com/shahadathhs/GuliBatto/blob/main/docs/design/app-strip-light.png",
+      "game": "Guli & Batto",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Strip of app rule screens; clean but mostly UI.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ahab94/silly-point",
+      "url": "https://github.com/ahab94/silly-point/blob/main/docs/media/cover-drive.gif",
+      "game": "Silly Point",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. First-person batting view of a stadium; clear 3D scene.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ChanakyaNxtWave/sql-missing-influencer",
+      "url": "https://github.com/ChanakyaNxtWave/sql-missing-influencer/blob/main/docs/screenshots/after/01-home.png",
+      "game": "SQL: The Missing Influencer",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Story briefing screen; tidy UI, little visual play.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sangdaden/meo-giao-banh-mi",
+      "url": "https://github.com/sangdaden/meo-giao-banh-mi/blob/main/docs/lo-banh.png",
+      "game": "Mèo Giao Bánh Mì",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person low-poly cat delivering bread in a colourful street.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/fareza777/sprite-game-roguelike",
+      "url": "https://github.com/fareza777/sprite-game-roguelike/blob/main/docs/screenshots/2026-10-20-combat-greathall.png",
+      "game": "UNDERSUN",
+      "score_10": 4.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark portrait mobile frame; hard to read at size.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yandayixia/ONI3D",
+      "url": "https://github.com/yandayixia/ONI3D/blob/main/screenshot.png",
+      "game": "Colony Sim",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Side-view colony tile map; functional, sparse detail.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/CapMyAzzElmo/best-friends-snes",
+      "url": "https://github.com/CapMyAzzElmo/best-friends-snes/blob/main/art/screens/stage1.png",
+      "game": "COMRADES",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. SNES-style side-scroller stage with HUD; crisp pixel art.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/thangvu030198-ai/cyberhood-",
+      "url": "https://github.com/thangvu030198-ai/cyberhood-/blob/main/web/assets/img/game/duel.webp",
+      "game": "Cyberhood",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon cyberpunk duel arena with HUD; strong mood.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/rix346/godot",
+      "url": "https://github.com/rix346/godot/blob/main/docs/game.png",
+      "game": "Dungeons: To The Bottom",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Tiny dungeon tiles on black with log panel; minimal.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/BYEONGJUN33/NeedManyMoney",
+      "url": "https://github.com/BYEONGJUN33/NeedManyMoney/blob/ccr-d57f3fdd-wysyna/blocks/assets/store/screenshot-1.png",
+      "game": "NeedManyMoney",
+      "score_10": 5.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Glowing block puzzle board mid-combo.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alrc21/mexica-chess",
+      "url": "https://github.com/alrc21/mexica-chess/blob/main/public/stills/templo-mayor.jpg",
+      "game": "Mexica Chess",
+      "score_10": 6.5,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Torch-lit 3D stone chess board before a pyramid; strong atmosphere.",
+      "reviewed_on": "2026-10-23",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

@@ -2927,5 +2927,3353 @@
   ],
   "shots": [],
   "truncated": false
+ },
+ "Abhyuday2103/deal": {
+  "branch": "main",
+  "nfiles": 32,
+  "code_bytes": 219693,
+  "top": [
+   [
+    "docs/app.js",
+    51009
+   ],
+   [
+    "docs/engine.js",
+    38717
+   ],
+   [
+    "docs/srv/engine.js",
+    38717
+   ],
+   [
+    "functions/engine.js",
+    38717
+   ],
+   [
+    "docs/p2p/core.js",
+    13469
+   ],
+   [
+    "tools/e2e.py",
+    5502
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "markalroberts/Kaleitris": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 50187,
+  "top": [
+   [
+    "game.js",
+    44203
+   ],
+   [
+    "index.html",
+    5984
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "tysal21/graveknit": {
+  "branch": "main",
+  "nfiles": 137,
+  "code_bytes": 252861,
+  "top": [
+   [
+    "src/engine/combat.ts",
+    23920
+   ],
+   [
+    "src/ui/common/Tips.tsx",
+    18885
+   ],
+   [
+    "src/ui/panels/CryptPanel.tsx",
+    17734
+   ],
+   [
+    "src/ui/panels/PartDetail.tsx",
+    10205
+   ],
+   [
+    "src/ui/panels/StitcheryPanel.tsx",
+    10112
+   ],
+   [
+    "src/content/act3.ts",
+    9712
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "reidstephen11/over-the-cape": {
+  "branch": "main",
+  "nfiles": 299,
+  "code_bytes": 1513493,
+  "top": [
+   [
+    "src/core/game.ts",
+    48593
+   ],
+   [
+    "src/sim/world/terrainGen.ts",
+    44366
+   ],
+   [
+    "src/sim/vehicle/vehicle.ts",
+    42198
+   ],
+   [
+    "src/render/patrolBody.ts",
+    32016
+   ],
+   [
+    "src/sim/sim.ts",
+    31457
+   ],
+   [
+    "src/render/troopyBody.ts",
+    30918
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "dfunedude/Tinplate-Junction": {
+  "branch": "main",
+  "nfiles": 55,
+  "code_bytes": 229709,
+  "top": [
+   [
+    "src/world/track.js",
+    11130
+   ],
+   [
+    "src/sim/train.js",
+    10650
+   ],
+   [
+    "src/render/kit.js",
+    10106
+   ],
+   [
+    "src/stock/trolley.js",
+    10088
+   ],
+   [
+    "index.html",
+    8561
+   ],
+   [
+    "src/ui/editor.js",
+    8121
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "tommcl2015/black-box-trivia": {
+  "branch": "main",
+  "nfiles": 988,
+  "code_bytes": 641233,
+  "top": [
+   [
+    "public/js/app.js",
+    54380
+   ],
+   [
+    "art/picture-rounds/landmarks2.py",
+    36278
+   ],
+   [
+    "art/picture-rounds/skylines_world.py",
+    30029
+   ],
+   [
+    "art/picture-rounds/extras_objects.py",
+    28766
+   ],
+   [
+    "data/tables/90-world.js",
+    24364
+   ],
+   [
+    "public/js/engine.js",
+    23147
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "alevizio/hora-cero": {
+  "branch": "main",
+  "nfiles": 1250,
+  "code_bytes": 3989185,
+  "top": [
+   [
+    "godot/scripts/three_d/operative.gd",
+    241423
+   ],
+   [
+    "godot/scripts/simulation.gd",
+    225243
+   ],
+   [
+    "godot/scripts/three_d/hud.gd",
+    147617
+   ],
+   [
+    "tools/mh/mhgear.py",
+    103048
+   ],
+   [
+    "tools/gen_plaza_textures.py",
+    85758
+   ],
+   [
+    "godot/scripts/three_d/plaza_kit.gd",
+    83375
+   ]
+  ],
+  "shots": [
+   "docs/design/00_kit_overview.png",
+   "docs/design/01_cover.png",
+   "docs/design/02_foundations.png",
+   "docs/design/04_characters.png",
+   "docs/design/05_vehicles_and_props.png",
+   "docs/design/07_ui_components.png",
+   "docs/design/08_ui_screens.png",
+   "docs/design/09_gameplay_stills.png"
+  ],
+  "truncated": false
+ },
+ "SuzukiCecil/AlcheRoro": {
+  "branch": "main",
+  "nfiles": 68,
+  "code_bytes": 119842,
+  "top": [
+   [
+    "src/components/Modals.tsx",
+    11374
+   ],
+   [
+    "src/App.tsx",
+    10011
+   ],
+   [
+    "src/components/PlayerPanel.tsx",
+    9821
+   ],
+   [
+    "src/game/engine.ts",
+    9353
+   ],
+   [
+    "src/game/store.ts",
+    8646
+   ],
+   [
+    "src/game/ai.ts",
+    8072
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "maxlep/flag-game": {
+  "branch": "main",
+  "nfiles": 536,
+  "code_bytes": 147299,
+  "top": [
+   [
+    "js/app.js",
+    57192
+   ],
+   [
+    "js/data/flags.js",
+    54615
+   ],
+   [
+    "js/data/names.js",
+    21004
+   ],
+   [
+    "js/data/groups.js",
+    7089
+   ],
+   [
+    "tools/check_data.py",
+    2290
+   ],
+   [
+    "index.html",
+    1615
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "robwizzie/jawn-legends": {
+  "branch": "main",
+  "nfiles": 790,
+  "code_bytes": 3131630,
+  "top": [
+   [
+    "js/jawnsprites.js",
+    837616
+   ],
+   [
+    "js/jawns.js",
+    141776
+   ],
+   [
+    "js/game.js",
+    130866
+   ],
+   [
+    "js/battle.js",
+    93283
+   ],
+   [
+    "js/cards.js",
+    71565
+   ],
+   [
+    "js/world.js",
+    71003
+   ]
+  ],
+  "shots": [
+   ".github/readme/demo.gif",
+   "docs/abilities/ability-intimidate.png",
+   "docs/abilities/ability-jawndex.png",
+   "docs/abilities/ability-summary.png",
+   "docs/arcade-1.png",
+   "docs/arcade-2.png",
+   "docs/barkley/battle.png",
+   "docs/barkley/dex.png",
+   "docs/barkley/loose.png",
+   "docs/barkley/map.png",
+   "docs/barkley/stink-breath.png",
+   "docs/bike/frames.png"
+  ],
+  "truncated": false
+ },
+ "samahlersmeyer-prog/front-office": {
+  "branch": "main",
+  "nfiles": 17,
+  "code_bytes": 1439425,
+  "top": [
+   [
+    "index.html",
+    762281
+   ],
+   [
+    "src/app.js",
+    498592
+   ],
+   [
+    "src/engine.js",
+    111331
+   ],
+   [
+    "src/shell.html",
+    57881
+   ],
+   [
+    "src/firebase_adapter.js",
+    7558
+   ],
+   [
+    "build.py",
+    1782
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "KaonHew02/PokeGo": {
+  "branch": "main",
+  "nfiles": 13668,
+  "code_bytes": 4936841,
+  "top": [
+   [
+    "js/data/sprites-meta.js",
+    554989
+   ],
+   [
+    "en/pokedex/index.html",
+    371992
+   ],
+   [
+    "pokedex/index.html",
+    370157
+   ],
+   [
+    "js/data/lang-updates.js",
+    224813
+   ],
+   [
+    "js/lang/zh-Hans.js",
+    195420
+   ],
+   [
+    "js/lang/zh-Hant.js",
+    179617
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "romainavalle/dino-3d": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 35440,
+  "top": [
+   [
+    "index.html",
+    35440
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "christopherabel3000-creator/Shardkin-Eight-Realms": {
+  "branch": "main",
+  "nfiles": 13,
+  "code_bytes": 196485,
+  "top": [
+   [
+    "js/screens.js",
+    51776
+   ],
+   [
+    "js/data.js",
+    26624
+   ],
+   [
+    "js/input.js",
+    21422
+   ],
+   [
+    "js/progress.js",
+    19296
+   ],
+   [
+    "js/battle.js",
+    19125
+   ],
+   [
+    "js/state.js",
+    17680
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "henrythebaby1-ops/the-other-side-of-paradise": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 170753,
+  "top": [
+   [
+    "pico-emulator.html",
+    85991
+   ],
+   [
+    "index.html",
+    84762
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "dj-qwik/hot-shots": {
+  "branch": "multiplayer",
+  "nfiles": 130,
+  "code_bytes": 831464,
+  "top": [
+   [
+    "game/src/90_game.js",
+    37397
+   ],
+   [
+    "packages/shared/src/escrowAbi.ts",
+    34385
+   ],
+   [
+    "game/src/96_cash.js",
+    28169
+   ],
+   [
+    "game/src/arenas/crossing.js",
+    22988
+   ],
+   [
+    "game/src/head.html",
+    22800
+   ],
+   [
+    "game/src/arenas/runway.js",
+    22677
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "kimball-vibing/summon-sword-game": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 459975,
+  "top": [
+   [
+    "index.html",
+    459975
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "davidfweiser/LivingMarbleChess": {
+  "branch": "main",
+  "nfiles": 121,
+  "code_bytes": 1990496,
+  "top": [
+   [
+    "src/battle_alien.cpp",
+    90905
+   ],
+   [
+    "src/battle.cpp",
+    81775
+   ],
+   [
+    "src/battle_medieval.cpp",
+    80428
+   ],
+   [
+    "macos/Sources/LivingMarble/Audio.swift",
+    75899
+   ],
+   [
+    "src/medieval_mesh.cpp",
+    72860
+   ],
+   [
+    "macos/Sources/LivingMarble/Shaders.swift",
+    63184
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "phdiassantos/hypha-run": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 132092,
+  "top": [
+   [
+    "index.html",
+    132092
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "phdiassantos/hypha-lab": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 114359,
+  "top": [
+   [
+    "index.html",
+    114359
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Xakified/xakRPG": {
+  "branch": "main",
+  "nfiles": 44,
+  "code_bytes": 255221,
+  "top": [
+   [
+    "src/game/combat/battle.js",
+    37447
+   ],
+   [
+    "src/game/Battle3D.jsx",
+    26861
+   ],
+   [
+    "src/three/body.js",
+    18182
+   ],
+   [
+    "src/game/data/races.js",
+    15738
+   ],
+   [
+    "src/three/creatures.js",
+    13177
+   ],
+   [
+    "src/three/gear.js",
+    11463
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "tangbaoii/snack-before-the-bell": {
+  "branch": "main",
+  "nfiles": 4,
+  "code_bytes": 1052493,
+  "top": [
+   [
+    "ChewAndHide.html",
+    973354
+   ],
+   [
+    "index.html",
+    79139
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "NolanHickey/CodeBams": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 59110,
+  "top": [
+   [
+    "index.html",
+    59110
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Jose-Noriega/Horse-Racing-Simulator": {
+  "branch": "main",
+  "nfiles": 68,
+  "code_bytes": 223594,
+  "top": [
+   [
+    "public/js/screens.js",
+    32826
+   ],
+   [
+    "public/js/game.js",
+    31909
+   ],
+   [
+    "public/js/characters.js",
+    24978
+   ],
+   [
+    "public/js/racefx.js",
+    19040
+   ],
+   [
+    "public/js/art.js",
+    15386
+   ],
+   [
+    "public/js/scenery.js",
+    14993
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "avanbussum/surgery-jeopardy": {
+  "branch": "main",
+  "nfiles": 8,
+  "code_bytes": 106796,
+  "top": [
+   [
+    "index.html",
+    83437
+   ],
+   [
+    "src/template.html",
+    22045
+   ],
+   [
+    "src/build.py",
+    1314
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Jwankel1/wireframe-front": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 56199,
+  "top": [
+   [
+    "index.html",
+    56199
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "daltondixon00-ux/aftermath": {
+  "branch": "main",
+  "nfiles": 1,
+  "code_bytes": 169323,
+  "top": [
+   [
+    "index.html",
+    169323
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "inoxixi7/hoshikui": {
+  "branch": "main",
+  "nfiles": 42,
+  "code_bytes": 163899,
+  "top": [
+   [
+    "src/relic/relicView.ts",
+    35503
+   ],
+   [
+    "src/game.ts",
+    24447
+   ],
+   [
+    "src/scene/stage.ts",
+    18240
+   ],
+   [
+    "src/puzzle/rules.ts",
+    10909
+   ],
+   [
+    "src/ui/hud.ts",
+    10880
+   ],
+   [
+    "scripts/design-levels.ts",
+    8041
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "zhangzgen/opus-5.5-3d-car": {
+  "branch": "main",
+  "nfiles": 23,
+  "code_bytes": 258701,
+  "top": [
+   [
+    "src/main.js",
+    37440
+   ],
+   [
+    "src/car.js",
+    28037
+   ],
+   [
+    "src/world.js",
+    22000
+   ],
+   [
+    "src/track.js",
+    21824
+   ],
+   [
+    "index.html",
+    21284
+   ],
+   [
+    "src/materials.js",
+    18314
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Ant-DeGeorge/sneaky-kryptids-spooky-claw": {
+  "branch": "main",
+  "nfiles": 49,
+  "code_bytes": 269201,
+  "top": [
+   [
+    "src/main.c",
+    45889
+   ],
+   [
+    "src/assets1.c",
+    42087
+   ],
+   [
+    "src/assets.c",
+    41959
+   ],
+   [
+    "tools/gen_assets.py",
+    24739
+   ],
+   [
+    "src/assets2.c",
+    24691
+   ],
+   [
+    "tools/art.py",
+    20228
+   ]
+  ],
+  "shots": [
+   "docs/media/lose.png",
+   "docs/media/preview.gif",
+   "docs/media/redcap.png",
+   "docs/media/sneak.png",
+   "docs/media/stars.png",
+   "docs/media/title.png",
+   "docs/media/w1.png",
+   "docs/media/w2.png",
+   "docs/media/w3.png",
+   "docs/media/w4.png",
+   "docs/media/won.png",
+   "docs/media/worlds.png"
+  ],
+  "truncated": false
+ },
+ "MMX13/ryans-make-money-game": {
+  "branch": "main",
+  "nfiles": 42,
+  "code_bytes": 237200,
+  "top": [
+   [
+    "src/engine/game.ts",
+    42726
+   ],
+   [
+    "src/art/TrainArt.tsx",
+    31263
+   ],
+   [
+    "src/ui/PackOpening.tsx",
+    19611
+   ],
+   [
+    "src/engine/data.ts",
+    19390
+   ],
+   [
+    "src/ui/sheets/MenuSheets.tsx",
+    13833
+   ],
+   [
+    "src/ui/sheets/CardSheet.tsx",
+    11448
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "lupin2498/game-stone": {
+  "branch": "main",
+  "nfiles": 142,
+  "code_bytes": 314409,
+  "top": [
+   [
+    "online.js",
+    223105
+   ],
+   [
+    "stone-balance.html",
+    60619
+   ],
+   [
+    "app/online/online.src.js",
+    10754
+   ],
+   [
+    "app/assets/_icon.html",
+    2919
+   ],
+   [
+    "app/assets/_fg.html",
+    2889
+   ],
+   [
+    "sw.js",
+    2839
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "lupin2498/game-oneline": {
+  "branch": "main",
+  "nfiles": 47,
+  "code_bytes": 301976,
+  "top": [
+   [
+    "lib/online.js",
+    213436
+   ],
+   [
+    "index.html",
+    33406
+   ],
+   [
+    "extras/pour/index.html",
+    18288
+   ],
+   [
+    "src/online.js",
+    10170
+   ],
+   [
+    "android/src/vn/lupin/oneline/MainActivity.java",
+    6586
+   ],
+   [
+    "ios/Sources/GameViewController.swift",
+    5329
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rikiprimus/Soul-Kingdom": {
+  "branch": "main",
+  "nfiles": 306,
+  "code_bytes": 824699,
+  "top": [
+   [
+    "apps/game/src/scenes/VillageScene.ts",
+    92130
+   ],
+   [
+    "apps/game/src/art/buildingArt.ts",
+    52501
+   ],
+   [
+    "apps/game/src/scenes/UIScene.ts",
+    42824
+   ],
+   [
+    "packages/shared/src/village.ts",
+    42708
+   ],
+   [
+    "apps/game/src/scenes/SerbuScene.ts",
+    42012
+   ],
+   [
+    "packages/shared/src/data/load.ts",
+    28945
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "shuheikomatsuki/car-game": {
+  "branch": "main",
+  "nfiles": 118,
+  "code_bytes": 558353,
+  "top": [
+   [
+    "src/main.ts",
+    59605
+   ],
+   [
+    "src/render/mapMesh.ts",
+    33116
+   ],
+   [
+    "src/render/roadMesh.ts",
+    29719
+   ],
+   [
+    "src/map/maps.ts",
+    27321
+   ],
+   [
+    "src/map/road.ts",
+    20730
+   ],
+   [
+    "src/ui/menuDetails.ts",
+    20185
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Jxstrr0/The-Whip": {
+  "branch": "main",
+  "nfiles": 178,
+  "code_bytes": 790332,
+  "top": [
+   [
+    "src/office/officeScene.js",
+    34087
+   ],
+   [
+    "src/sim/meetings.js",
+    32945
+   ],
+   [
+    "src/sim/tools.js",
+    28515
+   ],
+   [
+    "src/riding/ridingScene.js",
+    27836
+   ],
+   [
+    "src/main.js",
+    22757
+   ],
+   [
+    "src/chamber/scene.js",
+    22119
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "virostatiq/ljubljana-unrest": {
+  "branch": "main",
+  "nfiles": 145,
+  "code_bytes": 793812,
+  "top": [
+   [
+    "src/game/scenarios/index.d.ts",
+    63673
+   ],
+   [
+    "src/sim/crowd.js",
+    50644
+   ],
+   [
+    "src/sim/world.js",
+    38347
+   ],
+   [
+    "src/game/missions/rescue.js",
+    35707
+   ],
+   [
+    "src/game/missions/pride.js",
+    32298
+   ],
+   [
+    "src/game/mission.js",
+    31212
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "biyamin23/permainan-tradisional": {
+  "branch": "main",
+  "nfiles": 141,
+  "code_bytes": 467604,
+  "top": [
+   [
+    "src/components/world/spots/SpotScenes.jsx",
+    27518
+   ],
+   [
+    "src/components/character/PersonModel.jsx",
+    21531
+   ],
+   [
+    "src/components/ui/peta/MapArt.jsx",
+    21253
+   ],
+   [
+    "src/audio/engine.js",
+    19278
+   ],
+   [
+    "src/games/shared/GameShell.jsx",
+    13191
+   ],
+   [
+    "src/games/sepak-raga/useRagaMatch.js",
+    13145
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "TwigOtter/Associations": {
+  "branch": "main",
+  "nfiles": 35,
+  "code_bytes": 48972,
+  "top": [
+   [
+    "src/main.js",
+    12872
+   ],
+   [
+    "src/ui/render.js",
+    8430
+   ],
+   [
+    "src/game.js",
+    7063
+   ],
+   [
+    "index.html",
+    3317
+   ],
+   [
+    "scripts/build_glove.py",
+    2758
+   ],
+   [
+    "src/backends/glove.js",
+    2675
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "GameTech-Systems/ApexChess": {
+  "branch": "main",
+  "nfiles": 211,
+  "code_bytes": 303758,
+  "top": [
+   [
+    "apps/server/src/worker.ts",
+    27073
+   ],
+   [
+    "apps/web/src/Online.tsx",
+    20390
+   ],
+   [
+    "apps/web/src/App.tsx",
+    16791
+   ],
+   [
+    "apps/server/src/accounts.ts",
+    16119
+   ],
+   [
+    "apps/web/src/Event.tsx",
+    14872
+   ],
+   [
+    "packages/online/src/room.ts",
+    14271
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "CadeWardC/Zombie-game": {
+  "branch": "master",
+  "nfiles": 146,
+  "code_bytes": 717576,
+  "top": [
+   [
+    "scripts/buildings/building_gen.gd",
+    53420
+   ],
+   [
+    "scripts/player/player.gd",
+    37353
+   ],
+   [
+    "scripts/ui/inventory_screen.gd",
+    36276
+   ],
+   [
+    "scripts/zombies/zombie_model.gd",
+    30207
+   ],
+   [
+    "scripts/core/net.gd",
+    28821
+   ],
+   [
+    "scripts/ui/hud.gd",
+    26804
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "asivixlp44-cmyk/destroy-the-cube": {
+  "branch": "main",
+  "nfiles": 38,
+  "code_bytes": 526490,
+  "top": [
+   [
+    "client/src/main.js",
+    90950
+   ],
+   [
+    "client/src/cube.js",
+    45990
+   ],
+   [
+    "client/index.html",
+    44514
+   ],
+   [
+    "client/src/world.js",
+    41162
+   ],
+   [
+    "client/src/lobby.js",
+    39970
+   ],
+   [
+    "server/src/CubeRoom.js",
+    36542
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Lupin857/Seasons-of-War-Proving-Grounds": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 1865114,
+  "top": [
+   [
+    "index.html",
+    1845018
+   ],
+   [
+    "tools/ui-golden.mjs",
+    11052
+   ],
+   [
+    "tools/golden.mjs",
+    9044
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "CarlosFranzetti/AassMaster": {
+  "branch": "master",
+  "nfiles": 33,
+  "code_bytes": 331195,
+  "top": [
+   [
+    "js/sprites.js",
+    100199
+   ],
+   [
+    "js/game.js",
+    88032
+   ],
+   [
+    "js/sfx.js",
+    82482
+   ],
+   [
+    "js/render.js",
+    32112
+   ],
+   [
+    "js/levels.js",
+    26652
+   ],
+   [
+    "index.html",
+    1718
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "georrrgess-jpg/puzzlel-game": {
+  "branch": "claude/wizardly-bohr-gi6wjp",
+  "nfiles": 2,
+  "code_bytes": 58432,
+  "top": [
+   [
+    "index.html",
+    58432
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "open-game-system/scribble-room": {
+  "branch": "main",
+  "nfiles": 263,
+  "code_bytes": 362425,
+  "top": [
+   [
+    "e2e/record/drawings.ts",
+    32371
+   ],
+   [
+    "src/game/words/packs/classic.ts",
+    18474
+   ],
+   [
+    "scripts/art-kit/scenes.tsx",
+    14344
+   ],
+   [
+    "src/client/audio.ts",
+    13876
+   ],
+   [
+    "src/client/audio-notes.ts",
+    13278
+   ],
+   [
+    "src/client/tv/derive.ts",
+    11368
+   ]
+  ],
+  "shots": [
+   "media/preview-qr.png"
+  ],
+  "truncated": false
+ },
+ "Hawreirei/Fraction3": {
+  "branch": "claude/kind-lamport-0o8con",
+  "nfiles": 8,
+  "code_bytes": 109508,
+  "top": [
+   [
+    "index.html",
+    59315
+   ],
+   [
+    "src/app.js",
+    32894
+   ],
+   [
+    "src/engine.js",
+    16278
+   ],
+   [
+    "src/template.html",
+    575
+   ],
+   [
+    "build.js",
+    446
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "georrrgess-jpg/Brick-Rng": {
+  "branch": "claude/wonderful-franklin-9nexb9",
+  "nfiles": 238,
+  "code_bytes": 1553520,
+  "top": [
+   [
+    "js/s4-pops.js",
+    104812
+   ],
+   [
+    "js/screens.js",
+    94948
+   ],
+   [
+    "js/run.js",
+    85805
+   ],
+   [
+    "js/fuse-art.js",
+    78634
+   ],
+   [
+    "js/fuse.js",
+    67893
+   ],
+   [
+    "js/s4-skins.js",
+    59316
+   ]
+  ],
+  "shots": [
+   "docs/update-5/prototypes/sheet_hourglass.jpg",
+   "docs/update-5/prototypes/sheet_moonglass.jpg",
+   "docs/update-5/prototypes/sheet_seven_colours.jpg",
+   "docs/update-5/prototypes/sheet_sigil.jpg"
+  ],
+  "truncated": false
+ },
+ "Awsdaman/Dub": {
+  "branch": "main",
+  "nfiles": 101,
+  "code_bytes": 428491,
+  "top": [
+   [
+    "index.html",
+    147836
+   ],
+   [
+    "site/index.html",
+    147836
+   ],
+   [
+    "ensemble.js",
+    28287
+   ],
+   [
+    "site/ensemble.js",
+    28287
+   ],
+   [
+    "site/studio.js",
+    20146
+   ],
+   [
+    "studio.js",
+    20146
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Akumu2022/chess_yetu": {
+  "branch": "main",
+  "nfiles": 170,
+  "code_bytes": 442931,
+  "top": [
+   [
+    "backend/app/main.py",
+    19903
+   ],
+   [
+    "web/src/routes/game/[id]/+page.svelte",
+    16877
+   ],
+   [
+    "mobile/lib/screens/game.dart",
+    14509
+   ],
+   [
+    "web/src/routes/+page.svelte",
+    14321
+   ],
+   [
+    "mobile/lib/screens/lobby.dart",
+    14242
+   ],
+   [
+    "backend/app/kids.py",
+    13323
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "neobnmanut-collab/gobble": {
+  "branch": "main",
+  "nfiles": 39,
+  "code_bytes": 335700,
+  "top": [
+   [
+    "client/i18n.js",
+    106855
+   ],
+   [
+    "client/game.js",
+    94024
+   ],
+   [
+    "server/src/game.js",
+    41320
+   ],
+   [
+    "client/index.html",
+    33796
+   ],
+   [
+    "server/src/server.js",
+    17899
+   ],
+   [
+    "server/src/protocol.js",
+    10906
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "openaideveloperai-png/Sourse": {
+  "branch": "claude/great-bohr-rnmobm",
+  "nfiles": 51,
+  "code_bytes": 1001494,
+  "top": [
+   [
+    "js/art/pics.js",
+    99771
+   ],
+   [
+    "js/art/danchi.js",
+    82308
+   ],
+   [
+    "js/art/props2.js",
+    69261
+   ],
+   [
+    "js/art/props.js",
+    61398
+   ],
+   [
+    "js/art/outdoor.js",
+    58606
+   ],
+   [
+    "js/art/cast.js",
+    54681
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "philipqnguyen/vanai": {
+  "branch": "main",
+  "nfiles": 2670,
+  "code_bytes": 12485933,
+  "top": [
+   [
+    "design/the-empty-throne.html",
+    646761
+   ],
+   [
+    "design/compendium.html",
+    616030
+   ],
+   [
+    "client/src/scene.ts",
+    552679
+   ],
+   [
+    "tools/assets/build_moonmere_cloister_modules.py",
+    426982
+   ],
+   [
+    "tools/assets/build_capital_modules.py",
+    243902
+   ],
+   [
+    "client/src/hud.ts",
+    185059
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "oh-ashen-one/gta-v-made-by-5-ai": {
+  "branch": "main",
+  "nfiles": 1505,
+  "code_bytes": 571807,
+  "top": [
+   [
+    "game/src/world/world_builder.gd",
+    82344
+   ],
+   [
+    "game/src/systems/capture_director.gd",
+    57748
+   ],
+   [
+    "game/src/actors/car.gd",
+    28916
+   ],
+   [
+    "game/tools/build_landmarks.py",
+    28450
+   ],
+   [
+    "game/tools/rig_characters.py",
+    26574
+   ],
+   [
+    "game/src/systems/traffic_manager.gd",
+    22387
+   ]
+  ],
+  "shots": [
+   "docs/concepts/singapore-driving.png",
+   "docs/concepts/singapore-helicopter.png",
+   "docs/concepts/singapore-on-foot.png",
+   "docs/wave-02/assets/ac_unit_clean_0.png",
+   "docs/wave-02/assets/ac_unit_clean_1.png",
+   "docs/wave-02/assets/airfield_clutter_clean_0.png",
+   "docs/wave-02/assets/airfield_clutter_clean_1.png",
+   "docs/wave-02/assets/coupe_clean_0.png",
+   "docs/wave-02/assets/coupe_clean_1.png",
+   "docs/wave-02/assets/food_trolley_clean_0.png",
+   "docs/wave-02/assets/food_trolley_clean_1.png",
+   "docs/wave-02/assets/hawker_counter_clean_0.png"
+  ],
+  "truncated": false
+ },
+ "taylputn-pixel/Survival-game": {
+  "branch": "main",
+  "nfiles": 1200,
+  "code_bytes": 1016891,
+  "top": [
+   [
+    "Assets/_Project/Scripts/Stations/CuttingBoardStation.cs",
+    47061
+   ],
+   [
+    "Assets/_Project/Scripts/Stations/JarPackingStation.cs",
+    33110
+   ],
+   [
+    "Assets/_Project/Scripts/Kitchen/JarContents.cs",
+    32239
+   ],
+   [
+    "Assets/_Project/Scripts/Kitchen/CookingPot.cs",
+    28226
+   ],
+   [
+    "Assets/_Project/Scripts/Kitchen/Skillet.cs",
+    16599
+   ],
+   [
+    "Assets/_Project/Scripts/Garden/PlantSpot.cs",
+    16324
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "okayline/aura-farm": {
+  "branch": "main",
+  "nfiles": 23,
+  "code_bytes": 96356,
+  "top": [
+   [
+    "public/app.js",
+    33621
+   ],
+   [
+    "src/worker.js",
+    33427
+   ],
+   [
+    "public/index.html",
+    8892
+   ],
+   [
+    "public/reveal.js",
+    8759
+   ],
+   [
+    "public/engine/aura.js",
+    6190
+   ],
+   [
+    "src/ledger.js",
+    2902
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "shahadathhs/GuliBatto": {
+  "branch": "main",
+  "nfiles": 643,
+  "code_bytes": 869195,
+  "top": [
+   [
+    "game/addons/gut/gut.gd",
+    44769
+   ],
+   [
+    "game/addons/gut/utils.gd",
+    24902
+   ],
+   [
+    "game/addons/gut/cli/optparse.gd",
+    23761
+   ],
+   [
+    "game/addons/gut/input_sender.gd",
+    20466
+   ],
+   [
+    "game/addons/gut/gui/GutBottomPanel.gd",
+    15696
+   ],
+   [
+    "scripts/design/screens.mjs",
+    15097
+   ]
+  ],
+  "shots": [
+   "docs/design/app-strip-dark.png",
+   "docs/design/app-strip-light.png",
+   "docs/design/feel-planned-dark.png",
+   "docs/design/feel-planned-light.png",
+   "docs/design/overview-dark.png",
+   "docs/design/overview-light.png",
+   "docs/design/screens/dark/01-menu.png",
+   "docs/design/screens/dark/02-modes.png",
+   "docs/design/screens/dark/03-about.png",
+   "docs/design/screens/dark/04-first-use.png",
+   "docs/design/screens/dark/05-kep-ready.png",
+   "docs/design/screens/dark/06-kep-result.png"
+  ],
+  "truncated": false
+ },
+ "ajaykumar-wq/fold-play": {
+  "branch": "main",
+  "nfiles": 9,
+  "code_bytes": 52978,
+  "top": [
+   [
+    "Build/WebGL.loader.js",
+    47866
+   ],
+   [
+    "index.html",
+    5112
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "aosmann/hoopfall": {
+  "branch": "main",
+  "nfiles": 205,
+  "code_bytes": 182927,
+  "top": [
+   [
+    "questions.js",
+    97177
+   ],
+   [
+    "index.html",
+    83396
+   ],
+   [
+    "sw.js",
+    2354
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Spencer0/Cannonballs": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 137266,
+  "top": [
+   [
+    "src/battle.js",
+    50097
+   ],
+   [
+    "src/draw.js",
+    32198
+   ],
+   [
+    "src/ui.js",
+    18382
+   ],
+   [
+    "src/data.js",
+    9410
+   ],
+   [
+    "src/audio.js",
+    9311
+   ],
+   [
+    "src/main.js",
+    6720
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "daburns3002-source/quiver": {
+  "branch": "main",
+  "nfiles": 241,
+  "code_bytes": 754296,
+  "top": [
+   [
+    "src/shared/Config/Balance.luau",
+    58758
+   ],
+   [
+    "src/server/Enemies/EnemyManager.luau",
+    50113
+   ],
+   [
+    "src/client/UI/Cards/DraftScreen.luau",
+    47144
+   ],
+   [
+    "src/shared/Config/CardFrames.luau",
+    36241
+   ],
+   [
+    "src/client/UI/Cards/CardBuilder.luau",
+    27675
+   ],
+   [
+    "src/client/UI/EndScreen.luau",
+    24578
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "cyborg-garden/save-mum": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 50703,
+  "top": [
+   [
+    "index.html",
+    50703
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ahab94/silly-point": {
+  "branch": "main",
+  "nfiles": 139,
+  "code_bytes": 276592,
+  "top": [
+   [
+    "scripts/game.gd",
+    51172
+   ],
+   [
+    "tools/video/make_videos.py",
+    26507
+   ],
+   [
+    "scripts/hud.gd",
+    25424
+   ],
+   [
+    "scripts/rig.gd",
+    21374
+   ],
+   [
+    "tools/make_audio.py",
+    17782
+   ],
+   [
+    "scripts/strokes.gd",
+    16114
+   ]
+  ],
+  "shots": [
+   "docs/media/cover-drive.gif",
+   "docs/shots/ball-cam.png",
+   "docs/shots/bowled.png",
+   "docs/shots/day4-spin.png",
+   "docs/shots/menu.png",
+   "docs/shots/review.png"
+  ],
+  "truncated": false
+ },
+ "hassanusairam0-netizen/VelocityUnknknown": {
+  "branch": "main",
+  "nfiles": 28,
+  "code_bytes": 228531,
+  "top": [
+   [
+    "public/js/race.js",
+    47969
+   ],
+   [
+    "public/js/cars.js",
+    40165
+   ],
+   [
+    "public/js/trackscene.js",
+    30839
+   ],
+   [
+    "public/js/main.js",
+    29244
+   ],
+   [
+    "public/index.html",
+    18324
+   ],
+   [
+    "server.js",
+    13051
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "mpdub/lalala": {
+  "branch": "main",
+  "nfiles": 13,
+  "code_bytes": 212604,
+  "top": [
+   [
+    "js/main.js",
+    49398
+   ],
+   [
+    "js/scene.js",
+    43036
+   ],
+   [
+    "js/game.js",
+    35584
+   ],
+   [
+    "js/gl.js",
+    30168
+   ],
+   [
+    "index.html",
+    23604
+   ],
+   [
+    "js/textures.js",
+    13275
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ChanakyaNxtWave/sql-missing-influencer": {
+  "branch": "main",
+  "nfiles": 348,
+  "code_bytes": 1299510,
+  "top": [
+   [
+    "missing-influencer-v3/assets/index-sgMpc5si.js",
+    901492
+   ],
+   [
+    "missing-influencer-v3/assets/worker-DrzxqrUK.js",
+    48301
+   ],
+   [
+    "pipeline/build_case_db.py",
+    34432
+   ],
+   [
+    "pipeline/build_sessions.mjs",
+    24239
+   ],
+   [
+    "app/src/engine/runner/sessionRunner.ts",
+    14411
+   ],
+   [
+    "app/scripts/smoke-deploy.mjs",
+    13419
+   ]
+  ],
+  "shots": [
+   "docs/screenshots/after/01-home.png",
+   "docs/screenshots/after/02-briefing.png",
+   "docs/screenshots/after/03-episode-intro.png",
+   "docs/screenshots/after/04-play-scene.png",
+   "docs/screenshots/after/05-play-activity.png",
+   "docs/screenshots/after/07-phone-play.png",
+   "docs/screenshots/after/08-phone-briefing.png",
+   "docs/screenshots/after/10-case-note.png",
+   "docs/screenshots/after/11-activity-picked.png",
+   "docs/screenshots/after/12-activity-done.png",
+   "docs/screenshots/after/13-steps-sheet.png",
+   "docs/screenshots/after/14-quick-check.png"
+  ],
+  "truncated": false
+ },
+ "sangdaden/meo-giao-banh-mi": {
+  "branch": "main",
+  "nfiles": 2040,
+  "code_bytes": 2326239,
+  "top": [
+   [
+    "scripts/kitchen.gd",
+    113917
+   ],
+   [
+    "tools/nguoi_game.py",
+    97558
+   ],
+   [
+    "scripts/player.gd",
+    83360
+   ],
+   [
+    "tools/khu_pho/nguoi.py",
+    57862
+   ],
+   [
+    "scripts/hud.gd",
+    57733
+   ],
+   [
+    "tools/sound/synth.py",
+    57083
+   ]
+  ],
+  "shots": [
+   "docs/7-mon-moi.jpg",
+   "docs/ao-choang-6-dang.png",
+   "docs/ao-choang-bay.gif",
+   "docs/bep.png",
+   "docs/cho-muc.png",
+   "docs/do-doi-dau-cai.jpg",
+   "docs/do-doi-dau-duc.jpg",
+   "docs/lo-banh.png",
+   "docs/man-bat-dau.png",
+   "docs/qua-thu-bay.jpg",
+   "docs/toan-canh.png"
+  ],
+  "truncated": false
+ },
+ "cfg-jabba/forklift-yard": {
+  "branch": "main",
+  "nfiles": 15,
+  "code_bytes": 25101,
+  "top": [
+   [
+    "scripts/level.gd",
+    13758
+   ],
+   [
+    "scripts/forklift.gd",
+    6628
+   ],
+   [
+    "scripts/player.gd",
+    4715
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ducthais/brain-puzzle-game": {
+  "branch": "main",
+  "nfiles": 1538,
+  "code_bytes": 1592413,
+  "top": [
+   [
+    "Assets/Plugins/CW/LeanTouch/Required/Documentation.html",
+    346180
+   ],
+   [
+    "Assets/Plugins/CW/LeanCommon/Required/Documentation.html",
+    172814
+   ],
+   [
+    "Assets/_Project/Scripts/Editor/Chapter67LevelBuilder.cs",
+    33691
+   ],
+   [
+    "Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanTouch.cs",
+    32228
+   ],
+   [
+    "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs",
+    30811
+   ],
+   [
+    ".utmp/RelWithDebInfo/1v11m2d4/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c",
+    24853
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "iggieselig/moongirl": {
+  "branch": "main",
+  "nfiles": 19,
+  "code_bytes": 23546,
+  "top": [
+   [
+    "index.html",
+    6188
+   ],
+   [
+    "src/main.js",
+    4255
+   ],
+   [
+    "src/components/choices.js",
+    2983
+   ],
+   [
+    "src/components/dialogue.js",
+    2606
+   ],
+   [
+    "src/i18n/index.js",
+    2594
+   ],
+   [
+    "src/components/settings.js",
+    2457
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Didigame111/misdeal": {
+  "branch": "main",
+  "nfiles": 64,
+  "code_bytes": 242864,
+  "top": [
+   [
+    "src/game/engine.ts",
+    24541
+   ],
+   [
+    "src/game/jokers.ts",
+    19401
+   ],
+   [
+    "src/ui/parts/Modals.tsx",
+    17134
+   ],
+   [
+    "src/ui/art/Character.tsx",
+    15769
+   ],
+   [
+    "src/ui/parts/RoundStage.tsx",
+    14272
+   ],
+   [
+    "src/ui/art/ItemArt.tsx",
+    12921
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "hu-zhixuan/World-zombies-game": {
+  "branch": "main",
+  "nfiles": 80,
+  "code_bytes": 2922846,
+  "top": [
+   [
+    "archive/zombie-game-v55.html",
+    1503356
+   ],
+   [
+    "src/js/03a_player_rendering.js",
+    147571
+   ],
+   [
+    "src/js/05h_cooking_serving.js",
+    112294
+   ],
+   [
+    "src/js/03c_towers_walls.js",
+    79823
+   ],
+   [
+    "src/js/03e_vehicle_fortress.js",
+    78063
+   ],
+   [
+    "src/js/06a_ui_hud.js",
+    70309
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "fareza777/sprite-game-roguelike": {
+  "branch": "main",
+  "nfiles": 2651,
+  "code_bytes": 1165530,
+  "top": [
+   [
+    "ArtSource/gen/bestiary.py",
+    28566
+   ],
+   [
+    "Oathdeep/.utmp/RelWithDebInfo/1e733v3b/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c",
+    24853
+   ],
+   [
+    "Oathdeep/.utmp/RelWithDebInfo/1e733v3b/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    24597
+   ],
+   [
+    "ArtSource/gen/heroes.py",
+    23649
+   ],
+   [
+    "Oathdeep/Assets/_Game/Scripts/Editor/OathdeepSetup.Prefabs.cs",
+    22674
+   ],
+   [
+    "Oathdeep/Assets/_Game/Scripts/Loot/ItemCatalog.cs",
+    20102
+   ]
+  ],
+  "shots": [
+   "ArtSource/gen/bonewarden_preview.png",
+   "docs/screenshots/2026-10-20-combat-greathall.png",
+   "docs/screenshots/2026-10-20-start-room.png"
+  ],
+  "truncated": false
+ },
+ "swear01/Verto": {
+  "branch": "main",
+  "nfiles": 361,
+  "code_bytes": 663730,
+  "top": [
+   [
+    "Assets/Phase/Runtime/PhaseEditor.cs",
+    66390
+   ],
+   [
+    "Assets/Phase/Tests/PlayMode/MenuTests.cs",
+    62960
+   ],
+   [
+    "Documentation/wiki/index.html",
+    62309
+   ],
+   [
+    "Assets/Phase/Runtime/PhaseCustomMap.cs",
+    34080
+   ],
+   [
+    "Assets/Phase/Tests/PlayMode/SandboxTests.cs",
+    31910
+   ],
+   [
+    "Assets/Phase/Runtime/PhasePixels.cs",
+    31255
+   ]
+  ],
+  "shots": [
+   "Assets/Phase/Resources/Levels/PhaseDemo1.1.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo1.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo12.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo13.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo14.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo15.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo2.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo3.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo4.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo5.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo6.png",
+   "Assets/Phase/Resources/Levels/PhaseDemo7.png"
+  ],
+  "truncated": false
+ },
+ "martijn-atakumi/Blockris": {
+  "branch": "main",
+  "nfiles": 9,
+  "code_bytes": 64498,
+  "top": [
+   [
+    "index.html",
+    62943
+   ],
+   [
+    "sw.js",
+    1555
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "harshit9643-png/blues-pizza-shop": {
+  "branch": "main",
+  "nfiles": 309,
+  "code_bytes": 1273873,
+  "top": [
+   [
+    "Blues_Pizza_Shop_Game/index.html",
+    109305
+   ],
+   [
+    "index.html",
+    109305
+   ],
+   [
+    "v2/index.html",
+    108911
+   ],
+   [
+    "v3/index.html",
+    108911
+   ],
+   [
+    "level1_draft2.html",
+    108877
+   ],
+   [
+    "drafts/IndigoTable_Draft1/index.html",
+    83185
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "colinwillow/culture_war": {
+  "branch": "main",
+  "nfiles": 407,
+  "code_bytes": 840173,
+  "top": [
+   [
+    "src/duel/duel.js",
+    93522
+   ],
+   [
+    "src/sim/sim.js",
+    62722
+   ],
+   [
+    "draco/draco_wasm_wrapper.js",
+    58763
+   ],
+   [
+    "src/render/sync.js",
+    57418
+   ],
+   [
+    "art/worker/kit.py",
+    49997
+   ],
+   [
+    "src/fx/fx.js",
+    47970
+   ]
+  ],
+  "shots": [
+   "art/worker/previews/b_floor.png",
+   "art/worker/previews/b_floor_chunks.png",
+   "art/worker/previews/b_roof_edge.png",
+   "art/worker/previews/b_rubble.png",
+   "art/worker/previews/b_wall_brick.png",
+   "art/worker/previews/b_wall_brick_chunks.png",
+   "art/worker/previews/b_wall_door.png",
+   "art/worker/previews/b_wall_door_chunks.png",
+   "art/worker/previews/b_wall_window.png",
+   "art/worker/previews/b_wall_window_chunks.png",
+   "art/worker/previews/bb_barracks.png",
+   "art/worker/previews/bb_depot.png"
+  ],
+  "truncated": false
+ },
+ "bradwindy/tanktangle": {
+  "branch": "main",
+  "nfiles": 90,
+  "code_bytes": 1255656,
+  "top": [
+   [
+    "worker-configuration.d.ts",
+    625880
+   ],
+   [
+    "src/client/ui.ts",
+    47328
+   ],
+   [
+    "src/worker/match.ts",
+    41341
+   ],
+   [
+    "src/worker/bot.ts",
+    39584
+   ],
+   [
+    "src/shared/sim.ts",
+    38430
+   ],
+   [
+    "src/client/lab.ts",
+    37902
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "yandayixia/ONI3D": {
+  "branch": "main",
+  "nfiles": 43,
+  "code_bytes": 91860,
+  "top": [
+   [
+    "src/render/Renderer.ts",
+    20585
+   ],
+   [
+    "src/render/foliageArt.ts",
+    9067
+   ],
+   [
+    "src/render/tileArt.ts",
+    8833
+   ],
+   [
+    "src/entities/Colonist.ts",
+    8459
+   ],
+   [
+    "src/world/worldgen.ts",
+    7594
+   ],
+   [
+    "src/world/foliage.ts",
+    7118
+   ]
+  ],
+  "shots": [
+   "screenshot.png"
+  ],
+  "truncated": false
+ },
+ "989-alt/space-puzzle": {
+  "branch": "master",
+  "nfiles": 135,
+  "code_bytes": 251822,
+  "top": [
+   [
+    "design/prototype/design-v2.html",
+    33453
+   ],
+   [
+    "tools/audit-puzzles.mjs",
+    33092
+   ],
+   [
+    "design/prototype/design-v4-game.html",
+    24080
+   ],
+   [
+    "src/main.js",
+    19402
+   ],
+   [
+    "src/core/layout.js",
+    18450
+   ],
+   [
+    "src/scene/world.js",
+    17590
+   ]
+  ],
+  "shots": [
+   "assets/img/cubi-cheer.webp",
+   "assets/img/cubi-idle.webp",
+   "assets/img/cubi-think.webp",
+   "assets/img/game-bg-v4.webp",
+   "assets/img/island-1.webp",
+   "assets/img/island-2.webp",
+   "assets/img/island-3.webp",
+   "assets/img/island-4.webp",
+   "assets/img/title-bg.webp",
+   "assets/img/tut-drag.webp",
+   "assets/img/tut-rotate.webp",
+   "assets/img/tut-view.webp"
+  ],
+  "truncated": false
+ },
+ "aviec21/playgolite": {
+  "branch": "main",
+  "nfiles": 91,
+  "code_bytes": 213803,
+  "top": [
+   [
+    "apps/web/components/GameScreen.tsx",
+    19556
+   ],
+   [
+    "packages/learn/src/lessons.ts",
+    13177
+   ],
+   [
+    "packages/learn/src/puzzles.ts",
+    12477
+   ],
+   [
+    "apps/web/components/ReviewScreen.tsx",
+    9549
+   ],
+   [
+    "packages/ai/src/nn/features.ts",
+    9307
+   ],
+   [
+    "apps/web/app/page.tsx",
+    8828
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "RolanthHuang/spellivery": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 257985,
+  "top": [
+   [
+    "index.html",
+    257985
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ckopp22/SimpleRacing": {
+  "branch": "main",
+  "nfiles": 77,
+  "code_bytes": 111320,
+  "top": [
+   [
+    "js/online.js",
+    13072
+   ],
+   [
+    "js/config.js",
+    11029
+   ],
+   [
+    "js/main.js",
+    9864
+   ],
+   [
+    "js/scenery.js",
+    8874
+   ],
+   [
+    "js/onlineSession.js",
+    7814
+   ],
+   [
+    "js/effects.js",
+    6320
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "jacktcj/Avelon": {
+  "branch": "main",
+  "nfiles": 37,
+  "code_bytes": 154728,
+  "top": [
+   [
+    "src/i18n.tsx",
+    30379
+   ],
+   [
+    "src/screens/SetupScreens.tsx",
+    22112
+   ],
+   [
+    "src/screens/GameScreens.tsx",
+    18099
+   ],
+   [
+    "src/art/RoleArt.tsx",
+    17812
+   ],
+   [
+    "src/game/engine.ts",
+    14660
+   ],
+   [
+    "src/screens/EndScreens.tsx",
+    10545
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "sajadZmani/Ash": {
+  "branch": "main",
+  "nfiles": 18,
+  "code_bytes": 88051,
+  "top": [
+   [
+    "data/words.js",
+    36653
+   ],
+   [
+    "js/app.js",
+    25129
+   ],
+   [
+    "index.html",
+    7610
+   ],
+   [
+    "js/game.js",
+    6269
+   ],
+   [
+    "js/words.js",
+    5026
+   ],
+   [
+    "js/storage.js",
+    2844
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "aloneden/times-tables-game": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 58396,
+  "top": [
+   [
+    "index.html",
+    58396
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "EliBarrett11/dungeonsandlegends": {
+  "branch": "main",
+  "nfiles": 12,
+  "code_bytes": 19836,
+  "top": [
+   [
+    "game.js",
+    16770
+   ],
+   [
+    "index.html",
+    3066
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "vayuda/boardgame-CLI": {
+  "branch": "main",
+  "nfiles": 21,
+  "code_bytes": 184245,
+  "top": [
+   [
+    "catan/web/index.html",
+    52928
+   ],
+   [
+    "catan/cli.py",
+    46734
+   ],
+   [
+    "catan/game.py",
+    37001
+   ],
+   [
+    "catan/bots.py",
+    13226
+   ],
+   [
+    "catan/render.py",
+    11550
+   ],
+   [
+    "catan/board.py",
+    8139
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "CapMyAzzElmo/best-friends-snes": {
+  "branch": "main",
+  "nfiles": 217,
+  "code_bytes": 433854,
+  "top": [
+   [
+    "src/stage.c",
+    54974
+   ],
+   [
+    "tools/foes.py",
+    47293
+   ],
+   [
+    "tools/music.py",
+    34192
+   ],
+   [
+    "tools/bonus.py",
+    26407
+   ],
+   [
+    "src/boss.c",
+    21268
+   ],
+   [
+    "src/fast.asm",
+    20285
+   ]
+  ],
+  "shots": [
+   "art/bg/bonus_preview.png",
+   "art/bg/st1_preview.png",
+   "art/bg/st2_preview.png",
+   "art/bg/st3_preview.png",
+   "art/bg/st4_preview.png",
+   "art/bg/st5_preview.png",
+   "art/bg/st6_preview.png",
+   "art/bg/stage1_preview.png",
+   "art/screens/bombs.png",
+   "art/screens/boss1.png",
+   "art/screens/boss3.png",
+   "art/screens/boss4.png"
+  ],
+  "truncated": false
+ },
+ "thangvu030198-ai/cyberhood-": {
+  "branch": "main",
+  "nfiles": 767,
+  "code_bytes": 2586586,
+  "top": [
+   [
+    "game/src/game/castAtlas.ts",
+    382660
+   ],
+   [
+    "game/src/i18n/dict.ts",
+    228869
+   ],
+   [
+    "game/src/game/nftAtlas.ts",
+    180032
+   ],
+   [
+    "game/src/level/platformer.ts",
+    122800
+   ],
+   [
+    "game/src/level/LevelScene.tsx",
+    83730
+   ],
+   [
+    "game/src/raid/raidSim.ts",
+    49723
+   ]
+  ],
+  "shots": [
+   "web/assets/img/egg.webp",
+   "web/assets/img/game/duel.webp",
+   "web/assets/img/game/hub_nft.webp",
+   "web/assets/img/game/hub_street.webp",
+   "web/assets/img/game/kart.webp",
+   "web/assets/img/game/lv_citadel_raid.webp",
+   "web/assets/img/game/raid.webp",
+   "web/assets/img/game/siege.webp",
+   "web/assets/img/key-bronze.png",
+   "web/assets/img/key-crystal.png",
+   "web/assets/img/key-jade.png",
+   "web/assets/img/mech-colossus.webp"
+  ],
+  "truncated": false
+ },
+ "proworks-th/hr-arcade": {
+  "branch": "main",
+  "nfiles": 313,
+  "code_bytes": 165335,
+  "top": [
+   [
+    "index.html",
+    83211
+   ],
+   [
+    "party.js",
+    32815
+   ],
+   [
+    "party3d.js",
+    27483
+   ],
+   [
+    "themes.html",
+    9196
+   ],
+   [
+    "party3d.html",
+    8163
+   ],
+   [
+    "online.js",
+    3805
+   ]
+  ],
+  "shots": [
+   "assets/3d/chars/previews/character-female-a.png",
+   "assets/3d/chars/previews/character-female-b.png",
+   "assets/3d/chars/previews/character-female-c.png",
+   "assets/3d/chars/previews/character-female-d.png",
+   "assets/3d/chars/previews/character-female-e.png",
+   "assets/3d/chars/previews/character-female-f.png",
+   "assets/3d/chars/previews/character-male-a.png",
+   "assets/3d/chars/previews/character-male-b.png",
+   "assets/3d/chars/previews/character-male-c.png",
+   "assets/3d/chars/previews/character-male-d.png",
+   "assets/3d/chars/previews/character-male-e.png",
+   "assets/3d/chars/previews/character-male-f.png"
+  ],
+  "truncated": false
+ },
+ "syafaatsaat/memory-legends-see-see": {
+  "branch": "main",
+  "nfiles": 52,
+  "code_bytes": 79912,
+  "top": [
+   [
+    "docs/design/Main.dc.html",
+    12306
+   ],
+   [
+    "docs/design/Game.dc.html",
+    6231
+   ],
+   [
+    "src/components/GameScreen.jsx",
+    5135
+   ],
+   [
+    "docs/design/Endless.dc.html",
+    5134
+   ],
+   [
+    "docs/design/Defeat.dc.html",
+    5073
+   ],
+   [
+    "docs/design/Victory.dc.html",
+    5025
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "kplumgc/emfman": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 129822,
+  "top": [
+   [
+    "index.html",
+    121019
+   ],
+   [
+    "api/_lib/emfman.js",
+    4834
+   ],
+   [
+    "api/submit-score.js",
+    2374
+   ],
+   [
+    "api/start-game.js",
+    1072
+   ],
+   [
+    "api/leaderboard.js",
+    523
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "AlbertHX86/gomoku": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 28632,
+  "top": [
+   [
+    "app.js",
+    17928
+   ],
+   [
+    "index.html",
+    10704
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "schallo/mathe-genius": {
+  "branch": "main",
+  "nfiles": 121,
+  "code_bytes": 328003,
+  "top": [
+   [
+    "src/scenes/BattleScene.ts",
+    17443
+   ],
+   [
+    "src/scenes/WildScene.ts",
+    17127
+   ],
+   [
+    "src/math/hints.ts",
+    13050
+   ],
+   [
+    "src/scenes/ShowScene.ts",
+    12681
+   ],
+   [
+    "src/scenes/VillageScene.ts",
+    10276
+   ],
+   [
+    "src/state/save.ts",
+    9136
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Sourabh004/viralgamer": {
+  "branch": "main",
+  "nfiles": 34,
+  "code_bytes": 125713,
+  "top": [
+   [
+    "game.js",
+    51391
+   ],
+   [
+    "ui.js",
+    26887
+   ],
+   [
+    "index.html",
+    23669
+   ],
+   [
+    "scene.js",
+    17223
+   ],
+   [
+    "events.js",
+    1573
+   ],
+   [
+    "team.js",
+    1411
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "dioaroinc/nightduelbaseball": {
+  "branch": "main",
+  "nfiles": 52,
+  "code_bytes": 752566,
+  "top": [
+   [
+    "baseball/index.html",
+    165711
+   ],
+   [
+    "game.js",
+    113091
+   ],
+   [
+    "basketball/index.html",
+    89413
+   ],
+   [
+    "soccer/index.html",
+    83323
+   ],
+   [
+    "tennis/index.html",
+    77193
+   ],
+   [
+    "clay/index.html",
+    76703
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rix346/godot": {
+  "branch": "main",
+  "nfiles": 94,
+  "code_bytes": 46429,
+  "top": [
+   [
+    "scripts/main.gd",
+    20886
+   ],
+   [
+    "scripts/cards.gd",
+    7698
+   ],
+   [
+    "scripts/level_up_ui.gd",
+    4823
+   ],
+   [
+    "scripts/title.gd",
+    4115
+   ],
+   [
+    "scripts/unit.gd",
+    3214
+   ],
+   [
+    "scripts/enemy.gd",
+    2350
+   ]
+  ],
+  "shots": [
+   "docs/game.png",
+   "docs/level-up.png",
+   "docs/title.png"
+  ],
+  "truncated": false
+ },
+ "GSM10-3/OpenChess": {
+  "branch": "main",
+  "nfiles": 32,
+  "code_bytes": 103835,
+  "top": [
+   [
+    "src/game/Game.js",
+    35085
+   ],
+   [
+    "src/ui/painter.js",
+    12576
+   ],
+   [
+    "src/ui/GameScreen.js",
+    7697
+   ],
+   [
+    "src/ui/Hud.js",
+    7333
+   ],
+   [
+    "src/ui/ChessPanel.js",
+    6896
+   ],
+   [
+    "src/game/chess.js",
+    5776
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "jremlinger-SV/rix": {
+  "branch": "main",
+  "nfiles": 28,
+  "code_bytes": 411007,
+  "top": [
+   [
+    "index.html",
+    199118
+   ],
+   [
+    "jemrix-source.html",
+    194030
+   ],
+   [
+    "build.py",
+    12080
+   ],
+   [
+    "sw.template.js",
+    2638
+   ],
+   [
+    "sw.js",
+    2637
+   ],
+   [
+    "config.js",
+    504
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "UlisseMini/4e55-game": {
+  "branch": "main",
+  "nfiles": 37054,
+  "code_bytes": 78829,
+  "top": [
+   [
+    "appendix/index.html",
+    38821
+   ],
+   [
+    "index.html",
+    26110
+   ],
+   [
+    "microscope/index.html",
+    13898
+   ]
+  ],
+  "shots": [
+   "img/0.jpg",
+   "img/1.jpg",
+   "img/10.jpg",
+   "img/100.jpg",
+   "img/1000.jpg",
+   "img/10000.jpg",
+   "img/10001.jpg",
+   "img/10002.jpg",
+   "img/10003.jpg",
+   "img/10004.jpg",
+   "img/10005.jpg",
+   "img/10006.jpg"
+  ],
+  "truncated": false
+ },
+ "DovYT/route-game": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 21133,
+  "top": [
+   [
+    "index.html",
+    21133
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "BYEONGJUN33/NeedManyMoney": {
+  "branch": "ccr-d57f3fdd-wysyna",
+  "nfiles": 285,
+  "code_bytes": 966358,
+  "top": [
+   [
+    "game/src/i18n-more.js",
+    46192
+   ],
+   [
+    "src/assets/js/taxtable-2026.js",
+    45260
+   ],
+   [
+    "game/src/game.js",
+    33781
+   ],
+   [
+    "freelance/kit/lib/render.mjs",
+    26763
+   ],
+   [
+    "game/src/ui.js",
+    23531
+   ],
+   [
+    "src/pages/vat.html",
+    23351
+   ]
+  ],
+  "shots": [
+   "blocks/assets/store/screenshot-1.png",
+   "freelance/kmong/images/detail-auto-1.jpg",
+   "freelance/kmong/images/detail-auto-2.jpg",
+   "freelance/kmong/images/detail-auto.jpg",
+   "freelance/kmong/images/detail-web-1.jpg",
+   "freelance/kmong/images/detail-web-2.jpg",
+   "freelance/kmong/images/detail-web-3.jpg",
+   "freelance/kmong/images/detail-web-4.jpg",
+   "freelance/kmong/images/detail-web.jpg",
+   "freelance/kmong/images/portfolio-app.jpg",
+   "freelance/kmong/images/portfolio-cafe.jpg",
+   "freelance/kmong/images/portfolio-interior.jpg"
+  ],
+  "truncated": false
+ },
+ "benny-abramov/toddler-games": {
+  "branch": "main",
+  "nfiles": 124,
+  "code_bytes": 14680,
+  "top": [
+   [
+    "app.js",
+    13722
+   ],
+   [
+    "index.html",
+    958
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "alrc21/mexica-chess": {
+  "branch": "main",
+  "nfiles": 228,
+  "code_bytes": 380887,
+  "top": [
+   [
+    "src/stage.ts",
+    43101
+   ],
+   [
+    "blender/kit.py",
+    32688
+   ],
+   [
+    "public/engine/stockfish-19-lite-single.js",
+    28230
+   ],
+   [
+    "src/board.ts",
+    21370
+   ],
+   [
+    "src/rubble.ts",
+    19515
+   ],
+   [
+    "src/App.tsx",
+    19348
+   ]
+  ],
+  "shots": [
+   "docs/evidence/phase0-before-after.jpg",
+   "docs/evidence/phase0-blender-sculpt-vs-bake.png",
+   "docs/evidence/phase0-closeup.png",
+   "docs/evidence/phase0-desktop.png",
+   "docs/evidence/phase0-mobile.png",
+   "docs/evidence/phase2-backs-closeup.png",
+   "docs/evidence/phase2-board-desktop.png",
+   "docs/evidence/phase2-mobile.png",
+   "docs/evidence/phase3-capture.png",
+   "docs/evidence/phase3-checkmate.png",
+   "docs/evidence/phase3-game.png",
+   "docs/evidence/phase3-intro.png"
+  ],
+  "truncated": false
+ },
+ "boidbit/stack-tower": {
+  "branch": "main",
+  "nfiles": 20,
+  "code_bytes": 155827,
+  "top": [
+   [
+    "index.html",
+    150935
+   ],
+   [
+    "docs/privacy.html",
+    2909
+   ],
+   [
+    "scripts/patch-android.mjs",
+    1478
+   ],
+   [
+    "scripts/build-web.mjs",
+    262
+   ],
+   [
+    "docs/index.html",
+    243
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "artimusrocks-create/ALIAS": {
+  "branch": "main",
+  "nfiles": 10,
+  "code_bytes": 167549,
+  "top": [
+   [
+    "index.html",
+    56780
+   ],
+   [
+    "deck1.js",
+    28291
+   ],
+   [
+    "deck2.js",
+    23622
+   ],
+   [
+    "deck3.js",
+    21309
+   ],
+   [
+    "online.js",
+    18122
+   ],
+   [
+    "api/room.js",
+    9862
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "ninjaMonkey7/whose-feet": {
+  "branch": "main",
+  "nfiles": 6,
+  "code_bytes": 102297,
+  "top": [
+   [
+    "index.html",
+    101953
+   ],
+   [
+    "config.js",
+    344
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "phanbt/Cookie_quizz_show": {
+  "branch": "main",
+  "nfiles": 2,
+  "code_bytes": 49596,
+  "top": [
+   [
+    "index.html",
+    49596
+   ]
+  ],
+  "shots": [],
+  "truncated": false
  }
 }
