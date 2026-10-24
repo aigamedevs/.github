@@ -1,0 +1,602 @@
+{
+ "Tbone94/keyhaven": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "GigaOwO/game_test": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "neofitov/hold-the-fire": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "RaphaelKhalid/clawd-dino": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "AerithMetiq/CrossCodeBox": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "adrc772000/shark-octopus": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Lampost-123/ember": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "cggs-matthew-pham/avoid3_ui": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Treyyy-dev/AniWars": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "dor-eng/bere-sheet.games": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "miguel-apereira/TheGetawayRecomp": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "mjaylove22/urndle": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Yash-Singh1/wipeout-xl-rewrite": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Slurpas/larrutan": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "ElKev118/ghostrecon2-recomp": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "cdondi/game-tracker": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "farnazj/eecs493-thinkaloud": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "dkaminsky100-coder/last-card": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "derekboy15/recruit-plus": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "artificialfear/grudgeball": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "monkeyx-net/galaga": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "nicholaspanico97-art/Islandwar": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "youssefmmalak/chess": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "dkeslowitz-afk/Defensive": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Jimmy-brimm/sixty-stairs": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "hotelwhyfy/ScratchesRedux": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "westernbear/GuessingGame": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "tkalva2-source/XE-Widgets": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "PapaMikeJuliet/animal-in-my-mind": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Warthewolf/ac8survivalmod": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "adgsenpai/nvme-power-tune": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "chrislanejones/future-chrislanejones-beachmag": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "boenchen1112/wafer-road": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "WoodyWizard/SporeCoop": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "NZVMan/escape-rooms": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "supermanbin/study-game": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "jupixels/game-sounds": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "lopezlav/biplanes": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Dickybima/vozz": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Adnan78623/kytyps5-demons-souls-linux-launcher": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "TurboTemple/TwineStory": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "pusam/nolja": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "TheGD26/rock-paper-scissors": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "brendatogo68-dev/UMW-GBUS-562": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "congp/wordsearch": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "matthewcastellano99-creator/portal_clone": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "andrew1830/games": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Firex2200/fighter": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "bigbossa/Game_Dev": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "ngfamclam-cpu/kings-cup": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "ennywnad/rink-rat-mayhem": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "999novanity4life-glitch/OmegaDev": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "dj-qwik/ether-road": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "SirKevinTheFirst/jungle-tag": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "W1nOfGood/burgurgame": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Apexal/photo-dojo-revival": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "thanhvd/game-2048": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "blham/chegal-minecraft-launcher": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "vonduzenstudios-create/Pixel-Fighter": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "InajaraRutyna/maane-syv": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "WlnJBrn09/WayCiv": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "bheppe/gpsp-3d": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "iamboosted/fire-mission-play": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "ItsDanik/DXXRebirth_MiSTer": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "kevinjesu11/EA-Game-Analytics": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Gkrumbach07/bwca-canoe": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "odooraaron-lab/Basketballstats": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "xhoboo/KebonKosongv3": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Armusss/geist-decompiled": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "thadomaloma/hnahsin-play": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "dustin4d/worms3d-recomp": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "bqholloway/hmwh-site": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Marcsarno/Sarno-Legends": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "semputs/gtype": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "evanstom273/Claude-test-II": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Jazzneo/RH-launcher": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "jwmap3/ROADTOLIFE": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "prasantkumarsahu/kalinga-lang": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "KW-Wargame/satwar-releases-playtest": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "LumielX/GameByClaude": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "stntkero/RubyGame": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "jaineil32624/hypercar-x-drive-unity": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "jdrudolph/coding-game": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "WaterLily5297/claude-chan-isaac": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "tsatria03/Mindsight-Windows": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "amerikrainian/dicevoders": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "leftisthominid/lr-ffxiii-port": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Boogs77/miniVIC_games": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "servaltullius/SkeeHeadPartLookupFix": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "wow121/mwi-battle-fx": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "jamiemtaylor95/Technically": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Treyyy-dev/Dream-Ball": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "pptpddd/EngGames": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "MathCatsMathCats/ChromaticDrift": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "symyoulater/Thin-Place-VR": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "zuraidah94/public-doc": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "kamikaze-skynet/StarterSpells": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "patrickscaptainslog/Struggle-Bus-World": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "1990jjhh-ctrl/Beyond-Mastery": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "redconfetti/atoll": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "zeveck/bloom-hop": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "jaineil32624/whiskerwag": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "toniisound/doa3-nx": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "govindpvenu/glichess": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "rguillon/stratoblaster": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "mamcjr/BOTWRecompAndroid": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "ApocryphaRealm/NewGameInThirdPerson": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "l-brendle/live-quiz": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "mailpaulthere/yahtzee-scorecard": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Leymo0/Conchilla": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "thegute/Guitar-app": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "lohhaoyuan/bridge": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "davidddhollander-cmd/GullinIT": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "brendongl/hello-reskin": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "ajoshi1education/allenamento": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Ander-tsx/horror-game": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "Snenjih/cp2077-codeware-2.5": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "mattbocks9-dev/Aos-repository-": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "playingpossumm/cellbound": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "pkinvest4-ux/nfl-pricing": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "kinnuworks/accomplice": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "hk21x/pgr1-recomp": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Tharusha-dev/ReidGameArena": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "douggue/gsmlite": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "wowlocal/burn-rate": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "gth27/repackd": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "xsota/filegarden": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "yashnimde-ship-it/sonions": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "fbkarsdorp/nachtdienst-2d": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "fabiansprycha/Glacier": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "vakarkhan17/Roblox": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "yoonwoojeong/APOLLONIUS": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "VGGHAck3r/vanguard-stats": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "b-gowland/narrated-self": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "a7ex-turcan/wheres-my-crown-web": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "max-mayorov/take5online": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "mzducmax/zonee-game-vault-assets": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "Marcopolo234231/neonvortex": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "thiscanrun/Thiscanrun": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "FiTH-g1gGLe/COD-MW4-Config-Tool": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "thetomorrowteacher/johnson-game-night": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "NaraKitty/DBZ64": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "HKCMADAO/jackpot-dive": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "glitchless-gg/glitch-arcade": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "bwclark14/CS": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "KevinPoteau/Umapasteque": {
+  "batch": "b01",
+  "decision": "reject"
+ },
+ "auzanhasfi/game-preview": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "bassettijonathan-rgb/Colony_game": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "JakaMale/BombLine": {
+  "batch": "b01",
+  "decision": "accept"
+ },
+ "jaybecina/hearthvale": {
+  "batch": "b01",
+  "decision": "accept"
+ }
+}

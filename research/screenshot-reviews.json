@@ -8520,6 +8520,286 @@
       "reason": "Use this frame for the game-level score. Carnival coin pusher with neon framing and clear prompt",
       "reviewed_on": "2026-10-23",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/neofitov/hold-the-fire",
+      "url": "https://github.com/neofitov/hold-the-fire/blob/main/shots/1-day.png",
+      "game": "Hold the Fire",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright top-down camp-defence scene with walled base, units and a clear HUD; cohesive cartoon style and readable layout.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Slurpas/larrutan",
+      "url": "https://github.com/Slurpas/larrutan/blob/main/docs/art-direction/pixel16-desktop.png",
+      "game": "Lärrutan",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Simple flat pixel town map with a child avatar, trees and a pond; clean and readable but sparse.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/PapaMikeJuliet/animal-in-my-mind",
+      "url": "https://github.com/PapaMikeJuliet/animal-in-my-mind/blob/main/images/title.jpg",
+      "game": "Animal in My Mind",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Colourful illustrated title art with animals; polished but a title card, not gameplay.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/boenchen1112/wafer-road",
+      "url": "https://github.com/boenchen1112/wafer-road/blob/main/docs/screenshot.png",
+      "game": "晶圓之路 Wafer Road",
+      "score_10": 5.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark card-based management UI with upgrade slots; tidy but text-heavy with little scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bigbossa/Game_Dev",
+      "url": "https://github.com/bigbossa/Game_Dev/blob/main/class-art/demon-models/archer-long-source.png",
+      "game": "ธรรมะ อธรรม Online",
+      "score_10": 4.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Grid of repeated character sprite frames on black; a sprite sheet, not a game scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ennywnad/rink-rat-mayhem",
+      "url": "https://github.com/ennywnad/rink-rat-mayhem/blob/main/assets/screenshot.jpg",
+      "game": "Rink Rat Mayhem",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D hockey rink with players, logo ice and scoreboard HUD; solid lighting and readable action.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Gkrumbach07/bwca-canoe",
+      "url": "https://github.com/Gkrumbach07/bwca-canoe/blob/main/docs/images/trailer-poster.jpg",
+      "game": "BWCA Canoe",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Atmospheric lake at sunset with canoe, island silhouette and soft reflections; striking scene, minimal HUD.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/thadomaloma/hnahsin-play",
+      "url": "https://github.com/thadomaloma/hnahsin-play/blob/main/og.jpg",
+      "game": "Hnahsin Games",
+      "score_10": 4.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Flower-themed title screen with tile lettering; cheerful but only a title card.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Marcsarno/Sarno-Legends",
+      "url": "https://github.com/Marcsarno/Sarno-Legends/blob/main/public/assets/baked/cards/adrenaline_shot.webp",
+      "game": "Sarno Legends",
+      "score_10": 4.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Single painted character render on a plain background; concept art rather than gameplay.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/KW-Wargame/satwar-releases-playtest",
+      "url": "https://github.com/KW-Wargame/satwar-releases-playtest/blob/main/images/g-space.jpg",
+      "game": "SATWAR",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark orbital map with trajectories and instrument HUD; coherent sim look but low contrast.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/hypercar-x-drive-unity",
+      "url": "https://github.com/jaineil32624/hypercar-x-drive-unity/blob/main/docs/shots/04_race_chase.png",
+      "game": "HYPERCAR-X Drive",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Plain 3D road with a car and autopilot speed HUD; functional but very basic scenery.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jdrudolph/coding-game",
+      "url": "https://github.com/jdrudolph/coding-game/blob/ccr-ee965c46-moax6o/share-image.png",
+      "game": "Code Blue: The Ward Round",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel hospital ward with a title panel; charming pixel art, partially a title layout.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Boogs77/miniVIC_games",
+      "url": "https://github.com/Boogs77/miniVIC_games/blob/main/screenshots/tank_game.png",
+      "game": "miniVIC Games: 65C02 Arcade Collection",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Green maze tank battle screen in 8-bit style; authentic but very simple.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jamiemtaylor95/Technically",
+      "url": "https://github.com/jamiemtaylor95/Technically/blob/master/store/screenshots/1-home.png",
+      "game": "Technically!",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Phone party-game menu screen; clean UI but no gameplay scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/patrickscaptainslog/Struggle-Bus-World",
+      "url": "https://github.com/patrickscaptainslog/Struggle-Bus-World/blob/main/shots/altitude/downtown-030m.png",
+      "game": "Struggle Bus",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Tall narrow aerial view of a grey 3D city with a small bus; interesting idea but awkward framing.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/redconfetti/atoll",
+      "url": "https://github.com/redconfetti/atoll/blob/master/assets/screenshots/01-title.png",
+      "game": "Bikini Atoll",
+      "score_10": 5.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. SNES-style title over an atoll seascape; retro charm but a title screen.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/zeveck/bloom-hop",
+      "url": "https://github.com/zeveck/bloom-hop/blob/main/media/screenshots/morning.png",
+      "game": "Bloom Hop",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Lily-pond puzzle board with pads, frog and side controls; soft cohesive art and clear board.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/whiskerwag",
+      "url": "https://github.com/jaineil32624/whiskerwag/blob/main/screenshots/banner.png",
+      "game": "Whiskerwag",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Strip of cute virtual-pet room screens with a cat; consistent illustrated style.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/govindpvenu/glichess",
+      "url": "https://github.com/govindpvenu/glichess/blob/main/docs/demo.gif",
+      "game": "Glichess",
+      "score_10": 3.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark landing page for an online chess site; mostly empty UI.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/davidddhollander-cmd/GullinIT",
+      "url": "https://github.com/davidddhollander-cmd/GullinIT/blob/main/assets/previews/adult-cast-32bit-style-review-v2.png",
+      "game": "Gullin' It",
+      "score_10": 4.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Three pixel character sprites on black; asset art, not a scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/playingpossumm/cellbound",
+      "url": "https://github.com/playingpossumm/cellbound/blob/main/docs/laptop.png",
+      "game": "Cellbound",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark variant sudoku board with killer-cage lines and keypad; elegant and readable.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kinnuworks/accomplice",
+      "url": "https://github.com/kinnuworks/accomplice/blob/master/apps/echo-sim/screenshots/out/01-home.png",
+      "game": "Accomplice",
+      "score_10": 3.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. TV app home screen with text cards; mostly interface.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/wowlocal/burn-rate",
+      "url": "https://github.com/wowlocal/burn-rate/blob/main/docs/screenshots/founders.png",
+      "game": "Burn Rate",
+      "score_10": 5.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pixel character-select grid of founder portraits; lively art, menu screen.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yashnimde-ship-it/sonions",
+      "url": "https://github.com/yashnimde-ship-it/sonions/blob/main/public/assets/map/preview.png",
+      "game": "Bandit",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Detailed top-down pixel estate with house interiors, garden and pool; rich, cohesive scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/fbkarsdorp/nachtdienst-2d",
+      "url": "https://github.com/fbkarsdorp/nachtdienst-2d/blob/main/social/github-preview.png",
+      "game": "Nachtdienst",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Painted 2D night street with a character and building facade; moody, atmospheric art.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/fabiansprycha/Glacier",
+      "url": "https://github.com/fabiansprycha/Glacier/blob/main/shots14/menu.png",
+      "game": "Glacier: Abandoned Offices",
+      "score_10": 4.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Monochrome blue terminal-style title and help screen; minimal.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/glitchless-gg/glitch-arcade",
+      "url": "https://github.com/glitchless-gg/glitch-arcade/blob/main/assets/screenshots/blastpit-game.png",
+      "game": "The Glitch Arcade",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon 3D arena shooter view with enemies and weapon HUD; energetic but busy.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaybecina/hearthvale",
+      "url": "https://github.com/jaybecina/hearthvale/blob/main/docs/media/spring.png",
+      "game": "Hearthvale",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Cozy 3D farm plot with a house corner, crops and hotbar HUD; clean but plain.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

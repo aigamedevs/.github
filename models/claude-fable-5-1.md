@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **262 curated game units** from **194 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **263 curated game units** from **195 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **11 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **37 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **70 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **71 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -279,6 +279,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**min box**](../games/min-box/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/mitodrummer/min-punchout/commit/47d0c9b9b96d00be64c43269bb27c4bfed78fa69) · [files](https://github.com/mitodrummer/min-punchout/blob/main/src/sim.rs)
 - [**Op Simulator**](../games/op-simulator/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/ttechsyd/op-simulator/commit/a972d5bbcc62de5c9a8480dac7f9ba7da6a163fb) · [files](https://github.com/ttechsyd/op-simulator/blob/main/app/src/App.tsx)
 - [**Root Access — design bench**](../games/root-access-design-bench/readme.md) — ⭐ **7.1/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/ugurkc/root-access/commit/8aa351c383c263041bb6d08e778e8a55ce0b7e5d) · [files](https://github.com/ugurkc/root-access/blob/main/index.html) · [play](https://ugurkc.github.io/root-access)
+- [**The One-Eyed Pirate Shark & the Dancing Octopus**](../games/the-one-eyed-pirate-shark-the-dancing-octopus/readme.md) — ⭐ **7.1/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/adrc772000/shark-octopus/commit/bccb509cf900a4a556d6cc968934076ae321ddf7) · [files](https://github.com/adrc772000/shark-octopus/blob/main/index-v2.html)
 - [**Baton**](../games/baton/readme.md) — ⭐ **7.0/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/PePoDev/baton/commit/0b2d31eda2c644de42d6d1115723fb1076d1c8c3) · [files](https://github.com/PePoDev/baton/blob/main/public/demos/index.html)
 - [**Jelajah Antariksa**](../games/jelajah-antariksa/readme.md) — ⭐ **7.0/10** · Claude Fable 5.1 · HTML, JavaScript, Three.js · [≈ creator-reported model evidence](https://github.com/RafiulM/3d-game-fable5.1/blob/main/README.md)
 - [**Movieprox, Musicprox & Geoprox**](../games/movieprox-musicprox-geoprox/readme.md) — ⭐ **7.0/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/filipbackstrom/movieprox/commit/bb586b0cedeed167f87f43f89d09b8abaa6bba19) · [files](https://github.com/filipbackstrom/movieprox/blob/main/src/app.js)
