@@ -2647,5 +2647,717 @@
    "docs/media/winter.png"
   ],
   "truncated": false
+ },
+ "Hotankhoi/zombie-game": {
+  "branch": "main",
+  "nfiles": 46,
+  "code_bytes": 35121,
+  "top": [
+   [
+    "net/session.ts",
+    4381
+   ],
+   [
+    "net/trystero.ts",
+    3292
+   ],
+   [
+    "client/ui/lobbyPanel.ts",
+    3256
+   ],
+   [
+    "client/main.ts",
+    2774
+   ],
+   [
+    "net/conditions.ts",
+    2756
+   ],
+   [
+    "net/loopback.ts",
+    2591
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Vaprin32/smash": {
+  "branch": "main",
+  "nfiles": 106,
+  "code_bytes": 372780,
+  "top": [
+   [
+    "src/render/scenery.ts",
+    38780
+   ],
+   [
+    "src/render/skeleton.ts",
+    37001
+   ],
+   [
+    "src/ai/cpu.ts",
+    21784
+   ],
+   [
+    "src/render/animations.ts",
+    15889
+   ],
+   [
+    "src/net/session.ts",
+    12924
+   ],
+   [
+    "src/ui/charSelect.ts",
+    10873
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "urraf/Blitz-Buggies": {
+  "branch": "main",
+  "nfiles": 114,
+  "code_bytes": 333290,
+  "top": [
+   [
+    "client/src/game/client.ts",
+    33925
+   ],
+   [
+    "client/src/scene/Entities.tsx",
+    27620
+   ],
+   [
+    "shared/src/match.ts",
+    24879
+   ],
+   [
+    "client/src/scene/Kart.tsx",
+    21539
+   ],
+   [
+    "client/src/scene/Arena.tsx",
+    17038
+   ],
+   [
+    "shared/src/arenas.ts",
+    15411
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "maxexq/mobile-vault": {
+  "branch": "main",
+  "nfiles": 546,
+  "code_bytes": 1704640,
+  "top": [
+   [
+    "web/index.js",
+    279815
+   ],
+   [
+    "scripts/autoload/game.gd",
+    78227
+   ],
+   [
+    ".claude/skills/godot-nodes-scenes/scripts/check_godot_project.py",
+    54905
+   ],
+   [
+    "ai/mv_ai/ui/static/index.html",
+    48801
+   ],
+   [
+    "scripts/autoload/combat.gd",
+    46486
+   ],
+   [
+    "tools/art/rooms.py",
+    43927
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "imthegoodboy/alice-in-botherland": {
+  "branch": "main",
+  "nfiles": 1521,
+  "code_bytes": 692460,
+  "top": [
+   [
+    "Source/AliceInBotherland/UI/SAIBHud.cpp",
+    56654
+   ],
+   [
+    "Source/AliceInBotherland/UI/SAIBMainMenu.cpp",
+    42774
+   ],
+   [
+    "Source/AliceInBotherland/UI/SAIBGameUI.cpp",
+    38432
+   ],
+   [
+    "Source/AliceInBotherland/Game/AIBGameMode.cpp",
+    37537
+   ],
+   [
+    "Source/AliceInBotherland/UI/SAIBHudPanels.cpp",
+    34364
+   ],
+   [
+    "Source/AliceInBotherland/Player/AIBPlayerController.cpp",
+    34021
+   ]
+  ],
+  "shots": [
+   "Content/AliceInBotherland/UI/Images/Crest_0.png",
+   "Content/AliceInBotherland/UI/Images/Crest_1.png",
+   "Content/AliceInBotherland/UI/Images/Crest_2.png",
+   "Content/AliceInBotherland/UI/Images/Crest_3.png",
+   "Content/AliceInBotherland/UI/Images/Crest_4.png",
+   "Content/AliceInBotherland/UI/Images/Glow_Soft.png",
+   "Content/AliceInBotherland/UI/Images/GradientUp.png",
+   "Content/AliceInBotherland/UI/Images/Grain.png",
+   "Content/AliceInBotherland/UI/Images/Ring.png",
+   "Content/AliceInBotherland/UI/Images/Suit_Club.png",
+   "Content/AliceInBotherland/UI/Images/Suit_Club_Glow.png",
+   "Content/AliceInBotherland/UI/Images/Suit_Diamond.png"
+  ],
+  "truncated": false
+ },
+ "tuankun-279/Caro_XO": {
+  "branch": "main",
+  "nfiles": 405,
+  "code_bytes": 196489,
+  "top": [
+   [
+    "Assets/_Caro/Editor/CaroUiBuilder.cs",
+    38420
+   ],
+   [
+    "Assets/_Caro/Scripts/UI/BoardView.cs",
+    28290
+   ],
+   [
+    "Assets/_Caro/Scripts/UI/GameScreen.cs",
+    25210
+   ],
+   [
+    "Assets/_Caro/Scripts/AI/CaroAI.cs",
+    15349
+   ],
+   [
+    "Assets/_Caro/Tests/AITests.cs",
+    11469
+   ],
+   [
+    "Assets/_Caro/Scripts/UI/Feedback.cs",
+    10940
+   ]
+  ],
+  "shots": [
+   "docs/gameplay.gif"
+  ],
+  "truncated": false
+ },
+ "Walteroelf/EscapeGame1": {
+  "branch": "main",
+  "nfiles": 10,
+  "code_bytes": 139929,
+  "top": [
+   [
+    "niveau4.html",
+    27438
+   ],
+   [
+    "niveau3.html",
+    26941
+   ],
+   [
+    "niveau2.html",
+    26644
+   ],
+   [
+    "niveau1.html",
+    26256
+   ],
+   [
+    "quelle/engine.html",
+    23680
+   ],
+   [
+    "quelle/build.py",
+    6496
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "f2456hhchv-bit/shattered-reef": {
+  "branch": "main",
+  "nfiles": 217,
+  "code_bytes": 2395121,
+  "top": [
+   [
+    ".vite/deps/chunk-OWWQZT3Q.js",
+    1694625
+   ],
+   [
+    "src/game/sim/game.ts",
+    70417
+   ],
+   [
+    "src/ui/ui.ts",
+    53744
+   ],
+   [
+    "src/render/renderer.ts",
+    47281
+   ],
+   [
+    "legacy/index.html",
+    43528
+   ],
+   [
+    ".vite/deps/three_examples_jsm_utils_BufferGeometryUtils__js.js",
+    30442
+   ]
+  ],
+  "shots": [
+   "docs/art-pass-1-before-after.jpg",
+   "docs/art-pass-1-items.jpg",
+   "docs/beaches.jpg",
+   "docs/characters-before-after.jpg",
+   "docs/characters-close.jpg",
+   "docs/graphics-2-before-after.jpg",
+   "docs/island-map.png",
+   "docs/portraits.png",
+   "docs/style-test/final-bright-laptop.png",
+   "docs/style-test/final-bright-phone.png",
+   "docs/style-test/final-close-bright-laptop.png",
+   "docs/style-test/final-close-dark-laptop.png"
+  ],
+  "truncated": false
+ },
+ "erroljayalt/kitten-summon-arena": {
+  "branch": "main",
+  "nfiles": 3,
+  "code_bytes": 314172,
+  "top": [
+   [
+    "index.html",
+    314172
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "thesigns/HotAir": {
+  "branch": "main",
+  "nfiles": 43,
+  "code_bytes": 246769,
+  "top": [
+   [
+    "tools/blender/models.py",
+    41856
+   ],
+   [
+    "js/world/polder.js",
+    21174
+   ],
+   [
+    "js/main.js",
+    20696
+   ],
+   [
+    "js/world/polderView.js",
+    14419
+   ],
+   [
+    "js/config.js",
+    12871
+   ],
+   [
+    "js/ui/hud.js",
+    11691
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "huykc1/fish-loop-phaser-demo": {
+  "branch": "main",
+  "nfiles": 175,
+  "code_bytes": 286594,
+  "top": [
+   [
+    "editor/src/main.ts",
+    48478
+   ],
+   [
+    "src/game/Board.ts",
+    31376
+   ],
+   [
+    "src/game/textures.ts",
+    18153
+   ],
+   [
+    "src/core/levelUtil.ts",
+    17013
+   ],
+   [
+    "src/scenes/Game.ts",
+    16731
+   ],
+   [
+    "art/tools/cut_assets.py",
+    16355
+   ]
+  ],
+  "shots": [
+   "art/reference/gameplay-1080x1920.webp"
+  ],
+  "truncated": false
+ },
+ "crownfall90-dot/play": {
+  "branch": "main",
+  "nfiles": 84,
+  "code_bytes": 587050,
+  "top": [
+   [
+    "app/src/main/assets/index.html",
+    273468
+   ],
+   [
+    "web/game.html",
+    271826
+   ],
+   [
+    "app/src/main/java/com/crownfall/mosaic/MainActivity.java",
+    11902
+   ],
+   [
+    "app/src/github/java/com/crownfall/mosaic/Updater.java",
+    7827
+   ],
+   [
+    "scripts/store-assets.js",
+    5418
+   ],
+   [
+    "app/src/main/java/com/crownfall/mosaic/UpdateNotifier.java",
+    3837
+   ]
+  ],
+  "shots": [
+   "store/screenshots/1-menu.png",
+   "store/screenshots/2-game.png",
+   "store/screenshots/4-setup.png",
+   "store/screenshots/5-results.png",
+   "store/screenshots/6-shop.png"
+  ],
+  "truncated": false
+ },
+ "Xuanhuy39/tidy": {
+  "branch": "main",
+  "nfiles": 26,
+  "code_bytes": 111945,
+  "top": [
+   [
+    "src/scene/models.ts",
+    29699
+   ],
+   [
+    "src/main.ts",
+    15360
+   ],
+   [
+    "src/scene/rooms.ts",
+    14726
+   ],
+   [
+    "src/scene/stage.ts",
+    11678
+   ],
+   [
+    "src/ui/hud.ts",
+    11347
+   ],
+   [
+    "src/game/logic.ts",
+    9908
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "markahman/ascii-craft": {
+  "branch": "main",
+  "nfiles": 13,
+  "code_bytes": 123875,
+  "top": [
+   [
+    "src/main.js",
+    42867
+   ],
+   [
+    "src/world.js",
+    23209
+   ],
+   [
+    "src/renderer.js",
+    20087
+   ],
+   [
+    "src/mobs.js",
+    19045
+   ],
+   [
+    "src/blocks.js",
+    9963
+   ],
+   [
+    "src/player.js",
+    4979
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "49zp2dm2j5-arch/magma-climb-play": {
+  "branch": "main",
+  "nfiles": 10,
+  "code_bytes": 684746,
+  "top": [
+   [
+    "assets/index-Fn9F2Pgg.js",
+    676667
+   ],
+   [
+    "index.html",
+    8079
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "harvey2807/vong_am": {
+  "branch": "main",
+  "nfiles": 126,
+  "code_bytes": 597464,
+  "top": [
+   [
+    "src/world/House.ts",
+    61016
+   ],
+   [
+    "src/world/PhucKy.ts",
+    42970
+   ],
+   [
+    "src/ui/Hud.ts",
+    38578
+   ],
+   [
+    "src/core/Game.ts",
+    36169
+   ],
+   [
+    "src/entity/Knocker.ts",
+    32529
+   ],
+   [
+    "src/audio/AudioSystem.ts",
+    28940
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "harleyloft47-king/weed-game-": {
+  "branch": "main",
+  "nfiles": 14,
+  "code_bytes": 3216939,
+  "top": [
+   [
+    "docs/index.html",
+    1071742
+   ],
+   [
+    "strain-packs-friends.html",
+    1070762
+   ],
+   [
+    "strain-packs.html",
+    1070733
+   ],
+   [
+    "build-app.py",
+    2026
+   ],
+   [
+    "docs/sw.js",
+    1676
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "dopg-vbee/bat-bai": {
+  "branch": "main",
+  "nfiles": 111,
+  "code_bytes": 254652,
+  "top": [
+   [
+    "src/server/game/room.ts",
+    24713
+   ],
+   [
+    "src/server/realtime.ts",
+    9982
+   ],
+   [
+    "src/client/components/YoutubeClip.tsx",
+    9134
+   ],
+   [
+    "src/shared/types.ts",
+    9037
+   ],
+   [
+    "src/server/admin.ts",
+    7523
+   ],
+   [
+    "src/client/pages/admin/SetEditor.tsx",
+    7354
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "rujopereiric/acampada": {
+  "branch": "main",
+  "nfiles": 7,
+  "code_bytes": 278171,
+  "top": [
+   [
+    "index.html",
+    278171
+   ]
+  ],
+  "shots": [],
+  "truncated": false
+ },
+ "Arash1Kazemi/void-runner": {
+  "branch": "main",
+  "nfiles": 70,
+  "code_bytes": 190479,
+  "top": [
+   [
+    "tools/gen_circuit.py",
+    24210
+   ],
+   [
+    "void_runner/game.h",
+    18706
+   ],
+   [
+    "void_runner/screens.h",
+    12897
+   ],
+   [
+    "void_runner/tunes.h",
+    12243
+   ],
+   [
+    "void_runner/world.h",
+    9850
+   ],
+   [
+    "void_runner/display.h",
+    9661
+   ]
+  ],
+  "shots": [
+   "circuit_preview.png",
+   "docs/media/king.gif",
+   "docs/media/phase1.gif",
+   "docs/media/screens_game.png",
+   "docs/media/screens_ledtest.png",
+   "docs/media/screens_menus.png",
+   "docs/media/screens_texts.png",
+   "docs/media/victory.gif",
+   "docs/media/warden.gif",
+   "docs/media/wiring.png",
+   "docs/stage1_frames.png",
+   "tests/stage0/circuit_preview.png"
+  ],
+  "truncated": false
+ },
+ "xirtus/LatterDayGame": {
+  "branch": "main",
+  "nfiles": 301,
+  "code_bytes": 2658330,
+  "top": [
+   [
+    "character-study/study.bundle.js",
+    1434003
+   ],
+   [
+    "index.html",
+    286351
+   ],
+   [
+    "tools/build_lighting_data.py",
+    106186
+   ],
+   [
+    "docs/design.html",
+    58835
+   ],
+   [
+    "game/src/main.js",
+    55682
+   ],
+   [
+    "tools/build_game_story.py",
+    49445
+   ]
+  ],
+  "shots": [
+   "docs/evidence/character-clay-study.png",
+   "docs/evidence/character-material-study.png",
+   "docs/evidence/character-study-mobile.png",
+   "docs/evidence/report-character-design.png",
+   "docs/evidence/report-character-sheets.png",
+   "docs/evidence/report-desktop.png",
+   "docs/evidence/report-king-follett.png",
+   "docs/evidence/report-mobile.png",
+   "models/alma-the-younger/preview.png",
+   "models/brigham-young/preview.png",
+   "models/david-whitmer/preview.png",
+   "models/emma-smith/preview.png"
+  ],
+  "truncated": false
+ },
+ "VGokulsai/hyderabad-traffic-ah-majaka-nah": {
+  "branch": "master",
+  "nfiles": 3,
+  "code_bytes": 19969,
+  "top": [
+   [
+    "game.js",
+    19503
+   ],
+   [
+    "index.html",
+    466
+   ]
+  ],
+  "shots": [],
+  "truncated": false
  }
 }

@@ -8800,6 +8800,66 @@
       "reason": "Use this frame for the game-level score. Cozy 3D farm plot with a house corner, crops and hotbar HUD; clean but plain.",
       "reviewed_on": "2026-10-24",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tuankun-279/Caro_XO",
+      "url": "https://github.com/tuankun-279/Caro_XO/blob/main/docs/gameplay.gif",
+      "game": "Caro X-O",
+      "score_10": 4.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Hand-drawn notebook-style Caro menu on a phone screen; charming but just a menu.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/f2456hhchv-bit/shattered-reef",
+      "url": "https://github.com/f2456hhchv-bit/shattered-reef/blob/main/docs/art-pass-1-items.jpg",
+      "game": "Shattered Reef",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down pirate island scene with a character on a dock, minimap and inventory grid; detailed and cohesive.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/huykc1/fish-loop-phaser-demo",
+      "url": "https://github.com/huykc1/fish-loop-phaser-demo/blob/main/art/reference/gameplay-1080x1920.webp",
+      "game": "Fish Loop",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Vivid looping pipe board with coloured fish in a portrait layout; bright, readable puzzle.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/crownfall90-dot/play",
+      "url": "https://github.com/crownfall90-dot/play/blob/main/store/screenshots/2-game.png",
+      "game": "Puzzlegrad",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Portrait tile-placement board with small towns, roads and a score HUD; tidy but small.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Arash1Kazemi/void-runner",
+      "url": "https://github.com/Arash1Kazemi/void-runner/blob/main/circuit_preview.png",
+      "game": "VOID RUNNER",
+      "score_10": 3.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Simulated LED matrix and keypad wiring view; technical diagram more than a game scene.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/xirtus/LatterDayGame",
+      "url": "https://github.com/xirtus/LatterDayGame/blob/main/game/evidence/menu.png",
+      "game": "Latter Day Game",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Low-poly forest title screen with a serif logo and menu; calm and polished, but a title card.",
+      "reviewed_on": "2026-10-24",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
